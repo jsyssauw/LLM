@@ -1,0 +1,8 @@
+https://learn.deeplearning.ai/courses/reasoning-with-o1/lesson/4/planning-with-o1
+https://www.deeplearning.ai/short-courses/llms-as-operating-systems-agent-memory/
+https://www.deeplearning.ai/short-courses/introducing-multimodal-llama-3-2/
+https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
+https://www.deeplearning.ai/short-courses/pretraining-llms/
+https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/
+https://www.deeplearning.ai/short-courses/how-diffusion-models-work/
+https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/
