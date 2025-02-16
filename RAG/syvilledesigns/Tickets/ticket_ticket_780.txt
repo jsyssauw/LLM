@@ -1,5 +1,0 @@
-Ticket ID: ticket_780
-Subject: Intermittierende Verbindungsprobleme mit Cisco Router ISR4331
-Incident Type: Incident
-Customer Issue: Der Router ISR4331 hat Verbindungsprobleme, die die Netzwerkleistung und den Benutzerzugang beeinträchtigen. Ich benötige Ihre Unterstützung.
-Customer Service answer: Vielen Dank, dass Sie uns kontaktiert haben. Wir haben Ihr Problem mit dem Cisco ISR4331-Router protokolliert und werden unser Team umgehend mit der Untersuchung beauftragen.

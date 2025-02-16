@@ -1,5 +1,0 @@
-Ticket ID: ticket_2983
-Subject: Immediate help required for significant Jira problem
-Incident Type: Incident
-Customer Issue: Jira dashboards are failing to load in version 8.20.
-Customer Service answer: Kindly clear your browser cache or switch to another browser. If the problems continue, please reach out to support.

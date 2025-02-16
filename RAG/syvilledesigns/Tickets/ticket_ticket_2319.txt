@@ -1,5 +1,0 @@
-Ticket ID: ticket_2319
-Subject: Anfrage zur Abrechnungsdifferenz
-Incident Type: Incident
-Customer Issue: Sehr geehrtes Tech Online Store Support Team, ich habe eine falsche Abbuchung auf meinem Konto <acc_num> für das Microsoft Office 365-Abonnement in diesem Monat festgestellt. Der berechnete Betrag weicht von der üblichen Gebühr ab. Bitte korrigieren Sie diese Differenz. Sie können mich unter <tel_num> erreichen. Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, <name>
-Customer Service answer: Sehr geehrter <name>, vielen Dank, dass Sie uns kontaktiert haben. Wir entschuldigen uns für das Abrechnungsproblem mit Ihrem Office 365-Abonnement. Wir prüfen die Differenz auf dem Konto <acc_num> und werden sie umgehend beheben. Wir werden Sie in Kürze informieren. Bei dringenden Anfragen können Sie sich gerne an unsere Support-Hotline wenden. Mit freundlichen Grüßen, Support-Team

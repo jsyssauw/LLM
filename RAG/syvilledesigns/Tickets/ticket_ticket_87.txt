@@ -1,5 +1,0 @@
-Ticket ID: ticket_87
-Subject: Urgent: Keyboard Issue
-Incident Type: Request
-Customer Issue: Hello, I'm facing issues attaching my detachable keyboard to my Surface Pro 7. Please assist.
-Customer Service answer: Hello, try cleaning the connectors and ensuring it's properly aligned. Contact us if the issue persists.

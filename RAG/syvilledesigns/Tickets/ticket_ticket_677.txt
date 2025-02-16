@@ -1,5 +1,0 @@
-Ticket ID: ticket_677
-Subject: Problemas con Norton Antivirus Plus
-Incident Type: Request
-Customer Issue: Hola equipo de soporte, actualmente estoy teniendo dificultades con mi software Norton Antivirus Plus. Parece que no está funcionando correctamente y no estoy seguro de cómo solucionarlo. ¿Serían tan amables de asistirnos para resolver esto? Muchas gracias, <nombre>
-Customer Service answer: Hola [Nombre], Lamentamos los inconvenientes que está experimentando. Le sugerimos que reinicie su computadora y verifique que Norton esté completamente actualizado. Si el problema continua, por favor utilice la herramienta para eliminar y reinstalar Norton. Encontrará instrucciones detalladas en nuestro sitio web, o simplemente responda a este mensaje si requiere asistencia adicional. Saludos, [Su equipo de soporte]

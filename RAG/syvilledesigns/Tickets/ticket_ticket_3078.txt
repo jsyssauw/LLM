@@ -1,8 +1,0 @@
-Ticket ID: ticket_3078
-Subject: MacBook Air Battery Issue
-Incident Type: Incident
-Customer Issue: Dear Customer Support, I'm experiencing an issue with my MacBook Air M1 battery. It won't charge past 50%, even after leaving it plugged in overnight. Please assist in resolving this problem promptly. My account number is <acc_num>. Thank you.
-Customer Service answer: Dear <name>,
-Thank you for contacting us. Please try resetting the SMC by shutting down your MacBook, then pressing Shift + Control + Option + Power for 10 seconds. If the issue persists, we recommend visiting an authorized service center.
-Best regards,
-Customer Support

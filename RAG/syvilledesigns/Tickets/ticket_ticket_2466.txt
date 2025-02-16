@@ -1,5 +1,0 @@
-Ticket ID: ticket_2466
-Subject: Asistencia para la configuración de impresión móvil
-Incident Type: Request
-Customer Issue: Necesito ayuda para configurar la impresión a través de mi impresora Canon.
-Customer Service answer: Por favor, asegúrese de la instalación de la aplicación, conéctese a Wi-Fi, seleccione la impresora en la configuración y imprima.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_3402
-Subject: Problema de parpadeo de pantalla en Dell XPS 13
-Incident Type: Incident
-Customer Issue: Estoy experimentando problemas de parpadeo de pantalla en mi Dell XPS 13 9310.
-Customer Service answer: Intenta actualizar tu controlador de gráficos y el BIOS. Si el problema persiste, contacta al soporte de Dell para obtener más ayuda.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_2575
-Subject: Problemas intermitentes de conectividade com o roteador Cisco ISR4331
-Incident Type: Incident
-Customer Issue: O roteador ISR4331 está enfrentando problemas de conectividade, impactando o desempenho da rede e o acesso do usuário. Precisamos do seu suporte.
-Customer Service answer: Obrigado por entrar em contato conosco. Registramos seu problema com o roteador Cisco ISR4331 e nossa equipe irá investigar prontamente.

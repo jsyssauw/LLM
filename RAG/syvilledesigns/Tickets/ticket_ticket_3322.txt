@@ -1,5 +1,0 @@
-Ticket ID: ticket_3322
-Subject: Kann keine WLAN-Verbindung zum Dell XPS 13 9310 herstellen
-Incident Type: Problem
-Customer Issue: Hallo, ich habe ein Verbindungsproblem mit meinem neuen Dell XPS 13 9310 Laptop. Es scheint nicht mit meinem WLAN-Netzwerk verbunden werden zu können, und ich vermute, dass es ein Problem mit dem Netzwerkadaptertreiber geben könnte. Könnten Sie mir helfen, das Problem zu diagnostizieren und zu lösen? Meine Bestellnummer ist <order_num>. Jede Anleitung oder Unterstützung in dieser Angelegenheit wäre sehr willkommen. Vielen Dank im Voraus für Ihre Hilfe.
-Customer Service answer: Hallo, versuchen Sie, den WLAN-Netzwerkadaptertreiber zu aktualisieren, indem Sie die Support-Website von Dell besuchen und die neuesten Treiber für das XPS 13 9310 herunterladen. Alternativ können Sie den Geräte-Manager verwenden, um nach Treiber-Updates zu suchen. Wenn das Problem weiterhin besteht, können Sie die Netzwerkproblembehandlung über Einstellungen > Netzwerk und Internet durchführen. Bitte antworten Sie, wenn Sie weitere Unterstützung benötigen. Vielen Dank, dass Sie sich an uns gewandt haben.

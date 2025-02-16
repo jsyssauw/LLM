@@ -1,5 +1,0 @@
-Ticket ID: ticket_809
-Subject: Dringend: Kein Zugang zu meinem Microsoft Office 365-Konto nach Passwortzurücksetzung
-Incident Type: Request
-Customer Issue: Nach dem Zurücksetzen meines Passworts kann ich nicht auf mein Microsoft Office 365-Konto zugreifen. Ich bitte um Unterstützung.
-Customer Service answer: Versuchen Sie bitte, Ihr Passwort erneut zurückzusetzen. Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte direkt an den Support.

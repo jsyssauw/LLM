@@ -1,5 +1,0 @@
-Ticket ID: ticket_1103
-Subject: Urgente: Problema de desconexión del Router Cisco ISR4331
-Incident Type: Incident
-Customer Issue: El router Cisco ISR4331 de la empresa está desconectado, lo que afecta gravemente la conectividad de la red. Se necesita una resolución inmediata para restaurar los servicios críticos. Por favor, priorice este problema y proporcione asistencia oportuna.
-Customer Service answer: Gracias por contactarnos. Entendemos la urgencia del problema del ISR4331. Estamos priorizando esto y le actualizaremos con una solución lo antes posible. Gracias por su paciencia.

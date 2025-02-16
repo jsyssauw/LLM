@@ -1,5 +1,0 @@
-Ticket ID: ticket_2039
-Subject: nan
-Incident Type: Incident
-Customer Issue: Hi, I am having trouble activating Windows 11 Pro. An error keeps appearing. Could you please help me resolve this as soon as possible? My account number is <acc_num>. Thank you, <name>
-Customer Service answer: Hi <name>, I apologize for the trouble you're facing. Could you please share the specific error message you are encountering? This information will aid us in investigating and solving the issue more swiftly. Thank you.

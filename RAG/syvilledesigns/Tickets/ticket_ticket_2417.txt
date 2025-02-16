@@ -1,5 +1,0 @@
-Ticket ID: ticket_2417
-Subject: No se puede conectar WiFi en Dell XPS 13 9310
-Incident Type: Problem
-Customer Issue: Hola, estoy experimentando un problema de conectividad con mi nuevo portátil Dell XPS 13 9310. Parece que no puede conectarse a mi red WiFi, y sospecho que puede haber un problema con el controlador de la red. ¿Podrías ayudar a diagnosticar y resolver el problema? Mi número de pedido es <order_num>. Cualquier orientación o apoyo en este asunto sería muy apreciado. Gracias de antemano por tu ayuda.
-Customer Service answer: Hola, intenta actualizar el controlador de la red WiFi visitando el sitio web de soporte de Dell y descargando los últimos controladores para el XPS 13 9310. Alternativamente, utiliza el Administrador de dispositivos para verificar si hay actualizaciones de controladores. Si el problema persiste, puedes realizar una solución de problemas de red a través de Configuración > Red e Internet. Por favor, responde si necesitas más ayuda. Gracias por ponerte en contacto.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_3434
-Subject: Problemas de Conexão Durante a Implementação
-Incident Type: Incident
-Customer Issue: O cliente enfrentou desafios de conectividade que afetaram as atividades de gerenciamento de servidor durante a implementação da solução de TI, solicitando resolução imediata para os Serviços de Consultoria de TI.
-Customer Service answer: Agradecemos seu contato. Pedimos sinceras desculpas pelas dificuldades causadas pelos problemas de conectividade durante sua implementação. Nossa equipe de Consultoria de TI está abordando a questão com diligência. Garantiremos mantê-lo atualizado e oferecer uma solução na primeira oportunidade. Obrigado pela sua compreensão.

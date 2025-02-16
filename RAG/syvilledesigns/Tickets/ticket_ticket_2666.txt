@@ -1,5 +1,0 @@
-Ticket ID: ticket_2666
-Subject: Problèmes de connectivité lors du déploiement
-Incident Type: Incident
-Customer Issue: Le client a rencontré des problèmes de connectivité impactant les tâches d'administration du serveur lors du déploiement de la solution informatique, demandant une résolution immédiate pour le service de conseil en informatique.
-Customer Service answer: Merci de nous avoir contactés. Nous nous excusons pour les désagréments causés par les problèmes de connectivité lors de votre déploiement. Notre équipe de conseil en informatique travaille activement à la résolution du problème. Nous vous fournirons une mise à jour et une résolution dès que possible. Merci de votre patience.

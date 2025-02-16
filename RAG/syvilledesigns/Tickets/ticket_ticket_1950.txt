@@ -1,5 +1,0 @@
-Ticket ID: ticket_1950
-Subject: nan
-Incident Type: Change
-Customer Issue: Hello Customer Support, I am encountering a problem while attempting to install Norton Antivirus Plus on my PC. Could you please assist me with the installation procedure? Thanks. Regards, <name>, Account #: <acc_num>
-Customer Service answer: Hello <name>, To set up Norton Antivirus Plus, start by logging into your Norton account, downloading the installer, and executing the setup file. Kindly adhere to the instructions displayed on your screen. For further guidance, please refer to Norton’s support website. Regards, Customer Support

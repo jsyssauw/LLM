@@ -1,5 +1,0 @@
-Ticket ID: ticket_2922
-Subject: Problema de Error de Suscripción
-Incident Type: Problem
-Customer Issue: No se puede acceder al correo electrónico y Excel durante la última semana.
-Customer Service answer: Estimado/a <name>, estamos investigando los problemas de su correo electrónico y Excel. Le actualizaremos lo antes posible. ¡Gracias! <service desk>

@@ -1,5 +1,0 @@
-Ticket ID: ticket_277
-Subject: nan
-Incident Type: Incident
-Customer Issue: Die Zuweisung von Jira-Tickets funktioniert nicht und verursacht kritische Projektverzögerungen.
-Customer Service answer: Vielen Dank für Ihren Bericht über das Jira-Ticket-Problem. Unser Team untersucht das Problem, um es schnell zu lösen und Projektverzögerungen zu minimieren.

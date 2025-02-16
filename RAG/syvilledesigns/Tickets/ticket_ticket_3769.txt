@@ -1,5 +1,0 @@
-Ticket ID: ticket_3769
-Subject: Urgente: Assistência Necessária para Inatividade do Serviço AWS
-Incident Type: Problem
-Customer Issue: Cliente está enfrentando inatividade do AWS e precisa de suporte técnico para uma resolução rápida.
-Customer Service answer: Olá! Nossa equipe está ciente da inatividade do AWS e está trabalhando ativamente nisso. Seu problema é priorizado para uma resolução rápida. Agradecemos sua paciência.

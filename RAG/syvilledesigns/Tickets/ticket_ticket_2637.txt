@@ -1,5 +1,0 @@
-Ticket ID: ticket_2637
-Subject: Dringend: Notwendige Soforthilfe bei der defekten Tastatur meines neu gekauften Lenovo IdeaPad 5
-Incident Type: Problem
-Customer Issue: Hallo <name>, ich habe vor kurzem ein Lenovo IdeaPad 5 in Ihrem Geschäft erworben, und die Tastatur funktioniert nicht ordnungsgemäß. Ich benötige Ihre Hilfe. Freundliche Grüße, <name>.
-Customer Service answer: Hallo <name>, wir bedauern die entstandenen Probleme. Bitte bringen Sie Ihren Laptop in unserem Geschäft vorbei oder kontaktieren Sie unseren Kundenservice unter [support number], um Unterstützung zu erhalten. Mit besten Grüßen, Kundenservice

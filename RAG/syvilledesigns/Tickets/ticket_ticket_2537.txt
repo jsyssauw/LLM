@@ -1,5 +1,0 @@
-Ticket ID: ticket_2537
-Subject: nan
-Incident Type: Request
-Customer Issue: Sehr geehrter Kundendienst,<br><br>ich habe kürzlich ein Dell XPS 13 9310 bei Tech Online Store gekauft und beim Auspacken einen kleinen Bildschirmfehler bemerkt. Ich möchte um eine Rücksendung oder einen Umtausch dieses Produkts bitten. Bitte lassen Sie mich die nächsten Schritte wissen.<br><br>Vielen Dank,<br><name>
-Customer Service answer: Sehr geehrter <name>,<br><br>vielen Dank, dass Sie sich an uns gewandt haben. Es tut uns leid zu hören, dass es einen Bildschirmfehler bei Ihrem Dell XPS 13 9310 gibt. Bitte kontaktieren Sie die Rückgabestelle von Tech Online Store, geben Sie Ihre Bestellnummer an, und sie werden Sie durch den Rückgabe- oder Umtauschprozess begleiten.<br><br>Mit freundlichen Grüßen,<br>Kundendienst

@@ -1,5 +1,0 @@
-Ticket ID: ticket_2872
-Subject: Urgent: Issues with Access to IT Ticketing System
-Incident Type: Incident
-Customer Issue: Need immediate assistance!
-Customer Service answer: Please provide more details about the access issue so that we can offer a quick resolution.

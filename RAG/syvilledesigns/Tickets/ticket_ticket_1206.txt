@@ -1,5 +1,0 @@
-Ticket ID: ticket_1206
-Subject: nan
-Incident Type: Incident
-Customer Issue: Hallo,<br><br>Ich brauche Unterstützung für mein Windows 11 Pro. Es gibt einige Probleme, die sofortige Aufmerksamkeit benötigen. Könnten Sie bitte die erforderliche Hilfe zur Verfügung stellen, um diese Probleme zu beheben?<br><br>Danke,<br><name><br><acc_num>
-Customer Service answer: Hallo,<br><br>Vielen Dank, dass Sie uns kontaktiert haben. Bitte teilen Sie uns genauere Informationen zu den Schwierigkeiten mit, die Sie mit Windows 11 Pro haben, wie Fehlermeldungen oder spezifische Probleme. Auf diese Weise können wir Ihnen besser behilflich sein.<br><br>Danke,<br>[Ihr Support-Team]

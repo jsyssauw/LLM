@@ -1,5 +1,0 @@
-Ticket ID: ticket_1094
-Subject: nan
-Incident Type: Incident
-Customer Issue: Dear Customer Support Team,<br><br>I am reaching out to inform you about a problem with my Norton Antivirus Plus application. It appears to have been malfunctioning recently, and I require help to rectify this. Could you kindly assist me at your earliest convenience?<br><br>I appreciate your support.<br><br>Sincerely,<br><name><br><br>Account Number: <acc_num><br>Phone: <tel_num>
-Customer Service answer: Dear [Customer's Name],<br><br>Thank you for contacting us. We regret to hear about the difficulties you are experiencing with your Norton Antivirus Plus. To help you make progress, please attempt the following steps:<br>1. Restart your computer.<br>2. Verify that your software is up to date.<br>3. Perform a complete system scan.<br><br>If the problem continues, we are here to assist you further.<br><br>Sincerely,<br>[Your Name]<br>Customer Support

@@ -1,5 +1,0 @@
-Ticket ID: ticket_2172
-Subject: Se requiere ayuda inmediata para un problema importante de Jira
-Incident Type: Incident
-Customer Issue: Los paneles de Jira no se están cargando en la versión 8.20.
-Customer Service answer: Por favor, limpie su caché o intente usar otro navegador. Si el problema persiste, comuníquese con el soporte.

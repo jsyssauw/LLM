@@ -1,5 +1,0 @@
-Ticket ID: ticket_3152
-Subject: Help needed for addressing Zoom issues
-Incident Type: Problem
-Customer Issue: Facing connectivity problems during Zoom meetings.
-Customer Service answer: We are looking into your Zoom issue, <name>. We will update you soon.

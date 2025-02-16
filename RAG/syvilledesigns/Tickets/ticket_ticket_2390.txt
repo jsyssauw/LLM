@@ -1,5 +1,0 @@
-Ticket ID: ticket_2390
-Subject: Consulta sobre la disponibilidad y descuento del Dell XPS 13 9310
-Incident Type: Request
-Customer Issue: Hola, me gustaría saber la disponibilidad de las laptops Dell XPS 13 9310 y preguntar si hay opciones de descuento por compras al por mayor. Por favor, hágamelo saber. Saludos, <name>
-Customer Service answer: Hola, gracias por contactarnos. Las laptops Dell XPS 13 9310 están actualmente disponibles. Para opciones de descuento por compras al por mayor, por favor contacte a nuestro departamento de ventas a <email> o llame al <tel_num>. Estarán encantados de ayudarle con más detalles. Saludos cordiales, [Su Nombre] Equipo de Atención al Cliente.

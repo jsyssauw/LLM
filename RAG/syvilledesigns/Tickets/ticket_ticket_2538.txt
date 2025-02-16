@@ -1,5 +1,0 @@
-Ticket ID: ticket_2538
-Subject: nan
-Incident Type: Request
-Customer Issue: Estimado/a <name>, estoy experimentando dificultades para poder actualizar a Windows 11 Pro en mi cuenta (<acc_num>). Te agradecería tu ayuda. Puedes comunicarte conmigo al <tel_num>. Gracias, <name>
-Customer Service answer: Estimado/a <name>, comprendo que estás enfrentando inconvenientes al intentar actualizar a Windows 11 Pro. Verifica que tu dispositivo satisfaga los requisitos y prueba de nuevo. No dudes en contactarnos si los inconvenientes continúan.

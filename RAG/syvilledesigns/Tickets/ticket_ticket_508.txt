@@ -1,5 +1,0 @@
-Ticket ID: ticket_508
-Subject: Demande sur le processus de retour d'imprimante
-Incident Type: Request
-Customer Issue: Bonjour, j'ai des problèmes de connectivité sans fil avec mon imprimante HP DeskJet 3755 et je souhaite la retourner. Pourriez-vous me guider à travers le processus de retour ? J'apprécie votre aide. Merci. Sincèrement, <name>
-Customer Service answer: Bonjour <name>, je suis désolé d'apprendre les problèmes avec votre imprimante. Pour initier un retour, veuillez localiser votre reçu d'achat ou l'e-mail de confirmation de commande. Ensuite, visitez la section de retour de notre site Web et remplissez le formulaire de demande de retour. Assurez-vous que l'imprimante est correctement emballée avant de l'expédier. Si vous avez besoin d'une assistance supplémentaire, n'hésitez pas à contacter notre équipe de support. Merci de nous avoir contactés. Cordialement, [Your Name] Équipe du Service Desk

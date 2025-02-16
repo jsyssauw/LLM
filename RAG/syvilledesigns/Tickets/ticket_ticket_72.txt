@@ -1,5 +1,0 @@
-Ticket ID: ticket_72
-Subject: Inquiry on React App Development
-Incident Type: Request
-Customer Issue: Dear IT Services customer support, I am seeking information regarding your JavaScript React App Development Service. Specifically, I need cost estimates and details on customization options for UI enhancement. Please provide detailed insights at your earliest. Thank you, <name>, <acc_num>
-Customer Service answer: Dear <name>, thank you for reaching out. For our JavaScript React App Development Service, pricing varies based on project scope. We offer a wide range of UI customization options to enhance your app. Please contact our sales team at <tel_num> for a detailed consultation and cost estimate. Best regards, IT Services.

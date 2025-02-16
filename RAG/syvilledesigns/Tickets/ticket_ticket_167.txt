@@ -1,5 +1,0 @@
-Ticket ID: ticket_167
-Subject: nan
-Incident Type: Incident
-Customer Issue: Immediate assistance with server administration is required.
-Customer Service answer: Please provide further details about the server issue to ensure prompt assistance.

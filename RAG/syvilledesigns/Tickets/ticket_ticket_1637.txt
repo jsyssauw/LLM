@@ -1,5 +1,0 @@
-Ticket ID: ticket_1637
-Subject: Google Workspace
-Incident Type: Request
-Customer Issue: nan
-Customer Service answer: Of course, how can I help you with Google Workspace?

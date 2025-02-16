@@ -1,5 +1,0 @@
-Ticket ID: ticket_153
-Subject: Billing Discrepancy Inquiry
-Incident Type: Incident
-Customer Issue: Dear Tech Online Store Support Team, I noticed an incorrect charge on my account <acc_num> for the Microsoft Office 365 subscription this month. The amount billed differs from the usual fee. Please adjust this discrepancy. You can reach me at <tel_num>. Thank you for your assistance. Best regards, <name>
-Customer Service answer: Dear <name>, thank you for reaching out to us. We apologize for the billing issue with your Office 365 subscription. We are investigating the discrepancy on account <acc_num> and will rectify it promptly. We will update you shortly. For urgent queries, feel free to call our support line. Best regards, Support Team

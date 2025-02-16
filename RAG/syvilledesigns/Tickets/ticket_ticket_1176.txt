@@ -1,5 +1,0 @@
-Ticket ID: ticket_1176
-Subject: Sofortige Aufmerksamkeit: Zugriffsprobleme mit dem IT-Ticketsystem
-Incident Type: Incident
-Customer Issue: Ich benötige dringend Hilfe!
-Customer Service answer: Bitte geben Sie weitere Informationen zu dem Zugriffsproblem an, damit wir eine schnelle Lösung bieten können.

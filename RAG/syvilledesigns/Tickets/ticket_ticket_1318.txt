@@ -1,5 +1,0 @@
-Ticket ID: ticket_1318
-Subject: Network Issues with Cisco Router
-Incident Type: Incident
-Customer Issue: We are experiencing poor network performance on our Cisco Router ISR4331. The problem started after a recent firmware update. Please assist in resolving this issue.
-Customer Service answer: Hello, please try rebooting the router and ensure all connections are secure. If issues persist, consider reverting to the previous firmware version.

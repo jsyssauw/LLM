@@ -1,5 +1,0 @@
-Ticket ID: ticket_3762
-Subject: Se requiere asistencia inmediata
-Incident Type: Request
-Customer Issue: Estamos enfrentando desafíos relacionados con el rendimiento de nuestro enrutador Cisco ISR4331 y necesitamos asistencia técnica rápida para abordar estos problemas.
-Customer Service answer: Nuestro equipo se pondrá en contacto en breve para ayudarte con las dificultades en tu enrutador Cisco ISR4331.

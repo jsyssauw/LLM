@@ -1,5 +1,0 @@
-Ticket ID: ticket_3141
-Subject: Critical Server Problem Demands Prompt Attention
-Incident Type: Incident
-Customer Issue: Urgent examination is required due to AWS Management Service failure impacting essential business activities.
-Customer Service answer: We are promptly looking into the disruption of the AWS Management Service. We will keep you informed on the developments.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_1953
-Subject: Smart TV Bildschirmflackern
-Incident Type: Incident
-Customer Issue: Kundenunterstützung benötigt für das Flackern des Samsung QLED QN90A.
-Customer Service answer: Bitte starten Sie Ihren Fernseher neu und aktualisieren Sie die Firmware. Wenn das Problem weiterhin besteht, kontaktieren Sie Samsung unter <tel_num>.

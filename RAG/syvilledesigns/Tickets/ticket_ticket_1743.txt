@@ -1,5 +1,0 @@
-Ticket ID: ticket_1743
-Subject: nan
-Incident Type: Change
-Customer Issue: Please reduce service disruptiveness.
-Customer Service answer: Thank you for your feedback. We'll work on minimizing the service disruptiveness.

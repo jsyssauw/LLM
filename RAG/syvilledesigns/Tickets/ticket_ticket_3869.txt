@@ -1,5 +1,0 @@
-Ticket ID: ticket_3869
-Subject: Aide immédiate requise pour un problème Jira significatif
-Incident Type: Incident
-Customer Issue: Les tableaux de bord Jira échouent à se charger dans la version 8.20.
-Customer Service answer: Veuillez vider votre cache ou essayer d'utiliser un autre navigateur. Si le problème persiste, veuillez contacter le support.

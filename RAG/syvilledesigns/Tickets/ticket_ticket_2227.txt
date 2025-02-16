@@ -1,5 +1,0 @@
-Ticket ID: ticket_2227
-Subject: Urgent Server Issue Requires Immediate Action
-Incident Type: Incident
-Customer Issue: A swift investigation is necessary concerning the interruption of the AWS Management Service that affects essential business operations.
-Customer Service answer: We are rapidly addressing the disruption in the AWS Management Service and will share updates on our discoveries.

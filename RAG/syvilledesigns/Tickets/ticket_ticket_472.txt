@@ -1,5 +1,0 @@
-Ticket ID: ticket_472
-Subject: Question regarding unanticipated AWS fees
-Incident Type: Request
-Customer Issue: I require assistance with AWS fees.
-Customer Service answer: Kindly review your billing configurations on AWS or get in touch with support through your account for comprehensive assistance.

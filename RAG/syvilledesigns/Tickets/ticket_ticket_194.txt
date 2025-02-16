@@ -1,5 +1,0 @@
-Ticket ID: ticket_194
-Subject: nan
-Incident Type: Change
-Customer Issue: Verbessern Sie die Effizienz des Ticket-Systems.
-Customer Service answer: Vielen Dank für Ihren Vorschlag. Wir arbeiten daran, die Effizienz des Ticket-Systems zu verbessern.

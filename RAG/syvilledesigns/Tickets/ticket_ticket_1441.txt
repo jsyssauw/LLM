@@ -1,5 +1,0 @@
-Ticket ID: ticket_1441
-Subject: Problem mit Bildschirmflackern beim iPhone 13 Pro
-Incident Type: Change
-Customer Issue: Guten Tag Kundenservice, ich habe Schwierigkeiten mit einem flackernden Display auf meinem iPhone 13 Pro, das ich in Ihrem Onlineshop erworben habe. Welche Schritte kann ich unternehmen, um das Problem zu lösen?
-Customer Service answer: Sehr geehrter Kunde, bitte versuchen Sie, Ihr iPhone neu zu starten, das Gerät auf die aktuellste iOS-Version zu aktualisieren oder die Einstellungen zurückzusetzen. Sollte das Problem weiterhin bestehen, bitten wir Sie, den Apple Support zu kontaktieren oder ein Servicezentrum aufzusuchen.

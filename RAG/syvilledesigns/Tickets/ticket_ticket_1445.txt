@@ -1,8 +1,0 @@
-Ticket ID: ticket_1445
-Subject: Hilfe benötigt
-Incident Type: Request
-Customer Issue: Hallo, ich habe kürzlich ein neues MacBook Air M1 im Tech Online Store gekauft. Ich habe Schwierigkeiten mit dem Installationsprozess. Könnten Sie mir bitte bei diesem Problem helfen? Vielen Dank! Mit freundlichen Grüßen, <name>.
-Customer Service answer: Hallo <name>, vielen Dank für Ihre Anfrage. Bitte beschreiben Sie das spezifische Problem, das Sie während der Installation haben, und wir werden Ihnen entsprechend helfen. 
-
-Mit freundlichen Grüßen,
-Kundenservice

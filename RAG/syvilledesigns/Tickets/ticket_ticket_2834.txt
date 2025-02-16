@@ -1,5 +1,0 @@
-Ticket ID: ticket_2834
-Subject: nan
-Incident Type: Problem
-Customer Issue: PyCharm 2024.2 se bloquea al ejecutar herramientas de análisis de código. Necesito ayuda urgente.
-Customer Service answer: ¡Gracias por ponerte en contacto! Estamos investigando el problema y proporcionaremos una solución de inmediato.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_1987
-Subject: Norton-Problem
-Incident Type: Request
-Customer Issue: Sehr geehrter Kundenservice,<br><br>Ich habe Schwierigkeiten mit Norton Anti, insbesondere bei Norton Antivirus Plus. Die Software lässt sich nicht öffnen und zeigt eine Fehlermeldung an. Bitte geben Sie mir Hinweise, wie ich dieses Problem so schnell wie möglich beheben kann. Vielen Dank für Ihre Unterstützung.<br><br>Mit freundlichen Grüßen,<br><Name>
-Customer Service answer: Sehr geehrte(r) [Name],<br><br>Vielen Dank, dass Sie uns kontaktiert haben. Bitte versuchen Sie die folgenden Schritte:<br>1. Starten Sie Ihren Computer neu.<br>2. Überprüfen Sie, ob Norton auf dem neuesten Stand ist.<br>3. Deinstallieren Sie Norton Antivirus Plus und installieren Sie es erneut.<br><br>Wenn das Problem weiterhin auftritt, wenden Sie sich bitte an unser Support-Team für zusätzliche Hilfe.<br><br>Mit freundlichen Grüßen,<br>Kundendienst

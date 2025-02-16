@@ -1,5 +1,0 @@
-Ticket ID: ticket_1413
-Subject: Inquiry about Billing Discrepancy in AWS
-Incident Type: Incident
-Customer Issue: Hello Customer Support, I am writing to inquire about a billing discrepancy in my AWS Management Service account. Could you assist with a cost optimization analysis for my recent invoices? My account number is <acc_num>. Please contact me at <tel_num>. Thank you, <name>.
-Customer Service answer: Hello <name>, thank you for reaching out about your AWS billing concerns. We will review your account and perform a cost optimization analysis. Please expect a follow-up soon. For immediate assistance, call us at our support line. Your patience is appreciated.

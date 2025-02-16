@@ -1,5 +1,0 @@
-Ticket ID: ticket_1901
-Subject: Assistance Needed for Google Chrome Issue
-Incident Type: Incident
-Customer Issue: Dear Customer Support, I am experiencing an issue with Google Chrome version 102.0 on my device. The browser intermittently freezes, disrupting my workflow. I kindly request guidance on resolving this matter. Thank you for your assistance. Best regards, <name>.
-Customer Service answer: Dear <name>, try clearing your Chrome cache and cookies. Ensure your browser and system are updated. Disable extensions one-by-one to identify problematic ones. If the problem persists, reinstall Chrome. Let us know if further assistance is required. Best regards, Customer Support.

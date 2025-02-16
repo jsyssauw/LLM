@@ -1,5 +1,0 @@
-Ticket ID: ticket_3883
-Subject: Solicitud de Asistencia con la Implementación del Sistema de Tickets
-Incident Type: Request
-Customer Issue: El cliente necesita ayuda con el desarrollo de software para el sistema de tickets de su organización.
-Customer Service answer: Gracias por ponerte en contacto. Podemos ayudar con el desarrollo de tu sistema de tickets. Por favor, proporciona más detalles sobre tus requisitos o programa una consulta.

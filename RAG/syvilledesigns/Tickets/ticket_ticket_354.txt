@@ -1,5 +1,0 @@
-Ticket ID: ticket_354
-Subject: nan
-Incident Type: Request
-Customer Issue: Hola, estoy escribiendo para abordar una discrepancia en la facturación relacionada con mi compra reciente de un Microsoft Surface Pro 7. Por favor, revise mi caso lo antes posible. Mi número de cuenta es <acc_num>. Gracias por su ayuda. Saludos, <name>.
-Customer Service answer: Hola, Gracias por contactarnos respecto a la discrepancia en la facturación con su compra del Microsoft Surface Pro 7. Revisaremos su caso de inmediato. Para una asistencia adicional y una resolución más rápida, ¿podría proporcionar cualquier información adicional o números de referencia asociados con la transacción? Nuestro equipo está aquí para ayudarle y nos pondremos en contacto con usted lo antes posible. Gracias por su paciencia. Saludos, Equipo de Soporte al Cliente.

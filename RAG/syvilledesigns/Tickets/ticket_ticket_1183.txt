@@ -1,5 +1,0 @@
-Ticket ID: ticket_1183
-Subject: Urgent Assistance Needed: Issues with IT Ticket System Access
-Incident Type: Incident
-Customer Issue: I need help as soon as possible!
-Customer Service answer: Please provide more details about the access issue so that we can help you promptly.

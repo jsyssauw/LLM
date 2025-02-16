@@ -1,5 +1,0 @@
-Ticket ID: ticket_2268
-Subject: Immediate Attention Needed: Client <name> has notified us of a defective battery in their MacBook Air M1
-Incident Type: Incident
-Customer Issue: Issues with the device's battery
-Customer Service answer: We appreciate your communication. We will promptly tackle the battery concern regarding the MacBook Air M1.

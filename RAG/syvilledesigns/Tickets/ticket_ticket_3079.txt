@@ -1,5 +1,0 @@
-Ticket ID: ticket_3079
-Subject: Issues with Slack connectivity affecting team communication today
-Incident Type: Incident
-Customer Issue: Having trouble accessing channels and dispatching messages.
-Customer Service answer: We are actively working on the Slack access issues and will share updates soon. We truly apologize for the disruption.

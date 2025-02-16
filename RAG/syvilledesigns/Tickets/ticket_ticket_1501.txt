@@ -1,5 +1,0 @@
-Ticket ID: ticket_1501
-Subject: Beratung zu IT-Dienstleistungen
-Incident Type: Request
-Customer Issue: Kunde sucht Beratung zur Serveradministration und IT-Lösungen.
-Customer Service answer: Sicher! Für Beratung zur Serveradministration und IT-Lösungen wenden Sie sich bitte an unser IT-Support-Team unter <tel_num> oder besuchen Sie unsere Webseite.

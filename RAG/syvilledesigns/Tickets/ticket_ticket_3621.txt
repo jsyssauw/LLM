@@ -1,9 +1,0 @@
-Ticket ID: ticket_3621
-Subject: nan
-Incident Type: Change
-Customer Issue: Prezado Suporte ao Cliente, gostaria de trocar meu Microsoft Surface Pro 7 devido a problemas na tela sensível ao toque. Por favor, forneça uma substituição. Atenciosamente, <name>
-Customer Service answer: Prezado <name>,
-Lamentamos pelo inconveniente. Por favor, forneça seu número do pedido e detalhes do problema para que possamos processar a troca.
-
-Atenciosamente,
-Suporte ao Cliente

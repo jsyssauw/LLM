@@ -1,5 +1,0 @@
-Ticket ID: ticket_344
-Subject: High-priority Incident: Jira Software Delays
-Incident Type: Incident
-Customer Issue: We are experiencing significant delays with Jira Software 8.20, impacting project tracking efficiency. Kindly expedite resolution.
-Customer Service answer: Thank you for informing us about the delays with Jira Software 8.20. We prioritize this matter and our technical team is already working on a resolution. We will update you on progress as soon as possible. Apologies for any inconvenience caused.

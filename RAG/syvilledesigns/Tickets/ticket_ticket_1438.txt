@@ -1,5 +1,0 @@
-Ticket ID: ticket_1438
-Subject: Demande de modifications dans la configuration Cloud
-Incident Type: Change
-Customer Issue: Veuillez améliorer les performances et réduire les coûts des services AWS.
-Customer Service answer: Nous examinerons votre configuration AWS pour optimiser à la fois les performances et les coûts. Attendez-vous à des commentaires ou des modifications bientôt.

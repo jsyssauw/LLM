@@ -1,8 +1,0 @@
-Ticket ID: ticket_350
-Subject: Diagnósticos de hardware inmediatos para Dell XPS 13 9310
-Incident Type: Request
-Customer Issue: Hola, estoy experimentando parpadeo en la pantalla de mi Dell XPS 13 9310. ¿Podría por favor organizar diagnosticos de hardware y reparación inmediatos para este problema? Mi número de cuenta es <acc_num>. Gracias por su pronta asistencia. Atentamente, <name>
-Customer Service answer: Hola <name>,
-Hemos organizado una cita para el diagnóstico de hardware de su Dell XPS 13 9310. Un técnico se pondrá en contacto con usted en breve. Gracias por su paciencia.
-Atentamente,
-Equipo de Servicio de <Your Company Name>

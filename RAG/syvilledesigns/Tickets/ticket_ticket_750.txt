@@ -1,5 +1,0 @@
-Ticket ID: ticket_750
-Subject: Urgent : problème de batterie avec MacBook Air M1 acheté en ligne
-Incident Type: Problem
-Customer Issue: Bonjour cher service clientèle,<br><br>Je viens d'acquérir un MacBook Air M1 dans votre boutique en ligne et je fais face à des soucis conséquents avec la batterie. Celle-ci se vide d'une manière exceptionnellement rapide. Pouvez-vous m'informer sur la procédure à suivre pour obtenir un remplacement ou une réparation ?<br><br>Merci,<br><nom>
-Customer Service answer: Bonjour [Nom],<br><br>Je suis désolé pour cet inconvénient. Je vous recommande de d'abord vérifier la condition de la batterie dans Préférences Système > Batterie. Si le problème persiste, veuillez contacter notre équipe de support au [numéro de support] ou consulter notre site Web pour des instructions concernant le remplacement ou la réparation.<br><br>Cordialement,<br>Service clientèle

@@ -1,5 +1,0 @@
-Ticket ID: ticket_2908
-Subject: nan
-Incident Type: Change
-Customer Issue: Melhorar a eficiência do sistema de tíquetes.
-Customer Service answer: Obrigado pela sua sugestão. Estamos trabalhando para aprimorar a eficiência do sistema de tíquetes.

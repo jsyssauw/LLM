@@ -1,5 +1,0 @@
-Ticket ID: ticket_3383
-Subject: Challenges with HP DeskJet 3755 Connectivity
-Incident Type: Incident
-Customer Issue: Connectivity issues persist.
-Customer Service answer: Ensure that Wi-Fi is turned on and that the printer is positioned near the router. Reboot both devices.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_238
-Subject: HP DeskJet 3755 wireless printing issue
-Incident Type: Problem
-Customer Issue: The wireless printing feature fails to connect constantly.
-Customer Service answer: Please ensure your printer and device are on the same network, then restart both. Update drivers if the issue persists.
