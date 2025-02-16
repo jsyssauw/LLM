@@ -1,0 +1,22 @@
+Ticket ID: ticket_2603
+Subject: nan
+Incident Type: Change
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I am writing to request an upgrade of our Google Workspace licenses for the sales team to enhance their productivity and collaboration capabilities. Currently, we are using the Business Standard edition, and a transition to a more advanced plan would highly benefit our team. Please let us know the procedures and costs associated with this upgrade.
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the upgrade of your Google Workspace licenses. To upgrade from Business Standard to a more advanced plan, you can consider options like Business Plus, Enterprise Standard, or Enterprise Plus. These plans offer enhanced features for collaboration and productivity.
+
+To proceed with the upgrade, you can access the Google Admin Console and navigate to 'Billing' to make the changes. Alternatively, we can assist you with the process. The cost will vary depending on the plan selected and the number of licenses needed.
+
+For detailed pricing and further assistance, please feel free to contact us directly or check the Google Workspace pricing page. 
+
+Best regards,
+Customer Support Team

@@ -1,0 +1,38 @@
+Ticket ID: ticket_1936
+Subject: Urgent: Cisco Router ISR4331 Network Connectivity Issues
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. I am writing to formally bring to your attention an issue regarding the network connectivity of my Cisco Router ISR4331. My name is <name>, and I have been consistently experiencing problems for the past couple of weeks. The device, which was recommended to me for its reputed high performance, is unfortunately not delivering as expected.
+
+The primary issue is that the router fails to maintain a consistent network speed, and frequently drops the connection. This has significantly disrupted my work from home arrangements, where reliable internet connectivity is crucial. Initially, I thought this might be related to my internet service provider, but after several checks and consultations with them, it has been confirmed that the problem is not on their end.
+
+To provide more specifics, the connection seems to drop unpredictably, sometimes even multiple times within the same hour, and during these times, no particular activity is being performed that could overwhelm the network. I have already tried basic troubleshooting steps such as restarting the router, resetting it to factory settings, and updating the firmware. None of these measures have yielded any positive outcome.
+
+Given these circumstances, I kindly request your assistance to resolve this situation at your earliest convenience. Perhaps there might be an advanced setting or configuration change that could stabilize the network performance of the ISR4331. Your expert guidance and support in resolving this matter would be invaluable.
+
+Thank you for your attention to this issue. Please let me know if you require any additional information or if there are specific details about the setup you need to assist further.
+
+Kind regards,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the connectivity issues with your Cisco Router ISR4331. We understand the importance of reliable network performance and we are here to help.
+
+Based on the information you provided, you've already taken significant steps to troubleshoot the issue. We recommend checking these additional points:
+
+1. **Check Cables and Connections**: Ensure that all cables are securely connected and undamaged.
+2. **Check Router Placement**: Place your router in a central location, free from obstructions, to improve signal strength.
+3. **Disable QoS**: Sometimes disabling Quality of Service (QoS) can stabilize speeds.
+4. **Check for Interference**: Consider potential interference from other electronic devices and try changing the wireless channel.
+
+If these don't improve the situation, please reach out with the router logs and any error messages you may have observed, and we'll investigate further. 
+
+Feel free to contact us at your convenience for further assistance. We aim to resolve this promptly so you can resume your normal work activities.
+
+Best regards,
+
+Customer Support Team

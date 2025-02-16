@@ -1,0 +1,10 @@
+Ticket ID: ticket_2641
+Subject: Aide nécessaire pour l'installation de Norton Antivirus Plus
+Incident Type: Incident
+Customer Issue: Bonjour, équipe du service client, j'éprouve des problèmes pour installer Norton Antivirus Plus. Serait-il possible de me fournir de l'assistance au cours de cette étape ? Je vous serais reconnaissant pour une réponse rapide. Merci d'avance. Respectueusement, <nom>
+Customer Service answer: Bonjour [Nom],
+
+Nous sommes là pour vous aider ! Assurez-vous que votre ordinateur respecte les conditions requises. Téléchargez le programme d'installation depuis le site de Norton, lancez-le et suivez les indications affichées. Pour toute assistance supplémentaire, n'hésitez pas à nous contacter directement.
+
+Cordialement,
+Équipe du Service Client

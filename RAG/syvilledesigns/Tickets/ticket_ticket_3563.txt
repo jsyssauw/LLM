@@ -1,0 +1,17 @@
+Ticket ID: ticket_3563
+Subject: Problems with AWS Services
+Incident Type: Incident
+Customer Issue: Greetings,
+
+We are facing replication challenges within the AWS Management Service, which is resulting in sporadic access issues on our production servers. Immediate help is necessary.
+Thank you,
+<name>
+<acc_num>
+Customer Service answer: Subject: Re: Problems with AWS Services
+
+Hi <name>,
+
+We appreciate you getting in touch. We recognize the critical nature of the replication challenges you are dealing with in AWS Management Service. Our team is currently looking into the issue and is prioritizing a fix. We will keep you informed as soon as we have updates. Your understanding is highly valued.
+
+Warm regards,
+<Service Desk Agent>

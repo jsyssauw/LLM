@@ -1,0 +1,5 @@
+Ticket ID: ticket_2966
+Subject: Support requis pour l'intégration du système de billetterie
+Incident Type: Problem
+Customer Issue: Le client nécessite de l'aide pour résoudre un problème d'intégration.
+Customer Service answer: Pourriez-vous partager des informations supplémentaires concernant le problème d'intégration afin que nous puissions offrir plus de soutien ?

@@ -1,0 +1,17 @@
+Ticket ID: ticket_2047
+Subject: Problema de Tela Piscando
+Incident Type: Incident
+Customer Issue: Olá Suporte ao Cliente,
+
+Recentemente, atualizei meu Dell XPS 13 9310 e agora estou enfrentando um piscar intermitente da tela, o que afeta seriamente a usabilidade. Este problema começou imediatamente após a atualização. Não tenho certeza se é devido a hardware ou software, mas preciso de assistência o mais rápido possível. Por favor, forneça orientações sobre como solucionar o problema ou inicie um reparo, se necessário.
+
+Obrigado,
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Olá <name>,
+
+Obrigado por entrar em contato. O problema de tela piscando pode estar relacionado à atualização recente. Por favor, tente reinstalar ou atualizar o driver do seu display. Se o problema persistir, por favor, faça uma restauração do sistema para um ponto antes da atualização. Para mais assistência ou para agendar um reparo, entre em contato conosco pelo [Linha de Apoio ao Cliente].
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

@@ -1,0 +1,37 @@
+Ticket ID: ticket_2711
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am reaching out regarding an issue I'm experiencing with my recently purchased Dell XPS 13 9310. I originally bought this device to assist with my work, particularly tasks like video editing, which require robust performance. However, I've noticed that the laptop overheats significantly when handling such intensive tasks.
+
+The overheating problem manifests primarily when using video editing software and other performance-heavy applications. The device's fans become extremely loud, and the bottom of the laptop gets quite hot to the touch. This overheating persists despite my attempts to mitigate it by working in a cool environment, keeping the laptop on a hard, flat surface for optimal ventilation, and updating all drivers and software to the latest versions.
+
+This issue is concerning to me, not only because it affects the performance and usability of my laptop, but I'm also worried about the potential long-term damage to the components due to excessive heat. I am aware that the Dell XPS 13 series is known for its compact design, which can sometimes cause thermal limitations, but I did not anticipate encountering such severe overheating.
+
+I would greatly appreciate it if you could provide guidance on how to address this issue. Would you recommend any specific troubleshooting steps, or should I consider having the laptop serviced? Please let me know how I might proceed to prevent further overheating occurrences.
+
+Thank you for your assistance. I eagerly await your recommendations on this matter.
+
+Sincerely,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to Tech Online Store Customer Support. I am sorry to hear about the overheating issues with your Dell XPS 13 9310. Here are a few steps you can consider to address this problem:
+
+1. **Adjust Power Settings:** Ensure that your power settings are set to balance performance and cooling. You can navigate to Settings > System > Power & sleep > Additional power settings and select "Balanced."
+
+2. **Check for Background Processes:** Make sure that no unnecessary applications are running in the background that could contribute to the overheating.
+
+3. **Thermal Management Software:** Install or update any manufacturer-recommended software that helps manage the thermal output of your device.
+
+4. **Consider Cooling Pads:** An external cooling pad can aid in reducing heat by providing additional airflow.
+
+5. **Review Room Temperature and Ventilation:** Even though you’ve mentioned working in a cool environment, ensure that there’s adequate airflow around the laptop at all times.
+
+If the issue persists, it may be worthwhile to have your laptop inspected for any potential hardware issues. Please let us know if you would like assistance in setting up a service appointment.
+
+We appreciate your patience and hope these solutions will improve your experience. Should you need further assistance, feel free to reach out again.
+
+Best regards,
+Tech Online Store Customer Support

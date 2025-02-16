@@ -1,0 +1,24 @@
+Ticket ID: ticket_2732
+Subject: Flickering display issue on Dell XPS 13
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am encountering a minor issue with my Dell XPS 13 9310 purchased from Tech Online Store. Occasionally, the display flickers when set to low brightness. I kindly request your assistance in resolving this matter at your earliest convenience. 
+
+Thank you very much!
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us about the flickering display issue on your Dell XPS 13 9310. To resolve this, please try the following steps:
+
+1. Update your graphics drivers from the Dell Support website.
+2. Check for any available system updates or BIOS updates for your laptop.
+3. Adjust the power settings, turning off adaptive brightness under 'Power & sleep settings'.
+
+If the issue persists after these steps, please let us know, and we can assist further.
+
+Best regards,
+Customer Support Team

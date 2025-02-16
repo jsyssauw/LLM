@@ -1,0 +1,9 @@
+Ticket ID: ticket_589
+Subject: Demande d'échange de l'imprimante HP DeskJet 3755
+Incident Type: Request
+Customer Issue: Cher support du magasin en ligne Tech, je souhaite demander un échange pour mon imprimante HP DeskJet 3755. Elle se bloque fréquemment et la qualité d'impression est inconstante. Merci de me guider sur les prochaines étapes pour échanger ce produit. Merci, <name>.
+Customer Service answer: Cher <name>,
+Merci de nous avoir contactés. Nous sommes désolés d'apprendre les problèmes rencontrés avec votre imprimante HP DeskJet 3755. Veuillez fournir votre numéro de commande et plus de détails, ou appelez-nous au <tel_num> pour obtenir de l'aide concernant le processus d'échange.
+
+Cordialement,
+Support du magasin en ligne Tech

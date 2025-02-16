@@ -1,0 +1,32 @@
+Ticket ID: ticket_3804
+Subject: Return Request for MacBook Air M1 Purchase
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I recently purchased a MacBook Air M1 from your online store, and my order arrived a few days ago. The order number associated with this purchase is <acc_num>. While the transaction was smooth and the product arrived on time, I have been reconsidering my decision and am experiencing buyer's remorse. 
+
+The MacBook Air M1 package remains unopened, as I have not yet used it since delivery. I have decided not to keep it and would like to explore other options potentially more suited to my current needs. According to your store's return policy, I understand that returns can be made within 30 days of purchase as long as the product is in its original and unopened condition. 
+
+I would appreciate your guidance on how to proceed with this return. Could you please provide detailed instructions on the return process, including any necessary labels or forms I might need and deadlines I must meet to ensure the return is successful?
+
+Thank you for your assistance.
+
+Regards,
+<name>
+<name> <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand your decision and are here to assist with your return request for the MacBook Air M1. As per our return policy, returns can be made within 30 days as long as the product remains unopened.
+
+Please follow these steps for your return:
+1. Ensure the MacBook is in its original, unopened packaging.
+2. Fill out the return form available on our website under "Returns".
+3. Print and include the return label, which you will receive via email after submitting the form.
+4. Send the package back to the address provided on the return label within the specified deadline.
+
+For your convenience, we have initiated a return process on your account with order number <acc_num>, and you should receive further instructions shortly.
+
+If you have any questions, feel free to contact us at any time.
+
+Best regards,
+Customer Support Team

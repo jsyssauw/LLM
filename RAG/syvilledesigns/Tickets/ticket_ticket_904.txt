@@ -1,0 +1,5 @@
+Ticket ID: ticket_904
+Subject: nan
+Incident Type: Problem
+Customer Issue: PyCharm 2024.2 crashes when running code analysis tools. Need urgent help.
+Customer Service answer: Thank you for reaching out! We're investigating the issue and will provide a solution promptly.

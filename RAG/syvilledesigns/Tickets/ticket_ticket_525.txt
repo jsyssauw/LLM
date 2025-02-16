@@ -1,0 +1,30 @@
+Ticket ID: ticket_525
+Subject: Consulta sobre paquetes de consultoría y precios
+Incident Type: Request
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Espero que este correo electrónico lo encuentre bien. Me pongo en contacto para preguntar sobre los diferentes paquetes de consultoría y opciones de precios que ofrece su empresa. Estamos considerando mejorar nuestra infraestructura de TI y requerimos ayuda profesional para mantener nuestros servidores de manera eficiente. ¿Podría proporcionar información detallada sobre lo que abarcan sus Servicios de Consultoría de TI, incluyendo cualquier plan disponible que esté diseñado para el mantenimiento de servidores y mejoras en la infraestructura de TI? Además, estamos interesados en comprender los costos asociados o descuentos disponibles.
+
+Gracias por su atención a este asunto. Espero su pronta respuesta, ya que nos ayudará enormemente a tomar una decisión informada. No dude en ponerse en contacto conmigo si necesita más información.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con nosotros respecto a nuestros paquetes de consultoría. Ofrecemos una variedad de Servicios de Consultoría de TI diseñados para mejorar y mantener su infraestructura de TI de manera eficiente, incluyendo mantenimiento de servidores y mejoras en la infraestructura de TI.
+
+Nuestros paquetes están adaptados a diversas necesidades y presupuestos, y ofrecemos planes comprensivos como:
+- Paquete de Mantenimiento Básico: Cubre chequeos y actualizaciones rutinarias de servidores.
+- Paquete de Soporte Estándar: Incluye mantenimiento junto con optimización del rendimiento y evaluaciones de seguridad.
+- Paquete Personalizado Premium: Un plan adaptado que se alinea estrechamente con requisitos específicos de infraestructura y necesidades de soporte continuo.
+
+Los precios varían según el nivel de servicio y los requisitos específicos de su infraestructura de TI. También ofrecemos descuentos para compromisos a largo plazo y paquetes de múltiples servicios.
+
+Por favor, háganos saber si necesita un presupuesto personalizado o asistencia adicional para seleccionar el paquete adecuado para sus necesidades.
+
+Esperamos poder ayudarle a tomar la mejor decisión para sus mejoras en TI.
+
+Atentamente,
+
+Equipo de Atención al Cliente

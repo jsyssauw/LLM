@@ -1,0 +1,32 @@
+Ticket ID: ticket_3670
+Subject: Problemas de conectividad durante reuniones de Zoom
+Incident Type: Incident
+Customer Issue: Estimado servicio de atención al cliente, 
+
+Espero que este mensaje le encuentre bien. Estoy escribiendo para llamar su atención sobre un problema persistente que estoy experimentando con la plataforma Zoom, versión 5.11.0. A pesar de tener una conexión a internet estable, encuentro problemas de conectividad durante las videollamadas, lo que me hace imposible unirme de manera fiable a las reuniones programadas. A veces, la aplicación no reconoce el ID de la reunión o simplemente no logra conectarse, incluso después de múltiples intentos. Esta interrupción está afectando significativamente mi productividad y mi capacidad para colaborar eficazmente con mi equipo. 
+
+He verificado que el software de mi dispositivo está actualizado y he intentado pasos de solución de problemas, incluyendo reiniciar el dispositivo y reinstalar el cliente de Zoom, sin éxito. ¿Podría ayudarme amablemente a diagnosticar y resolver este problema? Por favor, hágamelo saber si necesita más información o diagnósticos de mi parte. Aprecio sinceramente su pronta atención a este asunto, ya que afecta en gran medida mi flujo de trabajo. 
+
+Gracias por su ayuda.
+
+Atentamente,
+
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Entiendo lo crucial que es tener una conectividad estable durante las reuniones de Zoom.
+
+Aquí hay algunos pasos que podrían ayudar a resolver el problema:
+
+1. Verifique si hay actualizaciones para la aplicación de Zoom más allá de la versión 5.11.0.
+2. Asegúrese de que el firmware de su enrutador esté actualizado.
+3. Verifique si otras aplicaciones o dispositivos están consumiendo ancho de banda durante sus reuniones.
+4. Cambie la configuración de su DNS a un DNS público (como el de Google).
+
+Si el problema persiste, por favor proporcione cualquier mensaje de error o registros para ayudarnos a diagnosticar más a fondo. Estamos aquí para ayudarle a restaurar su conectividad para una colaboración fluida con su equipo.
+
+Gracias por su paciencia y cooperación.
+
+Atentamente,
+Servicio de Atención al Cliente

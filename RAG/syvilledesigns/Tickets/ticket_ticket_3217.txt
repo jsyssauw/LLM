@@ -1,0 +1,10 @@
+Ticket ID: ticket_3217
+Subject: Solicitud de corrección de factura del MacBook Air M1
+Incident Type: Request
+Customer Issue: Hola, recientemente compré un MacBook Air M1, pero hay un error en la factura. ¿Alguien podría ayudar a corregirlo? Mi ID de pedido es <order_id>. Gracias, <name>, <email>, <tel_num>.
+Customer Service answer: Hola <name>,
+
+Gracias por contactarnos. Vamos a corregir la factura de tu MacBook Air M1. Por favor, espera una actualización pronto. Si necesitas más ayuda, háganoslo saber.
+
+Saludos cordiales,
+[Your Company]

@@ -1,0 +1,5 @@
+Ticket ID: ticket_708
+Subject: Serverausfallproblem
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundensupport, ich schreibe, um ein Vorfall mittlerer Priorität zu melden, der die Benutzerzugriffe in unserem regionalen Büro betrifft. Dieses Problem hat Auswirkungen auf unsere IT-Beratungsdienste. Bitte geben Sie ein Update zum Status und zu möglichen Lösungsschritten. Vielen Dank. Mit freundlichen Grüßen, <name>
+Customer Service answer: Sehr geehrter <name>, vielen Dank, dass Sie uns bezüglich des Serverausfallproblems kontaktieren, das Ihre IT-Beratungsdienste betrifft. Unser technisches Team untersucht aktiv die Ursache des Ausfalls und arbeitet so schnell wie möglich an einer Lösung. Wir werden Sie über alle Fortschritte oder Lösungen auf dem Laufenden halten. Bitte zögern Sie nicht, uns zu kontaktieren, wenn Sie weitere Fragen haben oder sofortige Unterstützung benötigen. Vielen Dank für Ihre Geduld. Mit freundlichen Grüßen, Kundensupport.

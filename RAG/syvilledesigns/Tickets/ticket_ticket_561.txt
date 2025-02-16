@@ -1,0 +1,29 @@
+Ticket ID: ticket_561
+Subject: nan
+Incident Type: Incident
+Customer Issue: Caro time de suporte ao cliente,
+
+Estou escrevendo para relatar um problema com o Jira Software 8.20 que estou enfrentando atualmente. De acordo com minhas configurações atuais, estou tendo dificuldades para fazer login no software, o que está inibindo minha capacidade de gerenciar e acessar ferramentas essenciais de gerenciamento de projetos. A incapacidade de utilizar essas funcionalidades está impactando diretamente minhas tarefas administrativas e prazos de projetos.
+
+Solicito gentilmente que sua equipe examine este assunto com prioridade e forneça uma solução o mais rápido possível. O acesso pontual a essas ferramentas é crucial para a continuidade operacional, e quaisquer atrasos apenas agravarão os gargalos atuais.
+
+Por favor, me avise se precisar de mais informações da minha parte. Estou disponível por telefone em <tel_num> ou por e-mail na sua conveniência, caso precise de mais detalhes ou esclarecimentos. Confio que sua equipe abordará e resolverá rapidamente meus problemas de login.
+
+Obrigado pela sua atenção imediata a este assunto crítico.
+
+Atenciosamente,
+
+<name>
+<acc_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre seus problemas de login com o Jira Software 8.20. Entendemos a importância de ter acesso às suas ferramentas de gerenciamento de projetos e como isso impacta suas operações.
+
+Nossa equipe priorizará seu pedido e investigará o problema imediatamente. Para nos ajudar a resolver a questão mais rápido, você poderia confirmar se está recebendo alguma mensagem de erro específica ao tentar fazer login?
+
+Enquanto investigamos isso, você pode tentar limpar o cache do seu navegador, garantir que seu software esteja atualizado e verificar sua conexão de rede como passos iniciais de solução de problemas.
+
+Manteremos você informado sobre o progresso. Sinta-se à vontade para entrar em contato por e-mail ou pelo <tel_num> para qualquer dúvida urgente ou para mais assistência.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

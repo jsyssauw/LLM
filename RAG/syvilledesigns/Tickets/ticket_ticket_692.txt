@@ -1,0 +1,5 @@
+Ticket ID: ticket_692
+Subject: Anfrage zur Aktualisierung der AWS-Stufe
+Incident Type: Change
+Customer Issue: Sehr geehrte/r <name>, ich schreibe, um eine Aktualisierung der im Rahmen unseres AWS-Management-Service-Kontos verwendeten AWS-Cloud-Speicherstufe <acc_num> zu beantragen. Diese Änderung zielt darauf ab, unsere Kosten zu optimieren und die Datenabrufleistung zu verbessern. Bitte teilen Sie mir die erforderlichen Schritte mit. Mit freundlichen Grüßen, <name>, <tel_num>.
+Customer Service answer: Sehr geehrte/r <name>, vielen Dank, dass Sie sich mit Ihrem Anliegen zur Aktualisierung der AWS-Speicherstufe an uns gewandt haben. Bitte loggen Sie sich zuerst in Ihre AWS-Management-Konsole ein. Navigieren Sie dort zur Sektion 'S3 Storage' und wählen Sie den Bucket aus, den Sie aktualisieren möchten. Von dort aus können Sie die Speicherklasse nach Ihren Bedürfnissen anpassen. Sollten Sie weitere Unterstützung benötigen, zögern Sie bitte nicht, uns direkt zu kontaktieren. Mit freundlichen Grüßen, Service Desk Agent

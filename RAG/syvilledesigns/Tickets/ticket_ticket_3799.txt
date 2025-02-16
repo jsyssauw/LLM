@@ -1,0 +1,18 @@
+Ticket ID: ticket_3799
+Subject: Wiederholte Netzwerkunterbrechungen melden
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+Wir erleben wiederholte Netzwerkunterbrechungen, die möglicherweise auf fehlerhafte Einstellungen an unserem Cisco Router ISR4331 zurückzuführen sind. Bitte untersuchen Sie dies und empfehlen Sie eine Lösung, sobald es Ihnen möglich ist. Danke für Ihre schnelle Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Betreff: Re: Wiederholte Netzwerkunterbrechungen melden
+
+Sehr geehrter <name>,
+
+Vielen Dank, dass Sie sich gemeldet haben. Wir werden die Einstellungen Ihres Cisco Routers ISR4331 untersuchen, um Probleme zu identifizieren, die die Netzwerkunterbrechungen verursachen. Unser technisches Team wird Sie in Kürze kontaktieren, um weitere Details zu sammeln und Sie durch mögliche Lösungen zu begleiten. Wir schätzen Ihre Geduld und streben an, dies so schnell wie möglich zu lösen.
+
+Mit freundlichen Grüßen,
+Kundenservice

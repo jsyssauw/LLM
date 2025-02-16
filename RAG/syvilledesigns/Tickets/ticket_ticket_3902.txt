@@ -1,0 +1,5 @@
+Ticket ID: ticket_3902
+Subject: nan
+Incident Type: Change
+Customer Issue: Por favor, reduza a interrupção do serviço.
+Customer Service answer: Obrigado pelo seu feedback. Trabalharemos para minimizar a interrupção do serviço.

@@ -1,0 +1,34 @@
+Ticket ID: ticket_765
+Subject: HP DeskJet 3755 Connectivity Issues
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support, 
+
+I hope this message finds you well. I am writing to bring to your attention a connectivity issue I am experiencing with my HP DeskJet 3755 printer. The printer seems to have persistent problems when attempting to connect to my Wi-Fi network, which has resulted in being unable to execute any printing tasks. 
+
+I am aware that the HP DeskJet 3755 is designed with wireless capabilities, and previously, it performed very well without such disruptions. However, recently, it fails to maintain a stable connection or recognize the network altogether. I have tried restarting both the printer and my Wi-Fi router, but the problem persists. 
+
+Could you please assist me in troubleshooting this issue? I would appreciate any guidance or steps you could provide to help resolve this situation. Alternatively, if the problem relates to technical defects, I would kindly request information regarding any available warranty service. I purchased this printer to enhance productivity, and I am keen to restore its functionality. 
+
+Thank you for your attention and prompt response to this matter. 
+
+Sincerely, 
+
+<name> 
+<email> 
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding your HP DeskJet 3755 connectivity issue. Let's try a few steps to resolve this:
+
+1. Ensure the printer is within range of the Wi-Fi router and there's no large obstruction between them.
+2. Check if the printer's firmware is up to date via HP Smart software or the HP website.
+3. Access your printer's settings and ensure the correct Wi-Fi network is selected, re-entering your password if necessary.
+4. Reset the network settings on the printer by selecting the wireless button and cancel button simultaneously for 3 seconds.
+5. Attempt to reconnect by using the HP Smart app.
+
+If the problem persists and you suspect a technical defect, please provide your purchase details and we can discuss warranty service options.
+
+Feel free to contact us for further assistance.
+
+Best regards,
+Tech Online Store Customer Support

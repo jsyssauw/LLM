@@ -1,0 +1,16 @@
+Ticket ID: ticket_554
+Subject: Résolution immédiate requise pour l'interruption de service du serveur
+Incident Type: Problem
+Customer Issue: Cher équipe de support informatique,
+
+Notre client, <name>, rencontre actuellement des problèmes de serveur entraînant un temps d'arrêt significatif. Cette situation affecte gravement leurs opérations et nécessite une attention immédiate de notre équipe de conseil en informatique. Le produit concerné est le service de conseil en informatique. Veuillez prioriser ce cas et nous conseiller sur les étapes nécessaires. Nous sommes disponibles par email ou au <tel_num> pour une discussion plus approfondie.
+
+Merci,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés au sujet du problème d'interruption de serveur pour votre client, <name>. Nous comprenons l'urgence de la situation et allons prioriser ce cas immédiatement. Notre équipe informatique va enquêter sur le problème lié au service de conseil en informatique et travailler à une résolution rapide. Nous vous tiendrons informé de nos progrès et vous contacterons pour toute information supplémentaire si nécessaire. En attendant, vous pouvez nous contacter par email ou au numéro de téléphone que vous avez fourni, <tel_num>, pour toute assistance supplémentaire.
+
+Cordialement,
+Équipe du Service Desk

@@ -1,0 +1,24 @@
+Ticket ID: ticket_1079
+Subject: Problema de Faturamento com o Serviço de Gerenciamento da AWS
+Incident Type: Problem
+Customer Issue: Caro Suporte ao Cliente,
+
+Espero que esta mensagem o encontre bem. Estou escrevendo para chamar sua atenção para um problema que enfrentei em relação a cobranças incorretas. Após utilizar o Serviço de Gerenciamento da AWS para infraestrutura em nuvem e otimização de serviços, minha conta, <acc_num>, foi faturada erroneamente. As cobranças não refletem com precisão o uso relatado e parecem significativamente mais altas do que o esperado.
+
+Por favor, revise meus detalhes de faturamento e corrija quaisquer discrepâncias na sua primeira oportunidade. Por favor, me avise se você precisar de informações adicionais para facilitar uma resolução rápida. Você pode me contatar em <email> ou <tel_num> para discutir mais.
+
+Obrigado pela sua assistência nesta questão.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por trazer isso à nossa atenção. Entendemos a preocupação em relação à discrepância nas cobranças de faturamento do seu Serviço de Gerenciamento da AWS. Fique tranquilo, iremos realizar uma revisão completa dos detalhes de faturamento associados à sua conta <acc_num>.
+
+Por favor, nos dê algum tempo para investigar e corrigir quaisquer problemas. Se mais informações forem necessárias, entraremos em contato com você usando os detalhes fornecidos.
+
+Agradecemos sua paciência e nos esforçaremos para uma rápida resolução.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

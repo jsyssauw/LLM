@@ -1,0 +1,21 @@
+Ticket ID: ticket_1721
+Subject: Billing Issue with AWS Service
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am reaching out to report a billing issue concerning the AWS Management Service. Our client, <name>, Director at <name> Corp, expressed concerns over unexpected charges. They noticed discrepancies in cloud infrastructure cost management and optimization solutions. Please investigate these billing errors and offer a resolution promptly. Client's account number is <acc_num>. Kindly resolve this issue at the earliest. You can reach me at <tel_num> for further details.
+
+Thank you for your assistance.
+
+Sincerely,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the billing issue with AWS Management Service. We understand the importance of this matter and are initiating an investigation into the discrepancies reported by <name> of <name> Corp. Our billing team will thoroughly review the account with the account number <acc_num> to identify any errors. 
+
+We aim to resolve this issue promptly and ensure transparency in the billing process. Should we require further information, we will reach out to you at <tel_num>. We appreciate your patience and will provide an update at the earliest.
+
+Thank you for bringing this to our attention.
+
+Best regards,
+Customer Support Team

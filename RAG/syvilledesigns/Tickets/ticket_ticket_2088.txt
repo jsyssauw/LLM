@@ -1,0 +1,24 @@
+Ticket ID: ticket_2088
+Subject: Problema con la impresora HP DeskJet 3755
+Incident Type: Problem
+Customer Issue: Estimado cliente del soporte técnico de Tienda Online,
+
+Estoy experimentando un problema persistente con mi impresora HP DeskJet 3755. A pesar de múltiples reinicios y configuraciones, la impresora no logra conectarse a Wi-Fi. He probado varios pasos de solución de problemas, pero ninguno ha resuelto este problema de conectividad. ¿Podría proporcionar más asistencia o proponer una solución? Su pronta respuesta será muy apreciada, ya que es crucial para mis tareas diarias.
+
+Gracias,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Por favor, intenta los siguientes pasos para resolver tu problema de conectividad Wi-Fi con la HP DeskJet 3755: 
+
+1. Asegúrate de que tu router esté funcionando correctamente.
+2. Confirma que la impresora y el router estén dentro del rango.
+3. Reinstala los controladores de la impresora en tu computadora.
+4. Asigna una dirección IP estática a tu impresora.
+5. Verifica si hay actualizaciones de firmware en el software de la impresora.
+
+Si el problema persiste, por favor contáctanos directamente para más asistencia.
+
+Atentamente,
+Soporte al Cliente de Tienda Online

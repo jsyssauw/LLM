@@ -1,0 +1,32 @@
+Ticket ID: ticket_3935
+Subject: Frequent Crashes in Google Chrome Browser
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this email finds you well. My name is <name>, and I am writing to bring to your attention an issue I have been experiencing with the Google Chrome 102.0 browser purchased through your platform. For the past few weeks, the browser has repeatedly crashed, significantly impacting my ability to browse the internet and complete important online tasks efficiently.
+
+I use Google Chrome extensively for my daily activities, such as online research, accessing educational materials, managing work documents, and communication via multiple web applications. However, these frequent crashes have become more disruptive, occurring at least three to four times per day, often without any prior warning or apparent reason. The experience is frustrating and has already resulted in some data loss during unsaved tasks. I have attempted several troubleshooting steps to resolve the issue, including clearing the cache, disabling extensions, running antivirus checks, and ensuring that the browser is updated with the latest patches. Unfortunately, these efforts have not alleviated the problem.
+
+Given the critical role that the browser plays in my work and personal life, I am seeking your guidance or a possible resolution. If there are any known compatibility issues between Google Chrome 102.0 and certain operating systems or software, or if there is a specific setting that needs to be adjusted, could you please advise me on how to proceed?
+
+Kindly prioritize this request as it affects my productivity and ability to meet deadlines. Please let me know if you need any further details regarding my operating system or any specific error messages encountered. You may reach me at <tel_num> or by replying to this email.
+
+Thank you for your prompt attention to this matter.
+
+Warm regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issues you're facing with Google Chrome 102.0. We understand the inconvenience this has been causing you and are here to help.
+
+Firstly, please check if your operating system is fully updated, as older versions may cause compatibility issues. It could also be helpful to try resetting Chrome settings by going to Settings > Advanced > Reset and Clean Up > Restore settings to their original defaults.
+
+If these steps do not resolve the issue, consider using the Chrome Cleanup Tool provided by Google to check for any harmful software that might interfere with the performance.
+
+Please inform us if your operating system, any additional software, or error messages need further attention or if these solutions don’t improve the situation. We're committed to helping you find a swift resolution.
+
+Feel free to contact us for more assistance. 
+
+Best regards,
+Tech Online Store Customer Support

@@ -1,0 +1,27 @@
+Ticket ID: ticket_996
+Subject: Asistencia Urgente Necesaria: Tiempo de Inactividad del Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Espero que este mensaje les encuentre bien. Me pongo en contacto para informar de un problema urgente con el Router Cisco ISR4331, que recientemente experimentó un tiempo de inactividad repentino, afectando significativamente el rendimiento de nuestra red en la oficina. Esta interrupción inesperada ha interrumpido nuestras operaciones diarias y requerimos asistencia técnica inmediata para mitigar estos problemas.
+
+El router es crítico para nuestra infraestructura de red y cualquier tiempo de inactividad prolongado podría obstaculizar nuestros procesos comerciales fundamentales. Hemos intentado diagnósticos iniciales, pero no pudimos resolver el problema por nuestra cuenta. A continuación, he incluido algunos detalles pertinentes para su referencia:
+
+- Modelo del producto: Router Cisco ISR4331
+- Fecha/Hora del problema: [Por Favor Inserte Fecha/Hora]
+
+Amablemente pedimos que se asigne un especialista técnico a este asunto lo antes posible para ayudarnos en la solución de problemas y resolver el problema. Por favor, háganos saber si se requieren más detalles de nuestra parte o si debemos seguir algún paso preliminar antes de que su equipo se involucre.
+
+Muchas gracias por su pronta atención a este asunto. Esperamos tener noticias suyas pronto.
+
+Atentamente,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto al problema urgente con su Router Cisco ISR4331. Entendemos la gravedad de la situación y el impacto en sus operaciones. Nuestro equipo técnico ya está siendo informado y se pondrá en contacto con usted en breve para brindar la asistencia necesaria. Mientras tanto, mantenga todos los equipos involucrados encendidos, ya que esto podría ayudar a agilizar el proceso de solución de problemas. Si necesita contactarnos nuevamente, le pedimos que tenga a mano el número de caso, que recibirá en nuestra comunicación de seguimiento. Agradecemos su paciencia y cooperación mientras trabajamos para resolver este asunto rápidamente.
+
+Atentamente,
+Equipo de Servicio al Cliente

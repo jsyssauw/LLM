@@ -1,0 +1,27 @@
+Ticket ID: ticket_2871
+Subject: Hilfe benötigt bei Problemen mit dem AWS Management Service
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich habe derzeit Probleme mit der Bereitstellung und der Optimierung der Infrastruktur mit dem AWS Management Service, was den reibungslosen Betrieb unserer Projekte beeinträchtigt hat. Unser Team ist auf unerwartete Herausforderungen gestoßen, die unseren Arbeitsablauf gestört haben, und wir benötigen Ihre Unterstützung, um diese Probleme zeitnah zu lösen.
+
+Wir glauben, dass es in unserer AWS-Einrichtung eine Fehlkonfiguration oder einen Bedarf an besserer Ressourcenverteilung geben könnte. Wir bitten um Anleitung oder Ressourcen von Ihrem Team, um die ursächlichen Probleme zu identifizieren und anzugehen.
+
+Bitte lassen Sie uns einen geeigneten Zeitpunkt für eine Beratung wissen oder verweisen Sie uns auf vorhandene Unterstützungsmaterialien. Ich freue mich auf Ihre schnelle Antwort.
+
+Vielen Dank,
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie sich wegen der Probleme mit Ihrem AWS Management Service an uns gewandt haben. Wir verstehen, welche Auswirkungen diese Herausforderungen auf Ihren Projektablauf haben können.
+
+Um Ihnen effektiv zu helfen, empfehlen wir Ihnen, unsere AWS-Dokumentation und Best Practices für die Bereitstellung und Optimierung der Infrastruktur als ersten Schritt zu überprüfen. Sie können auf unsere Unterstützungsmaterialien über das AWS-Supportportal zugreifen.
+
+Zusätzlich sind wir mehr als bereit, maßgeschneiderte Anleitungen für Ihre spezifische Einrichtung zu geben. Bitte teilen Sie uns Ihre verfügbaren Zeitfenster für eine Beratung mit, und wir werden ein Treffen mit unserem AWS-Spezialistenteam arrangieren, um die Fehlkonfiguration oder Probleme mit der Ressourcenverteilung zu identifizieren und zu lösen.
+
+Wir möchten Ihnen prompt helfen, um minimale Unterbrechungen sicherzustellen.
+
+Ich freue mich darauf, Ihnen weiter zu helfen.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

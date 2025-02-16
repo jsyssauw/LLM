@@ -1,0 +1,5 @@
+Ticket ID: ticket_431
+Subject: Intermittent Connection Problems Reported
+Incident Type: Problem
+Customer Issue: A firmware update or a reboot may be required.
+Customer Service answer: Kindly attempt to reboot the device. Should the problems continue, please consider updating the firmware or reaching out to support.

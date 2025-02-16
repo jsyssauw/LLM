@@ -1,0 +1,11 @@
+Ticket ID: ticket_324
+Subject: Problema de cierre de Photoshop 2024
+Incident Type: Problem
+Customer Issue: Estimado Soporte al Cliente,
+
+He estado experimentando cierres de la aplicación al usar Adobe Photoshop 2024 en Windows 11 al aplicar filtros de imagen específicos. Por favor, aconsejen sobre una solución para resolver este problema.
+
+Gracias,
+
+<name>
+Customer Service answer: Hola <name>, para solucionar los cierres de Photoshop 2024, asegúrate de tener las últimas actualizaciones. Intenta restablecer las preferencias: mantén presionadas Ctrl+Alt+Shift durante el lanzamiento. Si los problemas persisten, contacta con el soporte de Adobe para obtener más ayuda.

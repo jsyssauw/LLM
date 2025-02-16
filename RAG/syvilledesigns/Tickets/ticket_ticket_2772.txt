@@ -1,0 +1,32 @@
+Ticket ID: ticket_2772
+Subject: nan
+Incident Type: Request
+Customer Issue: Caro time de suporte de serviços de TI,
+
+Estou escrevendo para solicitar assistência com a implementação da AWS para melhorar a otimização de custos e aumentar a eficiência de nossa infraestrutura em nuvem. Atualmente, estamos utilizando o Serviço de Gerenciamento da AWS e acredito que há um potencial significativo para otimizar nossas despesas e desempenho.
+
+Para fornecer um pouco de contexto, nossa organização tem experimentado algumas inconsistências na alocação e uso de recursos. Dada a complexidade e a amplitude dos serviços envolvidos, é crucial para nós ter orientação especializada para navegar e otimizar eficazmente nosso ambiente AWS atual.
+
+Agradeceria se você pudesse designar um especialista conhecedor para nos guiar nas melhores práticas para gerenciar e otimizar os custos da AWS, mantendo altos níveis de eficiência em nossa infraestrutura em nuvem. Esperamos aproveitar a vasta experiência e conhecimento de sua equipe em arquiteturas AWS para implementar mudanças recomendadas que resultem em melhorias tangíveis rapidamente.
+
+Aguardando ansiosamente para resolver essa questão com seu apoio. Por favor, direcione suas respostas para meu e-mail, ou você pode me contatar pelo <tel_num> se uma conversa for mais conveniente.
+
+Obrigado pela sua atenção a este assunto.
+
+Atenciosamente,
+
+<name>
+<acc_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato com a equipe de suporte de serviços de TI para assistência com sua implementação da AWS e otimização de custos. Entendemos a importância de uma infraestrutura em nuvem eficiente e ficaremos felizes em fornecer a expertise necessária para ajudá-lo a alcançar seus objetivos.
+
+Designaremos um especialista com experiência em gerenciamento e otimização de custos da AWS para trabalhar com você. Esse especialista irá orientá-lo nas melhores práticas para otimizar despesas e melhorar o desempenho de seu ambiente AWS.
+
+Seu especialista designado entrará em contato em breve para discutir suas necessidades em detalhes. Enquanto isso, se você tiver alguma pergunta adicional ou detalhes a compartilhar, sinta-se à vontade para nos enviar um e-mail ou ligar.
+
+Estamos ansiosos para trabalhar com você para resolver os desafios atuais e implementar melhorias.
+
+Atenciosamente,
+
+Equipe de Suporte de Serviços de TI

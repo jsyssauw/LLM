@@ -1,0 +1,10 @@
+Ticket ID: ticket_345
+Subject: Request for Adjustment
+Incident Type: Change
+Customer Issue: Dear Customer Support, I am writing to submit a low priority request to adjust the AWS service configurations for improved allocation efficiency. Currently, there is no impact on operations or uptime. This adjustment pertains specifically to the AWS Management Service. Please let me know the steps involved in making these changes. Thank you for your assistance in this matter. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. To adjust your AWS service configurations for better allocation efficiency, please follow these steps: Log in to the AWS Management Console, navigate to the specific service, select "Modify Configuration" and adjust as needed, and save the changes. If you need further assistance during the process, feel free to contact us.
+
+Best regards,
+Customer Support

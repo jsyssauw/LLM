@@ -1,0 +1,16 @@
+Ticket ID: ticket_484
+Subject: Problem with Norton Antivirus Plus Subscription
+Incident Type: Change
+Customer Issue: Dear Customer Service, 
+
+I am experiencing a problem with my Norton Antivirus Plus subscription. I would appreciate your help in resolving this at your earliest convenience. My account number is <acc_num>.
+
+Thank you,
+<name>
+Contact: <tel_num>
+Customer Service answer: Dear <name>,
+
+We appreciate you reaching out to us. We apologize for the trouble you're experiencing. To better assist you, could you please share more details regarding the problem with your Norton Antivirus Plus subscription?
+
+Best wishes,
+Customer Support

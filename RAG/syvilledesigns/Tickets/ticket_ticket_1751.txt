@@ -1,0 +1,17 @@
+Ticket ID: ticket_1751
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team, I am writing to express our urgent concern regarding the recurring issue of our AWS server instances frequently stopping unexpectedly. The frequent interruptions have been severely impacting the availability of our essential business applications, leading to significant downtime and operational setbacks. Our technical teams have diligently reviewed all possible internal causes and configurations yet have found no specific reason for these disruptions within our control. The product in question is the AWS Management Service, which we rely on for critical business functions. Frequent disruptions not only affect our service delivery but also risk our client relationships due to unreliable performance. We suspect that there might be an underlying issue within the service infrastructure and would appreciate your prompt investigation and support to resolve this matter. We kindly request you provide troubleshooting guidance and any immediate solutions to prevent further interruptions. Additionally, if there are known bugs or ongoing maintenance works which could be causing this, please advise on expected resolution times and interim solutions or suggest any advanced monitoring tools that might help. We look forward to receiving your valued assistance at the earliest to alleviate this pressing issue. Thank you for your attention to this urgent matter. Sincerely, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issues with your AWS Management Service. We understand the critical nature of these disruptions and their impact on your business operations.
+
+Our team will initiate an immediate investigation into the server instances stopping unexpectedly. In the meantime, please ensure that all configurations and service limits are aligned with AWS best practices. We recommend using Amazon CloudWatch for enhanced monitoring and AWS CloudTrail to log and continuously update any operational changes.
+
+Furthermore, if there are ongoing maintenance activities or known issues affecting service performance, we will promptly notify you of the expected resolution times. We appreciate your patience as our technical support works toward resolving this issue.
+
+Your satisfaction is important to us, and we will strive to restore reliable service performance swiftly. Feel free to contact us for further assistance or updates at any time.
+
+Best regards,
+<name>
+Customer Support Team

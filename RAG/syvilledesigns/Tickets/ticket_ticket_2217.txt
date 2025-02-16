@@ -1,0 +1,5 @@
+Ticket ID: ticket_2217
+Subject: Solicitud de Devolución: Problema de Color del Dell XPS 13
+Incident Type: Problem
+Customer Issue: Hola, recientemente recibí mi pedido, un Dell XPS 13 9310, y el color no coincide con las especificaciones. ¿Podrías ayudarme con el proceso de devolución? Gracias. Saludos, <name> <tel_num>
+Customer Service answer: Hola <name>, lamento escuchar sobre el problema con tu Dell XPS 13. Por favor, visita nuestro Centro de Devoluciones en el sitio web para iniciar el proceso de devolución o llámanos para obtener asistencia.

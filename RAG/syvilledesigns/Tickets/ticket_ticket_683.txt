@@ -1,0 +1,24 @@
+Ticket ID: ticket_683
+Subject: Problema de atascos de papel con la impresora HP DeskJet 3755
+Incident Type: Incident
+Customer Issue: Estimado servicio de atención al cliente,
+
+Escribo para informar sobre un problema persistente que estoy experimentando con mi impresora HP DeskJet 3755, comprada en Tech Online Store. Cada vez que intento imprimir más de una página, la impresora se atasca durante la secuencia de impresión de la segunda página. Ya he verificado y eliminado cualquier obstrucción visible dentro de la impresora y me he asegurado de que estoy utilizando el tipo y tamaño de papel apropiados.
+
+A pesar de estos esfuerzos, el problema sigue sin resolverse. ¿Podrían, por favor, guiarme a través de los siguientes pasos de solución de problemas o decirme si se requiere un reemplazo o reparación? Gracias por su ayuda para resolver este problema.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con respecto al problema de atascos de papel con su HP DeskJet 3755. Dado que ya ha verificado las obstrucciones y confirmado el tipo y tamaño de papel correctos, intente los siguientes pasos adicionales:
+
+1. Retire y vuelva a cargar el papel en la bandeja de entrada asegurándose de que esté alineado correctamente.
+2. Apague la impresora, desconéctela de la fuente de alimentación, espere 60 segundos, luego vuelva a conectarla y enciéndala de nuevo.
+3. Ejecute la utilidad de limpieza de alimentación de papel de la impresora desde su software.
+
+Si el problema persiste, es posible que necesite que se le haga mantenimiento a la impresora. Comuníquese directamente con el soporte de HP para obtener más instrucciones o comuníquese con el minorista, Tech Online Store, para obtener opciones de garantía o reemplazo.
+
+Saludos cordiales,
+Servicio de atención al cliente

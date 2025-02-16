@@ -1,0 +1,33 @@
+Ticket ID: ticket_2460
+Subject: Touchscreen Issue with Surface Pro 7
+Incident Type: Problem
+Customer Issue: Hello Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to express my concern regarding an ongoing issue I am experiencing with a product purchased from your store. The product in question is a Microsoft Surface Pro 7, a 2-in-1 Windows 10 device with a detachable keyboard. Unfortunately, the touchscreen, a crucial feature of this device, has become unresponsive, which significantly hampers its usability.
+
+I have already attempted several basic troubleshooting steps, such as restarting the device and checking for available software updates, to no avail. Additionally, I ensured that there were no obstructions such as dirt or damage on the screen, which could potentially cause this problem.
+
+For verification purposes, my order number is <acc_num>, and I purchased the device on <purchase_date>. It is concerning that such an issue has arisen within a short period of ownership, and I am seeking your guidance on the possible steps to rectify this.
+
+I kindly request that you advise on whether this is a known issue and if there might be specific troubleshooting steps I could follow. Alternatively, let me know if the device can be repaired or replaced under warranty.
+
+I appreciate your prompt attention to this matter and look forward to your reply. You can reach me at <email> or <tel_num> for any further information you may require.
+
+Thank you for your assistance.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your Microsoft Surface Pro 7 touchscreen issue. We understand how important it is for your device to function properly and apologize for the inconvenience caused.
+
+Based on your description of the problem and the steps you've already taken, please perform the following additional checks: 1) Ensure your device's firmware is up to date by visiting Microsoft's support site. 2) Run the Windows Troubleshooter specifically designed for touchscreen problems. 
+
+If these steps don’t resolve the issue, it might be a hardware fault. Given that the device is within warranty and purchased recently on <purchase_date>, you can consider seeking a repair or replacement.
+
+Please visit a nearby authorized service center with your order number (<acc_num>) and proof of purchase for further assistance. Alternatively, let me know if you need us to guide you through the warranty claim process.
+
+We appreciate your patience and are committed to resolving your issue as quickly as possible. For further assistance, feel free to contact us at <email> or <tel_num>.
+
+Best regards,
+Tech Online Store Customer Support

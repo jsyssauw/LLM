@@ -1,0 +1,32 @@
+Ticket ID: ticket_1964
+Subject: Assistance requise pour la configuration sans fil
+Incident Type: Request
+Customer Issue: Cher équipe de support client,
+
+J'espère que ce message vous trouve en bonne santé. Je me tourne vers vous pour demander de l'aide pour configurer l'impression sans fil sur mon imprimante HP DeskJet 3755. J'ai rencontré des difficultés pour connecter l'imprimante à mon réseau sans fil et j'apprécierais énormément vos conseils pour résoudre ce problème.
+
+J'ai essayé de suivre les instructions fournies dans le manuel d'utilisation, mais malheureusement, je n'ai pas eu de succès. Comme je dépends beaucoup de l'impression à des fins personnelles et professionnelles, il est crucial pour moi de faire résoudre ce problème dans les meilleurs délais.
+
+Pourriez-vous s'il vous plaît me fournir des étapes de dépannage ou un support à distance pour m'aider dans le processus de configuration ? S'il y a des exigences ou des configurations spécifiques qui doivent être effectuées, veuillez également me conseiller à ce sujet.
+
+Merci de votre attention rapide à ce sujet. J'attends votre réponse avec impatience et j'espère que l'impression sans fil fonctionnera bientôt sans problème.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Laissez-nous vous aider à configurer votre HP DeskJet 3755 pour l'impression sans fil. Veuillez suivre ces étapes :
+
+1. Assurez-vous que votre imprimante est sous tension et à portée de votre routeur Wi-Fi.
+2. Sur l'imprimante, appuyez et maintenez le bouton sans fil jusqu'à ce que la lumière commence à clignoter.
+3. Ensuite, appuyez sur le bouton WPS de votre routeur dans les deux minutes.
+4. Téléchargez et installez l'application HP Smart sur votre appareil depuis le site Web HP ou le magasin d'applications.
+5. Ouvrez l'application HP Smart, sélectionnez l'imprimante et suivez les instructions à l'écran.
+
+Si ces étapes ne résolvent pas le problème, veuillez nous le faire savoir et nous pouvons organiser un support à distance pour vous aider davantage. Assurez-vous que le pare-feu de votre appareil ne bloque pas la connexion.
+
+N'hésitez pas à nous contacter si vous avez des questions.
+
+Cordialement,
+Équipe de support client

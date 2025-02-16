@@ -1,0 +1,5 @@
+Ticket ID: ticket_1992
+Subject: Zahlungssystemfehler
+Incident Type: Incident
+Customer Issue: Sehr geehrter IT-Servicedienst, ich kann meine Kreditkartendaten für mein laufendes AWS-Abonnement aufgrund eines Zahlungssystemfehlers nicht aktualisieren. Könnten Sie mir bitte helfen, dieses Problem zu lösen? Das betroffene Produkt ist der AWS-Management-Service. Meine Kontonummer ist <acc_num>. Vielen Dank, <name>.
+Customer Service answer: Sehr geehrter <name>, wir entschuldigen uns für die Unannehmlichkeiten. Bitte versuchen Sie, Ihren Cache und Ihre Cookies zu löschen oder einen anderen Browser zu verwenden. Wenn das Problem weiterhin besteht, wenden Sie sich direkt an unser Abrechnungssupport-Team, um weitere Unterstützung zu erhalten. Mit freundlichen Grüßen, IT-Servicedienst

@@ -1,0 +1,9 @@
+Ticket ID: ticket_239
+Subject: Request for Jira Software Workflow Customization
+Incident Type: Change
+Customer Issue: Dear Support Team, I would like to request a customization of the project workflow in Jira Software 8.20 to align better with our agile practices. Kind regards, <name>
+Customer Service answer: Dear <name>, 
+
+Thank you for reaching out. We have received your request for Jira Software workflow customization. Our team will review it and get back to you shortly.
+
+Best regards.

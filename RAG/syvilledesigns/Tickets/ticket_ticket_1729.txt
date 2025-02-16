@@ -1,0 +1,10 @@
+Ticket ID: ticket_1729
+Subject: Incident de haute priorité : résolution immédiate du déploiement AWS nécessaire
+Incident Type: Incident
+Customer Issue: Cher service client, nous rencontrons des problèmes importants avec le service de gestion AWS impactant le déploiement et l'infrastructure. Cela nécessite une résolution immédiate pour maintenir notre continuité opérationnelle. Une assistance rapide serait grandement appréciée. Merci.
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant le problème du service de gestion AWS. Nous comprenons l'urgence et son impact sur vos opérations. Notre équipe technique enquête déjà sur la question et travaille rapidement à sa résolution. Nous vous tiendrons informé de l'avancement et visons à rétablir la situation normale dès que possible. Nous apprécions votre patience et votre coopération pendant cette période.
+
+Cordialement,
+L'équipe du service client

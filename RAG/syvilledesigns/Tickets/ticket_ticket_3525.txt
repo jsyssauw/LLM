@@ -1,0 +1,31 @@
+Ticket ID: ticket_3525
+Subject: Pedido de Esclarecimento sobre as Taxas de Renovação Anual
+Incident Type: Request
+Customer Issue: Prezado Suporte ao Cliente da Tech Online Store,
+
+Estou escrevendo para solicitar esclarecimentos sobre as taxas de renovação anual do Microsoft Office 365 que apareceram recentemente na declaração da minha conta. Meu nome é <name> e meu número de conta é <acc_num>. Ao revisar meu último extrato, notei uma cobrança inesperada relacionada à renovação do Microsoft Office 365 que não me lembro de ter autorizado ou recebido notificação prévia.
+
+Peço gentilmente uma explicação detalhada sobre essa cobrança, incluindo os termos da política de renovação associados ao Microsoft Office 365. Se houver alterações nos termos da assinatura ou nos preços, eu apreciaria receber essas informações. Além disso, se essa cobrança foi um erro, gostaria de saber quais são os passos para ajustar minha declaração de acordo.
+
+Por favor, entre em contato comigo diretamente pelo <tel_num> ou responda a este e-mail assim que possível. Agradeço pela atenção dada a este assunto e por fornecer clareza sobre esta questão.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato conosco sobre a inesperada cobrança de renovação do Microsoft Office 365. Pedimos desculpas por qualquer confusão que isso possa ter causado.
+
+A cobrança recente em sua conta foi pela renovação anual de sua assinatura do Microsoft Office 365. Essas renovações são geralmente processadas automaticamente para garantir um serviço ininterrupto. No entanto, entendemos que pode ser inesperado se não for antecipado.
+
+Para esclarecer a cobrança, revisaremos os termos da política de renovação do Office 365 e veremos se houve alterações nos termos da sua assinatura ou preços que possam não ter sido comunicados claramente.
+
+Se você não pretendia renovar ou se essa cobrança foi feita por engano, podemos certamente ajudar a revertê-la. Por favor, nos avise se você precisar que tomemos alguma ação nesse sentido.
+
+Iremos prosseguir com a investigação deste assunto e entraremos em contato em breve com as explicações ou ajustes necessários. Enquanto isso, sinta-se à vontade para entrar em contato conosco diretamente pelo <tel_num> ou continuar a se comunicar por meio deste e-mail.
+
+Obrigado pela sua paciência e compreensão.
+
+Atenciosamente,
+
+Suporte ao Cliente da Tech Online Store

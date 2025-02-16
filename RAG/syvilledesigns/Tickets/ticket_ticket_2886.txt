@@ -1,0 +1,15 @@
+Ticket ID: ticket_2886
+Subject: Jira-Ausfallproblem
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundendienst,
+
+wir haben einen unerwarteten Ausfall mit Jira Software 8.20 erlebt, der unsere Projektverfolgung und wichtigen Fristen erheblich beeinträchtigt hat. Dies hat den Arbeitsablauf in den Teams gestört. Bitte priorisieren Sie die Behebung dieses Problems. Wir benötigen sofortige Unterstützung, um unseren kritischen Projektfristen gerecht zu werden.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich des unerwarteten Ausfalls mit Jira Software 8.20 an uns gewandt haben. Wir verstehen die Dringlichkeit Ihrer Situation und die Auswirkungen auf Ihre Projektfristen. Unser technisches Team priorisiert bereits die Untersuchung und Behebung dieses Problems. Wir sind bestrebt, den Normalbetrieb so schnell wie möglich wiederherzustellen und werden Sie über unseren Fortschritt auf dem Laufenden halten. Wir schätzen Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+Kundendienstteam

@@ -1,0 +1,32 @@
+Ticket ID: ticket_611
+Subject: Problema de Rede Empresarial
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte de Serviços de TI,
+
+Estou entrando em contato para relatar um problema que estamos enfrentando com nosso Roteador Cisco ISR4331 na gestão das necessidades de rede empresarial. Nossa organização tem encontrado dificuldades significativas, pois o roteador parece incapaz de lidar com as demandas de alto desempenho necessárias para conexões seguras, que são uma função essencial para nossas operações.
+
+Recentemente, nossas necessidades de capacidade de rede aumentaram devido ao aumento do trabalho remoto, exigindo acesso seguro 24/7 para múltiplos usuários. Infelizmente, o roteador parece estar lutando nessas condições, levando a interrupções frequentes e uma incapacidade de manter conexões confiáveis e seguras. Essa degradação de desempenho está causando preocupação considerável, pois impacta severamente nossos processos e produtividade de negócios.
+
+Inicialmente, selecionamos o Roteador Cisco ISR4331 por suas especificações robustas, que, no papel, pareciam mais do que adequadas para nossas necessidades. No entanto, na prática, está provando ser inadequado para nossas demandas crescentes. Apesar de várias tentativas de ajustes de configuração e uma atualização para o firmware mais recente, o problema persiste. Especulamos que as limitações atuais de hardware podem não ser suficientes para nossas necessidades, mas apreciaríamos uma avaliação especializada de sua equipe para confirmar isso e aconselhar sobre possíveis soluções.
+
+Nosso objetivo é garantir conectividade robusta e de alta velocidade para nossas operações internas e voltadas para o cliente, com as medidas de segurança necessárias não comprometidas. Por favor, reconheça este pedido o mais rápido possível e aconselhe sobre etapas ou oportunidades para suporte aprimorado, avaliação ou até mesmo uma atualização para um modelo de roteador mais adequado, se considerado necessário.
+
+Obrigado pela sua atenção a este assunto urgente. Aguardo sua rápida resposta.
+
+Atenciosamente,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre os problemas com seu Roteador Cisco ISR4331. Entendemos a urgência de manter conexões seguras e confiáveis para suas necessidades empresariais, especialmente com o aumento das demandas de trabalho remoto.
+
+Teremos um especialista de nossa equipe avaliando a situação e determinando se o hardware atual está atendendo suas necessidades ou se um suporte aprimorado é necessário. Enquanto isso, por favor, certifique-se de que todas as atualizações recentes de firmware tenham sido aplicadas corretamente e considere nos fornecer registros de configuração detalhados para uma análise mais aprofundada.
+
+Um membro de nossa equipe entrará em contato com você em breve para iniciar este processo e explorar soluções potenciais, incluindo a possibilidade de atualizar para um roteador que atenda melhor suas crescentes necessidades de desempenho.
+
+Agradecemos sua paciência e cooperação. A conectividade e segurança de seus negócios são nossas prioridades, e trabalharemos rapidamente para resolver isso.
+
+Atenciosamente,
+Time de Suporte de Serviços de TI

@@ -1,0 +1,15 @@
+Ticket ID: ticket_3479
+Subject: nan
+Incident Type: Change
+Customer Issue: Hola, estamos buscando ayuda para migrar nuestras direcciones de correo electrónico existentes a Gmail y establecer herramientas de colaboración empresarial en Google Workspace Business Standard. Por favor, proporcione orientación sobre el proceso y cualquier requisito. Saludos, <name>
+Customer Service answer: Estimado <name>,
+
+Para migrar direcciones de correo electrónico a Gmail y configurar Google Workspace Business Standard:
+1. Verifique su dominio.
+2. Configure cuentas de usuario.
+3. Utilice el Servicio de Migración de Datos.
+4. Configure las herramientas empresariales.
+Consulte el soporte de Google para obtener pasos detallados.
+
+Atentamente,
+Agente del Servicio de Asistencia

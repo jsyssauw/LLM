@@ -1,0 +1,5 @@
+Ticket ID: ticket_2022
+Subject: Intermittent connectivity on ISR4331
+Incident Type: Problem
+Customer Issue: Conflicting network configurations.
+Customer Service answer: Please review and standardize your network configurations for consistent connectivity.

@@ -1,0 +1,32 @@
+Ticket ID: ticket_1713
+Subject: Problemas de caídas de aplicaciones
+Incident Type: Problem
+Customer Issue: Estimado cliente del soporte técnico de la tienda en línea, 
+
+Estoy escribiendo para informar sobre un problema que estoy experimentando con mi Microsoft Surface Pro 7. Desde que actualicé mi dispositivo a la última versión de Windows 10, he estado enfrentando caídas frecuentes de aplicaciones. Esto ha interrumpido significativamente mi flujo de trabajo y se está volviendo cada vez más frustrante.
+
+¿Podrían por favor proporcionarme orientación sobre cómo resolver este problema? Cualquier solución o recomendación disponible sería muy apreciada. Mi Surface Pro 7 todavía está bajo garantía con el número de cuenta <acc_num>. Por favor, hágamelo saber si necesitan información adicional.
+
+Gracias por su asistencia.
+
+Atentamente,
+<name>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactar al soporte técnico de la tienda en línea. Lamentamos saber sobre las caídas de aplicaciones que está experimentando con su Microsoft Surface Pro 7. Aquí hay algunos pasos que pueden ayudar a resolver el problema:
+
+1. **Actualizar controladores**: Asegúrese de que todos los controladores del dispositivo estén actualizados. Puede hacerlo a través del 'Administrador de dispositivos' o visitando el sitio web del fabricante.
+   
+2. **Verificar actualizaciones adicionales de Windows**: A veces, actualizaciones posteriores solucionan errores. Vaya a 'Configuración' > 'Actualización y seguridad' > 'Actualización de Windows' y verifique si hay actualizaciones.
+
+3. **Limpiar archivos temporales**: Utilice 'Liberador de espacio en disco' para limpiar archivos temporales que a veces pueden causar caídas.
+
+4. **Reinstalar aplicaciones problemáticas**: Si aplicaciones específicas están fallando, intente desinstalarlas y reinstalarlas desde Microsoft Store.
+
+5. **Ejecutar el solucionador de problemas**: Utilice el solucionador de problemas de Windows integrado para aplicaciones yendo a 'Configuración' > 'Actualización y seguridad' > 'Solucionar problemas'.
+
+Si estos pasos no resuelven el problema, responda con más detalles o contáctenos nuevamente. Como su dispositivo está bajo garantía, también podemos organizar una inspección más exhaustiva si es necesario.
+
+Atentamente,
+Soporte técnico de la tienda en línea

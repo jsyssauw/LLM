@@ -1,0 +1,16 @@
+Ticket ID: ticket_1940
+Subject: Request for billing details and payment options assistance
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I would like to request the billing details and available payment options for the recent IT Consulting Service engagement last month. My account number is <acc_num>. Please send the necessary information at your earliest convenience. You may contact me at <tel_num> if more information is needed. Looking forward to your prompt response.
+
+Thank you,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We will send the billing details and available payment options for your recent IT Consulting Service engagement to the email we have on file shortly. If we require any additional information, we will contact you at the number you provided. If you have any more questions or need immediate assistance, feel free to let us know.
+
+Best regards,
+Customer Support Team

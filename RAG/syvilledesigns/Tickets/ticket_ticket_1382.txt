@@ -1,0 +1,8 @@
+Ticket ID: ticket_1382
+Subject: Problema con Zoom 5.11.0 durante el seminario web
+Incident Type: Incident
+Customer Issue: Estimado Soporte, Durante nuestro reciente seminario web utilizando Zoom 5.11.0, los asistentes experimentaron cortes de audio repetidos y problemas de conectividad. Por favor, guíenos sobre cómo resolver este asunto urgente. Gracias, <name>
+Customer Service answer: Estimado <name>, por favor actualice Zoom a la última versión y asegúrese de tener una conexión a internet estable durante los seminarios web. Si los problemas persisten, intente usar un dispositivo alternativo o contacte directamente al soporte de Zoom.
+
+Saludos cordiales,
+Equipo de Soporte

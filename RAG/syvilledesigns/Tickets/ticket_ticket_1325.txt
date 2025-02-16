@@ -1,0 +1,30 @@
+Ticket ID: ticket_1325
+Subject: Incorrect Billing Issue with AWS Service
+Incident Type: Incident
+Customer Issue: Hello Customer Support,
+
+I am writing to report an issue with the recent billing for our AWS Management Service account, <acc_num>. This month, we've noticed unexpected high data usage charges which we believe is incorrect. The invoice suggests a significant spike in data consumption, which does not align with our records and usual usage patterns.
+
+Could you please investigate this discrepancy and provide us with an explanation or a possible correction? We are concerned about the impact of these charges on our budget. Feel free to reach me at <tel_num> for further explanations if needed.
+
+Thank you for resolving this matter at your earliest convenience.
+
+Best Regards,
+
+<name>
+Customer Service answer: Subject: Re: Incorrect Billing Issue with AWS Service
+
+Dear <name>,
+
+Thank you for reaching out regarding the billing issue with your AWS Management Service account, <acc_num>. We apologize for any inconvenience caused by this discrepancy.
+
+I have initiated an investigation into the unexpected data usage charges. Our billing team is looking into the details, and we aim to clarify the situation as soon as possible. We are committed to providing you with an accurate explanation and necessary corrections if any errors are confirmed.
+
+In the meantime, your account has been noted for monitoring to prevent further issues. We will update you with our findings or if further information is needed.
+
+Should you have any questions, feel free to reach out at your convenience.
+
+Thank you for your patience and understanding.
+
+Sincerely,
+Customer Support Team

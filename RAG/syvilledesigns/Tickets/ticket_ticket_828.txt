@@ -1,0 +1,5 @@
+Ticket ID: ticket_828
+Subject: Urgent: Unexpected shutdown issue with MacBook Air M1
+Incident Type: Request
+Customer Issue: My MacBook Air M1 is shutting down frequently.
+Customer Service answer: Please reset the SMC and update macOS. If it persists, contact Apple support.

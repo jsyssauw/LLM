@@ -1,0 +1,24 @@
+Ticket ID: ticket_1186
+Subject: Probleme mit flackerndem Display beim Dell XPS 13
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich habe ein geringfügiges Problem mit meinem Dell XPS 13 9310, das ich im Tech Online Store gekauft habe. Gelegentlich flackert das Display, wenn es auf niedrige Helligkeit eingestellt ist. Ich bitte um Ihre Hilfe, um dieses Problem so schnell wie möglich zu lösen.
+
+Vielen Dank!
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns wegen des flackernden Displays Ihres Dell XPS 13 9310 kontaktiert haben. Um das Problem zu beheben, versuchen Sie bitte die folgenden Schritte:
+
+1. Aktualisieren Sie Ihre Grafiktreiber von der Dell-Support-Website.
+2. Überprüfen Sie, ob es verfügbare Systemupdates oder BIOS-Updates für Ihr Laptop gibt.
+3. Passen Sie die Energieeinstellungen an und deaktivieren Sie die adaptive Helligkeit unter "Energie- und Sleep-Einstellungen".
+
+Wenn das Problem nach diesen Schritten weiterhin besteht, lassen Sie es uns bitte wissen, und wir können Ihnen weiterhelfen.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

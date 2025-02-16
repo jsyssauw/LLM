@@ -1,0 +1,10 @@
+Ticket ID: ticket_2224
+Subject: Wiederholtes Bildschirmflimmern Problem gemeldet
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice, ich schreibe, um wiederholte Bildschirmflimmerprobleme mit meinem kürzlich erworbenen Microsoft Surface Pro 7 zu melden. Trotz mehrerer durchgeführter Fehlersuche bleibt das Problem bestehen. Könnten Sie mich bitte anleiten, wie ich mit der Reparatur oder dem Austausch verfahren soll? Ihre Unterstützung bei der Lösung dieses Problems wäre sehr geschätzt. Vielen Dank, <name> E-Mail: <email> Telefon: <tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Es tut uns leid zu hören, dass es ein Bildschirmflimmerproblem mit Ihrem Microsoft Surface Pro 7 gibt. Bitte besuchen Sie unsere Website des Servicecenters und buchen Sie einen Termin für eine Reparatur oder einen Austausch. Wenn Sie weitere Hilfe benötigen, zögern Sie nicht, auf diese E-Mail zu antworten.
+
+Mit freundlichen Grüßen,
+Kundenservice

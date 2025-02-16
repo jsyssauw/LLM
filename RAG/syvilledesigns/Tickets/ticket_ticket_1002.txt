@@ -1,0 +1,48 @@
+Ticket ID: ticket_1002
+Subject: Soporte Necesario para Solucionar Problemas con Extensiones
+Incident Type: Request
+Customer Issue: Estimado Equipo de Soporte,
+
+Confío en que este mensaje los encuentre en buena salud. Me comunico para solicitar ayuda con un problema persistente que he estado enfrentando mientras intento depurar extensiones en el entorno de Visual Studio Code 1.70. Este proceso ha resultado ser más difícil de lo esperado, afectando notablemente mi productividad. Aunque me doy cuenta de que las características de depuración están diseñadas para promover una mejor experiencia de desarrollo, me encuentro incapaz de utilizarlas adecuadamente debido a problemas continuos.
+
+Detalles del Problema:
+- Versión de Aplicación: Visual Studio Code 1.70
+- Tipo de Problema: Problemas con la depuración de extensiones.
+
+A pesar de haber pasado por varios métodos de solución de problemas, incluyendo reiniciar el IDE, actualizar las extensiones y modificar la configuración de lanzamiento, el problema sigue existiendo. Recibir orientación especializada para esta versión sería inmensamente útil.
+
+¿Podrían ofrecer información sobre problemas conocidos relacionados con esta versión, o posiblemente proponer un método más efectivo para solucionar este problema? Estoy dispuesto a proporcionar información adicional sobre los mensajes de error o especificaciones sobre las extensiones en uso si es necesario.
+
+Agradezco su atención con respecto a esta inquietud. Estoy ansioso por su pronta respuesta para poder continuar con mi trabajo de desarrollo sin más interrupciones.
+
+Atentamente,
+
+<name>
+
+<name> <acc_num>
+<tel_num>
+Customer Service answer: Hola <name>,
+
+Gracias por contactarnos sobre las dificultades que estás teniendo con la depuración de extensiones en la versión 1.70 de Visual Studio Code.
+
+Aquí hay algunas acciones específicas que puedes considerar:
+
+1. **Problemas Conocidos**: Consulta las Notas de la Versión y el repositorio de GitHub de Visual Studio Code para buscar cualquier problema reconocido vinculado a la versión 1.70.
+
+2. **Versión Insider**: Podrías cambiar temporalmente a la versión Insider de Visual Studio Code para comprobar si el problema persiste, ya que esta versión puede incluir correcciones que no se encuentran en la versión estable.
+
+3. **Actualizar Extensiones**: Asegúrate de que todas las extensiones que tienes instaladas estén actualizadas a sus últimas versiones, ya que a menudo las incompatibilidades pueden llevar a tales problemas.
+
+4. **Borrar Caché**: Intenta eliminar la caché eliminando el contenido de la carpeta '.vscode' relacionada con tu proyecto, luego reinicia Visual Studio Code.
+
+5. **Verificación de Configuración**: Revisa la configuración de lanzamiento en `launch.json` para confirmar su corrección o vuelve a la configuración predeterminada si hay alguna confusión.
+
+6. **Revisar Registros de Errores**: Habilita el registro detallado para resaltar errores específicos o complementos problemáticos que puedan resolverse directamente.
+
+Si estos métodos no resuelven tu problema, por favor proporciona detalles adicionales como mensajes de error específicos o capturas de pantalla, y asistiremos más.
+
+Esperamos poder ayudarte a volver a tu trabajo de desarrollo sin problemas.
+
+Atentamente,
+
+Equipo de Atención al Cliente

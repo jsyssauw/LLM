@@ -1,0 +1,16 @@
+Ticket ID: ticket_3601
+Subject: Problemas de conectividad intermitente con AWS
+Incident Type: Incident
+Customer Issue: Estimado soporte al cliente de la firma de consultoría de TI, estoy escribiendo para informar que <name> está enfrentando problemas de conectividad intermitente con los servidores de AWS, lo que está causando interrupciones significativas en sus operaciones comerciales. El servicio afectado es el Servicio de Gestión de AWS. Este problema de conectividad es impredecible y parece ocurrir varias veces al día, causando que procesos importantes se detengan inesperadamente. Hemos intentado varios pasos de solución de problemas de nuestra parte, pero no hemos logrado resolver el problema. Una solución rápida es crítica ya que nuestro cliente está experimentando grandes retrasos e inconvenientes. Solicitamos amablemente el análisis y la asistencia de su equipo para diagnosticar la causa raíz de estas interrupciones de conectividad. Además, por favor indique cualquier paso que podamos tomar en colaboración con sus técnicos para estabilizar la situación. Estoy disponible en <tel_num> para una discusión más detallada. Gracias por su pronta atención a este asunto. Saludos cordiales, <name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos sobre los problemas de conectividad con el Servicio de Gestión de AWS. Entendemos la urgencia de resolver este asunto rápidamente, ya que impacta significativamente en las operaciones comerciales de su cliente.
+
+Nuestro equipo analizará a fondo la situación y colaborará con el soporte de AWS para identificar la causa raíz de estas interrupciones. Mientras tanto, ¿puede asegurarse de que todas las configuraciones de red y ajustes de seguridad de su parte estén alineados con las prácticas recomendadas por AWS? Esto puede mitigar temporalmente algunos problemas de conectividad.
+
+También organizaremos para que uno de nuestros técnicos se comunique con usted al <tel_num> para recopilar más información detallada y guiarlo a través de cualquier medida inmediata que pueda tomarse como medida temporal hasta que se encuentre una solución permanente.
+
+Gracias por traernos esto a nuestra atención. Su paciencia y cooperación en este asunto son muy apreciadas. Estamos comprometidos a resolver este problema de manera rápida.
+
+Saludos cordiales,
+Equipo de soporte al cliente

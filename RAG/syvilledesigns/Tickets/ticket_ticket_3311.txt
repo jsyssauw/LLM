@@ -1,0 +1,10 @@
+Ticket ID: ticket_3311
+Subject: Assistance Needed for Dell XPS 13 Screen Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team, I am experiencing a screen flickering issue with my Dell XPS 13 9310 when using video applications. This problem disrupts my usage, and I cannot find a solution. Could you please provide troubleshooting guidance or arrange any necessary service? Thank you for your assistance. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. To address the screen flickering issue on your Dell XPS 13 9310, please try updating your graphics driver from the device manager and ensure your video application is up to date. If the issue persists, adjust the screen refresh rate in display settings. Should you need further assistance or hardware servicing, please contact Dell support to schedule a service. 
+
+Best regards,
+Customer Support Team

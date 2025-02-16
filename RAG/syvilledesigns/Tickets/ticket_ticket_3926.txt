@@ -1,0 +1,10 @@
+Ticket ID: ticket_3926
+Subject: Austausch Anfrage: Canon PIXMA MG3620 Drucker Problem
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam, ich habe kürzlich einen Canon PIXMA MG3620 Drucker in Ihrem Online-Shop gekauft. Bei der Einrichtung stellte ich fest, dass die drahtlosen Konfigurationseinstellungen inkorrekt sind. Ich möchte um einen Austausch dieses Artikels bitten. Bitte informieren Sie mich über das Verfahren. Vielen Dank, <name>. Meine Bestellreferenz ist <order_ref_num>.
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns zu Ihrem Canon PIXMA MG3620 Druckerproblem kontaktiert haben. Wir entschuldigen uns für die Unannehmlichkeiten. Um einen Austausch zu veranlassen, bitte senden Sie den Drucker in der Originalverpackung, einschließlich aller Zubehörteile, zurück. Besuchen Sie unser Rückgabeportal auf unserer Website und geben Sie Ihre Bestellreferenz <order_ref_num> ein, um die Rückgabe einzuleiten. Nach der Bearbeitung werden wir Ihnen ein Ersatzgerät zusenden. Wenn Sie weitere Fragen haben, können Sie sich gerne an uns wenden.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

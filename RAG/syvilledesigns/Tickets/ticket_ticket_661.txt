@@ -1,0 +1,5 @@
+Ticket ID: ticket_661
+Subject: Frequent Disconnects with Router
+Incident Type: Incident
+Customer Issue: Experiencing network issues with Cisco Router ISR4331 causing frequent disconnects.
+Customer Service answer: We recommend restarting your Cisco ISR4331 router and checking for firmware updates. If issues persist, please contact our support team for further assistance.

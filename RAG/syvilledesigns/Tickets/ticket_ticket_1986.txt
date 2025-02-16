@@ -1,0 +1,32 @@
+Ticket ID: ticket_1986
+Subject: Problemas Frequentes com o Roteador Cisco ISR4331
+Incident Type: Problem
+Customer Issue: Prezado Time de Suporte ao Cliente,
+
+Estou entrando em contato para relatar problemas intermitentes de conexão que estamos experimentando com nosso Roteador Cisco ISR4331, o que tem afetado a confiabilidade da nossa rede local dentro do nosso escritório. Esses problemas têm perturbado nossas operações diárias, criando ineficiências e atrasos.
+
+Nosso escritório depende fortemente de uma conexão de rede estável para atividades como compartilhamento de arquivos, projetos colaborativos e comunicação com clientes. No entanto, as quedas frequentes de conexão estão impactando nossa produtividade significativamente. Realizamos diagnósticos preliminares, incluindo reiniciar o roteador várias vezes e verificar todas as conexões físicas, mas o problema persiste.
+
+Solicitamos gentilmente sua assistência para diagnosticar e resolver esse problema prontamente. Agradeceríamos orientações sobre quaisquer etapas de solução de problemas que possamos ter negligenciado ou se uma intervenção técnica é necessária. Se você precisar de mais informações ou logs do roteador para auxiliar em seus diagnósticos, por favor, nos avise.
+
+Obrigado pela sua atenção a este assunto. Aguardamos sua resolução rápida.
+
+Atenciosamente,
+
+<name>
+<name> Equipe de Soluções
+Contato: <tel_num>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato conosco sobre os problemas com seu Roteador Cisco ISR4331. Entendemos a importância de uma rede estável para suas operações e estamos aqui para ajudar.
+
+Primeiramente, por favor, certifique-se de que o firmware está atualizado, pois softwares desatualizados podem às vezes causar problemas de conectividade. Se o firmware estiver atual, considere redefinir o roteador para as configurações de fábrica, pois isso pode resolver qualquer falha de software.
+
+Como você já reiniciou e verificou as conexões físicas, o próximo passo pode envolver verificar as configurações do roteador e os logs para identificar qualquer atividade ou erro incomum. Habilitar o logging e analisar o syslog pode fornecer insights sobre as quedas de conexão.
+
+Se essas etapas não resolverem o problema, podemos agendar um especialista técnico para ajudar mais. Por favor, forneça quaisquer logs de erro ou detalhes adicionais que você possa ter coletado para um diagnóstico mais abrangente.
+
+Sinta-se à vontade para nos contatar a qualquer momento se precisar de mais informações ou assistência. Estamos comprometidos em restaurar sua confiabilidade de rede rapidamente.
+
+Atenciosamente,
+Equipe de Atendimento

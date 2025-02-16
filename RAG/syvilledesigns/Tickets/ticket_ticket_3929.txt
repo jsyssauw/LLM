@@ -1,0 +1,23 @@
+Ticket ID: ticket_3929
+Subject: Request for Technical Assistance with Dell XPS 13 9310
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I am writing to request technical assistance for my Dell XPS 13 9310, which has been experiencing unexpected shutdowns during task performance. This issue hinders my productivity and requires urgent attention. Please provide guidance or potential solutions to resolve this problem. I have ensured all software updates are current and performed basic troubleshooting, but the problem persists. Kindly let me know the next steps or if you require further information to assist in this matter.
+
+Thank you for your support.
+
+Sincerely, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issue with your Dell XPS 13 9310. We suggest trying the following steps to resolve the unexpected shutdowns:
+
+1. Check for any overheating by ensuring the air vents are not blocked or dusty. 
+2. Run the built-in hardware diagnostics by restarting your device and pressing F12 to access the Boot Menu.
+3. Update or reinstall your device drivers through the Dell Support website.
+4. Consider performing a system restore to a point before the problem began if applicable.
+
+If these steps do not resolve the issue, please let us know so we can escalate this to our technical team for further investigation. Feel free to share any error messages or details that might assist in diagnosing the problem. We’re here to help.
+
+Best regards,  
+Tech Online Store Customer Support

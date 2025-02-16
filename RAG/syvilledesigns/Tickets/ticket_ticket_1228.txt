@@ -1,0 +1,28 @@
+Ticket ID: ticket_1228
+Subject: Solicitud de Optimización de Costos de AWS
+Incident Type: Request
+Customer Issue: Hola,
+
+Espero que este mensaje te encuentre bien. Estoy escribiendo para solicitar asistencia con la optimización del uso del Servicio de Gestión de AWS para nuestra empresa con el fin de reducir eficientemente los gastos operativos. Por favor, proporciona ideas o acciones que podamos considerar para lograr ahorros de costos.
+
+Gracias por tu apoyo.
+
+Atentamente,
+<name>
+Número de Cuenta: <acc_num>
+Número de Teléfono: <tel_num>
+Customer Service answer: Hola,
+
+Gracias por ponerte en contacto con nosotros sobre la optimización de costos de AWS. Para reducir eficientemente los gastos operativos, considera las siguientes acciones:
+
+1. Analiza tu uso actual con AWS Cost Explorer para identificar recursos infrautilizados.
+2. Implementa Auto Scaling para ajustar el uso de recursos a la demanda, limitando costos.
+3. Reserva instancias para cargas de trabajo predecibles para beneficiarte de tarifas con descuento.
+4. Optimiza el almacenamiento moviendo datos a los que se accede infrecuentemente a niveles más baratos, como S3 Glacier.
+5. Aprovecha AWS Trusted Advisor para recomendaciones personalizadas de optimización.
+6. Considera arquitecturas sin servidor como AWS Lambda para reducir costos de infraestructura.
+
+Háznos saber si necesitas más ayuda.
+
+Atentamente,
+Agente del Servicio de Atención al Cliente

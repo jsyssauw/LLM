@@ -1,0 +1,34 @@
+Ticket ID: ticket_643
+Subject: Dringende Unterstützung für MacBook Air M1 Abschaltungen benötigt
+Incident Type: Problem
+Customer Issue: Hallo Kundenserviceteam,
+
+ich wende mich an Sie, um dringend technische Unterstützung bezüglich eines Problems mit meinem MacBook Air M1 zu erhalten, das ich kürzlich in Ihrem Geschäft gekauft habe. In den letzten Tagen hat das Gerät ohne Vorwarnung während des Betriebs plötzliche Abschaltungen erlitten. Dieses Problem tritt zufällig auf und stört erheblich meine Arbeit und täglichen Aktivitäten.
+
+Ich habe sichergestellt, dass mein Betriebssystem auf dem neuesten Stand ist, und auch eine gründliche Überprüfung vorgenommen, ohne selbst Hardwareabweichungen festzustellen. Leider treten die unerwarteten Abschaltungen weiterhin auf, wodurch das Gerät für den täglichen Gebrauch unzuverlässig geworden ist.
+
+Könnten Sie bitte Anleitungen geben, wie ich dieses Problem lösen kann? Falls eine technische Inspektion oder ein Servicetermin erforderlich ist, leiten Sie mich bitte zu dem entsprechenden Verfahren. Da dies für meine beruflichen Verpflichtungen entscheidend ist, schätze ich jede beschleunigte Unterstützung, die Sie anbieten können.
+
+Vielen Dank für Ihre Aufmerksamkeit für dieses dringende Anliegen. Bitte lassen Sie mich wissen, ob Sie Informationen von meiner Seite benötigen.
+
+Mit freundlichen Grüßen,
+
+<name>
+<name@example.com>
+<tel_num>
+Customer Service answer: Hallo <name>,
+
+vielen Dank, dass Sie uns bezüglich Ihres MacBook Air M1-Problems kontaktiert haben. Wir verstehen die Dringlichkeit und Unannehmlichkeiten, die durch die unerwarteten Abschaltungen verursacht werden.
+
+Um dies zu beheben, versuchen Sie bitte die folgenden ersten Schritte zur Fehlersuche:
+
+1. Setzen Sie den System Management Controller (SMC) und NVRAM/PRAM zurück.
+2. Überprüfen Sie, ob es aktuelle Updates oder Patches gibt, die installiert werden müssen.
+3. Stellen Sie sicher, dass keine Anwendungen im Hintergrund ausgeführt werden, die eine Überhitzung verursachen könnten.
+
+Wenn das Problem nach diesen Schritten weiterhin besteht, empfehlen wir eine technische Inspektion. Für einen beschleunigten Termin besuchen Sie bitte unser Serviceportal, um eine passende Zeit zu buchen. Alternativ können Sie uns unter <tel_num> anrufen, um sofortige Unterstützung zu erhalten.
+
+Lassen Sie uns wissen, ob weitere Informationen benötigt werden. Wir sind hier, um dieses Problem schnell zu lösen.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

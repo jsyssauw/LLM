@@ -1,0 +1,23 @@
+Ticket ID: ticket_1098
+Subject: IntelliJ IDEA 2024.1 Crashes Post Update
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I am writing to report an issue with IntelliJ IDEA 2024.1, which has been experiencing recurring crashes after the recent update. This problem is significantly affecting my Java development tasks, as the application becomes unresponsive and shuts down unexpectedly. I rely heavily on IntelliJ IDEA for my projects, and this issue is causing delays. Could you please investigate this matter and provide a solution or workaround at your earliest convenience? My developer ID is <dev_id>. Thank you for your prompt attention to this important concern. Regards, <name>
+Customer Service answer: Subject: RE: IntelliJ IDEA 2024.1 Crashes Post Update
+
+Dear <name>,
+
+Thank you for reaching out to us. We apologize for the inconvenience caused by the crashes in IntelliJ IDEA 2024.1. Our team is aware of the issue, and it is being investigated with high priority.
+
+In the meantime, please try the following steps to resolve the issue:
+1. Clear the cache via File > Invalidate Caches / Restart.
+2. Disable plugins that are not essential to your current project.
+3. Check for any subsequent patch updates from the JetBrains website.
+
+You might also want to consider rolling back to the previous stable version, if the above steps do not help.
+
+If the problem persists, please share any error logs if available, or provide more details about when the crashes occur. This information will assist us in diagnosing the problem effectively.
+
+We appreciate your patience and understanding. Please let us know if the provided solutions help or if further assistance is needed.
+
+Best regards,
+Customer Support Team

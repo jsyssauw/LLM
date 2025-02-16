@@ -1,0 +1,14 @@
+Ticket ID: ticket_3103
+Subject: Problema Urgente com o Deployment da AWS
+Incident Type: Incident
+Customer Issue: Caro time de Suporte de Serviços de TI, Estou escrevendo para informá-los sobre um problema crítico que estamos enfrentando com a implementação da nossa infraestrutura AWS, o que está afetando significativamente a eficiência operacional de nossos serviços em nuvem e os esforços de otimização de custos. O problema parece estar relacionado ao Serviço de Gerenciamento da AWS, causando interrupções em nossas operações comerciais regulares. Precisamos urgentemente da sua assistência para corrigir esse problema. Por favor, escale isso como um incidente de alta prioridade e aconselhe sobre os próximos passos possíveis. Anexados estão logs relevantes e dados de desempenho para sua referência. Aguardamos sua rápida resposta. Obrigado, <name>.
+Customer Service answer: Caro <name>,
+
+Obrigado por nos contatar sobre o problema com sua implementação da AWS. Entendemos a urgência da situação e escalamos isso como um incidente de alta prioridade conforme seu pedido.
+
+Nossa equipe está atualmente revisando os logs e os dados de desempenho que você forneceu para diagnosticar o problema com o Serviço de Gerenciamento da AWS. Garantimos que resolver essa questão é nossa maior prioridade. Manteremos você informado sobre nossas descobertas e os próximos passos necessários para restaurar sua eficiência operacional.
+
+Agradecemos sua paciência e cooperação neste assunto. Sinta-se à vontade para nos contatar se tiver mais perguntas ou receber informações adicionais.
+
+Atenciosamente,
+Equipe de Suporte de Serviços de TI

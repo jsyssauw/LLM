@@ -1,0 +1,17 @@
+Ticket ID: ticket_874
+Subject: Support for Activation
+Incident Type: Change
+Customer Issue: Hello Support Team,
+
+I require help with activating my Windows 11 Pro. I have attempted to follow the online instructions but have not been successful. Could you please guide me on the next steps or let me know if you need any further information from my side?
+
+Thank you,
+
+<name>
+<acc_num>
+Customer Service answer: Hello <name>,
+
+We appreciate your inquiry. Please make sure your device is connected to the internet and you possess a valid product key. If the problem continues, please share any error messages you encountered along with your product key for additional support.
+
+Best wishes,
+Support Team

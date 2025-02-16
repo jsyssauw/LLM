@@ -1,0 +1,19 @@
+Ticket ID: ticket_3037
+Subject: nan
+Incident Type: Incident
+Customer Issue: Cher service client,
+
+Je rencontre un problème avec le système de tickets depuis la récente mise à jour de Jira Software 8.20, qui empêche le chargement des projets. Cela affecte gravement nos tâches de gestion de projet. Pourriez-vous s'il vous plaît examiner cette question de toute urgence et fournir une solution ? Votre assistance rapide serait grandement appréciée.
+
+Merci,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Merci d'avoir porté ce problème à notre attention. Nous nous excusons pour le désagrément causé par la récente mise à jour de Jira Software 8.20. Notre équipe est au courant du problème affectant le chargement des projets et travaille activement sur une solution. Nous comprenons l'impact que cela a sur vos tâches de gestion de projet et vous assurons que ce problème est priorisé. Nous vous tiendrons informé dès que nous aurons une solution.
+
+Merci de votre patience et de votre compréhension.
+
+Cordialement,
+Service Desk Support

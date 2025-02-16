@@ -1,0 +1,12 @@
+Ticket ID: ticket_2048
+Subject: Pedido Urgente do Cliente: Atualização do Jira Software 8.20
+Incident Type: Change
+Customer Issue: Caro Time de Suporte ao Cliente, Nosso cliente, <name>, solicitou urgentemente que atualizássemos nossa ferramenta de gerenciamento de projetos para o Jira Software 8.20. Eles precisam dessa atualização para acessar os recursos aprimorados do sistema de ticket fornecidos nesta versão. O produto atualmente afetado é o Jira Software usado para gerenciamento de projetos. Por favor, priorize este pedido e nos ajude com os passos necessários para a atualização do software. Se precisar de mais detalhes ou tiver alguma pergunta, entre em contato comigo diretamente pelo <tel_num>. Obrigado pela sua atenção rápida a este assunto. Atenciosamente, <name>.
+Customer Service answer: Caro <name>,
+
+Obrigado pelo seu email. Entendemos a urgência de atualizar seu Jira Software para a versão 8.20. Nossa equipe está priorizando este pedido e fornecerá os passos necessários para a atualização do software em breve. Nosso objetivo é completar essa atualização rapidamente para garantir que seu cliente possa acessar os recursos aprimorados.
+
+Se precisarmos de mais detalhes, entraremos em contato diretamente pelo <tel_num>.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

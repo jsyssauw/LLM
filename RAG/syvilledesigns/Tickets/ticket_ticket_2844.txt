@@ -1,0 +1,31 @@
+Ticket ID: ticket_2844
+Subject: nan
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundensupport-Team,
+
+Ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um einen kleinen Fehler zu melden, den ich mit meinem MacBook Air M1 habe, das ich kürzlich in Ihrem Geschäft gekauft habe. Ich habe festgestellt, dass das Gerät nach relativ kurzer Zeit der Untätigkeit beim Aufwachen aus dem Ruhemodus manchmal nicht mit der gewohnten Geschwindigkeit und Effizienz reagiert. Dieses Problem tritt hauptsächlich nach kurzen Inaktivitätsperioden auf, ungefähr 5 bis 10 Minuten. Allerdings habe ich nicht bemerkt, dass dieses Problem nach längeren Schlafdauern auftritt.
+
+Dieses Problem hat bisher nicht erheblich meine Produktivität beeinträchtigt, aber ich würde gerne verstehen, ob dies ein häufiges Problem ist und ob es empfohlene Lösungen oder Patches dafür gibt. Ich bin stark auf mein MacBook für tägliche Aufgaben angewiesen, und obwohl es im Moment kein großes Hindernis darstellt, möchte ich sicherstellen, dass es sich nicht später zu einem signifikanten Problem entwickelt.
+
+Vielen Dank für Ihre Unterstützung und Hilfe. Ich freue mich auf Ihr Feedback und jede mögliche Lösung, die Sie vorschlagen können.
+
+Mit freundlichen Grüßen,
+<name>
+
+Kontaktinformationen: <tel_num>
+Bestelldetails: <acc_num>
+Customer Service answer: Lieber <name>,
+
+Vielen Dank, dass Sie sich wegen des Problems mit Ihrem MacBook Air M1 an uns gewandt haben. Wir verstehen, wie wichtig es ist, dass Ihr Gerät reibungslos funktioniert.
+
+Das Verhalten, das Sie erleben, kann manchmal bei Geräten nach kurzen Schlafphasen auftreten. Um dies zu beheben, empfehlen wir die folgenden Schritte:
+1. Stellen Sie sicher, dass Ihr macOS auf die neueste Version aktualisiert ist, da Updates oft Verbesserungen in Bezug auf Leistung und Stabilität umfassen.
+2. Ziehen Sie in Betracht, den System Management Controller (SMC) zurückzusetzen. Dies kann helfen, viele Leistungsprobleme zu lösen.
+3. Überprüfen Sie, ob im Hintergrund Anwendungen laufen, die zur Trägheit beim Aufwachen beitragen könnten.
+
+Wenn diese Schritte das Problem nicht lösen, ziehen Sie bitte in Betracht, unseren Laden für eine detaillierte Diagnose zu besuchen oder sich für zusätzliche technische Unterstützung zu melden.
+
+Wir sind hier, um sicherzustellen, dass Ihr MacBook optimal funktioniert. Lassen Sie uns wissen, wenn Sie weitere Hilfe benötigen.
+
+Mit freundlichen Grüßen,
+Kundensupport-Team

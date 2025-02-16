@@ -1,0 +1,5 @@
+Ticket ID: ticket_1908
+Subject: Aktualisierung der IT-Infrastrukturstrategie
+Incident Type: Change
+Customer Issue: Der Kunde sucht Änderungen in seiner IT-Infrastrukturstrategie. Sie benötigen aktualisierte Lösungen und Unterstützung von unseren Beratern für den IT-Beratungsdienst, den wir anbieten. Bitte helfen Sie entsprechend.
+Customer Service answer: Vielen Dank für Ihre Kontaktaufnahme. Unsere Berater sind bereit, aktualisierte IT-Lösungen zu besprechen und zu entwickeln, die auf Ihre Bedürfnisse zugeschnitten sind. Wir werden Sie bald kontaktieren, um ein Meeting zu vereinbaren.

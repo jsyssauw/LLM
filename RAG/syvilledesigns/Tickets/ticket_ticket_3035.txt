@@ -1,0 +1,15 @@
+Ticket ID: ticket_3035
+Subject: Problems Installing Norton Antivirus Plus: Urgent Help Needed for Resolution
+Incident Type: Incident
+Customer Issue: Hello <name>,
+
+I am encountering difficulties with the installation process of Norton Antivirus Plus on my equipment. I would appreciate your prompt help in rectifying this situation. Thank you very much.
+
+Sincerely,
+<name>
+Customer Service answer: Hi <name>,
+
+We appreciate you reaching out to us. Please verify that your device complies with the system requirements, turn off any software that may cause conflicts, and attempt the installation again. Should you continue to experience issues, please inform us for further support.
+
+Sincerely,
+<name>

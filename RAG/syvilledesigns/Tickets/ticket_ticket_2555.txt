@@ -1,0 +1,10 @@
+Ticket ID: ticket_2555
+Subject: Assistance Required for Microsoft Surface Pro 7 Keyboard Setup
+Incident Type: Request
+Customer Issue: Hello customer support, I need help with setting up the detachable keyboard for my new Microsoft Surface Pro 7. Kindly guide me through the installation steps. Your prompt assistance would be greatly appreciated. Thank you. Regards, <name>
+Customer Service answer: Dear <name>,
+
+To set up your Microsoft Surface Pro 7 keyboard: Attach the keyboard to the magnetic port at the base of your Surface. It should snap into place easily. If it doesn’t connect, ensure no obstructions and try reattaching. Restart your device if needed.
+
+Best,
+Customer Support

@@ -1,0 +1,37 @@
+Ticket ID: ticket_1386
+Subject: Problema de quedas frequentes na conexão de rede
+Incident Type: Problem
+Customer Issue: Caro time de suporte ao cliente,
+
+Estou escrevendo para expressar minha preocupação em relação a um problema que estamos enfrentando com nosso roteador Cisco ISR4331. Temos lidado com quedas frequentes de conexão que estão impactando severamente a estabilidade de nossa rede. Este problema está ocorrendo há várias semanas e parece estar piorando progressivamente. Dependemos fortemente de nossa infraestrutura de rede para gerenciar as operações diárias, e essas interrupções estão causando contratempos significativos.
+
+Apesar de nossos esforços para solucionar o problema internamente, não conseguimos identificar uma fonte definitiva ou uma solução alternativa para aliviar essas quedas. Garantimos que todo o firmware e software associados ao roteador estão atualizados, e todas as configurações parecem seguir as diretrizes recomendadas.
+
+Notamos que os problemas de conexão muitas vezes coincidem com os horários de pico da atividade da rede, mas também ocorrem esporadicamente ao longo do dia. Infelizmente, substituir o hardware não é uma solução viável no momento devido a restrições orçamentárias e desafios logísticos.
+
+Agradeceríamos muito sua assistência para resolver este problema o mais rápido possível. Se necessário, estamos abertos a agendar uma chamada ou sessão remota com sua equipe de suporte para diagnosticar melhor o problema. Por favor, nos avise como devemos proceder.
+
+Obrigado pela sua compreensão e apoio.
+
+Atenciosamente,
+<name>
+<tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre os problemas que você está enfrentando com seu roteador Cisco ISR4331. Entendemos a importância de uma rede estável para suas operações e estamos aqui para ajudar.
+
+Para lidar com as quedas de conexão, sugerimos que você tente os seguintes passos iniciais, se ainda não o fez:
+
+1. Verifique se há problemas conhecidos com o provedor de internet durante a atividade de pico.
+2. Revise os logs do roteador em busca de irregularidades ou erros que possam apontar para o problema.
+3. Confirme se as configurações de largura de banda estão alinhadas com a demanda atual da sua rede.
+4. Se não foi feito, realize uma reinicialização completa do roteador para limpar quaisquer problemas residuais.
+
+Dada a natureza persistente do problema, seria benéfico agendar uma chamada ou uma sessão de diagnóstico remoto com nossa equipe técnica. Por favor, nos forneça alguns horários e datas adequados em que você estará disponível, para que possamos agendar isso assim que possível.
+
+Estamos comprometidos em resolver esta questão rapidamente e garantir que sua rede funcione novamente sem problemas.
+
+Aguardamos sua resposta.
+
+Atenciosamente,
+Agente do Service Desk

@@ -1,0 +1,22 @@
+Ticket ID: ticket_2347
+Subject: Dringende Lösung für AWS-Ausfallzeiten und Kostenprobleme benötigt
+Incident Type: Problem
+Customer Issue: Sehr geehrter <name>,
+
+ich schreibe, um ernsthafte Ausfallzeiten und unerwartete Kosten im Zusammenhang mit unserer von _IT_Services_ verwalteten AWS-Infrastruktur zu berichten. Diese Probleme beeinträchtigen unsere Geschäftsabläufe und wir benötigen dringend Ihre Unterstützung, um sie zu lösen. Bitte optimieren Sie die Leistung, um Stabilität und effizientes Kostenmanagement zu gewährleisten. Wir schätzen Ihre zeitnahe Unterstützung und freuen uns auf eine schnelle Lösung.
+
+Vielen Dank.
+
+Mit freundlichen Grüßen,
+<name>
+Firmennamen: <company>
+Kontonummer: <acc_num>
+Kontakttelefonnummer: <tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich der Probleme mit Ihrer AWS-Infrastruktur an uns gewendet haben. Wir verstehen die Dringlichkeit und die Auswirkungen auf Ihr Geschäft. Unser Team wird sofort mit der Untersuchung der Ausfallzeiten und unerwarteten Kosten beginnen. Wir sind bestrebt, die Leistung Ihres Systems zu optimieren und die Kosteneffizienz zu verbessern. Sie werden in Kürze ein Update von uns mit unseren Erkenntnissen und vorgeschlagenen Lösungen erhalten.
+
+Wir schätzen Ihre Geduld und Ihr Vertrauen. Wenn Sie weitere Unterstützung benötigen, zögern Sie bitte nicht, uns zu kontaktieren.
+
+Mit freundlichen Grüßen,
+Service Desk Team

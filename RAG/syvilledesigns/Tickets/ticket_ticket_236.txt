@@ -1,0 +1,32 @@
+Ticket ID: ticket_236
+Subject: Request for Exchange: Printer Issues
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team, 
+
+I hope this message finds you well. I am reaching out to express my dissatisfaction with a recent purchase from your store. I bought a Canon PIXMA MG3620 printer, and since then, I have been experiencing recurring wireless connectivity issues and frequent error messages during printing.
+
+Each time I attempt to print wirelessly, the connection drops unexpectedly, which results in incomplete tasks. Moreover, the printer frequently displays various error messages that interrupt the printing process, making it exceedingly frustrating to complete any work.
+
+Given these persistent problems, I am requesting an exchange for this unit. I have already tried all the troubleshooting steps recommended in the manual, but unfortunately, the issues remain unresolved.
+
+Could you please advise on the next steps and how I can proceed with exchanging this product? I am hopeful that this matter can be resolved promptly. 
+
+Thank you for your understanding and prompt attention to this issue. I look forward to your expedited response. 
+
+Best regards, 
+
+<name> 
+<tel_num> 
+<email_address>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this issue to our attention. We apologize for the inconvenience caused by the Canon PIXMA MG3620 printer. We are committed to resolving this promptly for you.
+
+To proceed with the exchange, please provide a copy of your purchase receipt and confirm if the original packaging is still available. Once we have this information, we will initiate the exchange process and provide you with the necessary details for returning the faulty unit.
+
+You can either reply to this email with the requested information or contact our support line at <tel_num>. Our team will ensure a swift response to facilitate the exchange.
+
+Thank you for your patience and understanding. We look forward to resolving this issue to your satisfaction.
+
+Best regards,
+Customer Support Team

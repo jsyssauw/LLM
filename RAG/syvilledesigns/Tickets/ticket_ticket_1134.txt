@@ -1,0 +1,15 @@
+Ticket ID: ticket_1134
+Subject: Issue with Printer Connectivity After Update
+Incident Type: Incident
+Customer Issue: Hello, I am experiencing issues with my Canon PIXMA MG3620 printer. Since the latest firmware update, it is no longer connecting to WiFi. This problem prevents me from utilizing its wireless and duplex printing capabilities. I have tried resetting the printer and my network, but the problem persists. Can you please assist me in resolving this issue as soon as possible? Thank you, <name>, <tel_num>, <acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us. We're sorry to hear about the connectivity issues with your Canon PIXMA MG3620 printer following the firmware update. Please try the following steps:
+1. Confirm that your WiFi password is correct.
+2. Ensure the printer is within range of the WiFi signal.
+3. Reinstall the printer drivers.
+
+If the issue continues, please contact Canon support directly. 
+
+Sincerely,
+Service Desk Team

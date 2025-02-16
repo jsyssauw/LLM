@@ -1,0 +1,27 @@
+Ticket ID: ticket_3627
+Subject: Solicitud de intercambio de producto debido a problemas de conectividad
+Incident Type: Problem
+Customer Issue: Estimado equipo de soporte de Tech Online Store,
+
+Espero que este mensaje les encuentre bien. Estoy escribiendo para solicitar un intercambio de mi impresora Canon PIXMA MG3620. Estoy experimentando problemas significativos de conectividad inalámbrica, lo que afecta considerablemente su uso y mi flujo de trabajo. A pesar de seguir todos los pasos de solución de problemas indicados en el manual del usuario, el problema persiste.
+
+La impresora pierde conexión frecuentemente en medio de los trabajos de impresión, lo que está causando retrasos innecesarios. Dadas las circunstancias y las inconveniencias enfrentadas, solicito amablemente un intercambio de este producto.
+
+Por favor, hágame saber el procedimiento para iniciar este proceso. Mi número de cuenta es <acc_num>, y pueden comunicarse conmigo al <tel_num> para cualquier información adicional.
+
+Gracias por su atención a este asunto.
+
+Saludos,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos acerca de los problemas con su impresora Canon PIXMA MG3620. Nos disculpamos por los inconvenientes causados por los problemas de conectividad.
+
+Para iniciar un intercambio, por favor visite nuestro sitio web en la sección de "Devoluciones y Cambios" o utilice la etiqueta de devolución incluida con su compra original. Necesitará proporcionar los detalles de su pedido original y el número de cuenta <acc_num> para proceder.
+
+Si necesita más asistencia o tiene preguntas adicionales, no dude en contactarnos al <tel_num>.
+
+Agradecemos su paciencia y comprensión.
+
+Saludos cordiales,
+Equipo de soporte de Tech Online Store

@@ -1,0 +1,15 @@
+Ticket ID: ticket_1332
+Subject: nan
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte,
+
+Nuestro cliente, <name>, ha informado de un ligero parpadeo en la pantalla al desconectar el teclado de su Microsoft Surface Pro 7. ¿Podría ayudarnos a resolver este problema para ellos?
+
+Saludos cordiales,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Asegúrese de que el Surface Pro 7 tenga instaladas las últimas actualizaciones. Si el problema persiste, intente reiniciar el dispositivo o comuníquese con el soporte de Microsoft para obtener más ayuda.
+
+Saludos cordiales,
+Equipo de soporte

@@ -1,0 +1,31 @@
+Ticket ID: ticket_2321
+Subject: Issue with Canon PIXMA MG3620
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I am reaching out to report an issue related to a Canon PIXMA MG3620 printer I purchased from your Tech Online Store. The problem occurred while attempting to perform a duplex print job, an essential feature that I use frequently. During this process, the printer experienced a paper jam, which has become a recurring issue affecting its functionality and my productivity.
+
+Upon my attempts at resolving the issue, which included carefully removing the jammed paper and resetting the printer, the problem unfortunately persists. Each attempt at duplex printing results in a similar paper jam, suggesting there might be an underlying technical issue with the printer itself. I have consulted the user manual and followed all basic troubleshooting steps recommended for such problems, but to no avail.
+
+I would appreciate your guidance on how to proceed further. Specifically, I would like to know if there are any additional troubleshooting steps you might recommend or if this issue might be covered under any warranty or service agreement.
+
+Thank you for your assistance in resolving this matter swiftly. I look forward to your guidance at your earliest convenience.
+
+Best regards,
+
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the issue with your Canon PIXMA MG3620 printer. I apologize for the inconvenience this recurring paper jam has caused.
+
+Firstly, please ensure the printer firmware is up-to-date, as sometimes updates can resolve technical issues. Also, check if the paper type and size settings in the printer's menu are correctly aligned with the paper loaded.
+
+If these steps do not resolve the issue, it might be a hardware problem. Given that you've attempted all standard troubleshooting, I recommend checking your purchase details for warranty coverage. We can initiate a claim if your printer remains under warranty. Please contact us with your purchase receipt or warranty details, and we will assist you further.
+
+Feel free to reach out if you have other questions or need additional support.
+
+Best regards,
+
+Customer Support Team
+Tech Online Store

@@ -1,0 +1,30 @@
+Ticket ID: ticket_3365
+Subject: Urgent Request for AWS Infrastructure Optimization
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I am writing to request urgent assistance from your IT Services team. Our client, <name>, is experiencing significant challenges with their AWS infrastructure and requires immediate optimization to reduce costs and improve cloud resource management. The inefficiencies are impacting our ability to provide seamless services.
+
+The affected product in this situation is your AWS Management Service. We believe that expert consultation and intervention are necessary to address the issues effectively. We kindly request a prompt review and assessment of the current AWS setup.
+
+Please let us know the earliest availability of your team for a detailed discussion. You can reach me at <tel_num> or through my email. Thank you for your attention to this matter, and I look forward to your swift response.
+
+Best regards,
+
+<name>
+Customer Service answer: Subject: Re: Urgent Request for AWS Infrastructure Optimization
+
+Dear <name>,
+
+Thank you for reaching out to us regarding the AWS infrastructure challenges faced by your client, <name>. We understand the urgency of the situation and are committed to providing the necessary assistance for optimization and improved resource management.
+
+Our IT Services team is reviewing your request and will be available for a detailed discussion soon. Please expect our team's proposed schedule within the next few hours. Rest assured, we are focused on addressing these inefficiencies promptly.
+
+In the meantime, if you have any additional information or immediate questions, please feel free to reach out to us via email or at <tel_num>.
+
+Thank you for bringing this to our attention, and we look forward to resolving the issues swiftly.
+
+Best regards,
+
+<name>  
+Customer Support Team

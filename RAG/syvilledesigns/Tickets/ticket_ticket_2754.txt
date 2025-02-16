@@ -1,0 +1,19 @@
+Ticket ID: ticket_2754
+Subject: Question About Returning a Recently Made Purchase
+Incident Type: Request
+Customer Issue: Hello Customer Support,
+
+I trust this note finds you well. Last week, I bought a MacBook Air M1 from your online shop, with the order number <order_num>. Unfortunately, due to unexpected circumstances, I am considering returning the item. Could you please share detailed information about your return policy for unopened products like this? I want to ensure I fully comprehend the terms and any possible restocking fees involved.
+
+Thank you in advance for your help. I eagerly await your response.
+
+Best wishes,
+<name>
+Customer Service answer: Hello <name>,
+
+We appreciate you contacting us. We're here to help with your return inquiry for the MacBook Air M1 bought last week. Our return policy allows for returns of unopened products within 30 days of receipt. Please make sure the item remains in its original condition and still sealed. Once we receive the return, we will process a full refund, minus any applicable restocking fees, which are usually waived for unopened products but may vary. To start the return, please use the return procedure on our website within your order information or get in touch with us for assistance.
+
+Should you have any other queries or need additional help, please do not hesitate to reach out.
+
+Best wishes,
+Customer Support Team

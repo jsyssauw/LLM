@@ -1,0 +1,34 @@
+Ticket ID: ticket_1740
+Subject: Aclaración Urgente Necesaria para la Factura de Servicios de TI
+Incident Type: Request
+Customer Issue: Estimado Soporte al Cliente,
+
+Mi nombre es <name> y mi número de cuenta es <acc_num>. Estoy escribiendo para solicitar una aclaración urgente con respecto a una factura que recibí por los servicios de consultoría de TI proporcionados el mes pasado. Los detalles en la factura parecen ser inconsistentes con el acuerdo inicial y mi comprensión de los servicios entregados.
+
+Contratamos su Servicio de Consultoría de TI para mejorar la infraestructura de TI de nuestra empresa desde <date1> hasta <date2>. Si bien confío en la calidad de sus servicios, tengo algunas preocupaciones respecto a ciertos cargos listados en la factura con fecha <date3>, número de factura <inv_num>. Específicamente, el desglose de horas de soporte adicionales y costos de materiales parecen ser más altos de lo que discutimos inicialmente durante la fase de consultoría.
+
+Además, agradecería una explicación detallada de las horas de consultoría contabilizadas, ya que el resumen en la factura indica una cifra significativamente más alta de la que muestran nuestros registros internos. ¿Podría revisar los cargos asociados y proporcionar una aclaración completa o una factura corregida si es necesario? Es crucial para nuestra responsabilidad financiera y planificación presupuestaria asegurar que nuestros registros se alineen con su facturación.
+
+Entiendo que pueden ocurrir errores, y busco resolver este asunto rápidamente. Por lo tanto, se agradecería una aclaración rápida para mantener nuestra relación comercial positiva. Si es necesario, estoy disponible para discutir esto por teléfono al <tel_num> durante el horario laboral, o puede enviarme un correo electrónico a mi dirección registrada con su empresa.
+
+Gracias por su atención a este asunto. Espero su pronta respuesta.
+
+Saludos cordiales,
+
+<name>
+<position>
+<company_name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con respecto a la factura por nuestros servicios de TI. Nos disculpamos por cualquier confusión que esto haya podido causar. Investigaré de inmediato la discrepancia en los cargos, en particular las horas de soporte adicionales y los costos de materiales, y los alinearemos con su acuerdo.
+
+¿Podría enviar una copia del acuerdo inicial para que podamos comparar y clarificar las diferencias de manera eficiente? Mientras tanto, haré que nuestro equipo de facturación revise los detalles de la factura de las horas de consultoría.
+
+Nuestro objetivo es resolver esto rápidamente para asegurar que todo esté alineado, manteniendo nuestra asociación positiva. No dude en contactarme directamente por correo electrónico si necesita más asistencia o si desea discutir esto por teléfono.
+
+Gracias por su paciencia y comprensión.
+
+Atentamente,
+
+Equipo de Soporte al Cliente
+<company_name>

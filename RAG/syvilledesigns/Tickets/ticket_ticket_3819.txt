@@ -1,0 +1,16 @@
+Ticket ID: ticket_3819
+Subject: Sofortige Unterstützung für Serverausfall erforderlich
+Incident Type: Incident
+Customer Issue: Hallo, mein Name ist <name> und wir erleben einen Serverausfall, der dringend Beratungshilfe erfordert. Unser IT-Beratungsdienst ist betroffen, und es ist entscheidend, die Serverfunktionalität so schnell wie möglich wiederherzustellen. Wir bitten um Ihre sofortige Aufmerksamkeit, um dieses Problem zu lösen. Bitte kontaktieren Sie mich so bald wie möglich. Vielen Dank.
+Customer Service answer: Betreff: Re: Sofortige Unterstützung für Serverausfall erforderlich
+
+Hallo <name>,
+
+vielen Dank, dass Sie uns bezüglich des Serverausfalls kontaktiert haben. Wir verstehen die Dringlichkeit, die Funktionalität Ihres IT-Beratungsdienstes wiederherzustellen. Unser technisches Team steht bereit, um Ihnen sofort zu helfen. Bitte erwarten Sie bald einen Anruf von einem unserer Spezialisten, um dieses Problem zu lösen.
+
+Vielen Dank für Ihre Geduld.
+
+Mit freundlichen Grüßen,
+
+<Service Desk Agent Name>
+Servicedesk-Team

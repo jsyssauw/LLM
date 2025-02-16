@@ -1,0 +1,5 @@
+Ticket ID: ticket_3319
+Subject: nan
+Incident Type: Incident
+Customer Issue: L'attribution des tickets Jira fonctionne mal, ce qui cause des retards critiques dans le projet.
+Customer Service answer: Merci pour votre rapport sur le problème des tickets Jira. Notre équipe enquête sur le problème pour le résoudre rapidement et minimiser les retards dans le projet.

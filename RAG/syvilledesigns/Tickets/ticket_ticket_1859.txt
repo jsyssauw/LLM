@@ -1,0 +1,10 @@
+Ticket ID: ticket_1859
+Subject: Hilfe benötigt für die Einrichtung der Microsoft Surface Pro 7 Tastatur
+Incident Type: Request
+Customer Issue: Hallo Kundenservice, ich benötige Hilfe bei der Einrichtung der abnehmbaren Tastatur für mein neues Microsoft Surface Pro 7. Bitte führen Sie mich durch die Installationsschritte. Ihre schnelle Unterstützung wäre sehr geschätzt. Vielen Dank. Mit freundlichen Grüßen, <name>
+Customer Service answer: Sehr geehrter <name>,
+
+Um Ihre Microsoft Surface Pro 7 Tastatur einzurichten: Befestigen Sie die Tastatur am magnetischen Anschluss an der Basis Ihres Surface. Sie sollte problemlos einrasten. Wenn sie sich nicht verbindet, stellen Sie sicher, dass es keine Hindernisse gibt und versuchen Sie es erneut. Starten Sie Ihr Gerät gegebenenfalls neu.
+
+Mit freundlichen Grüßen,
+Kundenservice

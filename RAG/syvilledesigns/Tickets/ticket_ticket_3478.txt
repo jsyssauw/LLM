@@ -1,0 +1,14 @@
+Ticket ID: ticket_3478
+Subject: Problème d'accès résolu
+Incident Type: Incident
+Customer Issue: Cher équipe de support des services informatiques, Je vous contacte pour signaler une complication récente que nous avons rencontrée avec notre Jira Software 8.20. Un utilisateur, reconnu comme <name>, a rencontré des difficultés à accéder au système de tickets en raison de problèmes de connectivité persistants. Dans un premier temps, tous les efforts de dépannage concernant l'application elle-même semblaient inefficaces. Après un examen plus approfondi, nous avons revu les configurations du navigateur et identifié certains dysfonctionnements qui perturbaient la fonction de chargement de l'application. La modification de ces paramètres a permis une résolution partielle, mais le problème persistait de manière intermittente. En conséquence, nous avons enquêté sur d'éventuels blocages réseau. Nous avons découvert que les règles de pare-feu au sein de notre structure de sécurité empêchaient l'accès à des ports essentiels au bon fonctionnement de la connectivité de Jira. Une fois que nous avons ajusté ces règles pour permettre le trafic nécessaire, le problème a été complètement résolu. L'utilisateur, ainsi que notre équipe, peut désormais accéder sans effort et utiliser Jira Software sans aucun problème de connectivité. Nous apprécions vraiment le soutien et les ressources que votre équipe fournit. Veuillez nous informer s'il existe des meilleures pratiques pour éviter de tels problèmes à l'avenir. Merci pour votre soutien continu. Cordialement, <name>
+Customer Service answer: Cher <name>,
+
+Nous apprécions votre notification concernant les récents défis d'accès à Jira Software et pour avoir détaillé les actions de dépannage menées par votre équipe. Nous sommes ravis d'apprendre que le problème a été résolu avec succès par l'ajustement des configurations du navigateur et la modification des protocoles de pare-feu.
+
+Pour atténuer des problèmes similaires à l'avenir, nous conseillons d'évaluer et d'améliorer régulièrement vos paramètres réseau et les configurations de votre navigateur. De plus, assurez-vous que tous les ports nécessaires pour Jira sont accessibles et ne sont pas entravés par des restrictions de sécurité. Mettre à jour régulièrement les logiciels et les pare-feu vers les dernières versions peut également aider à éviter des problèmes comparables.
+
+N'hésitez pas à nous contacter si vous avez besoin de plus d'assistance.
+
+Cordialement, 
+Équipe de support des services informatiques

@@ -1,0 +1,5 @@
+Ticket ID: ticket_1266
+Subject: Request for Quote
+Incident Type: Request
+Customer Issue: Dear Customer Support, I would like a quote for React app development to replace our web frontend. Please include expected timelines. Thank you, <name>, <email>.
+Customer Service answer: Dear <name>, we are happy to provide a quote for your React app development. We will follow up shortly with detailed pricing and timelines. Thank you!

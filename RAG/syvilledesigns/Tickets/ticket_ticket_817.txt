@@ -1,0 +1,5 @@
+Ticket ID: ticket_817
+Subject: Assistance Needed for Configuring HP DeskJet 3755 Printer
+Incident Type: Request
+Customer Issue: Please help setup wireless printing on my printer.
+Customer Service answer: Visit HP's website for wireless setup instructions for your DeskJet 3755 printer.

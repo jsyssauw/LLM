@@ -1,0 +1,29 @@
+Ticket ID: ticket_1809
+Subject: Problème avec les frais de facturation AWS
+Incident Type: Problem
+Customer Issue: Cher équipe de support client,
+
+Je vous écris pour signaler un problème concernant des frais de facturation incorrects sur ma récente facture pour le service de gestion AWS sous mon numéro de compte <acc_num>. Après avoir examiné les frais, j'ai remarqué des différences qui ne correspondent pas aux services utilisés. Il semble que des frais aient été appliqués pour des services qui n'ont été ni demandés ni autorisés sur mon compte. Comme je compte sur une facturation précise pour la prévision budgétaire et la réconciliation, ce problème a causé une perturbation significative de mon processus de gestion financière.
+
+Pour aborder ce sujet rapidement, je demande aimablement une réconciliation détaillée de mes frais du mois dernier. Veuillez inclure toutes les activités, les coûts associés et les modifications de services qui justifient les frais. Une telle transparence aidera grandement à identifier où les différences sont survenues. De plus, pourriez-vous vérifier s'il y a eu des erreurs de saisie ou des configurations incorrectes ? Votre assistance immédiate pour résoudre ce problème sera grandement appréciée, car elle me rassure sur la valeur continue et la fiabilité de vos services.
+
+N'hésitez pas à me contacter à mon numéro de téléphone <tel_num> si vous avez besoin de plus d'informations pour accélérer la résolution de ce problème.
+
+Merci pour votre attention rapide à ce sujet.
+
+Sincèrement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant les différences de facturation dans votre compte AWS. Nous nous excusons pour tout inconvénient que ce problème a pu causer.
+
+Nous avons lancé une révision détaillée de vos frais du mois dernier et nous fournirons une réconciliation complète, y compris toutes les activités, les coûts associés et toutes modifications de services. Notre équipe vérifiera également s'il y a eu des erreurs de saisie ou des configurations incorrectes.
+
+Nous vous assurons de notre engagement à résoudre ce problème rapidement et nous vous tiendrons informé tout au long du processus. Si nous avons besoin de plus d'informations de votre part, nous vous contacterons immédiatement.
+
+Merci de votre patience et de votre compréhension.
+
+Cordialement,
+
+Équipe de support client

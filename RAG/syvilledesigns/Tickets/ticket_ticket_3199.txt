@@ -1,0 +1,24 @@
+Ticket ID: ticket_3199
+Subject: Request for AWS Setup and Cost Optimization Help
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I am writing to request assistance with setting up AWS and optimizing costs using your AWS Management Service. I am currently facing challenges in configuring our AWS environment efficiently to maximize cost savings and would appreciate any guidance you can offer. Please let me know how I can leverage your service for better cost optimization. My account number is <acc_num>. Feel free to reach me at <email_address> or call me on <tel_num>. 
+
+Thank you for your assistance.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us. We are happy to assist you with setting up your AWS environment and optimizing costs. Our AWS Management Service is designed to provide you with customized solutions tailored to your specific needs.
+
+To start, we will review your current AWS setup and identify areas for potential cost savings. Our team will then offer recommendations and implement strategies for optimal cost efficiency.
+
+Please expect a call or an email from our AWS specialist shortly. In the meantime, ensure all necessary account access permissions are in place for a smooth assessment process.
+
+Should you have any immediate questions, please do not hesitate to reach out again.
+
+Best regards,
+
+Customer Support Team

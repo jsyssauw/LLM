@@ -1,0 +1,38 @@
+Ticket ID: ticket_2383
+Subject: Hilfe benötigt für die Spracheinstellungen des MacBook
+Incident Type: Change
+Customer Issue: Sehr geehrtes Tech Online Store Support-Team,
+
+ich hoffe, es geht Ihnen gut. Ich schreibe, um Ihre Unterstützung bei der Änderung der Spracheinstellungen auf meinem MacBook Air M1 auf Französisch zu suchen. Trotz meiner Bemühungen war ich bisher nicht in der Lage, erfolgreich durch die Systemeinstellungen zu navigieren, um diese Aufgabe abzuschließen. Als jüngster Käufer auf Ihrer Website glaube ich, dass Ihr Support-Team die notwendige Anleitung bereitstellen kann, um dieses Problem zeitnah und effizient zu lösen.
+
+Aktuell scheinen die Spracheinstellungen auf Englisch beschränkt zu sein, und ich möchte sicherstellen, dass die französische Sprachoption für alle Anwendungen und Systemaufforderungen richtig konfiguriert ist. Könnten Sie bitte eine schrittweise Anleitung oder Anweisungen geben, wie ich mit der Anpassung der Spracheinstellungen fortfahren kann? Außerdem wäre ich dankbar für Ihre Hinweise, falls spezifische Software-Updates oder Einstellungen erforderlich sind, um die Unterstützung der französischen Sprache zu aktivieren.
+
+Zur Referenz: Die Seriennummer meines MacBook Air ist <acc_num>, und ich habe es kürzlich am <purchase_date> gekauft. Wenn weitere Details hilfreich wären, um eine Anleitung zu geben, können Sie mich gerne unter <email_address> oder telefonisch unter <tel_num> kontaktieren.
+
+Vielen Dank für Ihre Unterstützung. Ich freue mich auf Ihre zügige Antwort.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrte(r) <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben, um Unterstützung bei Ihrem MacBook Air M1 zu erhalten. Gerne leite ich Sie durch die Änderung der Spracheinstellungen auf Französisch.
+
+Hier sind die Schritte, die Sie befolgen müssen:
+
+1. Klicken Sie auf das Apple-Menü in der oberen linken Ecke und wählen Sie "Systemeinstellungen".
+2. Klicken Sie auf "Sprache & Region".
+3. Klicken Sie auf die Schaltfläche „+“ unter der Liste der "Bevorzugten Sprachen" auf der linken Seite.
+4. Suchen und wählen Sie "Französisch" aus der angezeigten Liste und klicken Sie auf "Hinzufügen".
+5. Eine Nachricht wird angezeigt, die fragt, ob Sie Französisch als primäre Sprache verwenden möchten. Klicken Sie auf "Französisch verwenden".
+6. Starten Sie Ihren Mac neu, um diese Änderungen vollständig anzuwenden.
+
+Nach dem Neustart sollte Französisch über Systemaufforderungen und Anwendungen konfiguriert sein. Wenn Sie aufgefordert werden, die Spracheinstellungen einzelner Anwendungen anzupassen, tun Sie dies bitte.
+
+Wenn Ihr Mac Französisch nicht als Option anzeigt, stellen Sie sicher, dass Ihr macOS auf dem neuesten Stand ist, indem Sie auf "Systemeinstellungen" klicken und "Softwareupdate" auswählen.
+
+Sollten Sie weitere Fragen haben, zögern Sie nicht, uns unter <email_address> oder <tel_num> zu kontaktieren.
+
+Wir hoffen, dass diese Anweisungen hilfreich sind und dass Ihre Erfahrung in Ihrer bevorzugten Sprache angenehm ist.
+
+Mit freundlichen Grüßen,
+Tech Online Store Support-Team

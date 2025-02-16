@@ -1,0 +1,23 @@
+Ticket ID: ticket_716
+Subject: Änderungsantrag zur Abrechnungsstruktur
+Incident Type: Change
+Customer Issue: Sehr geehrter Kundenservice, 
+
+ich schreibe, um eine Änderung in der Abrechnungsstruktur für den AWS-Management-Service anzufordern, wobei meine Kontonummer <acc_num> ist. Da wir derzeit einen Anstieg der Nutzung während unserer Bereitstellungsphasen erleben, benötigen wir ein Abrechnungsmodell, das diese erweiterte Nutzung besser berücksichtigen kann. Derzeit haben unsere Kosten die üblichen Grenzen überschritten, was sich erheblich auf unser Budget auswirkt. 
+
+Für alle notwendigen Diskussionen oder Klarstellungen kontaktieren Sie mich bitte unter <tel_num> oder per E-Mail an <email>. Ich freue mich auf Ihre Unterstützung bei der Anpassung unseres Vertrags, um unseren spezifischen Anforderungen während dieser intensiven Bereitstellungsphasen gerecht zu werden.
+
+Vielen Dank.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich wegen einer Änderung Ihrer Abrechnungsstruktur für den AWS-Management-Service an uns gewandt haben. Wir verstehen, wie wichtig es ist, ein Abrechnungsmodell zu haben, das Ihre erhöhte Nutzung während der Bereitstellungsphasen unterstützt.
+
+Unser Team wird Ihren aktuellen Vertrag überprüfen und Optionen prüfen, die besser zu Ihren Bedürfnissen passen. Möglicherweise werden wir Sie unter <tel_num> oder per E-Mail kontaktieren, um weitere Informationen zu erhalten.
+
+Wir schätzen Ihre Geduld und werden uns bald mit möglichen Lösungen bei Ihnen melden.
+
+Mit besten Grüßen,
+Kundenserviceteam

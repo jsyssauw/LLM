@@ -1,0 +1,30 @@
+Ticket ID: ticket_3862
+Subject: Request for AWS Settings Optimization
+Incident Type: Change
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. I am reaching out to request modifications to our current AWS settings for better cost optimization. This technical assistance is rated as medium priority. We are utilizing your AWS Management Service, and need guidance on efficient configurations to reduce unnecessary expenses.
+
+Please let us know the appropriate steps to proceed or if you require any additional details regarding our current setup. Your prompt support in resolving this matter efficiently will be greatly appreciated.
+
+Thank you for your attention.
+
+Best regards,
+<name>
+
+<acc_num>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us regarding AWS settings optimization. We are happy to assist you with improving your cost efficiency. To proceed, please provide a summary of your current AWS setup and any specific areas where you suspect cost inefficiency. Alternatively, if you have any recent AWS billing statements or usage reports, those can be very helpful.
+
+Once we have this information, our team will review your current configurations and provide tailored recommendations on optimizing your AWS costs. This may include suggestions on rightsizing resources, utilizing savings plans or reserved instances, and identifying unused resources.
+
+We aim to respond promptly and with actionable advice. Your cooperation is greatly appreciated in expediting this process.
+
+Thank you for choosing our AWS Management Service.
+
+Best regards,
+
+Customer Support Team
+<company>

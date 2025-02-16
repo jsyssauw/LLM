@@ -1,0 +1,10 @@
+Ticket ID: ticket_2402
+Subject: Immediate Assistance Needed for Jira Software Access Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support, Users are unable to access project management features in Jira Software after the recent update. We urgently need your assistance to resolve this issue. We are using Jira Software version 8.20. Please address this matter as soon as possible to limit disruption. Thank you, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We're sorry to hear about the issue. Our team is aware and currently investigating the access problem with Jira Software version 8.20. We aim to resolve this quickly to minimize disruption. We'll keep you updated on the progress.
+
+Best regards,
+Customer Support

@@ -1,0 +1,5 @@
+Ticket ID: ticket_3053
+Subject: Frage zu unerwarteten AWS-Kosten
+Incident Type: Request
+Customer Issue: Ich suche Unterstützung bei der AWS-Abrechnung.
+Customer Service answer: Bitte überprüfen Sie Ihre Abrechnungskonfigurationen bei AWS oder wenden Sie sich über Ihr Konto an den Support für umfassende Unterstützung.

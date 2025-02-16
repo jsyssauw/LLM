@@ -1,0 +1,17 @@
+Ticket ID: ticket_1121
+Subject: Keyboard Connection Issue
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to inform you about a persistent issue I am facing with my Microsoft Surface Pro 7. Following the latest firmware update, the detachable keyboard is repeatedly failing to connect properly. This problem has been ongoing and significantly impacts my productivity. I have tried all recommended troubleshooting steps, but nothing seems to resolve the issue. Could you please provide guidance on how to address this problem? My account number is <acc_num>. You can reach me at <tel_num> or via email for any further information. Your prompt assistance would be greatly appreciated.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We are sorry to hear about the issue with your Microsoft Surface Pro 7 detachable keyboard. Since you have already tried the recommended troubleshooting steps, the next best action is to perform a complete firmware rollback to the previous version or connect it with a different keyboard to rule out hardware problems.
+
+If the issue persists, please contact our technical support team directly at <tel_num> or via email to arrange for an examination or repair. Please reference your account number <acc_num> when contacting support.
+
+Best regards,
+Customer Support Team

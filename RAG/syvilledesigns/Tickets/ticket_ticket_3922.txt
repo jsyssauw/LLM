@@ -1,0 +1,23 @@
+Ticket ID: ticket_3922
+Subject: nan
+Incident Type: Problem
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Recientemente compré un nuevo MacBook Air M1 en su tienda. Desafortunadamente, no se enciende después de un apagado, a pesar de mis múltiples intentos y de verificar la fuente de alimentación. El problema persiste y no puedo utilizar el dispositivo de manera efectiva.
+
+¿Podría ayudarme a diagnosticar el problema o iniciar un posible retorno o reemplazo? Mi número de cuenta es <acc_num>.
+
+Gracias por su ayuda.
+
+Saludos cordiales,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Lamento escuchar los problemas con su MacBook Air M1. Por favor, intente los siguientes pasos:
+1. Asegúrese de que el cargador y el cable estén funcionando.
+2. Realice un reinicio SMC siguiendo las pautas de Apple.
+
+Si el problema persiste, podemos iniciar un retorno o reemplazo. Por favor, proporcione el recibo de compra y una breve descripción de los pasos de solución de problemas que ha intentado.
+
+Saludos cordiales,
+Servicio de Atención al Cliente

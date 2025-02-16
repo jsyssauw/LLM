@@ -1,0 +1,12 @@
+Ticket ID: ticket_304
+Subject: Urgent AWS Connectivity Issue
+Incident Type: Incident
+Customer Issue: We are experiencing connectivity issues with the AWS Management Service, leading to downtime for the client’s website. An urgent resolution is needed. Please prioritize this critical matter with the highest urgency. Account Number: <acc_num>. Thank you, <name>.
+Customer Service answer: Subject: Re: Urgent AWS Connectivity Issue
+
+Hi <name>,
+
+Thank you for reaching out to us. We understand the importance of resolving the connectivity issues with the AWS Management Service that have impacted your client’s website. Our team is prioritizing this situation and is diligently working to restore functionality. We will keep you informed of our advancements. If you have any further information to share, please let us know without hesitation.
+
+Regards,
+Service Desk Team

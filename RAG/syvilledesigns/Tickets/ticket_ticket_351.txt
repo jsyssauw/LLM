@@ -1,0 +1,32 @@
+Ticket ID: ticket_351
+Subject: Demande d'échange pour Canon PIXMA MG3620 en raison de problèmes de qualité d'impression
+Incident Type: Request
+Customer Issue: Cher Équipe de support de Tech Online Store,
+
+Je vous écris pour demander un échange pour une imprimante sans fil Canon PIXMA MG3620 récemment achetée, qui rencontre des problèmes de qualité d'impression. Lors de l'installation et de l'utilisation initiale, j'ai remarqué que les impressions étaient constamment striées et que les couleurs étaient fanées, affectant la qualité globale des documents imprimés. Cela persiste malgré le suivi de toutes les étapes de dépannage recommandées, y compris le réalignement de la tête d'impression et le nettoyage des buses.
+
+J'ai acheté l'imprimante via votre boutique en ligne en utilisant le numéro de compte <acc_num> le 18 septembre, et elle est arrivée le 22 septembre. Je vous serais reconnaissant de bien vouloir faciliter un échange pour une nouvelle unité dès que possible, car je compte sur cette imprimante pour mes tâches de travail quotidiennes. Merci de me faire savoir comment procéder au retour et les détails concernant l'expédition ou toute documentation supplémentaire qui pourrait être requise.
+
+Merci de traiter cette affaire rapidement. J'attends votre réponse rapide.
+
+Cordialement,
+
+<name>
+
+Contact : <tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés et d'avoir attiré notre attention sur ce problème. Nous nous excusons pour le désagrément causé par les problèmes de qualité d'impression de votre imprimante Canon PIXMA MG3620.
+
+Pour procéder à un échange, veuillez suivre ces étapes :
+
+1. Emballez l'imprimante en toute sécurité dans son emballage d'origine, si disponible, y compris tous les accessoires.
+2. Utilisez votre confirmation d'email originale ou le numéro de compte <acc_num> comme référence.
+3. Attendez un email de notre part avec une étiquette de retour prépayée et des instructions supplémentaires.
+
+Une fois que nous aurons reçu l'unité retournée, nous enverrons rapidement une nouvelle imprimante. Si vous avez d'autres questions ou avez besoin d'aide, veuillez nous contacter avec votre numéro de téléphone <tel_num> ou répondre à cet email.
+
+Nous apprécions votre patience et votre compréhension.
+
+Cordialement,
+Équipe de support de Tech Online Store

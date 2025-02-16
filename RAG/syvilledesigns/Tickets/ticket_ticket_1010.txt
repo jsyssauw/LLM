@@ -1,0 +1,22 @@
+Ticket ID: ticket_1010
+Subject: Excel Sheets Not Saving Issue in Office 365
+Incident Type: Incident
+Customer Issue: Hello, 
+
+I'm experiencing issues with Excel sheets not saving properly in Office 365. It seems like there might be a sync problem with the cloud storage. Could your team please assist in resolving this issue? Looking forward to your prompt response. Thank you.
+
+Best regards,
+<name>
+<name>, <tel_num>, <acc_num>
+Customer Service answer: Hello <name>,
+
+Thank you for reaching out to us regarding your issue with Excel sheets not saving in Office 365. Please try the following steps to resolve the issue:
+1. Check your internet connection to ensure it's stable.
+2. Ensure you're signed into the correct Office 365 account.
+3. Restart Excel and try saving your document again.
+4. Clear your Office Document Cache.
+
+If the issue persists, please contact us again so we can further assist you. 
+
+Best regards,
+Service Desk Team

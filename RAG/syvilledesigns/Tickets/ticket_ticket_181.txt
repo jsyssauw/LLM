@@ -1,0 +1,24 @@
+Ticket ID: ticket_181
+Subject: Issues with MacBook Air M1 Screen Flicker Problem
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support Team,
+
+I am writing to bring to your attention an issue with my MacBook Air M1, purchased earlier this year. The screen has been flickering occasionally, particularly under certain lighting conditions. This problem disrupts my work and affects the overall experience with the product.
+
+I attempted several troubleshooting steps suggested in the product manual, such as adjusting the screen brightness and restarting the device, but the issue persists. Could you please advise on any further steps? If necessary, I am also willing to send my device to a service center for a detailed examination.
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us about the screen flicker issue on your MacBook Air M1. We understand how inconvenient this must be. As you've already tried initial troubleshooting, the next step is to ensure your macOS is up to date, as software updates can sometimes resolve these issues. If the problem continues, we recommend backing up your data and performing an SMC reset, which can address performance-related concerns.
+
+If these steps do not resolve the flicker, it may indicate a hardware issue that requires professional assessment. You're welcome to send the device to our service center. Please let us know if you need assistance arranging this or if you have any further questions.
+
+We're here to help!
+
+Best regards,
+Tech Online Store Customer Support Team

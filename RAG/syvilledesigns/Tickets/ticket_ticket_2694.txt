@@ -1,0 +1,26 @@
+Ticket ID: ticket_2694
+Subject: Request for Billing Support
+Incident Type: Request
+Customer Issue: Hello Customer Support Team,
+
+I am contacting you for help with some billing issues I have noticed concerning our AWS cloud computing services, specifically linked to the AWS Management Service. Our organization, <name> Tech Solutions, has recently received an invoice that seems to apply charges for services we did not use during the billing cycle. We have diligently tracked our usage and found no reason for the unanticipated fees linked to our account <acc_num>.
+
+Our billing statements show charges on various dates that require explanation. After scrutinizing the invoice, it appears there could be a problem regarding how the usage data has been documented or handled. We would be grateful for a comprehensive examination of our account and any updates on possible errors or inconsistencies.
+
+Please get in touch with me at your earliest convenience at <tel_num> or via email to resolve this pressing issue. Thank you for your prompt attention to this concern.
+
+Best regards,
+<name>
+IT Manager, <name> Tech Solutions
+Customer Service answer: Hello <name>,
+
+We appreciate your message regarding the billing discrepancies associated with your AWS services. We recognize the significance of precise billing and will focus on a meticulous review of your account <acc_num>.
+
+We will look into the issues with the charges and the usage irregularities you’ve noted and will provide you with clear explanations as soon as we are able. Kindly allow us some time to investigate the information.
+
+In the interim, please don't hesitate to share any additional details or inquiries you may have, either through this email or by calling <tel_num>.
+
+Thank you for your patience and understanding.
+
+Warm regards,
+Customer Support Team

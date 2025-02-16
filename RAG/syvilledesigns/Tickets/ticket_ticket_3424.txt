@@ -1,0 +1,5 @@
+Ticket ID: ticket_3424
+Subject: nan
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte de servicios de TI,<br><br>Estamos experimentando un problema con Jira Software 8.20. Nuestros clientes no pueden crear cuentas de usuario y reciben un mensaje de error desconocido durante el registro. Por favor, ayúdennos a resolver este problema.<br><br>Gracias,<br><name>
+Customer Service answer: Estimado/a <name>,<br><br>Gracias por ponerse en contacto. Lamentamos saber sobre el problema con Jira Software 8.20. Nuestro equipo investigará este mensaje de error y se comunicará con usted con una solución pronto. Agradecemos su paciencia.<br><br>Atentamente,<br>Equipo de soporte de servicios de TI

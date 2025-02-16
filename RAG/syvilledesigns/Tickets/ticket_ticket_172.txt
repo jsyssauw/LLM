@@ -1,0 +1,12 @@
+Ticket ID: ticket_172
+Subject: Assistência Imediata Necessária para Problemas com o Jira Software
+Incident Type: Incident
+Customer Issue: Olá, equipe de suporte, nosso membro da equipe <name> está enfrentando problemas com os recursos de gerenciamento de projetos do Jira Software 8.20. Essas falhas estão afetando significativamente nosso trabalho. Precisamos de assistência técnica imediata para resolver esse assunto. Por favor, forneça orientação assim que possível. Obrigado.
+Customer Service answer: Assunto: Re: Assistência Imediata Necessária para Problemas com o Jira Software
+
+Olá,
+
+Obrigado por entrar em contato conosco. Entendemos a urgência da situação em relação aos problemas com o Jira Software 8.20. Para ajudá-lo prontamente, por favor, certifique-se de que o software está atualizado para a versão mais recente e reinicie o aplicativo. Se o problema persistir, você poderia fornecer os recursos específicos de gerenciamento de projetos afetados? Isso nos ajudará a assisti-lo de forma mais eficaz. Nossa equipe está pronta para fornecer mais suporte técnico para resolver este assunto.
+
+Atenciosamente,
+equipe de suporte

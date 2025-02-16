@@ -1,0 +1,15 @@
+Ticket ID: ticket_3013
+Subject: AWS Bereitstellungsunterstützung
+Incident Type: Request
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich schreibe, um Unterstützung bei der Bereitstellung von Anwendungen über AWS zu bitten. Wir haben Schwierigkeiten, unsere Kosten für die Cloud-Infrastruktur bei der Nutzung Ihres AWS-Managementdienstes zu optimieren. Wir haben verschiedene Strategien ausprobiert, aber die Ergebnisse waren nicht zufriedenstellend. Könnten Sie uns bitte eine Anleitung oder Unterstützungsunterlagen zur Verfügung stellen, um diese Probleme anzugehen? Ihre Hilfe wäre sehr geschätzt. Ich freue mich auf Ihre umgehende Antwort.
+
+Vielen Dank,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Um die Kosten der Cloud-Infrastruktur auf AWS zu optimieren, empfehlen wir die Nutzung von AWS Cost Explorer und AWS Trusted Advisor. Diese Tools bieten Einblicke in Kosteneinsparungen und bewährte Verfahren. Darüber hinaus kann die Überprüfung der Dokumentation zu den AWS-Preismodellen und das Einrichten von Budgetwarnungen von Vorteil sein. Wenn Sie weitere Unterstützung benötigen, zögern Sie nicht, unser AWS-Supportteam direkt zu kontaktieren. Wir sind hier, um zu helfen.
+
+Mit besten Grüßen,
+Kundenserviceteam

@@ -1,0 +1,29 @@
+Ticket ID: ticket_2866
+Subject: Soporte urgente de AWS requerido
+Incident Type: Request
+Customer Issue: Estimado servicio de atención al cliente,
+
+Espero que este mensaje los encuentre bien. Mi nombre es <name>, y me estoy comunicando con ustedes respecto a una solicitud urgente de soporte para optimizar los costos de nuestra infraestructura de AWS y mejorar la eficiencia en el despliegue. Actualmente estamos utilizando su Servicio de Administración de AWS y hemos identificado algunos desafíos que están afectando nuestra gestión de costos y eficiencia operacional.
+
+Debido a la naturaleza urgente de estos problemas, solicitamos amablemente asistencia inmediata para ayudar a abordar nuestras preocupaciones. Nuestro equipo cree que al optimizar nuestra infraestructura de AWS, podemos no solo controlar gastos innecesarios, sino también agilizar los procesos de despliegue.
+
+Por favor, contáctenme a la brevedad posible. Pueden comunicarse conmigo a través de correo electrónico o a mi número de teléfono <tel_num>. Nuestro número de cuenta es <acc_num> para su referencia.
+
+Gracias por su pronta atención a este asunto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con nosotros respecto a sus preocupaciones sobre el Servicio de Administración de AWS. Entendemos la urgencia e importancia de optimizar su infraestructura de AWS para la gestión de costos y la mejora de la eficiencia en el despliegue.
+
+Nuestro equipo de soporte está listo para asistirle de inmediato. Nos pondremos en contacto con usted en breve, ya sea por correo electrónico o a través de su número de teléfono proporcionado, <tel_num>, para discutir sus necesidades en detalle. Tenga la seguridad de que estamos comprometidos a abordar sus desafíos de manera efectiva y rápida.
+
+Mientras tanto, asegúrese de que su número de cuenta, <acc_num>, esté fácilmente accesible para facilitar un proceso de soporte fluido.
+
+Gracias por su paciencia y colaboración.
+
+Atentamente,
+
+Equipo de Atención al Cliente

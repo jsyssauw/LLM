@@ -1,0 +1,5 @@
+Ticket ID: ticket_820
+Subject: Atención Inmediata Requerida: Problema de Sobrecalentamiento del Dell XPS 13
+Incident Type: Problem
+Customer Issue: Mi Dell XPS 13 9310 se calienta excesivamente mientras estoy en videollamadas. Agradecería su pronta ayuda.
+Customer Service answer: ¡Por supuesto! Asegúrese de que haya una ventilación adecuada e instale las últimas actualizaciones de BIOS/controladores. ¡Infórmenos si el problema continúa!

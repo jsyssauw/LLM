@@ -1,0 +1,7 @@
+Ticket ID: ticket_1304
+Subject: Anfrage zur Rückgabe eines defekten MacBook Air
+Incident Type: Request
+Customer Issue: Hallo, ich habe ein MacBook Air M1 in Ihrem Geschäft gekauft und einen Defekt im Touchpad des Geräts festgestellt. Bitte helfen Sie mir mit dem Rückgabeprozess. Meine Bestellnummer ist <acc_num>. Vielen Dank, <name>, <tel_num>.
+Customer Service answer: Hallo <name>,
+Es tut uns leid für die Unannehmlichkeiten. Bitte besuchen Sie unsere Rückgabeseite und geben Sie Ihre Bestellnummer <acc_num> ein, um die Rückgabe einzuleiten. Für weitere Hilfe rufen Sie uns unter unserer Kundendienstnummer an.
+Vielen Dank.

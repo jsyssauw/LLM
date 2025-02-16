@@ -1,0 +1,14 @@
+Ticket ID: ticket_1962
+Subject: Urgent: Router Restart Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support, 
+Our Cisco Router ISR4331 has unexpectedly restarted multiple times, severely impacting our mission-critical enterprise network connectivity. We require an urgent resolution. 
+Best regards, 
+<name> 
+Phone: <tel_num>
+Customer Service answer: Dear <name>, 
+
+Thank you for your message. We're sorry for the inconvenience. Please check for firmware updates, overheating issues, and hardware faults. Contact our support at <tel_num> for further assistance.
+
+Best regards,
+Customer Support

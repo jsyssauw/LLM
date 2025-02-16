@@ -1,0 +1,24 @@
+Ticket ID: ticket_2384
+Subject: nan
+Incident Type: Request
+Customer Issue: Hello Customer Support Team,
+
+I am encountering difficulties with Norton Antivirus Plus. The application crashes repeatedly, and it does not manage to finish scans. Do you have any suggestions for a solution? Please provide me with comprehensive instructions or a remedy.
+
+Thank you,
+
+<name>
+<acc_num>
+Customer Service answer: Hello <name>,
+
+We apologize for the trouble. Please attempt the following:
+
+1. Update Norton to the most recent version.
+2. Reboot your computer.
+3. Execute a LiveUpdate.
+4. If problems continue, reinstall the application.
+
+For more detailed instructions, please check our support website or get in touch with us directly.
+
+Best regards,
+Customer Support

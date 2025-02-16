@@ -1,0 +1,32 @@
+Ticket ID: ticket_1018
+Subject: Reporting issues with Jira Software usage
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to inform you of some issues our sales team is experiencing with Jira Software 8.20 regarding project management tracking. We've encountered considerable difficulties when attempting to update tasks and view dashboards efficiently, which is hindering our workflow processes. Our team relies heavily on these features for maintaining productivity, and this issue has created some bottlenecks.
+
+Tasks seem to be either not saving properly or are updating with significant delays, causing confusion and duplicated efforts within the team. Moreover, the dashboards are taking longer than usual to load, often not reflecting the most up-to-date information. This has affected our decision-making process as we rely on accurate data representation.
+
+We kindly request your assistance in resolving these issues at the earliest convenience. Our sales team's functionality significantly depends on the smooth operation of the project management tracking system.
+
+Thank you for your attention to this matter. Looking forward to your prompt response.
+
+Best regards,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issues your sales team is experiencing with Jira Software 8.20. We understand the importance of a smooth workflow in your project management and the inconvenience caused by these problems.
+
+To assist you efficiently, please ensure that your Jira instance is updated to the latest version, as updates often include bug fixes and performance improvements. Also, clearing the cache and verifying your network connections might help with loading times and data reflection.
+
+We suggest checking your logging settings to see if there are any errors recorded when tasks fail to update or when dashboards load slowly. Additionally, review any customizations or plugins that might be affecting performance.
+
+If the issue persists, please provide us with any error messages or screenshots, as these will help us diagnose the problem more accurately. Our technical team is ready to assist you further in resolving this matter promptly.
+
+Looking forward to your reply.
+
+Best regards,
+Customer Support Team

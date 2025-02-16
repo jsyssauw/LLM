@@ -1,0 +1,10 @@
+Ticket ID: ticket_3382
+Subject: Hilfe benötigt für das Bildschirmproblem des Dell XPS 13
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam, ich habe ein Problem mit flackerndem Bildschirm bei meinem Dell XPS 13 9310, wenn ich Videoanwendungen nutze. Dieses Problem beeinträchtigt meine Nutzung, und ich kann keine Lösung finden. Könnten Sie bitte eine Fehlersuche anleiten oder einen notwendigen Service arrangieren? Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, <name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank für Ihre Kontaktaufnahme. Um das Problem mit dem flackernden Bildschirm bei Ihrem Dell XPS 13 9310 zu beheben, versuchen Sie bitte, Ihren Grafiktreiber über den Geräte-Manager zu aktualisieren und sicherzustellen, dass Ihre Videoanwendung auf dem neuesten Stand ist. Wenn das Problem weiterhin besteht, passen Sie die Bildwiederholfrequenz in den Anzeigeeinstellungen an. Sollten Sie weitere Unterstützung oder eine Hardware-Service benötigen, wenden Sie sich bitte an den Dell-Support, um einen Service zu vereinbaren.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

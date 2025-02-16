@@ -1,0 +1,13 @@
+Ticket ID: ticket_1924
+Subject: Printer Setup Assistance
+Incident Type: Request
+Customer Issue: Dear customer support team, I am requesting setup assistance for my new HP DeskJet 3755 printer. It is a compact, wireless, all-in-one, color printer. Could you please guide me through the installation process? Thank you very much. Regards, <name>.
+Customer Service answer: Dear <name>, 
+
+To set up your HP DeskJet 3755 printer: 
+1. Plug in and power on the printer.
+2. Install HP Smart App on your device.
+3. Open the app, select "Add Printer," and follow the instructions to complete setup.
+
+Best regards,
+Customer Support Team

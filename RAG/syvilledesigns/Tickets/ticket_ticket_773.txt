@@ -1,0 +1,22 @@
+Ticket ID: ticket_773
+Subject: Solicitud de actualización de RAM para Dell XPS 13 9310
+Incident Type: Change
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Escribo para solicitar una actualización de la RAM en mi Dell XPS 13 9310 para mejorar el rendimiento al gestionar los últimos flujos de trabajo y aplicaciones. Actualmente, estoy experimentando dificultades al ejecutar múltiples aplicaciones simultáneamente, lo cual creo que se debe a la capacidad de memoria existente.
+
+Una actualización de RAM mejoraría significativamente el rendimiento de mi dispositivo y garantizaría capacidades de multitarea fluidas. ¿Podría proporcionar información detallada sobre las opciones de actualización de RAM disponibles para mi dispositivo, incluidos el costo y el proceso involucrado?
+
+Compré mi Dell XPS 13 9310 en su tienda con el número de cuenta <acc_num>. Espero su pronta respuesta.
+
+Gracias,
+<name>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con respecto a una actualización de RAM para su Dell XPS 13 9310. Desafortunadamente, el Dell XPS 13 9310 tiene RAM soldada, lo que significa que no es actualizable. Recomendamos optimizar el rendimiento del sistema cerrando aplicaciones de fondo innecesarias y asegurándose de que su software esté actualizado.
+
+Para más ayuda o asesoramiento personalizado, no dude en contactarnos cuando le convenga. Estamos aquí para ayudarle a asegurar que obtenga el mejor rendimiento de su dispositivo.
+
+Atentamente,
+Equipo de Atención al Cliente

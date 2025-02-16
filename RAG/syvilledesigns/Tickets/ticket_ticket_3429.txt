@@ -1,0 +1,22 @@
+Ticket ID: ticket_3429
+Subject: Problème de connectivité Wi-Fi de l'imprimante HP DeskJet 3755
+Incident Type: Incident
+Customer Issue: Cher service client,
+
+Je rencontre un problème avec mon imprimante sans fil HP DeskJet 3755. Elle ne se connecte pas au réseau Wi-Fi malgré le suivi des instructions de configuration. Pourriez-vous s'il vous plaît fournir des étapes de dépannage pour résoudre ce problème ? L'assistance pour la faire fonctionner est grandement appréciée. Merci d'avance pour votre aide.
+
+Cordialement,
+<name>
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Pour résoudre votre problème de connectivité Wi-Fi avec votre imprimante HP DeskJet 3755 :
+1. Redémarrez votre imprimante, votre routeur et votre appareil.
+2. Assurez-vous que le Wi-Fi est activé et à portée.
+3. Reconnectez-vous en utilisant l'application HP Smart.
+4. Réinitialisez les paramètres réseau : appuyez sur les boutons Sans fil et Annuler jusqu'à ce que le voyant d'alimentation clignote.
+
+Si les problèmes persistent, veuillez nous contacter au <tel_num>.
+
+Cordialement,
+Service client

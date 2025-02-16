@@ -1,0 +1,5 @@
+Ticket ID: ticket_3559
+Subject: Dringender API-Datenfehler
+Incident Type: Incident
+Customer Issue: Die React-Benutzeroberfläche stürzt beim Laden von Daten im neuesten Browser ab.
+Customer Service answer: Danke, dass Sie sich gemeldet haben. Wir untersuchen das Problem und werden Sie in Kürze informieren.

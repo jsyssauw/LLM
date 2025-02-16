@@ -1,0 +1,32 @@
+Ticket ID: ticket_3332
+Subject: Solicitud de asistencia con la integración de Jira HR
+Incident Type: Request
+Customer Issue: Estimado soporte al cliente,
+
+Espero que este mensaje le encuentren bien. Me pongo en contacto para solicitar asistencia con la integración de Jira Software 8.20 para gestionar tareas de recursos humanos y optimizar los flujos de trabajo relacionados con los empleados de manera eficiente. Nuestro objetivo es mejorar la productividad y garantizar operaciones fluidas en el manejo de procesos de recursos humanos.
+
+¿Podría proporcionar orientación sobre las mejores prácticas para configurar esta integración? Además, si se necesitan configuraciones específicas, le agradecería que compartiera detalles precisos que podrían ser útiles.
+
+Su experiencia y apoyo en este asunto serían muy apreciados.
+
+Atentamente,
+
+<name>
+<company>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con respecto a la integración de Jira HR. Para mejorar la productividad y optimizar los flujos de trabajo, es esencial primero definir los procesos de recursos humanos que desea gestionar con Jira. Puede utilizar las plantillas de proyectos de Jira enfocándose en la personalización de tareas y flujos de trabajo para fines de recursos humanos.
+
+1. Comience creando un proyecto dedicado en Jira para tareas de recursos humanos.
+2. Personalice los flujos de trabajo para que coincidan con los procesos de recursos humanos (por ejemplo, reclutamiento, incorporación).
+3. Utilice tipos de problemas para categorizar diferentes tareas.
+4. Implemente campos personalizados para capturar datos necesarios de RRHH.
+5. Considere utilizar Jira Service Management para operaciones de recursos humanos más avanzadas.
+
+Para configuraciones específicas, consulte las opciones de integración de Jira, como con Confluence para gestión de documentos o utilizando complementos para funcionalidades de recursos humanos. Asegurarse de que los permisos de usuario estén configurados adecuadamente también es crucial.
+
+Por favor, háganos saber si necesita más asistencia o una guía paso a paso para la configuración.
+
+Atentamente,
+Equipo de soporte al cliente

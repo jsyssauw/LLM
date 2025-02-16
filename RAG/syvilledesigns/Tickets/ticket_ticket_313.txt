@@ -1,0 +1,24 @@
+Ticket ID: ticket_313
+Subject: Change Request for Office 365 Subscription Plan
+Incident Type: Change
+Customer Issue: Hello Customer Support,
+
+I am writing to request a change in my current Microsoft Office 365 subscription plan. I am interested in upgrading to include additional cloud storage and the latest updates for the email client. Additionally, I would like to understand how this change might impact the overall cost.
+
+My account number is <acc_num>, and my phone number is <tel_num>. Please let me know what information you need from me to process this change.
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+Customer Service answer: Hello <name>,
+
+Thank you for reaching out about updating your Office 365 subscription. We can assist you with upgrading your plan to include additional cloud storage and the latest email client updates. This change may affect your overall subscription cost.
+
+To proceed, verify your account through our secure portal or provide any recent billing reference. Once we receive this, we will proceed with your request and inform you of any cost implications.
+
+If further details are needed to finalize the change, we will contact you. Feel free to reach out if you have any questions.
+
+Best regards,
+Customer Support Team

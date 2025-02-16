@@ -1,0 +1,16 @@
+Ticket ID: ticket_2679
+Subject: Problème avec l'Antivirus
+Incident Type: Request
+Customer Issue: Bonjour <name>,
+
+Je me permets de vous écrire afin de rapporter des difficultés rencontrées avec Norton Antivirus Plus. Le programme semble dysfonctionner et n'assure pas les niveaux de protection escomptés. Je vous remercie de votre assistance pour résoudre ce souci rapidement. Si vous avez besoin d'informations supplémentaires, n'hésitez pas à me joindre au <tel_num> ou à répondre à ce courriel.
+
+Merci, 
+<name>
+Customer Service answer: Bonjour [Nom du Client],
+
+Nous vous remercions pour votre prise de contact. Nous sommes désolés d'apprendre que vous rencontrez des complications avec Norton Antivirus Plus. Nous vous conseillons de redémarrer votre ordinateur et de vérifier que le logiciel est à jour. Si le problème se maintient, nous vous invitons à contacter le support Norton directement ou à nous en faire part, et nous essaierons de vous aider davantage.
+
+Cordialement, 
+[Votre Nom] 
+Équipe du Service Desk

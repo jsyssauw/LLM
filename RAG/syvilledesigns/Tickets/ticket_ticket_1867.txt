@@ -1,0 +1,5 @@
+Ticket ID: ticket_1867
+Subject: Frequent crashes on Dell XPS 13 post-update
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support, my Dell XPS 13 9310 frequently crashes following a recent update. This is severely impacting my online work and productivity. Please advise on next steps or possible solutions.
+Customer Service answer: Dear <name>, Try restarting in Safe Mode and uninstall the latest update. Ensure drivers are current, and conduct a disk check. If issues persist, please contact our support team for further assistance.

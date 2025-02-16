@@ -1,0 +1,16 @@
+Ticket ID: ticket_3347
+Subject: Audio Issues on Zoom
+Incident Type: Incident
+Customer Issue: Dear Customer Support, 
+
+I am writing to report an issue experienced by our Human Resources team during a Zoom call on product version 5.11.0. Participants were unable to hear each other clearly due to persistent audio issues. Please assist us in resolving this matter promptly. Your support in clearing this issue would be greatly appreciated to restore smooth communication in our upcoming meetings. Thank you.
+
+Sincerely, 
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. To resolve the audio issues on Zoom version 5.11.0, please ensure that participants have updated their app to the latest version. Also, check each device's audio settings and ensure no headphones or speakers are muted. If the issue persists, consider restarting the application or the devices in use. Feel free to contact us if further assistance is needed.
+
+Best regards,
+Customer Support

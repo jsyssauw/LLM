@@ -1,0 +1,14 @@
+Ticket ID: ticket_2388
+Subject: Kritisches Service-Ausfall
+Incident Type: Incident
+Customer Issue: Sehr geehrtes IT-Service-Support-Team, ich schreibe, um Sie über einen festgestellten Serviceausfall zu informieren, der kritische Ausfallprobleme mit dem AWS-Managementdienst verursacht hat. Dieser Ausfall hat unsere Abläufe erheblich beeinträchtigt, und wir benötigen eine dringende Überprüfung und Lösung der betroffenen Cloud-Infrastruktur. Der Ausfall hat unsere Fähigkeit gestört, Cloud-Ressourcen zu verwalten, was sich sowohl auf die Leistung als auch auf die Produktivität auswirkt. Da diese Situation kritisch ist, bitten wir Sie, unsere Anfrage zu priorisieren und die notwendigen Teams einzubeziehen, um das Problem umgehend zu diagnostizieren und zu beheben. Darüber hinaus würden wir regelmäßige Updates über die Fortschritte schätzen. Bitte kontaktieren Sie <name> in unserem Büro per E-Mail oder wenden Sie sich direkt an <tel_num>. Unsere Kontonummer lautet <acc_num>. Vielen Dank für Ihre schnelle Aufmerksamkeit in dieser Angelegenheit. Mit freundlichen Grüßen, <name>
+Customer Service answer: Betreff: AW: Kritisches Service-Ausfall
+
+Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Wir verstehen die Dringlichkeit des Ausfalls des AWS-Managementdienstes und dessen Auswirkungen auf Ihre Abläufe. Unser Team untersucht aktiv das Problem und arbeitet eng mit AWS-Spezialisten zusammen, um Ihre Dienste wiederherzustellen. Wir priorisieren Ihre Anfrage und werden Sie über den Fortschritt auf dem Laufenden halten. Bei dringenden Bedürfnissen wenden Sie sich bitte weiterhin per E-Mail oder direkt an unser Team unter <tel_num>. Ihr Konto, <acc_num>, wird zur weiteren Referenz notiert.
+
+Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit besten Grüßen,
+IT-Service-Support-Team

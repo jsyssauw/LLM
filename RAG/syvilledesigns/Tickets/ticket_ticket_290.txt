@@ -1,0 +1,32 @@
+Ticket ID: ticket_290
+Subject: Problème de synchronisation de fichiers Google Workspace
+Incident Type: Problem
+Customer Issue: Cher service clientèle,
+
+Je vous écris pour vous informer d'un problème que nous rencontrons avec la synchronisation des fichiers dans l'outil de collaboration Google Drive, qui fait partie du package Google Workspace Business Standard. Cette situation a entraîné des retards importants dans les mises à jour de documents, affectant la productivité.
+
+Pourriez-vous s'il vous plaît nous conseiller sur la façon de résoudre ce problème rapidement ? Toute assistance ou étapes de dépannage que vous pouvez fournir seraient grandement appréciées.
+
+Merci de votre rapide attention à cette affaire.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci d'avoir contacté au sujet du problème de synchronisation des fichiers Google Workspace. Pour résoudre cela rapidement, veuillez essayer les étapes suivantes :
+
+1. Assurez-vous d'avoir une connexion Internet stable.
+2. Vérifiez si vous avez la dernière version de Google Drive installée.
+3. Redémarrez Google Drive : Quittez et rouvrez l'application.
+4. Vérifiez qu'il y a suffisamment de stockage dans votre Google Drive.
+5. Vérifiez le stockage de votre ordinateur et videz le cache si nécessaire.
+6. Assurez-vous que les fichiers ne dépassent pas la limite de taille de fichier de Google Drive.
+7. Désactivez temporairement tout logiciel de pare-feu ou antivirus qui pourrait bloquer l'accès.
+8. Déconnectez-vous et reconnectez-vous à votre compte Google.
+
+Si les problèmes persistent, envisagez de contacter directement le support Google Workspace pour obtenir une assistance supplémentaire.
+
+Cordialement,
+
+Agent du Service Desk

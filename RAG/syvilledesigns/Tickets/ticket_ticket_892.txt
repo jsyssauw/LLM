@@ -1,0 +1,15 @@
+Ticket ID: ticket_892
+Subject: Problème avec Jira Software
+Incident Type: Incident
+Customer Issue: Cher Service Client, 
+
+Nous rencontrons actuellement un problème avec la file d'attente des Ressources Humaines où les tâches de priorité moyenne ne parviennent pas à passer au statut suivant dans Jira Software 8.20. Ce problème entraîne des retards significatifs dans notre flux de travail. Veuillez nous aider à résoudre ce problème dans les plus brefs délais. Pour référence, notre numéro de compte est <acc_num>. Vous pouvez me contacter directement au <tel_num>. Dans l'attente de votre réponse rapide. Merci.
+
+Cordialement,
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous comprenons l'urgence de résoudre le problème avec les tâches de priorité moyenne dans votre file d'attente des Ressources Humaines. Notre équipe examine actuellement le problème avec Jira Software 8.20 et fournira une solution dès que possible. Je vous tiendrai informé de l'avancement. Si vous avez d'autres détails à fournir, veuillez nous en informer.
+
+Cordialement,
+Équipe de Support Client

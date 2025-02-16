@@ -1,0 +1,16 @@
+Ticket ID: ticket_2937
+Subject: nan
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team,
+
+I recently bought an Apple Watch Series 7 GPS from your website, and regrettably, the display seems to be faulty. Could you guide me on the return or exchange procedure? My order number is <order_num>.
+
+Thank you,
+<name>
+<tel_num>
+Customer Service answer: Hello <name>,
+
+I apologize for the situation regarding your Apple Watch Series 7. Please reach out to our returns department at your convenience by dialing <tel_num> or sending an email to returns@ourstore.com. We will help you with the return or replacement swiftly.
+
+Best wishes,
+Customer Support Team

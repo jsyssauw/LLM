@@ -1,0 +1,16 @@
+Ticket ID: ticket_1494
+Subject: nan
+Incident Type: Problem
+Customer Issue: Prezado <name>,
+
+Recebi uma fonte de alimentação com defeito junto com meu Acer Aspire TC-895. Meu número de conta é <acc_num>. Você consegue me ajudar com uma troca ou devolução?
+
+Obrigado,
+<name>
+Telefone: <tel_num>
+Customer Service answer: Prezado <name>,
+
+Lamentamos pelo problema com a fonte de alimentação. Iremos organizar uma troca ou reembolso para o seu Acer Aspire TC-895. Por favor, fique atento a uma atualização em breve.
+
+Cordialmente,
+Serviço de Atendimento ao Cliente

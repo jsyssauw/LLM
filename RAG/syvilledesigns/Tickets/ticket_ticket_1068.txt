@@ -1,0 +1,12 @@
+Ticket ID: ticket_1068
+Subject: Urgent: IT Ticket System Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I hope this message finds you well. I am writing to bring immediate attention to a critical issue affecting our IT Ticket System which is part of your IT Consulting Service. This issue is causing a significant disruption in our client workflows and needs urgent resolution. The problem began on October 9, and has progressively worsened, leading to increasing frustrations. Could you please prioritize this issue and provide an estimated timeline for a fix? Your prompt attention to resolve this matter would be greatly appreciated. Thank you, <name>, Account Number: <acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We are aware of the issue affecting your IT Ticket System and understand its critical impact on your workflows. Our team is prioritizing this matter and is currently investigating the root cause. We aim to provide a resolution as quickly as possible and will keep you updated with an estimated timeline for the fix shortly.
+
+We appreciate your patience and understanding.
+
+Best regards,
+[Your IT Support Team]

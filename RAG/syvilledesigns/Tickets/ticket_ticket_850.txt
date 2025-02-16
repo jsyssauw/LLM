@@ -1,0 +1,19 @@
+Ticket ID: ticket_850
+Subject: Problema Intermitente de Congelación del Cursor en Dell XPS
+Incident Type: Incident
+Customer Issue: Estimado Servicio de Atención al Cliente,<br><br>Espero que este mensaje le encuentre bien. Estoy experimentando un problema intermitente de congelación del cursor en mi Dell XPS 13 9310. A pesar de haber actualizado todos los controladores y software relevantes a las últimas versiones, el problema persiste. Este problema interrumpe mi productividad y agradecería mucho si pudieran brindar asistencia para resolverlo. Por favor, háganme saber si hay algún diagnóstico específico que deba realizar o si podría ser necesaria una unidad de reemplazo. Gracias por su atención a este asunto.<br><br>Atentamente,<br><name><br><tel_num><br><acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con respecto al problema intermitente de congelación del cursor en su Dell XPS 13 9310. Como ya ha actualizado todos los controladores y software, recomendamos intentar los siguientes pasos adicionales:
+
+1. Ejecute la herramienta Dell SupportAssist para cualquier diagnóstico de hardware.
+2. Asegúrese de que su sistema operativo esté completamente actualizado.
+3. Considere realizar un inicio limpio para descartar conflictos de software.
+4. Desconecte cualquier dispositivo externo para verificar si alguno puede estar causando el problema.
+
+Si el problema persiste después de estos diagnósticos, por favor contáctenos nuevamente para que podamos explorar más asistencia o discutir opciones de garantía, incluida una posible reemplazo.
+
+Valoramos su productividad y nuestro objetivo es resolver este problema rápidamente.
+
+Atentamente,
+Equipo de Atención al Cliente

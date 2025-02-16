@@ -1,0 +1,34 @@
+Ticket ID: ticket_122
+Subject: Wiederkehrende Browserabstürze mit Google Chrome Version 102.0
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um ein anhaltendes Problem zu melden, das ich mit Google Chrome Version 102.0 auf meinem Gerät habe. Der Browser stürzt konsequent ab, wenn ich versuche, bestimmte Websites zu laden.
+
+Dieses Problem hat mein Surferlebnis gestört, und ich kann über diesen Browser nicht auf wichtige Online-Dienste zugreifen. Ich würde jede Anleitung oder Aktualisierungen bezüglich Fehlerbehebungen oder Alternativen, die dieses Problem lösen könnten, sehr schätzen.
+
+Glücklicherweise versichert mir Ihre rasche Unterstützung bei früheren Angelegenheiten Ihr Engagement für Qualitätsunterstützung. Sollten Sie weitere Informationen zu meinem Setup benötigen, lassen Sie es mich bitte wissen.
+
+Vielen Dank für Ihre Aufmerksamkeit und Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<name>
+
+Kontakt: <tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Es tut mir leid zu hören, dass Sie Probleme mit Google Chrome Version 102.0 haben. Hier sind einige Schritte, die Sie ausprobieren können, um die Abstürze zu beheben:
+
+1. Stellen Sie sicher, dass Chrome vollständig aktualisiert ist, indem Sie zu 'Einstellungen' -> 'Über Chrome' gehen, um nach Updates zu suchen.
+2. Löschen Sie Ihre Browsing-Daten, indem Sie auf 'Einstellungen' -> 'Datenschutz und Sicherheit' -> 'Browserdaten löschen' klicken.
+3. Deaktivieren Sie alle unnötigen Erweiterungen, indem Sie 'chrome://extensions/' besuchen.
+4. Erwägen Sie, die Chrome-Einstellungen auf die Standardeinstellungen zurückzusetzen, indem Sie zu 'Einstellungen' -> 'Erweitert' -> 'Einstellungen auf ihre ursprünglichen Standardwerte zurücksetzen' gehen.
+
+Wenn keine dieser Lösungen funktioniert, ist eine mögliche vorübergehende Lösung die Verwendung eines alternativen Browsers wie Firefox oder Edge für wichtige Aufgaben, während möglicherweise ein Fix für die von Ihnen verwendete Version entwickelt wird.
+
+Gerne können Sie weitere Details zu Ihrem Setup bereitstellen, falls das Problem weiterhin besteht. Wir sind hier, um sicherzustellen, dass Ihr Surferlebnis wieder optimal ist.
+
+Mit freundlichen Grüßen,
+
+Kundenserviceteam

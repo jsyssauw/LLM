@@ -1,0 +1,27 @@
+Ticket ID: ticket_2819
+Subject: Frequent Issues with HP DeskJet 3755
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am reaching out to report an issue I have been experiencing with my HP DeskJet 3755 printer after a recent setup. Since installation, the printer frequently jams, which has severely affected my ability to handle essential printing tasks. Every attempt to rectify this through the usual troubleshooting steps has been unsuccessful. I purchased the printer under the account number <acc_num> and it arrived in excellent condition, so I'm unsure why these issues are occurring persistently even with only light usage. Could you please assist me in resolving this matter? I am eager to restore the printer to full functionality. You can reach me at <tel_num> should you need more detailed information. Thank you for your support.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about the issues with your HP DeskJet 3755 printer. I'm sorry to hear about the paper jams you're experiencing. 
+
+Firstly, make sure that the paper is loaded correctly in the tray and that it's not overloaded. Also, check for any blockages in the paper feed area and clear any debris. Make sure the paper used is of compatible type and within the printer's supported specifications.
+
+If the issue persists, please ensure your printer's drivers are up to date by downloading the latest version from the HP support website. 
+
+If none of these solutions work, your printer may need servicing. As your printer is new and under warranty, you can contact our support team using your account number <acc_num> for further assistance.
+
+You can reach us at your convenience at the number associated with your account or directly via email for a more personalized support session.
+
+Thank you for your patience, and we look forward to resolving this issue promptly.
+
+Best regards,
+
+Tech Online Store Customer Support

@@ -1,0 +1,5 @@
+Ticket ID: ticket_2244
+Subject: Asistencia necesaria para configurar la impresora HP DeskJet 3755
+Incident Type: Request
+Customer Issue: Por favor, ayúdame a configurar la impresión inalámbrica en mi impresora.
+Customer Service answer: Visita el sitio web de HP para instrucciones de configuración inalámbrica para tu impresora DeskJet 3755.

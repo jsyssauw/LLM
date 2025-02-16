@@ -1,0 +1,23 @@
+Ticket ID: ticket_1768
+Subject: Dringende Unterstützung für AWS-Dienste benötigt
+Incident Type: Incident
+Customer Issue: Sehr geehrtes IT-Serviceteam,
+
+ich schreibe, um Sie darüber zu informieren, dass die AWS-Dienste derzeit nicht verfügbar sind, was erheblichen Einfluss auf mehrere Produkte in unserem Betrieb hat. Das am stärksten betroffene Produkt ist der AWS Management Service, der als entscheidende Komponente für unsere täglichen Aktivitäten dient. Wir erleben erhebliche Unterbrechungen und würden Ihre dringende Unterstützung sehr schätzen, um die Wiederherstellung dieser Cloud-Dienste zu beschleunigen. Diese Angelegenheit erfordert sofortige Aufmerksamkeit, da es dringend notwendig ist, Ausfallzeiten und betriebliche Verluste zu minimieren. Bitte lassen Sie uns den voraussichtlichen Zeitrahmen für die Wiederherstellung der Dienste wissen.
+
+Vielen Dank für Ihre schnelle Aufmerksamkeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich der Störung der AWS-Dienste an uns gewandt haben. Wir entschuldigen uns für die Unannehmlichkeiten, die dieser Ausfall für Ihre Betriebsabläufe verursacht. Unser technisches Team arbeitet derzeit eng mit AWS zusammen, um das Problem so schnell wie möglich zu beheben.
+
+Während wir uns bemühen, die Auswirkungen auf Ihre täglichen Aktivitäten zu minimieren, haben wir derzeit noch keinen genauen Zeitrahmen für die vollständige Wiederherstellung. Seien Sie versichert, dass wir Sie über alle Fortschritte auf dem Laufenden halten und Sie sofort benachrichtigen, sobald die Dienste wieder normal funktionieren.
+
+Ihre Geduld und Ihr Verständnis in dieser Angelegenheit sind uns äußerst wichtig. Bitte zögern Sie nicht, uns zu kontaktieren, wenn Sie weitere Unterstützung benötigen oder zusätzliche Bedenken haben.
+
+Mit freundlichen Grüßen,
+
+IT-Serviceteam

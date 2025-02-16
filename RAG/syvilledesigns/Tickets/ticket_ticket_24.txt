@@ -1,0 +1,15 @@
+Ticket ID: ticket_24
+Subject: nan
+Incident Type: Problem
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich wende mich an Sie, um auf eine Verzögerung beim Versand meiner kürzlich aufgegebenen Bestellung eines MacBook Air M1 hinzuweisen. Meine Bestellnummer lautet <order_num>. Könnten Sie mir bitte ein Update zum geschätzten Liefertermin mitteilen?
+
+Mit besten Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+wir danken Ihnen für Ihre Nachricht. Aufgrund der hohen Nachfrage kommt es aktuell zu Verzögerungen bei Ihrer Bestellung des MacBook Air M1 (<order_num>). Wir rechnen damit, dass die Lieferung in den nächsten 5-7 Werktagen erfolgen wird. Wir bedauern die Umstände, die Ihnen dadurch entstanden sind.
+
+Mit besten Grüßen,
+Ihr Kundenservice

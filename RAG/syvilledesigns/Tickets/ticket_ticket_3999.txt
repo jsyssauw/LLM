@@ -1,0 +1,20 @@
+Ticket ID: ticket_3999
+Subject: Overcharge on yearly Microsoft Office 365 subscription
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I recently noticed an overcharge on my Microsoft Office 365 yearly subscription for our team's cloud services. Could you please assist me in resolving this issue?
+
+My account number is <acc_num>. I would appreciate a prompt resolution.
+
+Thank you,
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We apologize for the inconvenience caused by the overcharge on your Microsoft Office 365 subscription. Our team is looking into your account <acc_num> and will resolve this promptly. 
+
+You will be updated shortly.
+
+Best regards,
+Tech Online Store Customer Support

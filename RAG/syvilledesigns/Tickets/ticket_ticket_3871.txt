@@ -1,0 +1,20 @@
+Ticket ID: ticket_3871
+Subject: nan
+Incident Type: Incident
+Customer Issue: Hola, equipo de atención al cliente,
+
+Recientemente adquirí un Dell XPS 13 9310 en su tienda en línea y he notado un inconveniente con el teclado. Una de las teclas no está funcionando correctamente, lo que me está generando bastante dificultad durante su utilización. ¿Serían tan amables de orientarme sobre cómo se puede resolver esta situación o de facilitar un reemplazo?
+
+Agradezco su atención,
+<name>
+
+Número de cuenta: <acc_num>
+Número de teléfono: <tel_num>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por ponerte en contacto con nosotros. Lamento escuchar sobre el inconveniente con el teclado de tu Dell XPS 13 9310. Para solucionarlo, te animo a que revises nuestra guía de solución de problemas en la página de soporte, o contactes a nuestro servicio técnico al <support number>. Alternativamente, podemos coordinar un reemplazo siempre que el dispositivo se encuentre dentro del periodo de garantía.
+
+Por favor, responde a este correo con los detalles de tu pedido.
+
+Atentamente,
+El equipo de soporte al cliente

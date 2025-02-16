@@ -1,0 +1,10 @@
+Ticket ID: ticket_15
+Subject: Urgente: Interrupción de red por el router ISR4331
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte, Estamos experimentando una interrupción de red causada por un router Cisco ISR4331 que no funciona correctamente. Esto requiere una intervención técnica de alta prioridad. Por favor, aborden este problema lo antes posible. Gracias por su asistencia. Saludos, <name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto. Entendemos la urgencia de la interrupción de la red causada por el router Cisco ISR4331. Nuestro equipo técnico ha sido notificado de inmediato y abordará este problema como prioridad. Nuestro objetivo es resolverlo lo más rápido posible y lo mantendremos informado sobre el progreso.
+
+Atentamente,
+Equipo de soporte

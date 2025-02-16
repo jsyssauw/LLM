@@ -1,0 +1,24 @@
+Ticket ID: ticket_3583
+Subject: Solicitud de cambio para el plan de suscripción de Office 365
+Incident Type: Change
+Customer Issue: Hola Servicio al Cliente,
+
+Estoy escribiendo para solicitar un cambio en mi actual plan de suscripción de Microsoft Office 365. Estoy interesado en actualizar para incluir almacenamiento en la nube adicional y las últimas actualizaciones para el cliente de correo electrónico. Además, me gustaría entender cómo este cambio podría afectar el costo total.
+
+Mi número de cuenta es <acc_num>, y mi número de teléfono es <tel_num>. Por favor, háganme saber qué información necesitan de mí para procesar este cambio.
+
+Gracias por su asistencia.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Hola <name>,
+
+Gracias por ponerte en contacto respecto a la actualización de tu suscripción de Office 365. Podemos asistirte en la actualización de tu plan para incluir almacenamiento en la nube adicional y las últimas actualizaciones del cliente de correo electrónico. Este cambio puede afectar el costo total de tu suscripción.
+
+Para continuar, verifica tu cuenta a través de nuestro portal seguro o proporciona cualquier referencia de facturación reciente. Una vez que recibamos esto, procederemos con tu solicitud e informaremos sobre cualquier implicación en el costo.
+
+Si se necesitan más detalles para finalizar el cambio, nos pondremos en contacto contigo. No dudes en comunicarte si tienes alguna pregunta.
+
+Saludos cordiales,
+Equipo de Servicio al Cliente

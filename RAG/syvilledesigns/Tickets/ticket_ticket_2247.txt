@@ -1,0 +1,37 @@
+Ticket ID: ticket_2247
+Subject: Problemas de conectividad con el router Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Estoy escribiendo para informar sobre un problema relacionado con nuestro router Cisco ISR4331. Estamos experimentando problemas de conectividad constantes donde el router no puede establecer una conexión de red estable. El problema ha estado ocurriendo de manera continua y está causando interrupciones significativas en nuestras operaciones.
+
+Inicialmente, intentamos reiniciar el dispositivo varias veces como remedio inmediato, pero los problemas persisten. El router se conecta ocasionalmente, pero desafortunadamente, solo por cortos períodos antes de desconectarse nuevamente. Esto ha impactado gravemente nuestro flujo de trabajo, ya que dependemos en gran medida de una conexión a internet estable para nuestros procesos comerciales.
+
+Nos hemos asegurado de que todos los cables estén conectados de forma segura y de que no haya daños físicos en el dispositivo. Sin embargo, el problema sigue sin resolverse. Es esencial para nosotros encontrar una solución rápida, ya que esta situación obstaculiza nuestra productividad y comunicación.
+
+¿Podría por favor proporcionar asistencia sobre este asunto en su primera oportunidad? Agradeceríamos cualquier consejo o pasos de solución de problemas que debamos seguir para resolver este problema de conectividad de manera eficiente.
+
+Gracias por su pronta atención a este asunto.
+
+Atentamente,
+
+<name> 
+<tel_num> 
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Entendemos la inconveniencia que enfrentas con tu router Cisco ISR4331. Aquí hay algunos pasos de solución de problemas para ayudar a resolver el problema:
+
+1. Asegúrate de que el firmware del router esté actualizado. Las actualizaciones pueden resolver muchos problemas de conectividad.
+2. Revisa la configuración del router para asegurarte de que se alineen con tus requisitos de red.
+3. Verifica que no haya fuentes de interferencia, como otros dispositivos inalámbricos cercanos.
+4. Prueba con diferentes cables de red para eliminar la posibilidad de cables defectuosos.
+5. Si es posible, conecta el router a otro puerto o dispositivo de red para descartar errores de puerto.
+6. Revisa los registros del router. Pueden proporcionar información sobre qué está causando las desconexiones.
+
+Si estos pasos no resuelven el problema, por favor contáctanos nuevamente y considera proporcionar cualquier mensaje de error o registros de avance del router para obtener asistencia más detallada.
+
+Gracias por tu paciencia y cooperación.
+
+Atentamente,
+Equipo de soporte al cliente

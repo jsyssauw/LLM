@@ -1,0 +1,10 @@
+Ticket ID: ticket_3435
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear IT Services Support, we're experiencing intermittent outages with our AWS Management Service. Need urgent resolution. Regards, <name>
+Customer Service answer: Dear <name>, 
+
+We are currently investigating the issue with AWS Management Service outages and will update you as soon as possible. 
+
+Regards,
+IT Services Support

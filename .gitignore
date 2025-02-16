@@ -57,6 +57,13 @@ cover/
 *.mo
 *.pot
 
+<<<<<<< HEAD
+# ChromaDB files
+data_level0.bin
+chroma.sqlite3
+
+=======
+>>>>>>> 7cd29b281382d9117e6777243a2c99421b6a22f1
 # Django stuff:
 *.log
 local_settings.py

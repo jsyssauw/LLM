@@ -1,0 +1,15 @@
+Ticket ID: ticket_3743
+Subject: Urgente: Problema de Infraestrutura da AWS
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente,
+
+Estamos enfrentando um problema de alta prioridade com o nosso Serviço de Gerenciamento da AWS que requer atenção imediata. A resolução imediata é necessária para evitar possível tempo de inatividade e otimizar custos. A sua assistência rápida nesta questão é crítica.
+
+Obrigado,
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Entendemos a urgência da situação com o seu Serviço de Gerenciamento da AWS. Nossa equipe está investigando o problema e priorizando sua resolução para mitigar qualquer possível tempo de inatividade e gerenciar os custos de forma eficaz. Iremos atualizá-lo sobre nosso progresso em breve. Por favor, nos avise se houver detalhes ou contatos adicionais que devemos conhecer.
+
+Atenciosamente,
+Equipe de Atendimento ao Serviço

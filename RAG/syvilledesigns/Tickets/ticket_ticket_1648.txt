@@ -1,0 +1,23 @@
+Ticket ID: ticket_1648
+Subject: nan
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich hoffe, diese E-Mail erreicht Sie wohl. Ich schreibe, um Ihnen einen Fehler mitzuteilen, auf den ich in Jira Software Version 8.20 gestoßen bin, insbesondere in Bezug auf das Ticketmanagement in Scrum-Projekten. Es scheint, als ob das System Schwierigkeiten hat, Probleme genau zu verfolgen und ihren Status über Sprints hinweg zu verwalten, was zu erheblichen Arbeitsablaufunterbrechungen führt. Zum Beispiel kehren Probleme, die als 'In Progress' markiert sind, gelegentlich ohne manuelles Eingreifen zu 'Open' zurück, und gelöste Tickets wechseln nicht wie erwartet zu 'Done', wenn ein Sprint abgeschlossen ist. Diese Inkonsistenz beeinträchtigt nicht nur die Effizienz unseres Teams, sondern hindert uns auch daran, Projektfristen einzuhalten.
+
+Dieser spezielle Fehler ist in mehreren Projekten innerhalb unserer Organisation weit verbreitet, und jede Freigabeiteration hat seine Auswirkungen verschärft. Folglich empfinden unsere Projektmanager es als zunehmend schwierig, genaue Berichte zu erstellen, bevorstehende Sprints zu planen und Projektzeitpläne vorherzusagen. Dieses anhaltende Problem erfordert eine Umgehungslösung, die sich als kontraproduktiv und ressourcenintensiv erweist.
+
+Wir bitten um die zügige Aufmerksamkeit Ihres technischen Teams, um dieses Problem zu beheben. Jegliche Anleitung oder ein voraussichtlicher Zeitrahmen für die Lösung wäre sehr geschätzt. Unsere Kontaktdaten sind wie folgt: Kontonummer <acc_num>.
+
+Bitte zögern Sie nicht, mich unter <tel_num> zu erreichen, falls Sie weitere Informationen oder Klarstellungen benötigen. Vielen Dank für Ihre schnelle Aufmerksamkeit zu diesem Anliegen.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie uns auf dieses Problem mit Jira Software Version 8.20 aufmerksam gemacht haben. Es tut uns leid für die Störungen, die Sie in den Arbeitsabläufen Ihrer Scrum-Projekte erfahren haben. Unser technisches Team untersucht bereits den Fehler, der das Ticketstatusmanagement und die Sprintabschlüsse beeinträchtigt. Wir verstehen die Auswirkungen auf die Effizienz Ihres Teams und arbeiten intensiv daran, eine Lösung zu finden.
+
+Wir werden uns so schnell wie möglich mit einer Anleitung und einem Zeitrahmen für die Behebung bei Ihnen melden. In der Zwischenzeit, falls zusätzliche Informationen benötigt werden, nehmen wir Kontakt mit der angegebenen Telefonnummer auf. Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

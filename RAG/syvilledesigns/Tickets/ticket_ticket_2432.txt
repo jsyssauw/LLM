@@ -1,0 +1,18 @@
+Ticket ID: ticket_2432
+Subject: Urgent: AWS Outage Disrupting Critical Services
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+We are experiencing a high priority service disruption due to an outage in AWS, affecting our AWS Management Service. Immediate restoration of our cloud infrastructure is necessary to resume normal operations. This issue is critically impacting our business processes and requires your urgent attention.
+
+We appreciate your expedited assistance in resolving this matter.
+
+Thank you,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us regarding the AWS outage affecting your AWS Management Service. Our technical team is already aware of the issue and working diligently to restore your cloud infrastructure to ensure a swift resolution. We understand the critical impact on your business and are prioritizing the recovery efforts. Please rest assured that we are doing everything possible to mitigate this disruption and will keep you updated on the progress. If there are specific details or additional issues you would like to discuss, please let us know.
+
+Best regards,
+Customer Support Team

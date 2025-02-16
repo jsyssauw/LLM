@@ -1,0 +1,39 @@
+Ticket ID: ticket_3024
+Subject: Assistance Required for Canon Printer Wi-Fi Issue
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I am writing to seek your assistance with a connectivity issue that I am experiencing with my Canon PIXMA MG3620 printer. After a recent firmware update performed last week, I have been unable to connect the device to my Wi-Fi network. The printer had been functioning flawlessly on the wireless network prior to this update, which leads me to believe that there might be an issue with the new firmware.
+
+For reference, the product in question is the Canon PIXMA MG3620, and this issue has rendered the device unusable for its intended wireless printing functions, which is crucial for my daily operations. I have attempted basic troubleshooting steps, such as restarting the printer, attempting to reconnect to the Wi-Fi via the network settings menu, and even resetting the router. Unfortunately, none of these actions have resolved the issue.
+
+I would appreciate any advice or troubleshooting steps that you could suggest to fix this problem. Additionally, if necessary, I am open to the possibility of rolling back the firmware update if that is a viable solution. Please let me know if there are any troubleshooting logs or additional information you require from my end to facilitate a resolution.
+
+Thank you for your attention and support on this matter. I am looking forward to your prompt response so we can resolve this issue together.
+
+Kind regards,
+
+<name>
+<email>
+<tel_num>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to Tech Online Store Customer Support regarding your Canon PIXMA MG3620 printer issue.
+
+Firstly, I recommend checking if there's a newer firmware version or a patch available from Canon's official website, as they might have released a fix for this connectivity issue. If no new update is available, you may also consider the following steps:
+
+1. Uninstall your printer's drivers and reinstall them, ensuring you have the latest version compatible with the updated firmware.
+2. Reset the printer's network settings by accessing the printer’s control panel and configure it to connect to your Wi-Fi network from scratch.
+3. Verify your router's firmware is up-to-date and using the recommended settings for devices like your Canon printer.
+
+If these steps fail to resolve the problem, rolling back to the previous firmware version might be possible. Unfortunately, such action can usually only be performed under Canon's guidance. Please contact Canon support directly to confirm if rolling back is an option and how to perform it safely without impacting your printer’s functionality.
+
+Should you need any further assistance from us, feel free to provide any troubleshooting logs and additional information you think might help.
+
+Thank you for your patience and cooperation. We aim to resolve this issue as swiftly as possible.
+
+Best regards,
+
+<name of agent>
+Tech Online Store Customer Support

@@ -1,0 +1,28 @@
+Ticket ID: ticket_1029
+Subject: Consulta sobre asistencia de Jira 8.20
+Incident Type: Problem
+Customer Issue: Estimado Servicio al Cliente,
+
+Estoy interesado en aprender sobre las capacidades de integración de Jira Software 8.20, particularmente en la configuración efectiva de tableros Scrum. ¿Podría proporcionar orientación o documentación sobre cómo configurar y optimizar estos tableros para una colaboración eficiente del equipo? Además, sería útil entender las mejores prácticas para maximizar la integración del software con otras herramientas.
+
+Gracias por su asistencia.
+
+Atentamente,
+
+<name>
+Customer Service answer: Asunto: Re: Consulta sobre asistencia de Jira 8.20
+
+Estimado <name>,
+
+Gracias por contactarnos. Para ayudarle a configurar tableros Scrum en Jira 8.20 para una colaboración eficiente del equipo, le recomiendo revisar la documentación oficial de Atlassian donde encontrará una guía paso a paso sobre cómo configurar y optimizar estos tableros: [Documentación de Atlassian Jira](https://confluence.atlassian.com/jira/jira-docs-2021-11-1811528.html).
+
+Para las mejores prácticas, considere:
+1. Asegúrese de que su equipo entienda los roles y rituales de Scrum.
+2. Personalice la configuración del tablero para que coincida con su flujo de trabajo y prioridades.
+3. Utilice integraciones con herramientas como Confluence y Trello para una colaboración mejorada.
+
+No dude en escribirnos si necesita más asistencia.
+
+Atentamente,
+[Su Nombre]
+Equipo de Servicio al Cliente

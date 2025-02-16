@@ -1,0 +1,19 @@
+Ticket ID: ticket_1982
+Subject: Urgente: Interrupção do Serviço de Nuvem Requer Atenção Imediata
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Meu nome é <name> e estou enfrentando um sério problema com o Serviço de Gestão da AWS. Nossas instâncias da AWS pararam de funcionar de repente, causando uma séria interrupção em nossos serviços de nuvem. Este problema é urgente e requer resolução imediata, pois está impactando nossas operações.
+
+É crucial que o problema seja corrigido imediatamente para evitar danos operacionais adicionais. Por favor, priorizem esta preocupação e forneçam a orientação ou suporte necessários o mais rápido possível para restaurar nossos serviços. Você pode me contatar pelo <tel_num> para mais informações.
+
+Obrigado pela sua atenção rápida.
+
+Atenciosamente,
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Entendemos a urgência da situação com seu Serviço de Gestão da AWS. Nossa equipe está atualmente investigando o problema e trabalhando diligentemente para resolvê-lo o mais rápido possível. Vamos priorizar seu caso e mantê-lo informado sobre quaisquer atualizações. Agradecemos sua paciência e cooperação. Se você precisar de mais assistência enquanto isso, sinta-se à vontade para nos contatar a qualquer momento.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

@@ -1,0 +1,29 @@
+Ticket ID: ticket_584
+Subject: Surface Pro 7 Battery and Overheating Issues
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am reaching out to report a sudden issue with my Microsoft Surface Pro 7, experienced in the past few days. The device, which is still under warranty, is encountering a rapid battery drain and overheating during basic usage like browsing and word processing.
+
+Earlier, the battery lasted numerous hours on a full charge, but now struggles to maintain power for even a couple of hours. Additionally, the device becomes surprisingly hot to touch after short use. This change in performance triggers my concern for the longevity of the product.
+
+I kindly ask for your assistance to address this issue as soon as possible. What are the steps to initiate a service request, and am I eligible for a replacement or repair under warranty?
+
+Thank you for your support.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us about the issues with your Microsoft Surface Pro 7. I understand your concern and I'm here to assist you.
+
+Since your device is experiencing rapid battery drain and overheating while under warranty, it is certainly eligible for service. To initiate a service request, please visit our website and navigate to the 'Support' section where you'll find the option for 'Warranty and Repair'. Follow the guided steps to fill out a service request form. Have your proof of purchase and device serial number ready, as these may be required during the process.
+
+Once your request is submitted, our technical team will evaluate the details to determine whether a repair or replacement is necessary based on warranty terms.
+
+For immediate assistance or any further queries, feel free to contact our customer support helpline at <tel_num>.
+
+We're here to ensure your Surface Pro 7 is restored to optimal condition.
+
+Best regards,
+Tech Online Store Customer Support Team

@@ -1,0 +1,19 @@
+Ticket ID: ticket_3445
+Subject: nan
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich habe seit dem letzten Update auf Jira Software 8.20 ein Problem mit dem Ticketsystem, das das Laden von Projekten verhindert. Dies beeinträchtigt unsere Projektmanagementaufgaben erheblich. Könnten Sie bitte dieses Problem dringend untersuchen und eine Lösung bereitstellen? Ihre schnelle Unterstützung wäre sehr geschätzt.
+
+Danke,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns auf dieses Problem aufmerksam gemacht haben. Wir entschuldigen uns für die Unannehmlichkeiten, die durch das letzte Update auf Jira Software 8.20 verursacht wurden. Unser Team ist über das Problem, das das Laden von Projekten betrifft, informiert und arbeitet aktiv an einer Lösung. Wir verstehen die Auswirkungen, die dies auf Ihre Projektmanagementaufgaben hat, und versichern Ihnen, dass dieses Problem priorisiert wird. Wir werden Sie informieren, sobald wir eine Lösung haben.
+
+Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+Service Desk Support

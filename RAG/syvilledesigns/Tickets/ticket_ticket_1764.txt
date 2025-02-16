@@ -1,0 +1,5 @@
+Ticket ID: ticket_1764
+Subject: nan
+Incident Type: Incident
+Customer Issue: L'attribution des tickets Jira est défaillante, causant des retards critiques dans le projet.
+Customer Service answer: Merci pour votre rapport sur le problème de ticket Jira. Notre équipe enquête sur le problème pour le résoudre rapidement et minimiser les retards dans le projet.

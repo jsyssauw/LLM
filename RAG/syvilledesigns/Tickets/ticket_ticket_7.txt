@@ -1,0 +1,36 @@
+Ticket ID: ticket_7
+Subject: Service outage resolution requested for ongoing issues
+Incident Type: Change
+Customer Issue: Dear IT Services Customer Support,
+
+I am writing to express our concern regarding a recent service outage that severely disrupted our regular operations. This was specifically related to the IT Consulting Service provided by your team. The interruption significantly impacted our workflow, causing delays and potential revenue loss.
+
+To prevent similar issues in the future, we are seeking your expertise in developing and implementing comprehensive IT solutions. Considering the critical nature of our operations, it is imperative that we ensure maximum uptime and reliability from all IT-related services.
+
+We appreciate the prompt support and preventive measures your company can offer. It would be highly beneficial to discuss possible solutions that can enhance our system's resilience and reduce vulnerability to unexpected outages.
+
+Moreover, please let us know if there are maintenance services or upgrades that should be scheduled to optimize performance and reliability in our existing infrastructure. Kindly provide us with a detailed proposal at your earliest convenience.
+
+Thank you for your attention to this critical matter. We look forward to your swift action and partnership to effectively resolve these issues.
+
+Sincerely,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the recent service outage affecting your IT Consulting Service. We sincerely apologize for any disruption caused to your operations.
+
+We understand the importance of ensuring maximum uptime and reliability. Our team is committed to analyzing this issue thoroughly to prevent future occurrences and will set up a plan for comprehensive IT solutions. We will also evaluate your current infrastructure to propose necessary upgrades or maintenance services to optimize performance and reliability.
+
+To address this promptly, let's schedule a meeting to discuss specific solutions and strategies tailored to your needs. We will prepare a detailed proposal outlining the steps we can take to enhance your system's resilience.
+
+We appreciate your trust in us and are dedicated to working closely with you to swiftly resolve these issues. Please expect our proposal shortly.
+
+Thank you for your patience and understanding.
+
+Best regards,
+
+Customer Support Team  
+IT Services

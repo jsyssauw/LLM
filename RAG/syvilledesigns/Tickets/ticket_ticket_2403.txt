@@ -1,0 +1,25 @@
+Ticket ID: ticket_2403
+Subject: Urgente: Problema de Downtime da AWS
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente de Serviços de TI,
+
+Meu nome é <name>, e estou entrando em contato para relatar um problema urgente com nosso Serviço de Gerenciamento da AWS, número da conta <acc_num>. Estamos enfrentando um downtime significativo, o que está afetando criticamente nossas operações. Como dependemos fortemente dos serviços da AWS para nossa infraestrutura em nuvem, essa interrupção impactou severamente nossa continuidade de negócios.
+
+Nossa equipe notou o downtime afetando múltiplos componentes dentro do nosso ecossistema desde <start_time>. Inicialmente, acreditávamos que isso era um pequeno erro; no entanto, apesar de nossas tentativas de corrigir o problema, o downtime persiste. Esforços como reiniciar serviços e consultar a documentação inicial de suporte não resultaram em nada.
+
+Estamos buscando assistência imediata de sua equipe especializada em infraestrutura de nuvem para investigar e resolver esse problema. A questão é sensível ao tempo, e uma intervenção rápida é imperativa para restaurar nossas operações. Agradeceríamos se sua equipe pudesse priorizar a investigação e nos manter atualizados sobre o progresso e as descobertas. Além disso, você poderia garantir que recursos adicionais sejam alocados para acelerar o processo de resolução?
+
+Sinta-se à vontade para me contatar em <email> ou por telefone em <tel_num>. Estamos aguardando sua rápida resposta a esta situação urgente. Obrigado por sua atenção imediata a este assunto crítico.
+
+Atenciosamente,
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre o problema de downtime da AWS. Entendemos a natureza crítica dessa situação e estamos priorizando-a para revisão e resolução imediata por nossa equipe especializada em infraestrutura de nuvem.
+
+Por favor, tenha a certeza de que estamos alocando todos os recursos necessários para acelerar o processo e manteremos você atualizado com nosso progresso e descobertas. Nossa equipe entrará em contato com você prontamente para fornecer a assistência necessária.
+
+Para comunicação adicional, sinta-se à vontade para me contatar diretamente em <email> ou <tel_num>. Agradecemos sua paciência e cooperação enquanto trabalhamos rapidamente para restaurar suas operações.
+
+Atenciosamente,
+Suporte ao Cliente de Serviços de TI

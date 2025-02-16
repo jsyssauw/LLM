@@ -1,0 +1,23 @@
+Ticket ID: ticket_1660
+Subject: Billing Structure Change Request
+Incident Type: Change
+Customer Issue: Dear Customer Support, 
+
+I am writing to request a change in the billing structure for the AWS Management Service where my account number is <acc_num>. As we are currently experiencing an increase in usage during our deployment phases, we need a billing model that can better accommodate this extended usage. Presently, our costs have exceeded usual limits, impacting our budget significantly. 
+
+For any necessary discussions or clarifications, please feel free to reach me at <tel_num> or email at <email>. I look forward to your support in modifying our agreement to cater to our specific requirements during these intense periods of deployment.
+
+Thank you.
+
+Kind regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding a change in your AWS Management Service billing structure. We understand the importance of having a billing model that supports your increased usage during deployment phases.
+
+Our team will review your current agreement and explore options that better suit your needs. We may contact you at <tel_num> or via email for any further information required.
+
+We appreciate your patience and will get back to you soon with potential solutions.
+
+Best regards,
+Customer Support Team

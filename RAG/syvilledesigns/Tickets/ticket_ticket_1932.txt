@@ -1,0 +1,5 @@
+Ticket ID: ticket_1932
+Subject: Demande d'assistance : Problème de configuration sans fil pour l'imprimante HP
+Incident Type: Incident
+Customer Issue: Bonjour équipe de support client, j'ai des difficultés à configurer la connexion sans fil de l'imprimante compacte HP DeskJet 3755 que j'ai achetée. J'ai veillé à ce que toutes les étapes requises soient suivies, mais le problème persiste et je ne peux pas avancer. Veuillez me donner des conseils sur la manière de résoudre ce problème avec succès. Merci pour votre aide. Cordialement, <name>.
+Customer Service answer: Bonjour <name>, assurez-vous que votre imprimante et votre routeur sont proches, que les deux sont allumés et que le Wi-Fi est activé. Connectez votre imprimante au réseau en utilisant l'application HP Smart. Si des problèmes persistent, redémarrez les deux appareils. Vérifiez également le site de support HP pour les mises à jour logicielles. Contactez-nous si le problème persiste. Cordialement, Équipe de support client.

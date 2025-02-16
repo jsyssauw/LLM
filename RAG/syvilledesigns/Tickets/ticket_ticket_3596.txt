@@ -1,0 +1,15 @@
+Ticket ID: ticket_3596
+Subject: Rückgabeanfrage für Canon-Druckerproblem
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich kann das mobile Drucken mit meinem Canon PIXMA MG3620 nicht verwenden. Ich habe alle Fehlersuche-Schritte ausprobiert, aber das Problem besteht weiterhin. Bitte leiten Sie eine Rückgabe für dieses Produkt ein. Meine Kontonummer ist <acc_num>.
+
+Danke,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Es tut mir leid zu hören, dass Sie weiterhin Probleme mit Ihrem Canon PIXMA MG3620 haben. Wir werden eine Rückgabe für Ihr Produkt veranlassen. Bitte stellen Sie sicher, dass der Drucker sicher verpackt ist und alle Zubehörteile enthalten sind. Rückgabeanweisungen werden an Ihre registrierte E-Mail-Adresse gesendet. Wenn Sie weitere Unterstützung benötigen, können Sie uns gerne kontaktieren.
+
+Mit freundlichen Grüßen,
+Kundenservice

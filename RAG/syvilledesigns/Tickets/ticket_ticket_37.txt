@@ -1,0 +1,5 @@
+Ticket ID: ticket_37
+Subject: Urgent: Issues with AWS Management Service
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I am writing to report a high priority issue with the AWS Management Service. We are experiencing significant challenges with our cloud deployment processes and cost management. This issue is affecting our business operations and requires immediate attention. Please advise on the necessary steps to resolve these problems effectively. I can be reached at <tel_num> for further discussion. I look forward to your swift response. Thank you. Sincerely, <name>
+Customer Service answer: Dear <name>, thank you for reaching out. We understand the urgency of your issue with the AWS Management Service. Please ensure your account settings are correctly configured and review AWS CloudFormation for deployment automation. For cost management, utilize AWS Budgets and Cost Explorer. We recommend contacting our AWS support at <tel_num>. Let us know if these steps help. We are here to assist you further. Best regards, Service Desk.

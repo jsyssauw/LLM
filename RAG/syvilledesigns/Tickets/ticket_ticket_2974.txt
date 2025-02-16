@@ -1,0 +1,5 @@
+Ticket ID: ticket_2974
+Subject: Solicitud de actualización de memoria
+Incident Type: Change
+Customer Issue: Necesito una actualización de memoria para un mejor rendimiento
+Customer Service answer: Gracias por su solicitud. Por favor, especifique el modelo de su dispositivo y el tamaño de memoria actual.

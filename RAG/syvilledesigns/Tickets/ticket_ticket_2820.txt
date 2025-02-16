@@ -1,0 +1,5 @@
+Ticket ID: ticket_2820
+Subject: Urgent : Problème de fermeture inattendue avec le MacBook Air M1
+Incident Type: Request
+Customer Issue: Mon MacBook Air M1 s'éteint fréquemment.
+Customer Service answer: Veuillez réinitialiser le SMC et mettre à jour macOS. Si cela persiste, contactez le support Apple.

@@ -1,0 +1,35 @@
+Ticket ID: ticket_2138
+Subject: Demande d'assistance immédiate concernant un achat récent
+Incident Type: Problem
+Customer Issue: Cher Support Client de Tech Online Store,
+
+Je vous écris pour exprimer ma frustration et demander une assistance immédiate concernant un achat récent effectué via votre magasin. Le [purchase date], j'ai acheté un Microsoft Surface Pro 7. Malheureusement, l'appareil présente un problème persistant : il ne parvient pas à démarrer. Ce problème a fortement entravé mon travail et ma productivité, car je dépends de cet appareil pour des tâches quotidiennes, et un fonctionnement fiable est crucial.
+
+Malgré le suivi de toutes les étapes de dépannage recommandées dans le manuel et sur votre site Web, le problème persiste sans solution en vue. Dans ces circonstances, je demande gentiment soit un remplacement complet de l'unité défectueuse, soit un service de réparation rapide pour rectifier le défaut. Les spécificités de mon achat sont les suivantes :
+
+- Produit : Microsoft Surface Pro 7 
+- Numéro de commande : [order_number]
+- Date d'achat : [purchase_date]
+
+De plus, j'ai joint des copies de mon reçu et de ma documentation de garantie pour accélérer le processus. Veuillez me conseiller sur la manière de procéder pour résoudre cette affaire rapidement et sur les prochaines étapes que je dois suivre.
+
+Votre attention rapide à ce problème sera grandement appréciée car cela cause une perturbation significative dans mes activités quotidiennes. J'attends votre réponse immédiate. Vous pouvez me joindre par email ou par téléphone au <tel_num> pendant les heures d'ouverture.
+
+Merci.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés et d'avoir fourni les détails de votre problème avec le Microsoft Surface Pro 7. Nous nous excusons pour les désagréments que cela a causés.
+
+Pour vous aider rapidement, nous allons initier le processus de remplacement ou de réparation. Veuillez vous assurer que votre reçu et votre documentation de garantie sont joints, car cela aidera à accélérer le processus.
+
+Notre équipe vous contactera sous peu via votre numéro de téléphone ou votre email fourni pour vous guider à travers les prochaines étapes. Nous visons à résoudre cela rapidement et à minimiser toute perturbation supplémentaire dans vos tâches quotidiennes.
+
+Merci de votre patience et de votre compréhension.
+
+Cordialement,
+
+Support Client de Tech Online Store

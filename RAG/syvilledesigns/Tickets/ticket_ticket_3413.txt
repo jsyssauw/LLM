@@ -1,0 +1,10 @@
+Ticket ID: ticket_3413
+Subject: Solicitação de Atualização de Software
+Incident Type: Change
+Customer Issue: Caro Time de Suporte, estou escrevendo para solicitar uma atualização do Jira Software 8.20 para a versão mais recente. Precisamos de melhorias na gestão de projetos e aprimoramentos no rastreamento de bugs. Obrigado, <name> <acc_num>.
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Podemos ajudar com a atualização do seu Jira Software da versão 8.20 para a versão mais recente para melhorar a gestão de projetos e o rastreamento de bugs. Por favor, nos avise um horário adequado para uma janela de manutenção, e nossa equipe prosseguirá com a atualização. Se você tiver algum requisito específico durante a atualização, sinta-se à vontade para nos informar.
+
+Atenciosamente,
+Equipe de Service Desk

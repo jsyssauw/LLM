@@ -1,0 +1,18 @@
+Ticket ID: ticket_1500
+Subject: Billing Issue with Office 365 Subscription
+Incident Type: Request
+Customer Issue: Hello Customer Support Team, I hope this message finds you well. I am writing to seek clarification on a billing issue related to my Microsoft Office 365 subscription. Recently, I noticed an unexpected charge on my account <acc_num> after the renewal of my subscription, and I would like to understand the terms associated with it. Could you please provide detailed information about the billing cycle or any recent changes in pricing that might have affected my account? Additionally, if there were any promotional discounts applied previously that have now expired leading to this charge, I would appreciate if you could inform me about that as well. Understanding these details is crucial for me as I make decisions regarding my future use of the subscription services provided by your esteemed company. Please let me know if you require any further information from my side or if a phone call would be preferable. You can reach me at <tel_num>. Thank you for your assistance. Best Regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your Office 365 subscription billing issue. We understand your concern about the unexpected charge on your account <acc_num>.
+
+To address your query, Office 365 subscriptions often have specific billing cycles, and prices can vary based on the plan and duration of the subscription. It's possible that promotional discounts applied previously have expired, which might explain the increased billing amount. Additionally, there may have been changes in our pricing structure.
+
+For more detailed information, including your specific billing cycle and any changes in terms or pricing, we recommend accessing your account online where full billing details are provided. Alternatively, our billing department can provide a comprehensive explanation of your charges.
+
+If you'd like to further discuss this over the phone, please feel free to contact us, and we'll assist you promptly. We are committed to ensuring your satisfaction and appreciate your business.
+
+Please let us know if there’s anything more we can assist with.
+
+Best regards,
+Customer Support Team

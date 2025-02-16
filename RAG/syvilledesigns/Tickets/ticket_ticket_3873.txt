@@ -1,0 +1,15 @@
+Ticket ID: ticket_3873
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am reaching out to report a problem regarding the battery of my MacBook Air M1. Although I have adhered to the suggested usage guidelines, the battery depletes quickly. I would appreciate your assistance in resolving this issue as soon as possible.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+We sincerely apologize for the trouble you've encountered with your MacBook Air M1 battery. Please attempt to reset the SMC: Shut down your Mac, press and hold Shift + Control + Option on the left side in addition to the power button for a duration of 10 seconds. If the problem continues, please get in touch with us to schedule a service.
+
+Best regards,
+Customer Support

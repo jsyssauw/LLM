@@ -1,0 +1,18 @@
+Ticket ID: ticket_115
+Subject: Demande sur Microsoft Surface Pro 7
+Incident Type: Request
+Customer Issue: Bonjour équipe de support client, 
+
+Je suis intéressé par l'achat du Microsoft Surface Pro 7 et je voudrais me renseigner sur ses capacités de performance et sa liste complète de fonctionnalités. Pourriez-vous fournir des informations détaillées concernant sa puissance de traitement, sa durée de vie de la batterie, ses capacités graphiques et toutes fonctionnalités uniques ? De plus, toute comparaison avec des appareils similaires serait appréciée.
+
+Merci pour votre assistance.
+
+Cordialement,
+<name> 
+<tel_num>
+Customer Service answer: Bonjour,
+
+Merci pour votre intérêt pour le Microsoft Surface Pro 7. Cet appareil est équipé d'un processeur Intel Core de 10ème génération, offrant des performances robustes pour le multitâche. Il dispose d'une autonomie de batterie pouvant atteindre 10,5 heures, ce qui le rend adapté à une utilisation prolongée. Le Surface Pro 7 comprend des graphiques Intel Iris Plus, améliorant les expériences visuelles. Parmi ses caractéristiques uniques, on trouve un support polyvalent, un écran tactile PixelSense de 12,3 pouces haute résolution et la prise en charge du Surface Pen pour une productivité accrue. Comparé à des appareils similaires, le Surface Pro 7 se distingue par ses performances de type ordinateur portable dans un design de tablette. Veuillez nous faire savoir si vous avez besoin de plus de détails.
+
+Cordialement,
+Équipe de support client

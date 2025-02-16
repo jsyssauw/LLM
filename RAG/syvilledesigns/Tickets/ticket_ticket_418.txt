@@ -1,0 +1,35 @@
+Ticket ID: ticket_418
+Subject: Urgent Router Issue
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to bring to your attention a critical issue we are currently experiencing with our Cisco Router ISR4331. Recently, it has been subject to frequent disconnections which are significantly affecting our enterprise network's performance and, consequently, our organizational productivity. The persistent interruptions in connectivity are impeding our ability to carry out daily operations smoothly.
+
+Given the core role this router plays in our infrastructure, we kindly request an immediate resolution to prevent further disruptions to our business processes. Since seamless network functionality is critical to our operations, it is essential for us to address this problem at the earliest possible opportunity.
+
+Please let us know the next steps we should take or any troubleshooting procedures we might attempt while awaiting further instructions from your team. Your urgent attention and prompt resolution of this matter would be greatly appreciated, as it is profoundly impacting our work.
+
+For your reference, my full name is <name>, and I am available anytime to discuss this issue or assist with any preliminary checks. You can reach me at <tel_num>.
+
+Thank you for your attention to this urgent matter.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the urgent issue with your Cisco Router ISR4331. We understand the critical importance of maintaining a stable network for your operations.
+
+To address this issue promptly, please try the following initial troubleshooting steps:
+
+1. **Check Connections**: Ensure all cables are securely connected.
+2. **Restart Router**: Perform a soft reboot of the router by powering it off, waiting 30 seconds, and then powering it back on.
+3. **Firmware Update**: Verify that your router's firmware is up-to-date. If not, please update it to the latest version.
+4. **Check Logs**: Review router logs for any error messages or patterns that could indicate the source of the disconnections.
+
+If these steps do not resolve the issue, please contact us directly at our dedicated support line with your account number <acc_num>, or respond to this email, and we will escalate your case to a network specialist for immediate attention.
+
+We are here to ensure your operations continue smoothly, and we appreciate your patience and cooperation.
+
+Best regards,
+Customer Support Team

@@ -1,0 +1,30 @@
+Ticket ID: ticket_1862
+Subject: Solicitud de asistencia con el error de instalación de Office 365
+Incident Type: Problem
+Customer Issue: Estimado soporte al cliente,
+
+Estoy experimentando un error de instalación con Excel en Microsoft Office 365 y requiero asistencia para resolver el problema de manera rápida. El error ocurre durante la fase de instalación y ha impedido mi capacidad para utilizar características necesarias en Excel, afectando mi productividad. Como usuario de suscripción, esto está causando inconvenientes y necesita atención inmediata para solucionar el problema e implementar una solución adecuada.
+
+Por favor, guíenme a través del proceso para resolver este problema o programen una sesión de soporte si es necesario. Es crucial resolver esto lo antes posible para evitar más interrupciones. Espero su pronta respuesta y una resolución exitosa.
+
+Gracias,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con respecto al error de instalación de Excel en Microsoft Office 365. Entiendo la urgencia y el inconveniente que este problema está causando.
+
+Para comenzar a solucionar el problema, por favor intenta los siguientes pasos:
+
+1. Asegúrate de que tu computadora cumpla con todos los requisitos del sistema para Office 365.
+2. Desinstala cualquier versión anterior de Office antes de intentar la instalación nuevamente.
+3. Visita la página de instalación de Office 365 y descarga el archivo de instalación directamente desde allí.
+4. Ejecuta la instalación como administrador haciendo clic derecho en el archivo de instalación y seleccionando "Ejecutar como administrador."
+5. Si el problema persiste, intenta reparar Office a través del Panel de Control seleccionando "Programas," "Programas y características," y "Microsoft Office 365" y eligiendo "Reparar."
+
+Si estos pasos no resuelven el problema, por favor háznoslo saber, y podemos organizar una sesión de soporte para asistirte más. Nuestro objetivo es que puedas comenzar a trabajar lo antes posible.
+
+Gracias por tu paciencia y comprensión.
+
+Atentamente,
+<Cliente del equipo de soporte>

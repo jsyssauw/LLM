@@ -1,0 +1,5 @@
+Ticket ID: ticket_3378
+Subject: Faulty Charging Cable for Samsung Galaxy S21 Ultra
+Incident Type: Change
+Customer Issue: Hello Customer Support, I received a faulty charging cable for my Samsung Galaxy S21 Ultra. Would it be possible to have a replacement delivered to my address? Best regards, <name>
+Customer Service answer: Hello <name>, we apologize for the inconvenience caused by the defect. A replacement cable will be forwarded to your address. Could you please share your order number and mailing address? Thank you!

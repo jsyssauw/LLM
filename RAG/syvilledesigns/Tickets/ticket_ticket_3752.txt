@@ -1,0 +1,19 @@
+Ticket ID: ticket_3752
+Subject: Urgente: Problemas de Conectividade com Impressão Sem Fio
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente, estou enfrentando problemas intermitentes de conectividade com minha impressora HP DeskJet 3755, afetando particularmente suas capacidades de impressão sem fio. Tentei várias etapas de solução de problemas, incluindo reiniciar tanto a impressora quanto meus dispositivos de rede, garantindo que o firmware da impressora esteja atualizado e assegurando que não haja obstruções significativas ou fontes de interferência entre a impressora e o roteador sem fio. Apesar desses esforços, a conectividade continua inconsistente, interrompendo várias tarefas de impressão e causando atrasos em meu fluxo de trabalho. Dada a urgência de resolver este problema devido ao impacto em minha produtividade, solicito gentilmente atenção e suporte imediatos para corrigir esta questão. Por favor, aconselhe sobre medidas adicionais que posso tomar ou se uma avaliação técnica por sua equipe é necessária. Agradeço sua assistência rápida para garantir o desempenho ideal do dispositivo. Obrigado pela atenção a este assunto. Aguardando sua resposta rápida. Atenciosamente, <name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Lamento saber sobre os problemas de conectividade com sua HP DeskJet 3755. Você já tomou medidas significativas para solucionar o problema. Aqui estão sugestões adicionais:
+
+1. Certifique-se de que sua impressora está dentro da faixa recomendada do seu roteador sem fio.
+2. Verifique as configurações de largura de banda do seu roteador, certificando-se de que a impressora se conecte a uma banda de 2,4GHz, pois algumas impressoras têm suporte limitado para 5GHz.
+3. Desative qualquer configuração de firewall ou VPN que possa estar interrompendo a conexão.
+4. Verifique se o firmware do seu roteador está atualizado, assim como você fez com a impressora.
+
+Se o problema persistir, uma avaliação técnica pode realmente ser necessária. Por favor, informe-nos sobre sua disponibilidade para um agendamento de serviço.
+
+Obrigado pela sua paciência, e nosso objetivo é resolver isso rapidamente.
+
+Atenciosamente,
+<Suporte ao Cliente>

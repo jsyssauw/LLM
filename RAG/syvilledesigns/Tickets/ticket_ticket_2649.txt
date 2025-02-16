@@ -1,0 +1,33 @@
+Ticket ID: ticket_2649
+Subject: Urgente: Necessário solucionar falhas do Google Chrome 102.0
+Incident Type: Incident
+Customer Issue: Caro Atendimento ao Cliente da Tech Online Store,
+
+Estou escrevendo para trazer à sua atenção um problema persistente que estou enfrentando com o Google Chrome 102.0, que comprei em sua loja. O navegador trava constantemente sempre que tento carregar qualquer site, interrompendo significativamente minhas tarefas de trabalho urgentes. Como resultado, minha produtividade é severamente afetada e tenho dificuldade em completar minhas tarefas diárias a tempo.
+
+Já tentei várias etapas de solução de problemas, como limpar o cache, desativar extensões e reinstalar o navegador, mas, infelizmente, nenhuma dessas soluções funcionou.
+
+Dada a urgência deste assunto, solicito gentilmente uma resolução ou substituição acelerada. Por favor, me avise quais são os próximos passos assim que possível, pois meu trabalho continua sendo dificultado por esse problema.
+
+Obrigado pelo seu rápido suporte neste assunto.
+
+Atenciosamente,
+
+<name>
+
+Número de Contato: <tel_num>
+Número do Pedido: <order_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre os problemas que você está enfrentando com o Google Chrome 102.0. Pedimos desculpas pelo inconveniente que isso causou.
+
+Para ajudá-lo rapidamente, por favor, verifique se seu sistema atende a todos os requisitos necessários para rodar esta versão do Chrome. Também recomendamos que você atualize seu sistema operacional e drivers de gráficos, já que software desatualizado pode muitas vezes causar problemas de estabilidade.
+
+Se o problema persistir, forneça informações adicionais, como mensagens de erro ou logs de falha, o que poderia nos ajudar a identificar o problema.
+
+Alternativamente, se uma substituição for necessária, podemos processar o pedido. Por favor, confirme sua decisão, para que possamos prosseguir de acordo.
+
+Obrigado pela sua paciência e compreensão. Estamos comprometidos em resolver isso rapidamente.
+
+Melhores cumprimentos,
+Atendimento ao Cliente da Tech Online Store

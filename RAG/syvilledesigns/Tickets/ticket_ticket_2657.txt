@@ -1,0 +1,25 @@
+Ticket ID: ticket_2657
+Subject: Actualización de firmware necesaria
+Incident Type: Incident
+Customer Issue: Estimado soporte de servicios informáticos,
+
+Espero que este mensaje le encuentre bien. Hemos sido informados de que nuestro router de nivel empresarial God-admin, Cisco ISR4331, requiere una actualización de firmware. Esta actualización es esencial debido a los recientes parches de seguridad que deben aplicarse para mantener la seguridad y eficiencia de nuestras operaciones de red. ¿Podría por favor guiarnos a través de los pasos necesarios para actualizar el firmware, o si es necesario, programar una ventana de mantenimiento para realizarla? Gracias por su pronta atención.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos sobre la actualización del firmware para su router Cisco ISR4331. Para proceder, por favor siga estos pasos:
+
+1. Descargue el firmware más reciente desde el sitio web oficial de Cisco usando las credenciales de su cuenta.
+2. Acceda a la interfaz web del router ingresando su dirección IP en un navegador web.
+3. Navegue a la sección 'Actualización de software' en el menú.
+4. Cargue el nuevo archivo de firmware e inicie el proceso de actualización.
+5. Permita que el router se reinicie una vez que la actualización esté completa.
+
+Si no está seguro o prefiere asistencia profesional, por favor háganos saber sus horarios preferidos, y podemos programar una ventana de mantenimiento para la actualización.
+
+No dude en contactarnos con cualquier pregunta o si necesita más ayuda.
+
+Atentamente,
+Soporte de servicios informáticos

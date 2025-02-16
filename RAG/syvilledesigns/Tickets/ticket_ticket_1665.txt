@@ -1,0 +1,10 @@
+Ticket ID: ticket_1665
+Subject: Dell XPS 13 9310 : Problèmes de touchpad et surchauffe
+Incident Type: Request
+Customer Issue: Cher support client, je possède un Dell XPS 13 9310 et rencontre des problèmes de touchpad et de surchauffe depuis une récente mise à jour du système. Ces problèmes affectent considérablement mon flux de travail. Pourriez-vous me fournir des conseils ou une solution ? Votre aide pour résoudre ce problème serait grandement appréciée. Merci. Sincèrement, <name>
+Customer Service answer: Cher <name>,
+
+Nous nous excusons pour les désagréments rencontrés avec votre Dell XPS 13 9310. Veuillez essayer de mettre à jour vos pilotes et le BIOS depuis le site de support de Dell, et assurez-vous que votre système n'est pas obstrué pour une ventilation adéquate. Si les problèmes persistent, contactez le support technique de Dell pour une assistance supplémentaire.
+
+Cordialement,
+Support client

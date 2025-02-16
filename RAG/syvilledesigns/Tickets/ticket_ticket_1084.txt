@@ -1,0 +1,34 @@
+Ticket ID: ticket_1084
+Subject: Urgente: Problema de sobrecalentamiento con Dell XPS 13
+Incident Type: Problem
+Customer Issue: Estimado servicio de atención al cliente de Tech Online Store,
+
+Espero que este mensaje le encuentre bien. Le escribo para informarle sobre un problema que estoy experimentando con mi laptop Dell XPS 13 9310, que compré en su tienda. La laptop tiende a sobrecalentarse durante el uso regular, lo que resulta en una degradación significativa del rendimiento. Este problema comenzó a ocurrir hace aproximadamente dos semanas y ha ido empeorando progresivamente.
+
+El número de modelo de la laptop es Dell XPS 13 9310. A pesar de intentar varios pasos de solución de problemas por mi cuenta, como limpiar los ventiladores, actualizar los controladores y usar una almohadilla de enfriamiento, la laptop sigue sobrecalentándose después de cortos períodos de uso típico.
+
+Dado que este dispositivo es crítico para mi trabajo, las caídas de rendimiento están causando una considerable inconveniencia. Me estoy comunicando para solicitar apoyo en la resolución de este asunto lo más rápido posible. Agradecería orientación sobre los próximos pasos que debo tomar, ya sea llevar la laptop a un centro de servicio autorizado o hacer que un técnico revise el problema en línea.
+
+Gracias de antemano por su pronta atención a este asunto. Espero su respuesta.
+
+Atentamente,
+
+<name>
+<email_address>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactar al servicio de atención al cliente de Tech Online Store. Nos disculpamos por la inconveniencia que está experimentando con su Dell XPS 13 9310.
+
+Para abordar el problema de sobrecalentamiento rápidamente, recomendamos los siguientes pasos:
+1. Asegúrese de que la BIOS del sistema y todos los controladores del sistema estén actualizados, ya que a veces las actualizaciones contienen correcciones para problemas de sobrecalentamiento.
+2. Confirme que su laptop esté colocada sobre una superficie dura y plana para facilitar el adecuado flujo de aire bajo el dispositivo.
+
+Dado que ya ha probado varias soluciones, el siguiente paso es hacer que un profesional revise la laptop. Por favor, lleve su dispositivo a un centro de servicio autorizado o permítanos coordinar para que un técnico le brinde asistencia remota. También puede verificar si su laptop aún está bajo garantía para un posible reemplazo o reparación.
+
+Para proceder, por favor responda con su opción y disponibilidad preferida.
+
+Agradecemos su paciencia y esperamos resolver este problema rápidamente.
+
+Atentamente,
+Servicio de atención al cliente de Tech Online Store

@@ -1,0 +1,27 @@
+Ticket ID: ticket_222
+Subject: Inquiry on MacBook Air M1 Pricing
+Incident Type: Request
+Customer Issue: Hello Customer Support,
+
+I would like to inquire about the pricing and delivery options available for the MacBook Air M1 when purchased in-store from your Tech Online Store. Could you please provide detailed information on current offers or discounts, as well as any shipping charges that might apply for delivery? Additionally, I am interested in knowing if pickup is available and how soon after purchase I would be able to collect my order.
+
+Thank you for your assistance in this matter.
+
+Best regards,
+
+<name>
+<tel_num>
+Customer Service answer: Subject: Re: Inquiry on MacBook Air M1 Pricing
+
+Hello <name>,
+
+Thank you for reaching out to us. 
+
+Currently, the MacBook Air M1 is available at our Tech Online Store. We recommend contacting your local store directly for the most accurate pricing and potential in-store offers or discounts, as these may vary.
+
+For delivery, shipping charges are calculated at checkout, and delivery times depend on your location. You can also opt for in-store pickup, usually available within 1-2 business days after your purchase is confirmed, but this can vary by store.
+
+Please feel free to get in touch if you need more information.
+
+Best regards,
+Tech Online Store Customer Support

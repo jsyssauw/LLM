@@ -1,0 +1,19 @@
+Ticket ID: ticket_2978
+Subject: Urgent : Interruption du service Cloud nécessite une attention immédiate
+Incident Type: Incident
+Customer Issue: Cher service client,
+
+Je m'appelle <name> et je rencontre un problème grave avec le Service de Gestion AWS. Nos instances AWS ont soudainement cessé de fonctionner, causant ainsi de graves perturbations dans nos services cloud. Ce problème est urgent et nécessite une résolution immédiate car il a un impact sur nos opérations.
+
+Il est crucial que le problème soit résolu immédiatement pour éviter de nouveaux dommages opérationnels. Merci de donner la priorité à cette préoccupation et de fournir les conseils ou le soutien nécessaires dès que possible pour restaurer nos services. Vous pouvez me contacter au <tel_num> pour des informations supplémentaires.
+
+Merci pour votre attention rapide.
+
+Cordialement,
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous comprenons l'urgence de la situation concernant votre Service de Gestion AWS. Notre équipe enquête actuellement sur le problème et travaille avec diligence pour le résoudre le plus rapidement possible. Nous donnerons la priorité à votre dossier et vous tiendrons informé de toute mise à jour. Nous vous remercions de votre patience et de votre coopération. Si vous avez besoin d'une assistance supplémentaire en attendant, n'hésitez pas à nous contacter à tout moment.
+
+Cordialement,
+Équipe de support client

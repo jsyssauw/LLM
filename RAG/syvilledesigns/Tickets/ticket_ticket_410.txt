@@ -1,0 +1,21 @@
+Ticket ID: ticket_410
+Subject: Solicitud de intercambio de producto
+Incident Type: Change
+Customer Issue: Estimado servicio de atención al cliente,
+
+Recientemente compré una Microsoft Surface Pro 7 en Tech Online Store, y desafortunadamente, la pantalla táctil no funciona correctamente. He intentado solucionar el problema sin éxito. El dispositivo todavía está bajo garantía y me gustaría solicitar un intercambio. Mi número de pedido es <order_num> y fue comprado a nombre de <name>. Por favor, háganme saber los próximos pasos que debo seguir para iniciar el proceso de intercambio.
+
+Gracias por su asistencia.
+
+Atentamente,
+
+<name>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Lamentamos escuchar sobre el problema con tu Microsoft Surface Pro 7. Para iniciar el intercambio, asegúrate de que el dispositivo esté empaquetado de forma segura y contacta a nuestro equipo de servicio al cliente en <contact_info> para obtener más instrucciones. Necesitarás tu número de pedido <order_num> y prueba de compra. Una vez verificado, te guiaremos a través de los siguientes pasos.
+
+Agradecemos tu paciencia y comprensión.
+
+Atentamente,
+Equipo de atención al cliente

@@ -1,0 +1,10 @@
+Ticket ID: ticket_1797
+Subject: Customer Complaint: Printing Issue with HP DeskJet 3755
+Incident Type: Request
+Customer Issue: Hello Customer Support, I have recently acquired an HP DeskJet 3755 from your online store. Unfortunately, I've run into a printing problem with the printer. Could you help me in addressing this matter? I appreciate your assistance. Best regards, <name>
+Customer Service answer: Hello <name>,
+
+We appreciate you reaching out to us. We apologize for the trouble you're experiencing with your HP DeskJet 3755. Please attempt to restart the printer, ensure the paper is loaded correctly, and check that the cartridges are fitted properly. If the problem continues, we will be happy to provide you with additional support.
+
+Best regards,
+Customer Support

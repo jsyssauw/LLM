@@ -1,0 +1,23 @@
+Ticket ID: ticket_2370
+Subject: Problema com notificações do Jira
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou escrevendo para trazer à sua atenção um problema que estamos enfrentando com nosso Jira Software 8.20. Apesar de termos as configurações corretas, o sistema não está enviando notificações automáticas para atualizações de tickets. Este problema está afetando a eficiência da nossa equipe, pois estamos perdendo atualizações importantes. Ajustar configurações ou permissões não resolveu o problema. Agradecemos sua assistência para resolver esse assunto com urgência. Por favor, entre em contato comigo pelo <tel_num> ou por e-mail em <email> para mais informações.
+
+Obrigado,
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre o problema com as notificações do Jira. Entendemos o impacto que isso está tendo na eficiência da sua equipe e estamos aqui para ajudar.
+
+Primeiramente, por favor, verifique se o esquema de notificações está corretamente associado aos projetos respectivos. Às vezes, podem surgir problemas se o esquema de notificações não estiver corretamente configurado. Verifique se os endereços de e-mail no sistema estão corretos e se não há filtros bloqueando os e-mails recebidos.
+
+Se o problema persistir, por favor, tente reiniciar o aplicativo Jira ou verifique os logs do servidor em busca de erros que possam indicar uma má configuração. Além disso, pode ser útil verificar se os recursos do seu servidor, como memória e armazenamento, não estão sendo maximizados, pois isso pode causar atrasos ou falhas na entrega.
+
+Se essas sugestões não resolverem o problema, recomendamos abrir um ticket de suporte com nossa equipe técnica para uma investigação mais aprofundada. Você pode nos contatar diretamente a qualquer momento.
+
+Atenciosamente,
+[Seu Nome] 
+[Seu Cargo]
+[Sua Empresa]

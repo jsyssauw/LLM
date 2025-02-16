@@ -1,0 +1,28 @@
+Ticket ID: ticket_2718
+Subject: Problemas intermitentes de conectividade com o roteador Cisco
+Incident Type: Incident
+Customer Issue: Prezado Time de Suporte ao Cliente,
+
+Estou escrevendo para chamar a sua atenção para o fato de que nosso Roteador Cisco, modelo ISR4331, está enfrentando problemas intermitentes de conectividade. Isso tem ocorrido há algum tempo e está afetando significativamente o desempenho da rede em nosso ambiente empresarial. Realizamos uma verificação inicial na configuração básica, incluindo a verificação das versões de firmware e software que lidam com os protocolos de roteamento, mas não identificamos falhas ou configurações incorretas óbvias. Apesar dessas verificações preliminares, o roteador continua a apresentar um comportamento instável que justifica uma análise mais profunda para identificar potenciais problemas subjacentes. Dada a mensagem de registros e a nossa atual dependência operacional de um desempenho de rede consistente, insto sua equipe técnica a ajudar a diagnosticar minuciosamente essas interrupções de conectividade. Seu suporte especializado em identificar e corrigir esse problema é crucial para restaurar rapidamente níveis de desempenho satisfatórios. Por favor, me avise como podemos proceder com a escalada desse problema ou agendar uma sessão de suporte técnico detalhada. Obrigado pela sua rápida atenção a este assunto.
+
+Atenciosamente,
+<name>
+Departamento de TI
+<name> Corporation
+<tel_num>
+<email>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato conosco sobre os problemas de conectividade com seu Roteador Cisco, modelo ISR4331. Entendo o impacto que isso tem no desempenho da sua rede, e estamos aqui para ajudá-lo a resolver isso.
+
+Para começar, por favor, certifique-se de que seu roteador está operando na versão mais recente do firmware, pois isso pode muitas vezes resolver tais problemas. Se o firmware estiver atualizado e o problema persistir, recomendo agendar uma sessão detalhada de suporte técnico com nossos especialistas. Eles podem fornecer insights mais profundos sobre a configuração do seu roteador e os registros do sistema para identificar quaisquer causas subjacentes.
+
+Para escalada e para organizar a sessão de suporte técnico, entre em contato com nossa linha direta de suporte pelo <tel_num> ou responda a este e-mail com seu horário preferido. Nossa equipe priorizará seu caso para garantir uma resolução rápida.
+
+Agradecemos sua rápida atenção e esperamos resolver isso prontamente para as necessidades de sua empresa.
+
+Atenciosamente,
+
+<name>
+Equipe de Atendimento ao Cliente
+<Nome da Equipe de Suporte ao Cliente>

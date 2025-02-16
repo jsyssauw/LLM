@@ -1,0 +1,15 @@
+Ticket ID: ticket_1414
+Subject: Demande de consultation sur le serveur
+Incident Type: Request
+Customer Issue: Cher Support Client,
+
+Je vous écris pour demander une consultation concernant l'administration des serveurs. Plus précisément, j'ai besoin d'aide pour comprendre les mises à jour logicielles et les plannings de maintenance liés à votre Service de Conseil en TI. Votre expertise dans ce domaine est grandement appréciée.
+
+Merci,
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous serions heureux de vous aider avec l'administration des serveurs, les mises à jour logicielles et les plannings de maintenance. Veuillez nous faire savoir un moment qui vous convient pour la consultation ou si vous avez des questions particulières. Nous sommes impatients de vous aider.
+
+Cordialement,
+Équipe de Support Client

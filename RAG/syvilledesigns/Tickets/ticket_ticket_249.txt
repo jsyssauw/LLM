@@ -1,0 +1,37 @@
+Ticket ID: ticket_249
+Subject: Assistance Required: Slow Internet via Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I am writing to request your assistance with an issue related to slow internet connectivity that we are currently experiencing. The problem affects all users connected through our Cisco Router ISR4331. We have observed this slowdown over the past few weeks, and it has significantly impacted our daily operations and overall productivity.
+
+Initially, our network provided seamless connectivity with minimal latency. However, recently, users have reported increased buffering, slower download speeds, and difficulties in accessing cloud-based services. These issues imply a serious degradation in service quality from what we initially expected when the router was deployed.
+
+Our IT team has attempted basic troubleshooting, including restarting the router, and checking all physical connections and configuration settings, yet the problem persists. Therefore, we kindly request your expert analysis and resolution to ensure our network returns to optimal performance levels.
+
+To aid in the resolution, here are the details:
+- Router Model: Cisco ISR4331
+- Serial Number: <serial_num>
+- Account Number: <acc_num>
+- User Reports and Diagnostics: Available upon request
+
+We rely heavily on stable and efficient internet solutions for running our operations smoothly. Please let us know if any further information is required on our end to expedite the troubleshooting process. We are looking forward to your swift response and a suitable resolution. You can reach me directly at <tel_num> or via email at <email>.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us. We understand how critical stable internet connectivity is for your operations, and we are committed to resolving your issue promptly.
+
+Please provide the User Reports and Diagnostics for a thorough analysis. Additionally, check if any recent changes were made to network configurations or any software updates that might have affected router performance.
+
+In the meantime, ensure that the firmware on your Cisco ISR4331 is up-to-date, as outdated versions can sometimes cause performance issues. Also, consider conducting an audit of the current bandwidth usage to pinpoint any potential bottlenecks.
+
+Our technical team will reach out to you shortly to perform a deeper investigation and provide a resolution. 
+
+Thank you for your patience and cooperation.
+
+Best regards,
+Customer Support Team

@@ -1,0 +1,22 @@
+Ticket ID: ticket_3537
+Subject: Solicitud de Ajustes en la Infraestructura de TI
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte de la firma de consultoría de TI,
+
+Escribo para solicitar ajustes específicos en nuestra infraestructura de TI actual orientados a optimizar el rendimiento del sistema. Dada su prioridad media, creo que una atención oportuna a este asunto mejorará significativamente nuestra eficiencia operativa sin interrupciones. Hemos estado utilizando sus servicios de consultoría de TI, y aunque estamos en general satisfechos, hemos identificado áreas que podrían beneficiarse de una configuración mejorada.
+
+Por favor, que un especialista se comunique para determinar soluciones personalizadas para nuestras necesidades. Puede comunicarse conmigo a través de mi número de teléfono <tel_num> o por correo electrónico a <name>@company.com. Juntos, podemos asegurarnos de que nuestros sistemas estén finamente ajustados y funcionen sin problemas a largo plazo.
+
+Apreciamos su continuo apoyo y experiencia.
+
+Atentamente,
+<name>
+Número de cuenta: <acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos con su solicitud de ajustes en la infraestructura de TI. Entendemos la importancia de optimizar el rendimiento de su sistema. Un especialista se pondrá en contacto con usted en breve para discutir soluciones personalizadas que satisfagan sus necesidades.
+
+Valoramos su continua confianza en nuestros servicios de consultoría de TI y estamos comprometidos a mejorar su eficiencia operativa sin problemas.
+
+Atentamente,
+Equipo de soporte de la firma de consultoría de TI

@@ -1,0 +1,29 @@
+Ticket ID: ticket_949
+Subject: Network Assessment Request
+Incident Type: Incident
+Customer Issue: Dear IT Services Support Team,
+
+I hope this message finds you well. I am writing to report some connectivity issues we have been experiencing, which seem to be increasingly impacting our business operations. We are utilizing your IT Consulting Services, and these issues have become rather persistent, hindering our productivity.
+
+Over the past few weeks, our team has intermittently lost connection to our primary systems, which has not only slowed down our outputs but has also raised concerns over potential security vulnerabilities. We urgently require an assessment by an IT Consulting expert to fully understand the scope of these issues and to provide necessary guidance and solutions.
+
+Could we please schedule a network assessment at your earliest convenience? We are keen to collaborate with your team to diagnose and resolve any underlying problems. We believe that your expert insights would be invaluable.
+
+I’d appreciate it if you could provide a timeline for when we might be able to initiate this assessment. Please let us know the next steps in arranging a consultation with one of your specialists. You can contact me at your earliest convenience at <tel_num>.
+
+Thank you for your attention and cooperation.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the connectivity issues your team is facing. We understand the urgency and the impact on your operations. We are committed to assisting you with a network assessment to identify and resolve these problems promptly.
+
+We will prioritize scheduling a consultation with one of our IT experts. Please expect a communication shortly to arrange a convenient time for the assessment. Our aim is to diagnose the root causes, address any security concerns, and optimize your network's performance.
+
+Should you have any immediate questions or additional details to share, feel free to contact us directly. We appreciate your trust in our services and look forward to resolving this issue efficiently.
+
+Best regards,
+
+IT Services Support Team

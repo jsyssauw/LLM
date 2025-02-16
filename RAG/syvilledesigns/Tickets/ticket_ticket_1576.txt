@@ -1,0 +1,10 @@
+Ticket ID: ticket_1576
+Subject: Se necesita asistencia de alta prioridad para problemas con Visual Studio Code
+Incident Type: Request
+Customer Issue: Estimado soporte al cliente, estoy enfrentando problemas de depuración en aplicaciones utilizando Visual Studio Code 1.70 en dispositivos gestionados por RRHH. Se requiere ayuda inmediata. Saludos, <name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Hemos escalado tu problema para su manejo prioritario. Alguien de nuestro equipo se pondrá en contacto contigo pronto para resolver esto.
+
+Atentamente,
+Soporte al Cliente

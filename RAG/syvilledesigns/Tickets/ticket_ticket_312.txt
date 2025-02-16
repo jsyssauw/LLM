@@ -1,0 +1,23 @@
+Ticket ID: ticket_312
+Subject: Billing Discrepancy with AWS Service
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to express my concerns regarding discrepancies in my recent invoice for the AWS Management Service. It appears that I am being charged for unusually high usage and there are unexpected charges listed that do not match my records. Could you please review my account, <acc_num>, and provide clarification on these charges? Also, please advise on how they can be rectified. I appreciate your prompt attention to this matter.
+
+Thank you,
+<name>
+<tel_num>
+Customer Service answer: Subject: Billing Discrepancy - AWS Service
+
+Dear <name>,
+
+Thank you for reaching out regarding the discrepancy in your AWS Management Service invoice. We understand your concerns about the unexpected charges and unusually high usage.
+
+We will conduct a thorough review of your account, <acc_num>, to identify any errors or unanticipated charges. Once the review is completed, we will provide detailed clarification and outline any necessary steps to rectify the issue.
+
+Your concerns are important to us, and we will strive to resolve this as soon as possible. We appreciate your patience and will get back to you shortly with our findings.
+
+Kind regards,
+
+Customer Support Team

@@ -1,0 +1,28 @@
+Ticket ID: ticket_2040
+Subject: Problema de Doble Cobro
+Incident Type: Incident
+Customer Issue: Estimado equipo de atención al cliente,
+
+Estoy escribiendo para llamar su atención sobre un problema de facturación que he encontrado. Este mes, noté que me han cobrado dos veces por la renovación de la suscripción anual de Microsoft Office 365. Mi número de cuenta es <acc_num>. Es crucial para mí resolver esto rápidamente, ya que afecta mi planificación presupuestaria. He confirmado los cargos duplicados en mi estado de cuenta bancaria bajo las transacciones con referencias <trn_ref>.
+
+¿Podrían verificar esto y emitir un reembolso por el cargo extra lo antes posible? Agradezco su asistencia para corregir este asunto rápidamente.
+
+Gracias por su atención a este problema.
+
+Atentamente,
+<name>
+Customer Service answer: Asunto: Re: Problema de Doble Cobro
+
+Estimado <name>,
+
+Gracias por contactarnos respecto al problema de facturación con su suscripción de Microsoft Office 365. Nos disculpamos por cualquier inconveniente causado por el doble cobro.
+
+He escalado su solicitud a nuestro departamento de facturación para una revisión rápida. Ellos verificarán el cargo duplicado en su cuenta <acc_num> e iniciarán un reembolso por el monto extra según sea necesario.
+
+Agradecemos su paciencia y comprensión mientras trabajamos para resolver este problema. Le actualizaremos tan pronto como se procese el reembolso. Por favor, permita algunos días hábiles para que los fondos se reflejen de nuevo en su cuenta.
+
+Si tiene alguna otra pregunta o necesita asistencia adicional, no dude en contactarnos.
+
+Atentamente,
+<Service Desk Agent> 
+Equipo de Atención al Cliente

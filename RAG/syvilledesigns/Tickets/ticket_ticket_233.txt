@@ -1,0 +1,26 @@
+Ticket ID: ticket_233
+Subject: Intermittent Connectivity Issues Affecting Screen Sharing
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+We have been experiencing intermittent connectivity issues during video conferencing calls using Zoom version 5.11.0. This problem severely impacts our screen sharing capabilities, causing major disruptions in communication. We request your urgent assistance to resolve this issue promptly. A smooth and stable connection is crucial for our operations, and we hope that your expertise can identify and rectify the underlying problem swiftly. Thank you for your immediate attention to this pressing matter. Please let us know if any additional information is needed.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the connectivity issues you're experiencing with Zoom version 5.11.0. We understand how critical a stable connection is for your operations, especially when it affects screen sharing.
+
+To address this issue, we recommend the following initial steps:
+1. Ensure you have the latest version of Zoom installed. Updates often include fixes for known issues.
+2. Check your network connection for stability and sufficient bandwidth.
+3. Disable any background applications that may consume bandwidth during calls.
+4. Test with a different network to rule out specific local network issues.
+
+If these steps do not resolve the problem, please provide further details like error messages and the specific times the issues occur to help us investigate more thoroughly.
+
+We are committed to assisting you promptly to ensure a smooth resolution. Please feel free to reach out with any more details or questions you might have.
+
+Best regards,
+[Your Name]
+Customer Support Team

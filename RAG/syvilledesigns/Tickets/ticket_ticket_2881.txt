@@ -1,0 +1,11 @@
+Ticket ID: ticket_2881
+Subject: Request for Product Exchange Assistance
+Incident Type: Problem
+Customer Issue: Hello, I am experiencing persistent wireless connection issues with my recently purchased Epson EcoTank ET-4760. I would like to request an exchange for this product, as it has been problematic since day one. Thank you for your assistance. Sincerely, <name>, order number <order_num>.
+Customer Service answer: Hello <name>, 
+
+Thank you for reaching out. We're sorry to hear about the wireless connection issues with your Epson EcoTank ET-4760. To assist with your exchange request, please ensure that the product is eligible by reviewing our return policy on our website. Once confirmed, send the product along with the original receipt and packaging to our provided address. For any further assistance, feel free to contact our customer service. We're here to help. 
+
+Best regards, 
+
+[Your Company Name] Customer Support

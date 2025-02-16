@@ -1,0 +1,18 @@
+Ticket ID: ticket_3558
+Subject: Necesito soporte
+Incident Type: Request
+Customer Issue: Hola equipo de soporte de Tech Online Store,
+
+Recientemente adquirí un nuevo MacBook Air M1 en su tienda y necesito ayuda con su configuración. Específicamente, tengo preocupaciones sobre cómo mover mis datos existentes y preservar la configuración anterior. Por favor, guíenme sobre el mejor procedimiento a seguir o infórmenme si ofrecen un servicio para ayudar con esta tarea. Agradecería una respuesta rápida, ya que quiero garantizar que todo se migre de manera precisa y segura.
+
+Gracias,
+
+<name>
+
+Mi información de contacto está disponible en la cuenta <acc_num>.
+Customer Service answer: Hola <name>,
+
+Gracias por ponerte en contacto. Para migrar datos y retener tus configuraciones anteriores en tu nuevo MacBook Air M1, puedes utilizar el Asistente de Migración, que permite transferencias desde una copia de seguridad de Time Machine, otro Mac o una PC con Windows. Además, ofrecemos un servicio de configuración donde nuestros especialistas pueden asistirte directamente. Por favor, háznos saber si estás interesado en este servicio. No dudes en ponerte en contacto si tienes más preguntas.
+
+Atentamente,
+Equipo de soporte de Tech Online Store

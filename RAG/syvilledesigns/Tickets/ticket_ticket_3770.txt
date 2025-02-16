@@ -1,0 +1,29 @@
+Ticket ID: ticket_3770
+Subject: Solicitud de cambio en la configuración del sistema
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Espero que este mensaje les encuentre bien. Estoy escribiendo para solicitar un cambio en la configuración de nuestro sistema de gestión de tickets bajo el Servicio de Consultoría de TI que tenemos con su empresa. Creemos que los cambios solicitados mejorarán en gran medida nuestro flujo de trabajo y la gestión de la eficiencia.
+
+Nuestro equipo ha identificado áreas específicas donde la configuración actual podría ser optimizada para un mejor rendimiento y estamos ansiosos por discutir las opciones disponibles. ¿Podrían informarnos sobre los pasos necesarios para iniciar este proceso de cambio?
+
+Creemos que con su asistencia, podemos lograr un sistema más ágil y eficiente. Por favor, háganme saber si podemos coordinar una reunión, o si necesitan más detalles de nuestra parte. Pueden contactarme en <tel_num>.
+
+Gracias por su atención a este asunto. Espero su pronta respuesta.
+
+Atentamente,
+
+<name>
+
+<name> Consultoría
+<tel_num>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por comunicarse respecto a la solicitud de cambio en la configuración de su sistema de gestión de tickets. Nos complace ayudarle a mejorar su flujo de trabajo y la eficiencia.
+
+Para iniciar el proceso de cambio, recomendamos programar una reunión con nuestro equipo para discutir sus requisitos específicos y explorar las mejores soluciones disponibles. Por favor, proporcionen su disponibilidad y organizaremos un momento conveniente para la discusión. Si tienen más detalles sobre los cambios requeridos, no duden en compartirlos de antemano.
+
+Esperamos colaborar con ustedes en esto.
+
+Atentamente,
+Equipo de Soporte al Cliente

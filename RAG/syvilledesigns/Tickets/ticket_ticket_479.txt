@@ -1,0 +1,16 @@
+Ticket ID: ticket_479
+Subject: Problem with Dell XPS 13 9310 Charging
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am facing a charging issue with my Dell XPS 13 9310. The laptop does not turn on despite multiple attempts with various charging cables. My order number is <acc_num>. Could you please help me in getting this resolved at your earliest convenience?
+
+Thank you,
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us. We sincerely apologize for the trouble you are experiencing with your Dell XPS 13 9310. Please perform a hard reset by pressing and holding the power button for 30 seconds. If the problem continues, we suggest having the device serviced. We will reach out with additional guidance shortly.
+
+Best regards,
+Customer Support

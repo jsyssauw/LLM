@@ -1,0 +1,5 @@
+Ticket ID: ticket_3321
+Subject: Kritisches API-Datenproblem
+Incident Type: Incident
+Customer Issue: Die React-Benutzeroberfläche stürzt ab, wenn Daten in der neuesten Browser-Version geladen werden.
+Customer Service answer: Wir schätzen Ihre Nachricht. Wir prüfen derzeit das Problem und werden Ihnen bald ein Update zur Verfügung stellen.

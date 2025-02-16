@@ -1,0 +1,23 @@
+Ticket ID: ticket_1821
+Subject: Bug in IntelliJ IDEA Code Completion
+Incident Type: Incident
+Customer Issue: Dear <name> Customer Support,
+
+I am writing to bring to your attention a recurring issue with the code completion feature in IntelliJ IDEA 2024.1. This particular problem causes the application to crash frequently during development, which is hampering my productivity significantly. Each time I attempt to use the code completion feature, the software becomes unresponsive, eventually leading to a crash. I have tried the usual troubleshooting steps such as reinstallation and applying the latest updates, yet the issue persists. I would appreciate your guidance on how to resolve this problem at your earliest convenience. Thank you for your attention.
+
+Best Regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and informing us about the issue with the code completion feature in IntelliJ IDEA 2024.1. We understand how crucial this tool is for your development work.
+
+To assist you better, please try the following steps:
+1. Check your system’s compatibility with IntelliJ IDEA 2024.1.
+2. Clear the IDE's cache by going to File > Invalidate Caches / Restart.
+3. Disable any unnecessary plugins to see if they are causing conflicts.
+4. Increase memory allocation for the application via VM options.
+
+If the problem persists, please send us the logs (located at Help > Collect Logs) for further analysis. We are committed to resolving this issue as soon as possible.
+
+Best Regards,
+Customer Support Team

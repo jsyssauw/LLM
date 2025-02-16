@@ -1,0 +1,16 @@
+Ticket ID: ticket_2824
+Subject: Asistencia Requerida para Reclamo de Garantía
+Incident Type: Incident
+Customer Issue: Hola equipo de soporte de Tech Online Store, soy <name>, y me estoy comunicando respecto a un problema con mi ultrabook Dell XPS 13 9310 que compré recientemente. Desafortunadamente, el dispositivo no enciende y necesito asistencia para iniciar un reclamo de garantía. Compré esta laptop en su tienda en línea el 18 de septiembre de 2023 y fue enviada a mi dirección el 25 de septiembre de 2023. A pesar de seguir todas las instrucciones de configuración inicial, la laptop sigue sin responder. He intentado los pasos básicos de solución de problemas que se indican en el manual del usuario, sin embargo, el dispositivo aún no enciende. Mi número de cuenta es <acc_num>. ¿Podrían guiarme a través del proceso de garantía y decirme los próximos pasos? Es importante que aborde este problema de inmediato ya que mi trabajo depende en gran medida de este dispositivo. Gracias por su ayuda. Saludos cordiales, <name>. Número de contacto: <tel_num>.
+Customer Service answer: Hola <name>,
+
+Gracias por contactar al equipo de soporte de Tech Online Store. Lamentamos escuchar sobre el problema con su Dell XPS 13 9310. Le guiaremos a través del proceso de garantía. Asegúrese de tener la prueba de compra lista.
+
+Para iniciar su reclamo de garantía, por favor visite nuestra página de reclamos de garantía en nuestro sitio web y complete la información necesaria con su número de cuenta <acc_num>. Alternativamente, puede comunicarse con nuestro soporte de garantía llamando a nuestra línea dedicada al <service_tel_num> para obtener más ayuda.
+
+Para cualquier solución de problemas inmediata, los técnicos están disponibles en nuestro chat de soporte en línea 24/7.
+
+Nos proponemos resolver su problema prontamente. Gracias por su paciencia y comprensión.
+
+Saludos cordiales,
+Equipo de soporte de Tech Online Store

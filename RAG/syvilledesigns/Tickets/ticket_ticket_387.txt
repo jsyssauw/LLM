@@ -1,0 +1,10 @@
+Ticket ID: ticket_387
+Subject: Anfrage zur Änderung der Zugriffsberechtigungen
+Incident Type: Change
+Customer Issue: Sehr geehrtes Kundenserviceteam, ich hoffe, diese Nachricht trifft Sie wohl. Wir verwenden derzeit Jira Software 8.20, um unsere Projekte zu verwalten und die Zusammenarbeit im Team zu verbessern. Allerdings haben wir aufgrund der aktuellen Zugriffsberechtigungen Herausforderungen, die unsere Effizienz erheblich einschränken. Daher bitte ich höflich um eine Überprüfung und mögliche Änderung der Zugriffsberechtigungen, um besser mit unseren Projektmanagementbedürfnissen in Einklang zu stehen. Könnten Sie uns bitte mitteilen, wie wir mit dieser Anfrage fortfahren können? Ihre Unterstützung in dieser Angelegenheit wird sehr geschätzt. Vielen Dank für Ihre schnelle Aufmerksamkeit für diese Anfrage. Mit freundlichen Grüßen, <name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich der Zugriffsberechtigungen in Jira Software 8.20 an uns gewandt haben. Wir verstehen die Bedeutung angemessener Berechtigungen für ein effektives Projektmanagement. Um fortzufahren, geben Sie uns bitte spezifische Details zu den gewünschten Änderungen der Zugriffsberechtigungen. Sobald wir diese Informationen haben, kann unser Team Ihre Anfrage prüfen und Sie über mögliche Optionen informieren oder die notwendigen Anpassungen vornehmen. Wir sind hier, um Ihnen bei einer zügigen Lösung zu helfen.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

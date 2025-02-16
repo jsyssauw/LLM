@@ -1,0 +1,11 @@
+Ticket ID: ticket_375
+Subject: nan
+Incident Type: Incident
+Customer Issue: Greetings, I am contacting you to inform you about a problem with my recent order. The iPad Pro 2021 was delivered later than expected and arrived with noticeable damage. Could you help coordinate a replacement? My order reference is <acc_num>. You can contact me at <tel_num>. Thank you, <name>
+Customer Service answer: Dear <name>,
+
+We sincerely regret the troubles caused by the late arrival and damage to your iPad Pro 2021. We will arrange for a replacement immediately. Additional information will be sent to you shortly. We appreciate your understanding.
+
+Warm regards,
+[Your Name]
+Customer Support Team

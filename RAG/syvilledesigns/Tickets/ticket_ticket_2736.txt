@@ -1,0 +1,21 @@
+Ticket ID: ticket_2736
+Subject: nan
+Incident Type: Incident
+Customer Issue: Estimado Servicio de Atención al Cliente, Estoy escribiendo para informar sobre un problema urgente que estoy experimentando con Visual Studio Code (versión 1.70). Después de la reciente actualización, he encontrado un problema serio al intentar depurar extensiones. La aplicación se congela y se bloquea constantemente durante el proceso de depuración, lo que obstaculiza significativamente mi flujo de trabajo. Antes de la actualización, nunca enfrenté tales interrupciones, lo que me hace sospechar que podría estar relacionado con los cambios recientes. He intentado métodos de solución de problemas estándar, incluyendo reinstalar las extensiones y borrar cualquier dato almacenado en caché, pero el problema persiste. Este problema está afectando mi productividad, especialmente porque dependo de este IDE para mis tareas diarias de desarrollo. Solicito amablemente asistencia urgente para resolver este problema, ya que es crítico para reanudar mis tareas sin más interrupciones. Si es necesario, puedo proporcionar cualquier registro necesario o información adicional para ayudar en el diagnóstico de este problema. Gracias de antemano por su pronta atención a este asunto. Espero su rápida respuesta. Atentamente, <name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto y por informar sobre este problema. Entendemos la urgencia y la incomodidad que estás enfrentando con Visual Studio Code después de la actualización.
+
+Para abordar el problema de congelación y bloqueos durante la depuración, aquí hay unos pasos adicionales que puedes intentar:
+
+1. **Actualizar Visual Studio Code**: Asegúrate de tener la última versión ya que nuevas actualizaciones pueden resolver errores conocidos.
+2. **Desactivar Extensiones**: Desactiva temporalmente las extensiones en Visual Studio Code para identificar si alguna en particular está causando el problema.
+3. **Verificar Problemas Conocidos**: Visita el repositorio de GitHub de Visual Studio Code o los foros de la comunidad para ver si otros usuarios están experimentando problemas similares después de la actualización.
+4. **Revertir a la Versión Anterior**: Considera volver a una versión anterior de Visual Studio Code, antes de la actualización, si es posible, para restaurar la estabilidad.
+
+Como ofreciste, proporcionar registros e información adicional sería beneficioso si el problema persiste. Por favor, compártelos con nosotros, y lo escalaremos a nuestro equipo técnico para un análisis más detallado.
+
+Estamos comprometidos a resolver este problema rápidamente para que puedas continuar con tu trabajo de desarrollo sin interrupciones. Gracias por tu paciencia y colaboración.
+
+Atentamente,
+Equipo de Atención al Cliente

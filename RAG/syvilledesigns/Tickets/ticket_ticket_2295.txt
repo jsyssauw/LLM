@@ -1,0 +1,19 @@
+Ticket ID: ticket_2295
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am contacting you to inform you that I have been experiencing frequent paper jam issues while conducting wireless printing tasks with my HP DeskJet 3755 printer. Could you please help me by recommending potential settings modifications or guide me on whether a replacement is necessary? Your prompt response would be greatly appreciated.
+
+Thank you.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+I am sorry to hear about the paper jam issues you are experiencing with your HP DeskJet 3755. To resolve this matter, please ensure that the paper is loaded correctly and check that the rollers are clean. It might also be helpful to update the printer’s firmware. If these solutions do not work, I suggest resetting the printer settings. If issues persist, we may need to consider the option of a replacement.
+
+Please don't hesitate to contact us if you need further assistance.
+
+Best regards,
+Customer Support Team

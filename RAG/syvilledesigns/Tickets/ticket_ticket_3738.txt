@@ -1,0 +1,21 @@
+Ticket ID: ticket_3738
+Subject: Dépannage de l'instance AWS
+Incident Type: Request
+Customer Issue: Cher support client,
+
+Je m'appelle <name>, et je rencontre des problèmes de connectivité intermittents avec mes instances AWS gérées dans le cadre de votre plan de service de gestion AWS. Ce problème affecte gravement les performances de nos applications déployées. Pourriez-vous s'il vous plaît m'aider à résoudre ce problème ? Votre réponse rapide sera grandement appréciée.
+
+Notre numéro de compte est <acc_num>. N'hésitez pas à me contacter au <tel_num> pour toute clarification supplémentaire nécessaire.
+
+Merci pour votre soutien.
+
+Cordialement,
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous sommes désolés d'apprendre les problèmes de connectivité avec vos instances AWS. Notre équipe examine déjà le problème avec votre compte <acc_num> afin d'identifier et de rectifier le problème dans les meilleurs délais. Nous vous contacterons bientôt pour vous tenir informé de nos conclusions. Pour toute assistance immédiate, n'hésitez pas à nous contacter.
+
+Merci pour votre patience.
+
+Cordialement,
+Équipe de support client

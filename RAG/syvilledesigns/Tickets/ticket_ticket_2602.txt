@@ -1,0 +1,33 @@
+Ticket ID: ticket_2602
+Subject: Frequent Overheating Issue
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to report an issue with my recently purchased Dell XPS 13 model 9310. The device has been experiencing frequent overheating issues, which I suspect might be due to a malfunctioning internal fan. The overheating started a few weeks after purchase, and it's becoming increasingly problematic as it affects the device's performance.
+
+Bought the laptop from your website with order number <order_num>. It has become crucial to address this issue to ensure the longevity and usability of the device.
+
+Could you kindly advise on the best course of action? I look forward to your prompt response and any troubleshooting steps or warranty support you can offer.
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>, Email: <email>
+Customer Service answer: Subject: Re: Frequent Overheating Issue
+
+Dear <name>,
+
+Thank you for reaching out to us regarding the overheating issue with your Dell XPS 13 model 9310. We apologize for the inconvenience you are experiencing.
+
+Please try the following troubleshooting steps:
+1. Ensure that your laptop is placed on a hard, flat surface to allow proper ventilation.
+2. Check for any dust accumulation in the vents and clean them carefully if necessary.
+3. Update your system BIOS and all drivers through the Dell Support website to ensure optimal performance.
+
+If the issue persists, your device may need warranty support. As your purchase is still covered, please contact our Warranty Support team directly at <warranty_email> or call us at <warranty_tel>. Be sure to have your order number <order_num> on hand for quicker assistance.
+
+Feel free to reach out if you need further assistance. Your satisfaction is important to us, and we are eager to resolve this matter swiftly.
+
+Best regards,
+Tech Online Store Customer Support Team

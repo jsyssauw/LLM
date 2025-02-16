@@ -1,0 +1,32 @@
+Ticket ID: ticket_2073
+Subject: Konnektivitätsprobleme während Zoom-Meetings
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice, 
+
+ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um Ihre Aufmerksamkeit auf ein persistierendes Problem zu lenken, das ich mit der Zoom-Plattform, Version 5.11.0, habe. Trotz einer stabilen Internetverbindung habe ich während Videoanrufen Probleme mit der Konnektivität, was es mir unmöglich macht, zuverlässig an geplanten Meetings teilzunehmen. Manchmal erkennt die Anwendung die Meeting-ID nicht oder kann einfach keine Verbindung herstellen, selbst nach mehreren Versuchen. Diese Störung beeinträchtigt erheblich meine Produktivität und meine Fähigkeit, effektiv mit meinem Team zusammenzuarbeiten. 
+
+Ich habe überprüft, dass die Software meines Geräts auf dem neuesten Stand ist und habe Fehlersuche-Schritte unternommen, inklusive des Neustarts des Geräts und der Neuinstallation des Zoom-Clients, jedoch ohne Erfolg. Könnten Sie bitte helfen, dieses Problem zu diagnostizieren und zu lösen? Lassen Sie mich bitte wissen, ob Sie weitere Informationen oder Diagnosen von meiner Seite benötigen. Ich schätze Ihre schnelle Aufmerksamkeit für dieses Anliegen, da es meinen Arbeitsablauf erheblich beeinflusst. 
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<name>
+<acc_num>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie sich gemeldet haben. Ich verstehe, wie entscheidend eine stabile Internetverbindung während Zoom-Meetings ist.
+
+Hier sind einige Schritte, die helfen könnten, das Problem zu lösen:
+
+1. Überprüfen Sie, ob es Updates für die Zoom-App über Version 5.11.0 hinaus gibt.
+2. Stellen Sie sicher, dass die Firmware Ihres Routers auf dem neuesten Stand ist.
+3. Überprüfen Sie, ob andere Anwendungen oder Geräte während Ihrer Meetings Bandbreite verbrauchen.
+4. Ändern Sie Ihre DNS-Einstellungen auf einen öffentlichen DNS (wie Google DNS).
+
+Wenn das Problem weiterhin besteht, senden Sie bitte alle Fehlermeldungen oder Protokolle, um uns bei der weiteren Diagnose zu helfen. Wir sind hier, um Ihnen bei der Wiederherstellung Ihrer Konnektivität für eine nahtlose Zusammenarbeit mit Ihrem Team zu helfen.
+
+Vielen Dank für Ihre Geduld und Zusammenarbeit.
+
+Mit freundlichen Grüßen,
+Kundenservice

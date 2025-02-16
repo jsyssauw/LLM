@@ -1,0 +1,15 @@
+Ticket ID: ticket_2900
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I am writing to report that Google Chrome 102.0 frequently crashes on startup, disrupting my web surfing and online work. Please advise on how to resolve this issue at your earliest convenience.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+We recommend updating Google Chrome to the latest version, clearing the cache, and disabling any extensions. If the issue persists, try reinstalling the browser. Please reach out if you need further assistance.
+
+Best regards,
+Tech Online Store Customer Support

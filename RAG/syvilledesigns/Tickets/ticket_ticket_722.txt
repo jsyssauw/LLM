@@ -1,0 +1,38 @@
+Ticket ID: ticket_722
+Subject: Solicitação de Devolução de Produto - Canon PIXMA MG3620
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente,
+
+Espero que esta mensagem o encontre bem. Estou escrevendo para solicitar a devolução de um produto comprado na sua Loja Online Tech, que atualmente está enfrentando problemas de conectividade. O item em questão é a impressora Canon PIXMA MG3620, que comprei em <purchase_date> usando meu número de conta <acc_num>.
+
+Desde a configuração da impressora, enfrentei interrupções repetidas durante a impressão sem fio, o que prejudicou minha capacidade de concluir efetivamente as tarefas de impressão. Apesar de seguir todos os passos de solução de problemas descritos no manual e no seu site de suporte, os problemas de conectividade persistem. Tentei várias soluções, incluindo reinicializações de rede e atualizações de firmware, mas o problema continua sem solução.
+
+Diante disso, eu apreciaria se você pudesse autorizar uma devolução deste produto, uma vez que está dentro do período de garantia. Por favor, me avise sobre o procedimento que preciso seguir, incluindo quaisquer documentos ou informações que você precise da minha parte.
+
+Obrigado pela sua atenção a este assunto. Aguardo sua resposta rápida para arranjar a devolução e reembolso da impressora. Se precisar entrar em contato comigo, por favor, fale pelo meu número de telefone registrado, <tel_num>.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Assunto: Re: Solicitação de Devolução de Produto - Canon PIXMA MG3620
+
+Caro <name>,
+
+Obrigado por entrar em contato conosco. Pedimos desculpas pelo inconveniente que você enfrentou com sua impressora Canon PIXMA MG3620. Para processarmos sua solicitação de devolução, por favor, siga estas etapas:
+
+1. Certifique-se de que a impressora está embalada de forma segura em sua embalagem original.
+2. Inclua uma cópia do seu recibo de compra ou confirmação de pedido.
+3. Inclua qualquer correspondência relevante relacionada à solução de problemas.
+4. Visite nosso portal de devoluções em nosso site para iniciar o processo de devolução. Você precisará do seu número de pedido e detalhes da conta.
+5. Uma etiqueta de envio pré-paga será gerada para você anexar ao pacote.
+
+Após o recebimento da impressora, iremos inspecioná-la, e se sua solicitação atender aos critérios de devolução, processaremos um reembolso para o seu método de pagamento original.
+
+Caso precise de mais assistência, não hesite em nos contatar por e-mail ou na linha direta de suporte ao cliente listada em nosso site.
+
+Agradecemos sua paciência e compreensão.
+
+Atenciosamente,
+
+Equipe de Suporte ao Cliente
+Loja Online Tech

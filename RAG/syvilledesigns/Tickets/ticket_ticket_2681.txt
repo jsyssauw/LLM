@@ -1,0 +1,18 @@
+Ticket ID: ticket_2681
+Subject: Urgente: Problema de Tempo de Inatividade do Serviço de Gerenciamento AWS
+Incident Type: Incident
+Customer Issue: Prezado Time de Suporte ao Cliente,
+
+Estou escrevendo para informar sobre um problema com o seu Serviço de Gerenciamento AWS, que recentemente experimentou um tempo de inatividade não programado. Essa interrupção impactou significativamente o acesso ao servidor virtual dos clientes. Precisamos de assistência imediata para resolver o problema e garantir que não ocorram mais interrupções. Por favor, priorizem a restauração da funcionalidade e mantenham-nos atualizados sobre o seu progresso. Nós dependemos muito do seu serviço e tais incidentes afetam criticamente nossas operações. Ação rápida seria apreciada. Entre em contato comigo pelo <tel_num> para mais discussões.
+
+Obrigado,
+
+<name>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato. Pedimos desculpas pelo transtorno causado pelo tempo de inatividade não programado do nosso Serviço de Gerenciamento AWS. Entendemos o impacto crítico em suas operações e estamos atualmente trabalhando para resolver o problema. Pode ficar tranquilo, nossa equipe está priorizando a restauração da funcionalidade completa do serviço. Nós o manteremos atualizado sobre nosso progresso e ações tomadas. Para mais discussões, por favor, espere uma ligação direta em breve.
+
+Obrigado pela sua paciência e compreensão.
+
+Atenciosamente,
+Equipe de Service Desk

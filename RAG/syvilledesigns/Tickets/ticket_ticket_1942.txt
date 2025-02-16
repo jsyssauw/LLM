@@ -1,0 +1,21 @@
+Ticket ID: ticket_1942
+Subject: Problème urgent de routeur Cisco
+Incident Type: Incident
+Customer Issue: Cher client des services informatiques,
+
+Nous signalons un incident de haute priorité impliquant un routeur Cisco ISR4331 défectueux. Ce problème cause des pannes de réseau significatives et nécessite votre attention et votre soutien immédiats. Le routeur en question est crucial pour nos opérations, et son dysfonctionnement a un impact sur nos activités quotidiennes. Merci d'assigner quelqu'un à ce problème dès que possible pour atténuer les impacts sur le temps d'arrêt.
+
+Merci pour votre réponse rapide.
+
+Meilleures salutations,
+<name>, Administrateur réseau
+<acc_num>
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant le problème urgent avec le routeur Cisco ISR4331. Nous comprenons la gravité de la situation et avons donné la priorité à votre demande. Notre équipe technique est envoyée immédiatement pour enquêter et résoudre la panne de réseau.
+
+Vous recevrez des mises à jour sur les progrès et un délai estimé pour la résolution sous peu. Merci pour votre patience et votre coopération.
+
+Meilleures salutations,
+Support client des services informatiques

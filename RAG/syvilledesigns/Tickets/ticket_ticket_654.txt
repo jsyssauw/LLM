@@ -1,0 +1,15 @@
+Ticket ID: ticket_654
+Subject: Urgent: Major AWS Outage
+Incident Type: Incident
+Customer Issue: Dear IT Services Customer Support Team, I am writing to bring attention to a major AWS outage that is significantly disrupting our cloud infrastructure. Our daily operations depend greatly on the AWS Management Service, and this unforeseen interruption is compromising our efficiency in serving our clients. We kindly request immediate action to rectify this situation and mitigate further complications. The urgency of this matter cannot be overstated, and your swift resolution would be immensely appreciated. Please provide us with updates on the steps being taken to tackle this outage at your earliest opportunity. We value your assistance and look forward to your prompt response. If you need any additional information or coordination, do not hesitate to reach me at <tel_num> or reply to this email. Thank you for your immediate attention to this pressing issue. Best regards, <name> <Position> <Company Name> <tel_num>
+Customer Service answer: Hello <name>,
+
+We appreciate you contacting us regarding the AWS outage that is impacting your cloud infrastructure. We recognize the serious nature of this situation and its effects on your operations. Our team is currently in communication with AWS to investigate and resolve the issue as swiftly as possible. We are committed to minimizing downtime and will keep you informed of any progress or solutions that develop.
+
+Rest assured that we are utilizing all necessary resources to mitigate the impact and restore full functionality. If you wish to escalate this matter or share additional details, please feel free to contact us using the information you provided.
+
+We sincerely thank you for your patience and understanding as we work diligently to address this urgent problem.
+
+Warm regards,
+
+IT Services Customer Support Team

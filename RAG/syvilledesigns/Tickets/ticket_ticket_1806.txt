@@ -1,0 +1,5 @@
+Ticket ID: ticket_1806
+Subject: HP DeskJet 3755 connectivity issue post-update
+Incident Type: Incident
+Customer Issue: Hello Customer Support, I am facing an issue with my HP DeskJet 3755. It is not connecting to the network after a recent firmware update. Please assist in resolving this matter. Sincerely, <name>.
+Customer Service answer: Hello <name>, please reset your HP DeskJet 3755 by turning it off and on. If the issue persists, try reconnecting to your network. For further assistance, contact support at <tel_num>. Regards, Customer Support.

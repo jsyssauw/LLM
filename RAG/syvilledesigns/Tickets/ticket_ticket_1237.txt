@@ -1,0 +1,31 @@
+Ticket ID: ticket_1237
+Subject: Assistência Necessária: Problema com a Instalação do Adobe Photoshop 2024
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou escrevendo para solicitar assistência em relação a um problema que estou enfrentando com a instalação do Adobe Photoshop 2024. Comprei o software para o meu <acc_num> e tentei instalá-lo no meu computador, mas, infelizmente, estou encontrando uma mensagem de erro que diz 'instalação incompleta'. Isso persiste apesar de várias tentativas da minha parte para resolver o problema.
+
+Verifiquei as requisitos de sistema e confirmei que meu sistema atende às especificações necessárias. Além disso, segui todas as etapas descritas no guia de instalação fornecido. Também tentei uma instalação limpa desinstalando versões anteriores, mas o problema continua sem solução.
+
+Você poderia, por favor, fornecer orientações sobre como corrigir esse problema? Se houver etapas ou procedimentos de solução de problemas adicionais que eu deva seguir, por favor, me avise. Estou ansioso para usar o produto e agradeceria sua rápida assistência para facilitar uma instalação bem-sucedida.
+
+Obrigado pelo seu apoio. Por favor, entre em contato comigo pelo <tel_num> para qualquer informação adicional que você possa precisar.
+
+Atenciosamente,
+<name>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato sobre o problema de instalação com o Adobe Photoshop 2024. Entendo como é importante ter o software funcionando corretamente. Para resolver o erro 'instalação incompleta', por favor, tente os seguintes passos:
+
+1. Certifique-se de que sua conexão de internet esteja estável durante todo o processo de instalação.
+2. Desative temporariamente qualquer antivírus ou firewall que possa estar bloqueando a instalação.
+3. Use a Ferramenta de Limpeza do Creative Cloud da Adobe para garantir que todas as instalações anteriores do Photoshop sejam completamente removidas antes de tentar novamente.
+4. Tente instalar o software no Modo Administrador.
+5. Limpe os arquivos temporários do seu sistema que podem interferir no processo de instalação.
+
+Se esses passos não resolverem o problema, por favor, responda a este e-mail ou ligue para a linha de suporte dedicada da Adobe no número fornecido na documentação de compra.
+
+Esperamos que isso ajude e você consiga aproveitar o Photoshop 2024 em breve. Avise-nos se precisar de mais assistência.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

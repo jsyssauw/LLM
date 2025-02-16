@@ -1,0 +1,16 @@
+Ticket ID: ticket_814
+Subject: nan
+Incident Type: Problem
+Customer Issue: Hello <name>,
+
+We appreciate your communication. We sincerely apologize for the delay in the shipment of your MacBook Air M1. Our team is currently investigating the matter and will share an update with you shortly. We truly regret any trouble this situation may have caused. Should you need additional help, feel free to reach us at <tel_num> or simply reply to this email.
+
+Warm regards,
+Customer Support
+Online Store
+Customer Service answer: Dear Customer Support,
+
+Thank you for your message. I am grateful for the update regarding the hold-up in shipping my MacBook Air M1. I will look forward to further details from your team. Please keep me updated on the progress.
+
+Best wishes,
+[Your Name]

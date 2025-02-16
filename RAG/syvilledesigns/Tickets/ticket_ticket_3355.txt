@@ -1,0 +1,26 @@
+Ticket ID: ticket_3355
+Subject: Unterstützung bei der Einrichtung des HP DeskJet 3755 erforderlich
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundensupport,
+
+ich habe kürzlich einen HP DeskJet 3755 in Ihrem Onlineshop gekauft und habe Schwierigkeiten bei der Einrichtung. Da dieses drahtlose Modell für meinen Arbeitsablauf entscheidend ist, benötige ich Ihre Anleitung, um es richtig zu konfigurieren. Bitte stellen Sie detaillierte Anweisungen zur Verfügung oder vereinbaren Sie so bald wie möglich einen Termin mit einem Techniker. Meine Kunden-ID ist <cust_id>. Kontaktieren Sie mich unter <email> oder <tel_num> für weitere Nachfragen.
+
+Vielen Dank,
+
+<name>
+Customer Service answer: Betreff: Re: Unterstützung bei der Einrichtung des HP DeskJet 3755
+
+Sehr geehrte(r) <name>,
+
+vielen Dank, dass Sie uns bezüglich der Einrichtung Ihres HP DeskJet 3755 kontaktiert haben. Wir sind hier um zu helfen. Bitte folgen Sie diesen kurzen Anweisungen, um zu beginnen:
+
+1. Schalten Sie den Drucker ein.
+2. Verbinden Sie ihn mit Ihrem Wi-Fi-Netzwerk über das Einstellungsmenü des Druckers.
+3. Laden Sie die HP Smart-App auf Ihr Gerät herunter und installieren Sie sie, um die Einrichtung abzuschließen.
+
+Für detaillierte Anweisungen beachten Sie bitte das Benutzerhandbuch oder den Supportbereich unserer Website. Wenn Sie eine Sitzung mit einem Techniker bevorzugen, lassen Sie uns bitte wissen, wann es Ihnen passt, und wir werden dies umgehend arrangieren.
+
+Zögern Sie nicht, sich unter <email> oder <tel_num> zu melden, wenn Sie weitere Unterstützung benötigen.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

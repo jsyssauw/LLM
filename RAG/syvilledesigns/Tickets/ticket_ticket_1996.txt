@@ -1,0 +1,17 @@
+Ticket ID: ticket_1996
+Subject: Connection Dropouts with Cisco Router ISR4331
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I wish to escalate an issue we are currently facing with our Cisco Router ISR4331. The connection drops out consistently, severely impacting our operations. The router frequently disconnects, requiring us to perform a reset each time to re-establish connectivity. This issue has persisted over the last week and has started affecting our daily productivity, causing severe delays.
+
+Please guide us through the troubleshooting steps or recommend any configuration adjustments we can implement to prevent this issue. If replacement or repair is necessary, advise on the procedures we should follow. Our account number is <acc_num> for your reference. Thank you for your prompt attention to this issue.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us regarding the connection issues with your Cisco Router ISR4331. To troubleshoot, ensure the firmware is up to date, check cable connections, and monitor for any environmental interference. A configuration review might help; verify settings align with Cisco's recommendations. If problems persist, reset to factory defaults and reconfigure. For repair or replacement, please contact our technical team with your account number <acc_num> for further assistance. We appreciate your patience and are committed to resolving this swiftly.
+
+Best regards,
+Customer Support

@@ -1,0 +1,19 @@
+Ticket ID: ticket_2020
+Subject: Demande d'assistance pour la configuration du service AWS et l'optimisation des coûts
+Incident Type: Request
+Customer Issue: Cher support client des services informatiques,
+
+Je vous écris pour demander de l'aide pour configurer nos systèmes en utilisant le service de gestion AWS et optimiser notre configuration actuelle pour l'efficacité des coûts. Malgré plusieurs tentatives, nous rencontrons des difficultés à mettre en œuvre certains aspects de la configuration cloud en toute confiance. De plus, nous aimerions obtenir des conseils d'experts sur l'identification et l'utilisation des meilleures pratiques pour les fonctionnalités d'optimisation des coûts proposées dans AWS. Votre soutien rapide pour résoudre ces problèmes serait très apprécié. Veuillez nous faire savoir quand une session de support peut être programmée.
+
+Merci,
+<name>
+Numéro de compte : <acc_num>
+Contact : <tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant la configuration et l'optimisation des coûts d'AWS. Nous comprenons les défis auxquels vous êtes confronté et sommes là pour vous aider. Nous pouvons planifier une session de support à votre convenance pour examiner vos systèmes et fournir des conseils sur les meilleures pratiques pour l'efficacité des coûts. Veuillez proposer quelques créneaux horaires qui vous conviennent et nous ferons de notre mieux pour nous adapter à votre emploi du temps.
+
+Au plaisir de vous aider bientôt.
+
+Cordialement,
+Support client des services informatiques

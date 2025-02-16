@@ -1,0 +1,28 @@
+Ticket ID: ticket_3632
+Subject: Requesting Support: Router causing network issues
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I am reaching out to report a critical issue with our Cisco Router ISR4331. We have been experiencing repeated network disruptions at our enterprise due to frequent router resets and slow response times. These issues are severely impacting our organization's communication and operational efficiency, and we are unable to maintain stable network connections. 
+
+We would greatly appreciate your prompt assistance in diagnosing and resolving this matter. Please let us know the next steps we should take to mitigate these disruptions. 
+
+Thank you for your support.
+
+Best regards,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issues with your Cisco Router ISR4331. We understand the critical nature of network stability for your organization and are here to help.
+
+To begin troubleshooting, please ensure the router firmware is up-to-date and check for any visible damages or loose connections in the setup. Additionally, we recommend restarting the router if it hasn't been rebooted in a while to see if that temporarily resolves the issue.
+
+Please provide us with logs from the System and Interface to assist with deeper analysis. Our technical team will then conduct a detailed investigation to identify the root cause and provide you with a solution.
+
+Meanwhile, if further immediate assistance is required, feel free to contact our support hotline at any time.
+
+Best regards,  
+Customer Support Team

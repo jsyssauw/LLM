@@ -1,0 +1,27 @@
+Ticket ID: ticket_2928
+Subject: Problem mit flackerndem Bildschirm
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um ein hartnäckiges Problem mit einem Samsung QLED QN90A-Fernseher zu melden, den ich kürzlich in Ihrem Laden gekauft habe. Trotz Tests mit verschiedenen HDMI-Kabeln flackert das Display weiterhin, was das Seherlebnis erheblich stört. Ich habe versucht, das Problem auf verschiedene Arten zu beheben, einschließlich des Zurücksetzens des Geräts und des Testens des Eingangs von verschiedenen Geräten, aber leider bleibt das Problem ungelöst.
+
+Da dieses Produkt nur sparsam verwendet wurde und sich erst seit kurzer Zeit in meinem Besitz befindet, bin ich besorgt, dass es möglicherweise einen Defekt oder ein Herstellungsproblem mit diesem Gerät gibt. Ich würde eine Anleitung zu den nächsten Schritten, die ich unternehmen sollte, sehr dankbar sein. Könnten Sie möglicherweise Fehlerbehebungsratschläge anbieten, die über das Online-Angebot hinausgehen, oder einen Serviceantrag einrichten? Alternativ, wenn es sich tatsächlich um einen Defekt handelt, möchte ich Optionen für einen Ersatz oder eine Rückerstattung besprechen.
+
+Ich freue mich auf Ihre umgehende Antwort, damit das Problem so schnell wie möglich gelöst werden kann. Bitte lassen Sie mich wissen, ob weitere Informationen oder Kooperationen meinerseits erforderlich sind, um diesen Prozess zu beschleunigen.
+
+Vielen Dank für Ihre Aufmerksamkeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben und uns dieses Problem mit Ihrem Samsung QLED QN90A gemeldet haben. Ich entschuldige mich für die Unannehmlichkeiten, die Ihnen dadurch entstanden sind.
+
+Da Sie bereits verschiedene Fehlerbehebungsschritte ausprobiert haben, scheint es, als könnte ein Defekt bei dem Gerät vorliegen. Um fortzufahren, können wir entweder einen Serviceantrag zur weiteren Diagnose und möglichen Reparatur einrichten oder die Möglichkeit eines Ersatzes oder einer Rückerstattung besprechen, je nach Ihrer Präferenz und den Garantiebedingungen.
+
+Bitte lassen Sie uns wissen, wie Sie fortfahren möchten und ob zusätzliche Informationen oder Schritte von Ihrer Seite erforderlich sind. Wir sind hier, um sicherzustellen, dass dieses Anliegen schnell und zu Ihrer Zufriedenheit gelöst wird.
+
+Mit freundlichen Grüßen,
+
+Kundenservice-Team

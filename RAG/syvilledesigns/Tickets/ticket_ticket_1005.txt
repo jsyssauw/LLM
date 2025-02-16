@@ -1,0 +1,31 @@
+Ticket ID: ticket_1005
+Subject: Problema com a Canon PIXMA MG3620
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Espero que esta mensagem o encontre bem. Estou entrando em contato para relatar um problema relacionado a uma impressora Canon PIXMA MG3620 que comprei em sua Loja Online Tech. O problema ocorreu ao tentar realizar uma impressão duplex, um recurso essencial que uso com frequência. Durante esse processo, a impressora teve um atolamento de papel, que se tornou um problema recorrente afetando sua funcionalidade e minha produtividade.
+
+Após minhas tentativas de resolver o problema, que incluíram remover cuidadosamente o papel atolado e reiniciar a impressora, o problema, infelizmente, persiste. Cada tentativa de impressão duplex resulta em um atolamento de papel similar, sugerindo que pode haver um problema técnico subjacente com a própria impressora. Consultei o manual do usuário e segui todos os passos básicos de resolução de problemas recomendados para tais problemas, mas sem sucesso.
+
+Agradeceria sua orientação sobre como proceder. Especificamente, gostaria de saber se há etapas adicionais de resolução de problemas que você poderia recomendar ou se este problema poderia estar coberto por alguma garantia ou acordo de serviço.
+
+Obrigado pela sua assistência na resolução deste assunto de forma rápida. Aguardo sua orientação na sua primeira oportunidade.
+
+Atenciosamente,
+
+<name>
+<tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre o problema com sua impressora Canon PIXMA MG3620. Peço desculpas pela inconveniência que este atolamento de papel recorrente causou.
+
+Em primeiro lugar, por favor, certifique-se de que o firmware da impressora esteja atualizado, pois às vezes as atualizações podem resolver problemas técnicos. Além disso, verifique se as configurações de tipo e tamanho do papel no menu da impressora estão corretamente alinhadas com o papel carregado.
+
+Se esses passos não resolverem o problema, pode ser um problema de hardware. Dado que você tentou todas as etapas padrão de resolução de problemas, recomendo verificar os detalhes da sua compra para cobertura de garantia. Podemos iniciar uma reclamação se sua impressora ainda estiver na garantia. Por favor, entre em contato conosco com seu recibo de compra ou detalhes da garantia, e nós o assistiremos mais.
+
+Sinta-se à vontade para entrar em contato se tiver outras perguntas ou precisar de suporte adicional.
+
+Atenciosamente,
+
+Equipe de Suporte ao Cliente
+Loja Online Tech

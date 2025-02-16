@@ -1,0 +1,5 @@
+Ticket ID: ticket_327
+Subject: Hilfe bei der Einrichtung des HP DeskJet 3755 angefordert
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice, ich habe Schwierigkeiten bei der drahtlosen Einrichtung meines neuen HP DeskJet 3755 Druckers. Bitte führen Sie mich durch den Einrichtungsprozess. Vielen Dank!
+Customer Service answer: Sehr geehrter <name>, um Ihren HP DeskJet 3755 drahtlos einzurichten, schalten Sie zunächst den Drucker ein. Halten Sie die Tasten "Drahtlos" und "Abbrechen" gedrückt, bis die Ein/Aus-Taste blinkt. Gehen Sie auf Ihrem PC zu 'Drucker & Scanner' > 'Drucker hinzufügen' und wählen Sie Ihren Drucker aus. Befolgen Sie die Anweisungen auf dem Bildschirm, um die Einrichtung abzuschließen.

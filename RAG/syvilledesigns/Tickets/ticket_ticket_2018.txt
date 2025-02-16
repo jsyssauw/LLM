@@ -1,0 +1,21 @@
+Ticket ID: ticket_2018
+Subject: Request to Initiate Return for Epson EcoTank ET-4760 Printer
+Incident Type: Incident
+Customer Issue: Dear Customer Support, 
+
+I hope this email finds you well. I am writing to inform you of a return request submitted by <name>, regarding the Epson EcoTank ET-4760 printer, which was purchased under account number <acc_num>. The customer has experienced print quality issues that have not been resolved through troubleshooting efforts provided on your website. They are seeking to return the product for a refund or replacement. 
+
+Please advise on the necessary steps for processing this return, including any documentation required from <name>. 
+
+Their primary contact is at <tel_num>, and they would appreciate prompt assistance with this matter. Thank you for your attention to this issue. 
+
+Best regards, 
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us about the return of the Epson EcoTank ET-4760 printer. We apologize for the inconvenience caused. To process the return for a refund or replacement, please ensure the printer is securely packed with all original accessories. Include a copy of the purchase receipt and reference the account number <acc_num>.
+
+Contact us at <tel_num> to receive a pre-paid return label and schedule a pickup if needed. Once we receive and inspect the product, we will process your request promptly. If you need further assistance, feel free to reach out.
+
+Best regards,
+Customer Support

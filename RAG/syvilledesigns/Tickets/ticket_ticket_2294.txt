@@ -1,0 +1,7 @@
+Ticket ID: ticket_2294
+Subject: Drucker-Verbindungs- und Duplexprobleme
+Incident Type: Problem
+Customer Issue: Hallo, ich habe Probleme mit meinem Canon PIXMA MG3620. Er lässt sich nicht drahtlos verbinden und zeigt inkonsistentes Duplexdrucken an. Bitte geben Sie eine Lösung für diese Probleme. Danke, <name>.
+Customer Service answer: Hallo <name>, 
+Um die drahtlose Verbindung herzustellen, starten Sie Ihren Router und Drucker neu und installieren Sie die Druckertreiber erneut. Überprüfen Sie bei Duplexproblemen, ob das Duplexdrucken in den Druckereinstellungen aktiviert ist. 
+Beste Grüße, Support-Team.

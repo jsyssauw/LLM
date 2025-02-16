@@ -1,0 +1,10 @@
+Ticket ID: ticket_216
+Subject: Urgent: Dell XPS 13 overheating and battery drain issue
+Incident Type: Problem
+Customer Issue: Dear Customer Support, I am writing to report that my Dell XPS 13 9310 is overheating after a few hours of use, and the battery seems to drain unusually fast. I would appreciate if you could provide assistance or a resolution as soon as possible. Looking forward to your prompt reply. Thank you, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us. We recommend starting by ensuring your laptop's BIOS and drivers are updated via Dell SupportAssist. Check if the ventilation is clear of dust and use the device on a hard, flat surface to ensure proper airflow. If the issue persists, consider performing a battery diagnostic test using the Dell Power Manager. Should these steps not resolve the problem, please provide further details so we can assist with a repair or replacement if necessary.
+
+Best regards,
+Customer Support

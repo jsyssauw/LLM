@@ -1,0 +1,33 @@
+Ticket ID: ticket_229
+Subject: AWS Management Service Inquiry
+Incident Type: Change
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I am writing to inquire about your AWS Management Service, as <name> is in the process of deploying a new application and we are looking to optimize our costs on cloud infrastructure. With the increasing demands on our system, managing resources efficiently has become a priority. <Name> recommended your services for their expertise and tailored solutions in managing AWS environments efficiently. 
+
+We aim to reduce overheads, improve application performance, and harness the scalability features of AWS without incurring unnecessary expenses. Could you please provide more information on how your AWS Management Service can assist us in achieving these goals? Additionally, if there are any packages or plans available, including their costs and features, I would appreciate if you could share those details.
+
+I look forward to hearing from you soon.
+
+Thank you for your assistance.
+
+Best regards,
+
+<Name>
+<Acc_num>
+<Tel_num>
+Customer Service answer: Dear <Name>,
+
+Thank you for reaching out to us regarding our AWS Management Service. We specialize in offering tailored solutions designed to optimize costs, manage resources efficiently, and improve application performance on AWS.
+
+Our AWS Management Service includes:
+- Cost Optimization: We analyze your usage patterns to identify savings opportunities.
+- Performance Enhancement: Continuous monitoring and scaling recommendations to ensure peak performance.
+- Resource Management: Best practices for resource allocation and utilization for efficiency.
+
+We offer various packages to suit your needs, ranging from basic monitoring to comprehensive management solutions. I will be happy to provide detailed information on our packages, including features and pricing. Kindly let me know your preferences, and I can assist further.
+
+Please feel free to reach out if you have any more questions or need specific insights.
+
+Best regards,
+Customer Support Team

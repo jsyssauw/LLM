@@ -1,0 +1,24 @@
+Ticket ID: ticket_878
+Subject: Problema com o Microsoft Surface Pro 7
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou enfrentando um problema com meu Microsoft Surface Pro 7, onde a tela sensível ao toque ocasionalmente fica sem resposta. Essa interrupção está afetando significativamente minha produtividade no trabalho. Agradeceria assistência para resolver esta questão. Obrigado pela sua atenção e apoio.
+
+Atenciosamente,
+
+<name>
+<acc_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre o problema da tela sensível ao toque com seu Microsoft Surface Pro 7. Para resolver isso, por favor, tente os seguintes passos: 
+
+1. Reinicie seu dispositivo para atualizar o sistema.
+2. Verifique se há atualizações do Windows disponíveis e instale-as.
+3. Calibre a tela sensível ao toque em Configurações > Dispositivos > Caneta e Windows Ink.
+4. Execute a ferramenta de solução de problemas de hardware para problemas de tela sensível ao toque.
+
+Se o problema persistir, por favor, nos avise para que possamos ajudá-lo ainda mais. Agradecemos sua paciência e compreensão.
+
+Atenciosamente,
+Suporte ao Cliente

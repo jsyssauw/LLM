@@ -1,0 +1,29 @@
+Ticket ID: ticket_1225
+Subject: AWS Management Service Abrechnungsproblem
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um Sie auf ein kritisches Problem aufmerksam zu machen, das ich mit dem AWS Management Service hatte. Während ich die Funktionen zur Kostensenkung nutzte, habe ich unerwartete Abrechnungssteigerungen bemerkt, die offensichtlich nicht mit den erwarteten Kosteneinsparungen übereinstimmen, die die Plattform bewirbt. Da der Zweck dieser Funktionen darin besteht, Kosten zu verwalten und zu reduzieren, sind diese unvorhergesehenen Gebühren besorgniserregend.
+
+Als treuer Abonnent mit der Kontonummer <acc_num> bin ich auf diese Dienste angewiesen, um meine Betriebskosten effektiv für meine geschäftlichen Bedürfnisse zu verwalten. Die Unregelmäßigkeiten begannen am <date>, und trotz zahlreicher Anpassungen und Versuche, innerhalb der Anwendung das Problem zu beheben, besteht das Problem weiterhin.
+
+Ich würde es begrüßen, wenn Sie die Angelegenheit schnellstmöglich untersuchen und Einblicke in mögliche Lösungen oder Fehlkonfigurationen geben könnten, die die steigernden Abrechnungen verursachen könnten. Darüber hinaus wäre eine Anleitung zur korrekten Ausrichtung der Kostenfunktionen äußerst vorteilhaft, um ähnliche Vorkommnisse in Zukunft zu vermeiden.
+
+Bitte kontaktieren Sie mich so schnell wie möglich. Ich bin jederzeit unter <tel_num> oder per E-Mail erreichbar.
+
+Vielen Dank für Ihre Aufmerksamkeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich des Abrechnungsproblems mit dem AWS Management Service an uns gewandt haben. Ich verstehe Ihre Besorgnis über die unerwarteten Abrechnungssteigerungen, trotz der Nutzung von Kostensenkungsfunktionen. Ich habe Ihr Anliegen an unser technisches Team weitergeleitet, welches eine gründliche Untersuchung dieser Unregelmäßigkeiten durchführen wird.
+
+Wir sind bestrebt, diese Angelegenheit schnell zu klären. Unser Team wird nach Fehlkonfigurationen oder Systemfehlern suchen, die zu diesen Gebühren beigetragen haben könnten, und Schritte zur korrekten Ausrichtung der Kostenfunktionen bereitstellen, um zukünftige Vorkommnisse zu vermeiden.
+
+Bitte zögern Sie nicht, sich bei weiteren Fragen an uns zu wenden. Wir werden Sie kurzfristig unter <tel_num> oder Ihrer E-Mail kontaktieren, um Sie über den Fortschritt zu informieren.
+
+Vielen Dank für Ihre Geduld und Treue.
+
+Mit freundlichen Grüßen,
+Service Desk Agent

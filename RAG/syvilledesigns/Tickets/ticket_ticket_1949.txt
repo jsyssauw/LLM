@@ -1,0 +1,16 @@
+Ticket ID: ticket_1949
+Subject: Informe de Problema con la Cámara en Samsung Galaxy S21 Ultra
+Incident Type: Incident
+Customer Issue: Apreciado Servicio al Cliente,
+
+He adquirido recientemente un Samsung Galaxy S21 Ultra en su plataforma en línea y he notado que la cámara presenta un defecto. ¿Sería posible que me asistieran para resolver este inconveniente o gestionar un reemplazo?
+
+Gracias,
+
+<nombre>
+Customer Service answer: Apreciado [Nombre],
+
+Lamentamos escuchar acerca del inconveniente con la cámara de su Samsung Galaxy S21 Ultra. Por favor, proporcione su número de pedido y la fecha de compra para que podamos asistirle mejor o facilitar un reemplazo.
+
+Gracias,
+Servicio al Cliente

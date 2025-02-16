@@ -1,0 +1,17 @@
+Ticket ID: ticket_308
+Subject: Reported charging problem with iPhone
+Incident Type: Incident
+Customer Issue: Dear Customer Service Team,
+
+I am encountering a charging problem with my recently acquired iPhone 13 Pro bought from your online store. The phone does not charge reliably, even when I have used different chargers and power sources. I would appreciate your guidance on how to resolve this matter.
+
+Thank you,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us. We sincerely apologize for the trouble you are experiencing. Please perform a hard reset by simultaneously pressing the power and volume down buttons until you see the Apple logo. If the problem continues, we suggest visiting a certified service center or getting in touch with Apple Support for further help.
+
+Best wishes,
+Customer Service

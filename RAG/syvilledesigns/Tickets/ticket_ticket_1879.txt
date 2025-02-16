@@ -1,0 +1,26 @@
+Ticket ID: ticket_1879
+Subject: Problema de conectividad: No se pueden enviar mensajes de Slack en el escritorio
+Incident Type: Incident
+Customer Issue: Estimado soporte al cliente,
+
+Me pongo en contacto con respecto a mis problemas de conectividad con Slack versión 4.23.0 en mi escritorio. No puedo enviar mensajes, lo que causa una grave interrupción en las comunicaciones del equipo. Ya he intentado las soluciones integradas y los pasos de solución de problemas proporcionados por el soporte de Slack, pero desafortunadamente, estos intentos no han resuelto el problema.
+
+Agradezco su pronta asistencia para encontrar una solución. Si necesita información adicional o más detalles, no dude en contactarme en su conveniencia.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto respecto al problema de conectividad con Slack en su escritorio. Entendemos lo importante que es una comunicación ininterrumpida. Para ayudarle más, sugerimos los siguientes pasos más allá de la solución básica de problemas:
+
+1. Asegúrese de que su conexión a internet sea estable.
+2. Verifique que la configuración del firewall y el software antivirus no estén bloqueando Slack.
+3. Intente reiniciar su computadora y volver a abrir Slack.
+4. Revise la página de estado de Slack para cualquier interrupción del servicio.
+
+Si el problema persiste, proporcione detalles adicionales como su sistema operativo y cualquier mensaje de error. No dude en enviarnos un correo electrónico o contactar nuestra línea de soporte para más asistencia.
+
+Saludos cordiales,
+
+Equipo de Soporte al Cliente

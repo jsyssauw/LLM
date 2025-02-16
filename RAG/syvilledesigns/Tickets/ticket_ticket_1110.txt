@@ -1,0 +1,21 @@
+Ticket ID: ticket_1110
+Subject: Urgent Server Issue
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to report an urgent server issue that is currently impacting our ticket system. Our company,<name>, relies heavily on your IT Consulting Service for smooth operations. However, we are experiencing significant disruptions, and this issue requires immediate assistance and analysis to ensure a quick resolution. Could you please provide us with the support needed to address this matter promptly? Our team's productivity is highly dependent on a functioning ticket system.
+
+We appreciate your swift attention to this issue. Please contact me at your earliest convenience.
+
+Thank you, 
+<name>
+<tel_num>
+<email>
+Customer Service answer: Dear <name>,
+
+Thank you for bringing this urgent server issue to our attention. We understand the critical nature of the situation and the impact on your operations. Our team is already working to diagnose and resolve the problem as quickly as possible. We will keep you updated on our progress and ensure the ticket system is restored to full functionality promptly. 
+
+If you need immediate assistance, feel free to reach out to us at any time. We are committed to resolving this issue swiftly to minimize any disruptions for your team.
+
+Best regards,
+Customer Support Team

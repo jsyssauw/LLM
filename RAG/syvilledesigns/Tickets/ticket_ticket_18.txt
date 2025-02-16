@@ -1,0 +1,21 @@
+Ticket ID: ticket_18
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear Customer Support, 
+
+I hope this message finds you well. I am writing to request a detailed explanation of some unexpected monthly charges for AWS cloud resources as seen on my last bill. The charges seem unaccounted for, and since I utilize the AWS Management Service, it would be helpful for me to understand the breakdown. Would you please help clarify these charges? My account number is <acc_num>. For further correspondence, you can reach me at <nameemail>@domain.com or call me at <tel_num>. Your prompt assistance with this matter is appreciated. 
+
+Thank you. 
+
+Best regards, 
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us. We understand your concern about the unexpected AWS charges. We will review your account details to provide a detailed explanation and breakdown of the charges on your latest bill. Our team is committed to resolving this matter promptly.
+
+For privacy and security, we recommend discussing further details through the email or phone number you have provided. Please expect a follow-up from our side shortly.
+
+Thank you for your patience and understanding.
+
+Best regards, 
+Customer Support Team

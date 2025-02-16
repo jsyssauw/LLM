@@ -1,0 +1,10 @@
+Ticket ID: ticket_1111
+Subject: Problemas con la pantalla táctil del Surface Pro 7
+Incident Type: Problem
+Customer Issue: Estimado Servicio de Atención al Cliente, estoy experimentando congelamientos intermitentes de la pantalla táctil en mi Microsoft Surface Pro 7. Este problema está afectando la usabilidad del dispositivo. ¿Podrían ayudarme a resolver este asunto? Gracias de antemano. Saludos, <name>
+Customer Service answer: Estimado <name>,
+
+Lamento escuchar sobre los problemas con la pantalla táctil de su Surface Pro 7. Por favor, intente actualizar los controladores de su dispositivo y realizar un restablecimiento completo manteniendo presionado el botón de encendido durante 30 segundos. Si el problema persiste, contáctenos para obtener más ayuda.
+
+Atentamente,
+Servicio de Atención al Cliente

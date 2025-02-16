@@ -1,0 +1,20 @@
+Ticket ID: ticket_2791
+Subject: Technical Support Request
+Incident Type: Request
+Customer Issue: Hello,
+
+I am experiencing frequent browser crashes due to extensions on Google Chrome version 102.0. Please provide me with assistance to resolve this issue. My account number is <acc_num>. Thank you for your support.
+
+Regards,
+<name>
+Customer Service answer: Hello,
+
+To address the frequent crashes in Chrome, try the following steps: 
+1. Disable all extensions: Go to Settings > Extensions and toggle off all.
+2. Enable each one individually to identify the problematic extension.
+3. Update Chrome: Go to Settings > About Chrome for updates.
+
+If issues persist, consider reinstalling Chrome. For further assistance specific to your account <acc_num>, please contact our technical team. 
+
+Regards,
+Service Desk Agent

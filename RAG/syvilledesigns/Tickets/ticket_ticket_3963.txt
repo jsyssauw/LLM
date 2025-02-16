@@ -1,0 +1,24 @@
+Ticket ID: ticket_3963
+Subject: Problema com Falha de Pagamento para Assinatura do Microsoft Office 365
+Incident Type: Problem
+Customer Issue: Olá Suporte da Loja Online Tech,
+
+Estou entrando em contato porque encontrei uma falha de pagamento ao tentar adquirir uma assinatura anual do Microsoft Office 365 em seu site. Meu nome é <name>, e isso aconteceu durante o checkout após eu ter inserido meus dados. Utilizei meu cartão de crédito vinculado à conta <acc_num>. Você poderia, por favor, me ajudar a completar essa transação? Isso é bastante urgente, pois dependo muito deste software para as operações do meu negócio. Você pode me contatar pelo <tel_num> para mais detalhes, se necessário.
+
+Obrigado pela sua assistência.
+
+Atenciosamente,
+<name>
+Customer Service answer: Olá,
+
+Obrigado por entrar em contato sobre o problema de pagamento da sua assinatura do Microsoft Office 365. Lamentamos o inconveniente. Para ajudá-lo rapidamente, por favor, tente os seguintes passos:
+
+1. Certifique-se de que os detalhes do seu cartão de crédito estão inseridos corretamente e que sua conta possui fundos suficientes.
+2. Tente usar um método de pagamento alternativo, se possível.
+
+Se o problema persistir, por favor, forneça qualquer mensagem de erro que você possa ter encontrado. Nossa equipe técnica está pronta para ajudá-lo a resolvê-lo. Você pode responder com informações adicionais aqui ou entrar em contato conosco diretamente na nossa linha de suporte.
+
+Estamos aqui para ajudar você o mais rápido possível.
+
+Atenciosamente,
+Suporte da Loja Online Tech

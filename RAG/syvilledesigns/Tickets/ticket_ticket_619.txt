@@ -1,0 +1,25 @@
+Ticket ID: ticket_619
+Subject: Dringend: AWS-Infrastruktur-Ausfallproblem lösen
+Incident Type: Request
+Customer Issue: Sehr geehrtes IT-Serviceteam,
+
+Unsere Organisation, <name>, hat derzeit einen erheblichen Ausfall in unserer AWS-Management-Service-Infrastruktur. Dieses Problem beeinträchtigt unsere Fähigkeit, unterbrechungsfreie Cloud-Dienste aufrechtzuerhalten. Wir benötigen eine dringende Untersuchung und Lösung, um unsere Dienste umgehend wiederherzustellen.
+
+Bitte priorisieren Sie diese Angelegenheit und informieren Sie uns über den Fortschritt, wann immer es Ihnen möglich ist.
+
+Ich schätze Ihre sofortige Aufmerksamkeit für diese dringende Angelegenheit.
+
+Danke,
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Wir verstehen die kritische Natur des Ausfalls, den Sie in Ihrer AWS-Management-Service-Infrastruktur erleben. Unser Team hat dieses Problem bereits priorisiert und wird umgehend mit einer Untersuchung beginnen, um die Ursache zu identifizieren und sie schnell zu beheben.
+
+Wir halten Sie über alle Entwicklungen und Fortschritte auf dem Laufenden, um sicherzustellen, dass Ihre Dienstleistungen schnell wiederhergestellt werden.
+
+Vielen Dank für Ihre Geduld und Kooperation.
+
+Mit freundlichen Grüßen,
+IT-Serviceteam

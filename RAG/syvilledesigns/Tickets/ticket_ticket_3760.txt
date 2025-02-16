@@ -1,0 +1,24 @@
+Ticket ID: ticket_3760
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I am interested in purchasing a Microsoft Surface Pro 7 and would like some assistance with the process. Could you provide detailed information on the financing plans available for this product? Understanding the options will greatly assist in my decision-making process.
+
+Additionally, I would appreciate knowing the expected delivery timeframe once the purchase is confirmed. This information will assist me in planning accordingly.
+
+Thank you for your assistance. Looking forward to your prompt response.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out! We offer several financing plans for the Microsoft Surface Pro 7, including installment payments spread over 6, 12, or 24 months with zero or low interest rates, depending on your eligibility. Pre-approval can be done online during checkout. 
+
+Once your purchase is confirmed, standard delivery typically takes 3-5 business days. Expedited options are available for an additional fee, should you require faster delivery.
+
+Please let us know if you need further assistance!
+
+Best regards,  
+Customer Support Team

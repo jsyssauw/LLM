@@ -1,0 +1,29 @@
+Ticket ID: ticket_148
+Subject: Jira Workflow Update
+Incident Type: Change
+Customer Issue: Dear Customer Support Team, 
+
+I hope this message finds you well. I am writing to request a change in our current project workflow within Jira Software 8.20 to enhance our ticket management and version tracking capabilities. As of now, we are facing challenges with our existing workflow due to its limitations in managing the various stages of project tasks efficiently. Specifically, the current state transitions of tickets do not adequately reflect the dynamic nature of our project development cycles, leading to poor visibility and sometimes even confusion among our project teams.
+
+Therefore, I propose an integration of more customized states and transitions within the Jira workflow. This change would significantly improve our team’s ability to track task progress, manage workloads, and adhere to project timelines. Additionally, optimization of these aspects would better align our projects with our key performance metrics and deliverables.
+
+Please reach out directly to me at <tel_num> or reply to this email. My account number is <acc_num> for reference. I look forward to discussing possible solutions and to receiving your guidance to initiate the workflow change process. 
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out with your request to update your Jira workflow. I understand the challenges you're facing with the current setup and the need for a more dynamic state transition system to better manage your project tasks.
+
+To proceed, we will examine your current workflow and work with you to customize the states and transitions to better reflect your team's requirements. This will involve evaluating your project dynamics and aligning the new workflow with your performance metrics.
+
+I will contact you shortly at <tel_num> or feel free to reply to this email to coordinate our next steps. Your account reference <acc_num> is noted for our records.
+
+Looking forward to assisting you with this enhancement.
+
+Best regards,
+
+Customer Support Team

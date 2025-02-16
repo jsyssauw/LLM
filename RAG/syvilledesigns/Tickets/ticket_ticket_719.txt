@@ -1,0 +1,24 @@
+Ticket ID: ticket_719
+Subject: Slack 4.23.0 Benachrichtigungsproblem auf Android
+Incident Type: Problem
+Customer Issue: Sehr geehrtes IT-Support-Team,  
+
+ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um ein Problem mit der Slack-Anwendung Version 4.23.0 zu melden. Es scheint, dass die Benachrichtigungen für diese Version auf Android-Geräten nicht richtig funktionieren. Dieses Problem ist äußerst störend, da es Nutzern ermöglicht, wichtige Teamnachrichten und Aktualisierungen zu verpassen.
+
+Da erfolgreiche Zusammenarbeit stark auf effektiver Kommunikation beruht, benötigt diese Störung dringende Aufmerksamkeit. Meine Teamkollegen und ich haben dieses Problem seit dem Update auf die neueste Version. Wir haben grundlegende Fehlerbehebungsmaßnahmen wie das Löschen des App-Cache und die Überprüfung aller Benachrichtigungseinstellungen versucht, doch das Problem besteht weiterhin.
+
+Wir würden Ihre schnelle Unterstützung bei der Lösung dieses Problems sehr schätzen. Bitte lassen Sie mich wissen, ob Sie zusätzliche Informationen benötigen.
+
+Vielen Dank für Ihre Aufmerksamkeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns auf dieses Problem aufmerksam gemacht haben. Wir verstehen, wie entscheidend effektive Kommunikation über Slack für Ihr Team ist. Unser Team untersucht derzeit die Benachrichtigungsprobleme mit Slack Version 4.23.0 auf Android-Geräten. Wir empfehlen, sicherzustellen, dass alle Geräte auf die neueste Firmware aktualisiert wurden, als Teil der vorläufigen Fehlerbehebung.
+
+In der Zwischenzeit könnten Sie in Erwägung ziehen, die App neu zu installieren oder offizielle Foren auf vorübergehende Lösungen zu überprüfen. Bitte seien Sie versichert, dass wir mit Slack zusammenarbeiten, um dieses Problem schnell zu lösen. Wir werden Sie informieren, sobald wir eine Lösung haben.
+
+Mit freundlichen Grüßen,
+IT-Support-Team

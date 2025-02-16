@@ -1,0 +1,20 @@
+Ticket ID: ticket_923
+Subject: Resolução Urgente Necessária: Cobrança Incorreta para o Plano Google Workspace
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Espero que esta mensagem o encontre bem. Estou escrevendo para tratar de um problema de cobrança na minha conta, <acc_num>. Fui cobrando erroneamente pelo plano Google Workspace Business Standard. Por gentileza, revise minha fatura recente e restitua a diferença assim que possível. Por favor, entre em contato comigo se detalhes adicionais forem necessários.
+
+Aguardando sua resposta rápida,
+
+<name>
+<tel_num>
+Obrigado pela sua atenção imediata a este assunto.
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre o problema de cobrança com sua conta Google Workspace <acc_num>. Pedimos desculpas por qualquer inconveniente causado. Nossa equipe está atualmente revisando os detalhes da sua fatura para resolver a cobrança excessiva pelo plano Business Standard. Um reembolso pela diferença será processado em breve. Caso precisemos de mais informações, entraremos em contato com você pelo <tel_num>.
+
+Obrigado pela sua paciência e compreensão.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

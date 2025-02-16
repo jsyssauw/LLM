@@ -1,0 +1,31 @@
+Ticket ID: ticket_161
+Subject: Issue with Detachable Keyboard on Surface Pro 7
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. I am writing to express my concern regarding a persistent issue with my Microsoft Surface Pro 7. Recently, I have noticed that the detachable keyboard is not being recognized during use, which significantly impacts my productivity. As someone who relies heavily on this device for daily tasks, having the keyboard not function as intended is incredibly frustrating.
+
+Despite multiple attempts to reconnect the keyboard, it remains unresponsive while attached. This problem not only affects my work efficiency but also reduces the overall usability of the Surface Pro 7. I would appreciate any guidance or troubleshooting steps that could help resolve this issue promptly.
+
+Furthermore, if this issue persists, could you advise on possible warranty service or replacement options available to me? Thank you for your attention to this matter, and I look forward to your prompt response.
+
+Warm regards,
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us regarding the issue with your Surface Pro 7 detachable keyboard. I understand how this can impact your productivity, and I am here to help.
+
+Please try the following troubleshooting steps:
+1. Disconnect the keyboard and turn the device off, then restart your Surface Pro 7 before reconnecting the keyboard.
+2. Ensure that the Surface and keyboard connectors are clean and free from debris; gently wipe them with a clean, soft cloth.
+3. Update your device by going to "Settings" > "Update & security" > "Check for updates" to ensure that all the latest updates are installed.
+4. Test the keyboard with another Surface device, if possible, to determine whether the issue is with the keyboard or your Surface.
+
+If the problem persists after performing these steps, please verify your warranty status with us by replying with your device's serial number (do not include it in this response, as this is a reference template). We can assist you further with possible service or replacement options available to you.
+
+Thank you for bringing this to our attention. Looking forward to resolving this issue for you promptly.
+
+Best regards,
+<name>
+Customer Support Team

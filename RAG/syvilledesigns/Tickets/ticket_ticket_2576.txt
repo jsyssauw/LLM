@@ -1,0 +1,39 @@
+Ticket ID: ticket_2576
+Subject: Incidente de Baixa Prioridade: Problemas de Conexão do Roteador Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Prezado Suporte ao Cliente de Serviços de TI,
+
+Estou escrevendo para solicitar assistência em relação a um problema técnico com nosso Roteador Cisco ISR4331, que tem apresentado problemas de conexão intermitentes. Este assunto está atualmente categorizado como um incidente de baixa prioridade, uma vez que não impacta criticamente nossas operações diárias, mas requer resolução para evitar possíveis escalonamentos.
+
+Nossa equipe de rede observou que as interrupções de conexão ocorrem em intervalos aleatórios, e, embora soluções temporárias tenham sido tentadas, o problema persiste. Estamos contando com sua experiência para fornecer uma solução mais permanente.
+
+Por favor, aconselhe-nos sobre os próximos passos que devemos seguir para solucionar este problema mais a fundo. Se forem necessárias quaisquer ajustes de configuração ou inspeções de hardware de nossa parte, gentilmente forneça instruções detalhadas.
+
+Sinta-se à vontade para nos contatar pelo <tel_num> ou por e-mail se informações adicionais forem necessárias. Aguardamos sua pronta assistência sobre este assunto para restaurar o desempenho ideal da rede.
+
+Obrigado pela sua ajuda.
+
+Atenciosamente,
+<name>
+<acc_num>
+Customer Service answer: Prezado(a) <name>,
+
+Obrigado por entrar em contato conosco a respeito dos problemas de conexão com seu Roteador Cisco ISR4331. Entendemos a importância de resolver isso para manter o desempenho ideal da rede.
+
+Para começar a solução de problemas, por favor, tente os seguintes passos:
+1. Verifique se todas as conexões físicas estão seguras.
+2. Verifique a versão do firmware do roteador e atualize se uma atualização estiver disponível.
+3. Revise os logs do roteador em busca de mensagens de erro que possam fornecer mais detalhes.
+4. Reinicie o roteador para renovar sua conexão.
+
+Se esses passos não resolverem o problema, por favor, reúna as seguintes informações para uma análise mais aprofundada:
+- Padrões de ocorrência das interrupções de conexão.
+- Quaisquer atividades específicas ou horários de uso em que as interrupções ocorrem.
+- Mudanças recentes na configuração de rede ou nas configurações do roteador.
+
+Assim que você tiver essas informações, entre em contato conosco novamente pelo <tel_num> ou por e-mail para obter orientação adicional. Podemos então avaliar se ajustes de configuração ou inspeções de hardware são necessários.
+
+Sua atenção rápida à solução de problemas inicial nos ajudará a acelerar a busca por uma solução permanente.
+
+Atenciosamente,
+Suporte ao Cliente de Serviços de TI

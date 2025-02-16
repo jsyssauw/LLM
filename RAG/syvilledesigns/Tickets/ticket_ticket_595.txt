@@ -1,0 +1,24 @@
+Ticket ID: ticket_595
+Subject: Asistencia urgente necesaria para el servicio de AWS
+Incident Type: Request
+Customer Issue: Estimado soporte de servicios de TI,
+
+Me pongo en contacto para solicitar ayuda inmediata con un problema relacionado con el servicio de gestión de AWS. Recientemente, experimentamos tiempos de actividad inesperados en los servidores, lo que ha resultado en un exceso de costos. Necesitamos asistencia urgente para optimizar nuestro uso del servidor y abordar este problema con prontitud. Por favor, háganos saber el mejor curso de acción y cualquier paso de solución de problemas que podamos tomar.
+
+Gracias por su apoyo.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Para optimizar el uso de tu servidor de AWS y abordar el exceso de costos, recomiendo los siguientes pasos:
+
+1. Revisa los patrones de uso en la consola de gestión de AWS.
+2. Utiliza AWS Trusted Advisor para obtener sugerencias de optimización de costos.
+3. Implementa Auto Scaling para ajustar dinámicamente la capacidad del servidor.
+4. Considera las Instancias Reservadas o Spot para ahorrar costos.
+
+Para más ayuda, por favor contacta directamente con el soporte de AWS.
+
+Atentamente,
+Soporte de Servicios de TI

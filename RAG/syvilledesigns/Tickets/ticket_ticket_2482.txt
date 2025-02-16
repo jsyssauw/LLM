@@ -1,0 +1,32 @@
+Ticket ID: ticket_2482
+Subject: Problema del sistema de tickets: Tiempos de respuesta demorados en Jira
+Incident Type: Incident
+Customer Issue: Estimado equipo de atención al cliente,
+
+Estamos escribiendo para informar un problema con la versión 8.20 del software Jira que están experimentando numerosos usuarios dentro de nuestra organización. Durante las horas pico, los usuarios enfrentan tiempos de respuesta significativamente demorados al intentar usar la interfaz de gestión de proyectos. Como pueden entender, este retraso está disminuyendo la productividad de nuestro equipo y causando considerables inconvenientes. Nos gustaría solicitar su asistencia urgente para investigar y resolver este problema.
+
+Parece que el problema ocurre principalmente en períodos de alta demanda, lo que podría sugerir la necesidad de optimización de rendimiento, tal vez debido a la carga del servidor o restricciones de configuración. Si hay soluciones, actualizaciones o parches conocidos, por favor guíenos sobre cómo implementarlos de manera efectiva o ayúdennos de una manera expedita. Háganos saber si más detalles o registros de nuestra parte ayudarían a diagnosticar el problema.
+
+Su pronta respuesta y apoyo serían muy apreciados, ya que nuestro equipo depende en gran medida de Jira para coordinar nuestras tareas de proyecto. Tenemos la esperanza de una rápida resolución para mantener nuestro flujo de trabajo ininterrumpido.
+
+Gracias por su atención a este asunto.
+
+Cordialmente,
+
+<name>
+<organization's name>
+<email_address>
+<tel_num>
+<acc_num>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por señalar este problema con la versión 8.20 del software Jira. Entiendo los inconvenientes causados por los tiempos de respuesta demorados durante las horas pico y el impacto en la productividad de su equipo.
+
+Nuestro equipo está comprometido a ayudarle a resolver este problema con prontitud. Por favor, envíe los registros o detalles relevantes que puedan ayudar a diagnosticar las causas específicas de los retrasos. Mientras tanto, recomiendo verificar si hay actualizaciones o parches disponibles para Jira 8.20 que puedan abordar problemas de rendimiento.
+
+Priorizaremos su caso y le mantendremos informado sobre cualquier solución o pasos necesarios para optimizar el rendimiento. Gracias por su paciencia y cooperación.
+
+Cordialmente,
+
+Agente del servicio de asistencia
+Equipo de atención al cliente

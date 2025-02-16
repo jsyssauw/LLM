@@ -1,0 +1,15 @@
+Ticket ID: ticket_59
+Subject: nan
+Incident Type: Request
+Customer Issue: Hello,
+
+Could you please check availability and pricing for the MacBook Air M1, both online and in-store? Looking forward to your reply. Thanks!
+
+Best regards,
+<name>
+Customer Service answer: Hello <name>,
+
+Thank you for your inquiry. You can find the availability and pricing for the MacBook Air M1 on our website or by visiting your nearest store. Please note that online availability may differ from in-store stock. Feel free to contact us if you need further assistance.
+
+Best regards,
+Customer Service Team

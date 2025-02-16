@@ -1,0 +1,10 @@
+Ticket ID: ticket_2823
+Subject: Anfrage zum Austausch der defekten Tastatur
+Incident Type: Change
+Customer Issue: Sehr geehrtes Kundenserviceteam, ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um ein Problem bezüglich meines jüngsten Kaufs in Ihrem Geschäft, einem Microsoft Surface Pro 7, anzusprechen. Beim Auspacken des Produkts und beim Einrichten stellte ich fest, dass die abnehmbare Tastatur defekt ist und meine täglichen Aktivitäten beeinträchtigt. Da ich auf dieses Gerät sowohl im beruflichen als auch im privaten Bereich stark angewiesen bin, ist es wichtig, dass das Gerät optimal funktioniert. Ich bitte um einen Austausch der defekten abnehmbaren Tastatur zu Ihrer frühestmöglichen Gelegenheit. Um diesen Prozess zu erleichtern, bin ich bereit, den erforderlichen Kaufnachweis und alle anderen Dokumente, die Sie benötigen, zur Verfügung zu stellen. Bitte lassen Sie mich wissen, wie ich weiter verfahren soll, um die Lösung dieses Problems zu beschleunigen, da ich daran interessiert bin, das Produkt ohne weitere Unterbrechungen weiter zu nutzen. Vielen Dank für Ihre schnelle Aufmerksamkeit zu diesem Thema. Ich freue mich auf Ihre zügige Antwort. Mit freundlichen Grüßen, <name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich des Problems mit Ihrer abnehmbaren Tastatur des Microsoft Surface Pro 7 an uns gewandt haben. Wir entschuldigen uns für die Unannehmlichkeiten, die Ihnen entstanden sind. Um den Austauschprozess zu beschleunigen, senden Sie uns bitte den Kaufnachweis und alle weiteren Einzelheiten zur Fehlfunktion. Sobald wir diese Informationen erhalten, werden wir dafür sorgen, dass Ihnen so schnell wie möglich eine Ersatz-Tastatur zugesendet wird. Ihre Zufriedenheit ist uns wichtig, und wir schätzen Ihre Geduld und Ihr Verständnis. Bitte lassen Sie uns wissen, ob wir Ihnen noch in anderer Weise behilflich sein können.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

@@ -1,0 +1,18 @@
+Ticket ID: ticket_2993
+Subject: Consulta de Compra
+Incident Type: Request
+Customer Issue: Caro Time de Suporte ao Cliente, espero que esta mensagem o encontre bem. Estou escrevendo para perguntar sobre as opções de compra para o MacBook Air M1, pois estou interessado em adquirir este produto. Especificamente, estou procurando informações sobre os planos de pagamento disponíveis que sua empresa oferece para este dispositivo. Seria ótimo se você pudesse fornecer informações detalhadas sobre quaisquer parcelas, opções de financiamento ou promoções especiais atualmente disponíveis para o MacBook Air M1. Além disso, eu apreciaria saber o status atual de disponibilidade do MacBook Air M1 em seu estoque. Como um cliente em potencial, entender se este produto está em estoque ou se pode haver atrasos na entrega ou fornecimento me ajudaria a tomar uma decisão informada. Além disso, se possível, por favor, forneça orientações sobre como proceder com uma compra, incluindo qualquer documentação ou pré-requisitos exigidos e o tempo de entrega previsto assim que um pedido for feito. Sua resposta rápida será muito apreciada. Obrigado por fornecer uma seleção tão versátil de produtos e um serviço excepcional. Aguardamos ansiosamente sua resposta em breve com as informações solicitadas. Sinta-se à vontade para entrar em contato comigo assim que possível para discutir mais.
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco com seu interesse no MacBook Air M1. Oferecemos várias opções para facilitar sua compra, incluindo planos de parcelamento e financiamento. Também ocasionalmente temos promoções especiais, que podem beneficiar sua compra.
+
+Para obter os detalhes mais precisos sobre promoções atuais e opções de pagamento, recomendamos entrar em contato diretamente com um de nossos representantes de vendas, que pode fornecer as últimas ofertas adaptadas à sua situação.
+
+Quanto à disponibilidade, o MacBook Air M1 está atualmente em estoque. No entanto, os níveis de estoque podem flutuar, e sugiro confirmar isso no momento da sua compra para evitar quaisquer atrasos potenciais. Normalmente, nossa entrega leva cerca de 3-7 dias úteis a partir da data da confirmação do pedido, mas isso pode variar dependendo da sua localização.
+
+Para prosseguir com a compra, você precisará de uma identificação válida e possivelmente comprovante de elegibilidade financeira se optar por um plano de pagamento. Para mais orientações sobre a documentação ou quaisquer requisitos específicos, sinta-se à vontade para entrar em contato com nossa equipe de vendas.
+
+Caso você precise de algo mais ou deseje fazer um pedido, entre em contato conosco assim que possível. Estamos aqui para ajudar.
+
+Atenciosamente,
+<Time de Suporte ao Cliente>
