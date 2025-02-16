@@ -1,5 +1,0 @@
-Ticket ID: ticket_1420
-Subject: Häufige Abstürze nach dem Update auf Surface Pro 7
-Incident Type: Incident
-Customer Issue: Surface Pro 7 stürzt ab und es gibt Probleme mit dem Touchscreen
-Customer Service answer: Bitte installieren Sie die Treiber neu. Wenn die Probleme weiterhin bestehen, kontaktieren Sie den Support für weitere Unterstützung.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_1468
-Subject: Action immédiate requise : problème de réinitialisation de mot de passe Jira
-Incident Type: Problem
-Customer Issue: Nous rencontrons des problèmes de connexion des utilisateurs avec Jira 8.20 en raison d'erreurs de réinitialisation de mot de passe.
-Customer Service answer: Nous examinons les problèmes de réinitialisation de mot de passe sur Jira 8.20. En attendant, essayez de vider le cache du navigateur ou utilisez le lien "Mot de passe oublié". Merci de votre patience.

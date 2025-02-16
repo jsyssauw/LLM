@@ -1,5 +1,0 @@
-Ticket ID: ticket_3835
-Subject: Customer Reported a Problem with Lenovo IdeaPad 5 Bought from Online Store, Needs Prompt Support
-Incident Type: Incident
-Customer Issue: I am facing a problem with my Lenovo IdeaPad 5. Kindly assist.
-Customer Service answer: We regret to learn about your situation. Could you share additional information regarding the problem you're facing?

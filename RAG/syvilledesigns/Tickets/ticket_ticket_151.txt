@@ -1,8 +1,0 @@
-Ticket ID: ticket_151
-Subject: nan
-Incident Type: Problem
-Customer Issue: Le client rencontre des problèmes de Wi-Fi avec l'HP DeskJet 3755. Incapable d'imprimer sans fil. Besoin d'aide au dépannage.
-Customer Service answer: Cher <name>, Pour les problèmes de Wi-Fi avec votre HP DeskJet 3755, essayez de redémarrer votre routeur et votre imprimante. Reconnectez-vous au Wi-Fi via les paramètres.
-
-Cordialement,
-<Service Desk Agent>

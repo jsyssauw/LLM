@@ -1,5 +1,0 @@
-Ticket ID: ticket_1614
-Subject: Problème d'impression sans fil
-Incident Type: Problem
-Customer Issue: Cher magasin en ligne Tech, J'éprouve un problème avec mon imprimante HP DeskJet 3755. Elle affiche une erreur de connexion lorsque j'essaie de me connecter à mon réseau Wi-Fi. Veuillez m'aider à résoudre ce problème. Cordialement, <name>.
-Customer Service answer: Cher <name>, Veuillez redémarrer votre imprimante HP DeskJet 3755 et votre routeur Wi-Fi. Assurez-vous que l'imprimante est à portée et que le mot de passe Wi-Fi est correct. Si le problème persiste, vous devrez peut-être réinstaller les pilotes de l'imprimante. Cordialement, Magasin en ligne Tech

@@ -1,5 +1,0 @@
-Ticket ID: ticket_422
-Subject: Urgente: Se requiere ayuda para fallo en la instalación - Windows 11 Pro
-Incident Type: Incident
-Customer Issue: Estimado Servicio al Cliente, experimenté un error durante la instalación al actualizar a Windows 11 Pro. Agradecería que me brindaran orientación sobre cómo solucionar este inconveniente lo antes posible. Mi número de teléfono es <tel_num>. Gracias, <name>
-Customer Service answer: Estimado/a <name>, lamento escuchar sobre el problema con la instalación. Por favor, compruebe si su computadora cumple con las especificaciones necesarias para Windows 11 Pro. Asegúrese de que todos los controladores estén actualizados. Para asistencia más detallada, no dude en llamarnos lo más pronto posible. Cordiales saludos, Servicio al Cliente

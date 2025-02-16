@@ -1,5 +1,0 @@
-Ticket ID: ticket_2559
-Subject: Petit problème d'expérience utilisateur avec l'affichage de l'interface
-Incident Type: Problem
-Customer Issue: Le composant de l'interface utilisateur ne s'affiche pas correctement dans l'application React.
-Customer Service answer: Nous apprécions vos retours. Nous examinerons cette question et nous efforcerons de résoudre le problème de rendu de l'interface utilisateur.

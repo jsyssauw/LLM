@@ -1,5 +1,0 @@
-Ticket ID: ticket_758
-Subject: Dringende Fehlersuche bei Cisco-Routern
-Incident Type: Problem
-Customer Issue: ISR4331 hat Verbindungsprobleme
-Customer Service answer: Bitte starten Sie den Router neu und überprüfen Sie die Kabel. Kontaktieren Sie den Support, wenn das Problem weiterhin besteht.

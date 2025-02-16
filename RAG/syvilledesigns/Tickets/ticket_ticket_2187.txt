@@ -1,5 +1,0 @@
-Ticket ID: ticket_2187
-Subject: Problème d'écran tactile après l'installation récente de la mise à jour de Windows
-Incident Type: Incident
-Customer Issue: Bonjour, Mon Microsoft Surface Pro 7 a un écran tactile non réactif après une récente mise à jour de Windows. J'ai essayé de redémarrer, mais le problème persiste. Veuillez me conseiller sur les solutions potentielles. Merci, <name>, numéro de compte <acc_num>, téléphone <tel_num>
-Customer Service answer: Bonjour <name>, je suis désolé d'apprendre le problème d'écran tactile avec votre Surface Pro 7. Veuillez essayer ces étapes : 1) Allez dans le Gestionnaire de périphériques, développez Appareils d'interface humaine, et cliquez avec le bouton droit de la souris sur écran tactile compatible HID. Sélectionnez « Désactiver le périphérique » puis « Activer le périphérique ». 2) Vérifiez s'il existe des mises à jour supplémentaires de Windows ou des mises à jour de pilotes. Si le problème persiste, veuillez contacter notre équipe de support pour une assistance supplémentaire. Cordialement, [Votre entreprise] Service Desk.

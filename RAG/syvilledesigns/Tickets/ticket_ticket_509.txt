@@ -1,5 +1,0 @@
-Ticket ID: ticket_509
-Subject: Anfrage zum Produktumtausch oder zur Rückerstattung
-Incident Type: Incident
-Customer Issue: Bildschirmflimmern bei MacBook Air M1
-Customer Service answer: Es tut uns leid wegen des Problems. Bitte besuchen Sie unseren Laden oder antworten Sie für den Rückgabe-/Rückerstattungsprozess.

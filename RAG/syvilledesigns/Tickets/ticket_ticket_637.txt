@@ -1,5 +1,0 @@
-Ticket ID: ticket_637
-Subject: Urgent Attention Needed: MacBook Air M1 Unexpected Shutdown Issue
-Incident Type: Incident
-Customer Issue: Dear Customer Support, My MacBook Air M1 has been unexpectedly shutting down during use, possibly due to a battery problem. Please assist as soon as possible. Regards, <name>.
-Customer Service answer: Dear <name>, I'm sorry to hear about the issue with your MacBook Air M1. Please try resetting the SMC and ensure your system is updated to the latest macOS version. If the problem persists, it's advisable to visit an Apple Store or authorized service provider for a diagnostic check. Let me know if you need further assistance. Regards, Customer Support.

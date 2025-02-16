@@ -1,5 +1,0 @@
-Ticket ID: ticket_1126
-Subject: Problema de impressão sem fio da HP DeskJet 3755
-Incident Type: Problem
-Customer Issue: O recurso de impressão sem fio falha em conectar constantemente.
-Customer Service answer: Certifique-se de que sua impressora e dispositivo estejam na mesma rede, depois reinicie ambos. Atualize os drivers se o problema persistir.

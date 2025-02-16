@@ -1,5 +1,0 @@
-Ticket ID: ticket_2675
-Subject: Dringend: Sofortige Aufmerksamkeit für das gemeldete Papierstausystemproblem mit Canon PIXMA MG3620 erforderlich
-Incident Type: Request
-Customer Issue: Sehr geehrtes Support-Team, ich habe einen Papierstau mit meinem Canon PIXMA MG3620 festgestellt. Ich bitte um Ihre Unterstützung. Freundliche Grüße, <name>
-Customer Service answer: Sehr geehrte/r <name>, bitte schalten Sie den Drucker aus, entfernen Sie vorsichtig das eingeklemmte Papier und starten Sie das Gerät dann erneut. Zögern Sie nicht, uns zu kontaktieren, wenn das Problem noch besteht. Hochachtungsvoll, Ihr Support-Team

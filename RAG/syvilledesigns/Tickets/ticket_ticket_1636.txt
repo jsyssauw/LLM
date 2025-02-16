@@ -1,5 +1,0 @@
-Ticket ID: ticket_1636
-Subject: Hilfe benötigt: Dell XPS 13 Mikrofon
-Incident Type: Request
-Customer Issue: Hallo, ich benötige Hilfe, um die Mikrofoneinstellungen auf meinem Dell XPS 13 9310 Touchpad zu finden.
-Customer Service answer: Hallo, gehen Sie zu Einstellungen > System > Sound > Eingabe, um die Mikrofoneinstellungen auf Ihrem Dell XPS 13 zu finden und anzupassen.

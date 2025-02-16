@@ -1,5 +1,0 @@
-Ticket ID: ticket_1322
-Subject: Connectivity issues with Slack affecting team communication today
-Incident Type: Incident
-Customer Issue: Unable to access channels or send messages.
-Customer Service answer: We're working on Slack access issues, updates will be shared soon. Apologies for the disruption.

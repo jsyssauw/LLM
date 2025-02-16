@@ -1,5 +1,0 @@
-Ticket ID: ticket_2320
-Subject: Résolution urgente des problèmes d'impression sans fil
-Incident Type: Request
-Customer Issue: Rencontrez des problèmes avec l'imprimante HP DeskJet 3755 à distance.
-Customer Service answer: Veuillez essayer de reconnecter votre imprimante au réseau. Si le problème persiste, redémarrez votre imprimante et votre routeur.

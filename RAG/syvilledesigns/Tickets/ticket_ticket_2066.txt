@@ -1,5 +1,0 @@
-Ticket ID: ticket_2066
-Subject: Unable to access Outlook email in Office 365
-Incident Type: Incident
-Customer Issue: Hello Customer Support, my colleague <name> is experiencing an issue where they cannot access their Outlook email from the Microsoft Office 365 suite due to a server authorization error. Could you please assist in resolving this issue at your earliest convenience? You can reach them directly at <tel_num>. Thank you for your assistance.
-Customer Service answer: Hello, Thank you for reaching out. A server authorization error typically occurs due to incorrect login credentials, expired passwords, or server settings. Please ensure your colleague is using the correct username and password. It's also useful to confirm any recent password changes or updates to server settings and ensure there's no server outage by checking Microsoft's service status page. If the issue persists, I recommend resetting the password or syncing the account again. For further assistance, direct phone support is available. Regards, Customer Support

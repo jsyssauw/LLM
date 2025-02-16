@@ -1,5 +1,0 @@
-Ticket ID: ticket_2287
-Subject: Need Support
-Incident Type: Request
-Customer Issue: Kindly assist in setting up the Canon PIXMA MG3620 for wireless printing in my home.
-Customer Service answer: Of course! Long press the Wi-Fi button until the power light blinks, then select Black. Connect to your router and download the drivers from Canon's website.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_1509
-Subject: Hilfe bei der Integration des Ticket-Systems benötigt
-Incident Type: Problem
-Customer Issue: Der Kunde benötigt Hilfe bei der Lösung eines Integrationsproblems.
-Customer Service answer: Bitte geben Sie weitere Details zum Integrationsproblem an, um weitere Unterstützung zu erhalten.

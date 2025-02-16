@@ -1,5 +1,0 @@
-Ticket ID: ticket_2486
-Subject: Request for AWS Service Updates
-Incident Type: Request
-Customer Issue: Kindly share the latest information regarding AWS utilization and cost guidance.
-Customer Service answer: Thank you for contacting us. I will send you an update on AWS usage and expenses soon.

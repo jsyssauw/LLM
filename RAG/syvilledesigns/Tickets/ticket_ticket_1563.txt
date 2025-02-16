@@ -1,5 +1,0 @@
-Ticket ID: ticket_1563
-Subject: Rücksendungsanfrage: Dell XPS 13 Farbproblem
-Incident Type: Problem
-Customer Issue: Hallo, ich habe kürzlich meine Bestellung, einen Dell XPS 13 9310, erhalten und die Farbe entspricht nicht den Spezifikationen. Könnten Sie mir bitte beim Rückgabeprozess helfen? Vielen Dank. Mit freundlichen Grüßen, <name> <tel_num>
-Customer Service answer: Hallo <name>, es tut mir leid, von dem Problem mit Ihrem Dell XPS 13 zu hören. Bitte besuchen Sie unser Rückgabecenter auf der Website, um den Rückgabeprozess zu starten, oder rufen Sie uns zur Unterstützung an.

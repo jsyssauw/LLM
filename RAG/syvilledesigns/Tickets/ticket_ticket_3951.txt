@@ -1,9 +1,0 @@
-Ticket ID: ticket_3951
-Subject: Problème de surchauffe avec le Dell XPS 13 9310
-Incident Type: Incident
-Customer Issue: Le Dell XPS 13 9310 surchauffe lors d'une utilisation normale. Je recherche des conseils et une résolution rapide, s'il vous plaît.
-Customer Service answer: Cher <name>,
-
-Nous sommes désolés d'apprendre votre problème de surchauffe. Veuillez vous assurer que les évents sont propres et que le BIOS est à jour.
-
-Cordialement,<name>

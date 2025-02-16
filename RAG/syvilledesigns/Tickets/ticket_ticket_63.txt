@@ -1,5 +1,0 @@
-Ticket ID: ticket_63
-Subject: Urgente: Relato de Falha na Bateria do MacBook Air M1 Adquirido na Loja Virtual
-Incident Type: Problem
-Customer Issue: Prezado Atendimento ao Cliente,<br><br>Recentemente adquiri um MacBook Air M1 em sua loja virtual e estou enfrentando sérios problemas com a bateria. Ela se esgota de forma extremamente rápida. Por favor, me avisem sobre os passos que devo seguir para realizar uma substituição ou um conserto.<br><br>Atenciosamente,<br><nome>
-Customer Service answer: Prezado [Nome],<br><br>Lamento pelo inconveniente. Por gentileza, inicie verificando a condição da bateria nas Preferências do Sistema > Bateria. Se os problemas continuarem, contate nossa equipe de suporte pelo [número de suporte] ou siga as diretrizes em nosso site para obter uma substituição ou conserto.<br><br>Cordialmente,<br>Atendimento ao Cliente

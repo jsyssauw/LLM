@@ -1,5 +1,0 @@
-Ticket ID: ticket_916
-Subject: Solicitud de soporte: Problema intermitente de Wi-Fi
-Incident Type: Request
-Customer Issue: Hola, estoy experimentando problemas intermitentes de conexión Wi-Fi con mi Dell XPS 13 9310. ¿Podría proporcionar orientación o soluciones a la brevedad posible? Gracias. Saludos, <name>.
-Customer Service answer: Hola <name>, reinicia tu enrutador, actualiza los controladores de Wi-Fi y prueba conectarte a otra red. Si los problemas persisten, contáctanos para obtener más asistencia. Saludos, Mesa de servicio.

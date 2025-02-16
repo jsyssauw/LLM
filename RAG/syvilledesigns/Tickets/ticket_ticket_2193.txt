@@ -1,5 +1,0 @@
-Ticket ID: ticket_2193
-Subject: nan
-Incident Type: Problem
-Customer Issue: Sehr geehrter Kundenservice, ich benötige bitte Hilfe bei der Verlängerung meines Abonnements für Norton Antivirus Plus. Meine Kontonummer lautet <acc_num>. Ich wäre dankbar für Informationen über die nächsten Schritte. Vielen Dank, <name> <tel_num>
-Customer Service answer: Sehr geehrte(r) <name>, um Ihr Norton Antivirus Plus-Abonnement zu verlängern, melden Sie sich bitte auf der Website norton.com in Ihrem Konto an und folgen Sie den Anweisungen zur Verlängerung. Für zusätzliche Unterstützung können Sie uns gerne unter <support_number> kontaktieren. Freundliche Grüße, Kundenservice

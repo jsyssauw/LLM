@@ -1,5 +1,0 @@
-Ticket ID: ticket_1283
-Subject: Problème de connexion sans fil de l'imprimante HP DeskJet 3755
-Incident Type: Problem
-Customer Issue: Cher support de Tech Online Store, mon HP DeskJet 3755 ne se connecte pas sans fil à mon ordinateur portable. Pourriez-vous s'il vous plaît m'aider à résoudre ce problème ? Merci. Cordialement, <name>.
-Customer Service answer: Cher <name>, veuillez vous assurer que votre imprimante et votre ordinateur portable sont sur le même réseau Wi-Fi. Redémarrez les deux appareils et essayez de vous reconnecter. Contactez-nous si le problème persiste.

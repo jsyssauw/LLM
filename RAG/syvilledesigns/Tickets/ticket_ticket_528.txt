@@ -1,5 +1,0 @@
-Ticket ID: ticket_528
-Subject: Problema com erro de assinatura
-Incident Type: Problem
-Customer Issue: Não conseguimos acessar o e-mail e o Excel na última semana.
-Customer Service answer: Caro <name>, estamos investigando seus problemas com o e-mail e o Excel. Vamos mantê-lo atualizado o mais rápido possível. Obrigado! <service desk>

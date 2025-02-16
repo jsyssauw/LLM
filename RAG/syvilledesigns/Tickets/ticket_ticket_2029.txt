@@ -1,5 +1,0 @@
-Ticket ID: ticket_2029
-Subject: Urgent: Cisco Router ISR4331 Offline Issue
-Incident Type: Incident
-Customer Issue: Enterprise Cisco Router ISR4331 is offline, severely impacting network connectivity. Immediate resolution is needed to restore critical services. Please prioritize this issue and provide timely assistance.
-Customer Service answer: Thank you for contacting us. We understand the urgency of the ISR4331 issue. We're prioritizing this and will update you with a solution as soon as possible. Thank you for your patience.

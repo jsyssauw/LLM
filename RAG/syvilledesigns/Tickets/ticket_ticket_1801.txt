@@ -1,5 +1,0 @@
-Ticket ID: ticket_1801
-Subject: Schlechte Akkulaufzeit auf MacBook Air M1
-Incident Type: Problem
-Customer Issue: Sehr geehrter Tech Online Store Support, ich schreibe, um einen signifikanten Rückgang der Akkulaufzeit meines MacBook Air M1 nach dem letzten Update zu melden. Ich möchte um Unterstützung bei der Behebung dieses Problems bitten. Meine Kontonummer ist <acc_num>. Vielen Dank, <name>, <tel_num>
-Customer Service answer: Sehr geehrter <name>, vielen Dank für Ihre Kontaktaufnahme. Wir empfehlen, den System Management Controller (SMC) zurückzusetzen und eine Batteriezustandsprüfung durchzuführen. Wenn das Problem weiterhin besteht, besuchen Sie bitte unser Support-Center oder kontaktieren Sie uns direkt für weitere Unterstützung. Mit freundlichen Grüßen, Tech Online Store Support.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_1701
-Subject: Request for Canon PIXMA MG3620 Exchange
-Incident Type: Incident
-Customer Issue: Hello Tech Online Store, I purchased the Canon PIXMA MG3620, but it is unable to connect to Wi-Fi. I would like to request a swap as the troubleshooting steps did not fix the problem. My order number is <order_num>. Thank you.
-Customer Service answer: Dear Cherished Customer,  We sincerely apologize for the inconvenience you have faced. Your request for an exchange of the Canon PIXMA MG3620 has been processed successfully. Detailed instructions will be provided to you via email shortly.  Thank you,  Tech Online Store

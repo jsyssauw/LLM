@@ -1,5 +1,0 @@
-Ticket ID: ticket_1664
-Subject: Solicitud de integración
-Incident Type: Change
-Customer Issue: Por favor, integre la aplicación de ventas con la base de datos de pre-ventas; etiquételo como de baja prioridad.
-Customer Service answer: Gracias por su solicitud. Procederemos a integrar la aplicación de ventas con la base de datos de pre-ventas con baja prioridad.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_3244
-Subject: Demande de modification pour la configuration Cloud
-Incident Type: Change
-Customer Issue: Veuillez améliorer l'efficacité et minimiser les dépenses pour les offres AWS.
-Customer Service answer: Nous évaluerons votre configuration AWS pour maximiser à la fois l'efficacité et l'accessibilité. Attendez-vous à des mises à jour ou des ajustements sous peu.

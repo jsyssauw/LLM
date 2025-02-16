@@ -1,5 +1,0 @@
-Ticket ID: ticket_1175
-Subject: Fehler bei der Slack-Kanal-Integration
-Incident Type: Incident
-Customer Issue: Die Personalabteilung kann nicht auf wichtige Kommunikationen in Slack 4.23.0 zugreifen.
-Customer Service answer: Vielen Dank, dass Sie sich gemeldet haben. Bitte stellen Sie sicher, dass die Integrations Einstellungen korrekt sind. Wenn die Probleme weiterhin bestehen, kontaktieren Sie den Slack-Support für weitere Unterstützung.

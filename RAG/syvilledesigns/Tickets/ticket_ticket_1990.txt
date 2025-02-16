@@ -1,5 +1,0 @@
-Ticket ID: ticket_1990
-Subject: nan
-Incident Type: Incident
-Customer Issue: Die Anwendung wird während des Exports unresponsive.
-Customer Service answer: Stellen Sie sicher, dass die Anwendung auf dem neuesten Stand ist. Versuchen Sie es erneut mit dem Export. Wenn das Problem weiterhin besteht, wenden Sie sich an den Kundensupport.

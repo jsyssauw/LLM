@@ -1,5 +1,0 @@
-Ticket ID: ticket_426
-Subject: Unmittelbare Aufmerksamkeit erforderlich: Dell XPS 13 Heizproblem
-Incident Type: Problem
-Customer Issue: Mein Dell XPS 13 9310 neigt dazu, während Videoanrufen übermäßig heiß zu werden. Ich würde Ihre Hilfe so schnell wie möglich schätzen.
-Customer Service answer: Natürlich! Bitte stellen Sie sicher, dass eine ausreichende Belüftung vorhanden ist, und aktualisieren Sie Ihr BIOS oder Ihre Treiber. Zögern Sie nicht, sich zu melden, wenn das Problem weiterhin besteht!

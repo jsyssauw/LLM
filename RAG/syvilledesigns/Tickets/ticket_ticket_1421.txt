@@ -1,5 +1,0 @@
-Ticket ID: ticket_1421
-Subject: Assistance Request: Wireless Setup Issue for HP Printer
-Incident Type: Incident
-Customer Issue: Hello customer support team, I'm experiencing difficulties setting up the wireless connection for the compact HP DeskJet 3755 printer I purchased. I have ensured that all the required steps are followed, but the issue persists and I'm unable to proceed further. Please provide guidance on how to successfully resolve this issue. Thank you for your assistance. Regards, <name>.
-Customer Service answer: Hello <name>, ensure your printer and router are close, both are powered on, and Wi-Fi is enabled. Connect your printer to the network using the HP Smart app. If issues persist, restart both devices. Also, check HP's support site for software updates. Contact us if the problem continues. Regards, Customer Support Team.

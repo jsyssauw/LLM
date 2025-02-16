@@ -1,9 +1,0 @@
-Ticket ID: ticket_3257
-Subject: Issue with Surface Pro 7 Touchscreen
-Incident Type: Incident
-Customer Issue: Dear customer support, I'm experiencing sensitivity issues with my Microsoft Surface Pro 7's touchscreen, making the device difficult to use properly. Can you assist me with a solution? Thank you, <name>
-Customer Service answer: Dear <name>,
-We're sorry to hear about the touchscreen issue. Please try updating your drivers and running the Surface Diagnostic Toolkit. If the problem persists, let us know. 
-
-Best regards,
-Customer Support

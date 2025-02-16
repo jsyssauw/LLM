@@ -1,5 +1,0 @@
-Ticket ID: ticket_61
-Subject: Sofort: Zugangsprobleme mit dem IT-Ticketsystem
-Incident Type: Incident
-Customer Issue: Ich benötige dringende Hilfe!
-Customer Service answer: Bitte teilen Sie uns weitere Informationen zu dem Zugangsproblem mit, damit wir eine schnelle Lösung anbieten können.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_1558
-Subject: nan
-Incident Type: Change
-Customer Issue: He recibido un Samsung Galaxy Tab S7 que está dañado. Requiero asistencia.
-Customer Service answer: Sentimos los inconvenientes. Por favor, envíenos su número de pedido para obtener más ayuda. ¡Gracias!

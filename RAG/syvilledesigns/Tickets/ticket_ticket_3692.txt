@@ -1,5 +1,0 @@
-Ticket ID: ticket_3692
-Subject: Dell XPS Performance Problems
-Incident Type: Problem
-Customer Issue: Encountering sluggishness. Assistance required.
-Customer Service answer: Kindly reboot your Dell XPS and verify for any available updates. Get in touch if the problem continues.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_993
-Subject: nan
-Incident Type: Incident
-Customer Issue: Hello Customer Support, I am encountering a problem with screen flickering on my Dell XPS 13 9310. I would appreciate your assistance. Best regards, <name>
-Customer Service answer: Hello <name>, Please attempt to update your graphics drivers and the BIOS. Should the problem continue, we may need to schedule a repair. Best regards, Customer Support.
