@@ -1,0 +1,15 @@
+Ticket ID: ticket_1231
+Subject: Problème de garantie concernant l'achat d'un Lenovo IdeaPad 5
+Incident Type: Incident
+Customer Issue: Bonjour cher équipe du service client,
+
+Je vous contacte pour faire état d'un souci de garantie au sujet de mon Lenovo IdeaPad 5 que j'ai récemment acquis. Mon numéro de commande est <acc_num>. Mon ordinateur portable a commencé à avoir des problèmes de fonctionnement et j'aurais besoin de votre assistance. Pourriez-vous m'orienter sur les étapes à suivre pour régler ce problème ? Vous pouvez me joindre au <tel_num>.
+
+Merci,
+<name>
+Customer Service answer: Bonjour <name>,
+
+Nous vous remercions de nous avoir écrit. Nous sommes désolés d'apprendre que vous rencontrez des difficultés avec votre Lenovo IdeaPad 5. Pour avancer, merci de bien vouloir préciser la nature du dysfonctionnement et d'avoir votre numéro de commande <acc_num> à portée de main. Vous pouvez nous répondre ici ou nous appeler au <your_support_num>. Nous vous apporterons notre aide aussi rapidement que possible.
+
+Cordialement,
+Équipe du service client

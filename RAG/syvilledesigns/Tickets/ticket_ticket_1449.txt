@@ -1,0 +1,5 @@
+Ticket ID: ticket_1449
+Subject: Urgent Help Needed
+Incident Type: Incident
+Customer Issue: I need urgent help recovering accidentally deleted files from Google Drive in Business Standard.
+Customer Service answer: Please check your Trash in Google Drive. Files can be restored within 30 days of deletion.

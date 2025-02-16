@@ -1,0 +1,17 @@
+Ticket ID: ticket_3721
+Subject: Inquiry: MacBook Air M1 Graphic Design Software Compatibility
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support,  I am reaching out with a query about the compatibility of the MacBook Air M1 for specific software applications used in graphic design. I have recently considered purchasing a MacBook Air M1 and wish to verify whether it can efficiently run the software crucial for my projects. Specifically, I need to ascertain its compatibility and performance with programs such as Adobe Photoshop, Illustrator, and others that are commonly used in the field of digital design. Understanding the technical capabilities of the MacBook Air M1 in relation to these applications is essential for my decision-making process, as I require consistency and reliability in my work. Furthermore, if there are any known issues or limitations, please provide details along with any potential solutions or workarounds that your products may offer. Your assistance in providing this information will be greatly appreciated and will guide my purchasing decision. Thank you for your prompt response and support. Looking forward to hearing from your team soon. Best regards, <name> <tel_num> <email_address>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting Tech Online Store Customer Support. The MacBook Air M1 is known for its impressive performance with graphic design software, including Adobe Photoshop and Illustrator. The M1 chip, with its M1 Neural Engine and powerful GPU, handles graphic tasks smoothly, making it a viable option for digital design work.
+
+However, be aware that while the majority of Adobe programs are optimized for the M1, some plugins may not yet be fully compatible. Adobe continues to update their software to enhance compatibility and performance. As a solution, Rosetta 2 is a built-in translation layer that allows most Intel-based software to run efficiently on the M1 chip.
+
+If you have specific plugins or additional software needs, I recommend checking Adobe's website or other related forums for the latest updates on compatibility.
+
+Should you have further questions or need assistance with your purchase, please feel free to reach out.
+
+Best regards,
+
+Tech Online Store Support Team

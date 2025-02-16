@@ -1,0 +1,33 @@
+Ticket ID: ticket_2469
+Subject: Wireless Connection Issues with Printer
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to bring to your attention a recurring issue with our office printer, the HP DeskJet 3755. We have been experiencing frequent wireless connection drops, causing significant disruptions in our printing jobs and productivity. The connection seems to be unstable, randomly disconnecting in the midst of printing tasks which inconveniences multiple users and interrupts our workflow.
+
+We have already attempted some basic troubleshooting steps such as rebooting the printer and our router, but unfortunately, the problem persists. Given the critical role this printer plays in our daily operations, a swift resolution would be greatly appreciated.
+
+Could you please advise on any further steps we could take to resolve this matter, or whether it might require professional servicing? Alternatively, if there is any firmware update we should install, guidance on this would also be helpful.
+
+Thank you for your attention to this matter, and I look forward to your prompt response.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the issues with your HP DeskJet 3755 printer.
+
+For the wireless connection problem, please try the following steps:
+
+1. Update your printer’s firmware by visiting the official HP website and checking for any recent updates.
+2. Ensure your router's firmware is up to date, as this can affect connectivity.
+3. Set a static IP address for the printer through your router settings to stabilize the connection.
+4. Check for any interference, such as other wireless devices, and try changing the wireless channel on your router.
+
+If these steps don't resolve the issue, it might be best to contact HP’s technical support for professional servicing options.
+
+Please let us know if you need further assistance.
+
+Best regards,
+Customer Support Team

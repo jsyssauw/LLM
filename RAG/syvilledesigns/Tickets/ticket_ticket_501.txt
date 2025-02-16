@@ -1,0 +1,25 @@
+Ticket ID: ticket_501
+Subject: Urgent help required regarding billing problems
+Incident Type: Request
+Customer Issue: Dear Customer Service,
+
+I am contacting you to notify you of a billing concern I am facing with multiple transactions made through the Tech Online Store via the Google Chrome extension version 102.0. It appears that there are unanticipated charges reflected on my account <acc_num>. The transactions mentioned do not match my recent activity, indicating there may be a technical error.
+
+I urgently seek your assistance in resolving this situation. Please examine the charges as soon as possible and provide guidance on how to rectify the discrepancies. My contact number is <tel_num>, feel free to reach out to me directly should you need additional information.
+
+Thank you for your prompt attention to this matter.
+
+Kind regards,
+<name>
+Customer Service answer: Dear <name>,
+
+We appreciate you informing us of this situation. We recognize your concerns about the unanticipated charges on your account <acc_num>. Our team will promptly look into the issue to determine if there have been any mistakes regarding the transactions made through the Tech Online Store using the Google Chrome extension.
+
+To help speed up the resolution process, we will analyze your account activity and the concerning charges. We guarantee that any inconsistencies will be handled swiftly.
+
+If we need any more details, we will contact you directly at <tel_num>. In the interim, we suggest reviewing your previous transactions for any unfamiliar activities or transactions that might relate to the charges.
+
+We appreciate your patience and understanding. We will update you as soon as possible.
+
+Best wishes,
+Customer Support Team

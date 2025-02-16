@@ -1,0 +1,31 @@
+Ticket ID: ticket_2748
+Subject: Intermittierendes Bildschirmflimmern auf dem Laptop
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kunde des Tech Online Store,
+
+ich hoffe, diese Nachricht erreicht Sie wohl. Ich wende mich an Sie, um ein Problem mit meinem kürzlich gekauften Laptop, dem Dell XPS 13 9310, zu melden, der während des normalen Gebrauchs intermittierendes Bildschirmflimmern aufweist. Dieses Problem wird deutlicher und häufiger, wenn ich die Helligkeitseinstellungen anpasse.
+
+Ich habe den Laptop kürzlich über Ihren Online-Shop mit der Bestellnummer <order_num> gekauft, und er ist noch unter Garantie. Zunächst war die Leistung einwandfrei, aber in den letzten Wochen habe ich zunehmend flimmernde Bildschirme bemerkt, die meine Produktivität erheblich beeinträchtigen, insbesondere während Konferenzgesprächen und Präsentationen.
+
+Ich habe eine Reihe von Problembehebungsschritten ausprobiert, wie z.B. das Aktualisieren der Grafiktreiber, das Durchführen von Systemupdates und das Zurücksetzen der Helligkeitseinstellungen auf automatisch, aber das Problem bleibt bestehen. Ich habe auch versucht, adaptive Helligkeitsfunktionen zu deaktivieren und mit verschiedenen Energieeinstellungen zu experimentieren, aber leider haben diese Versuche das Problem nicht gelöst.
+
+Da es sich um ein leistungsstarkes Modell handelt, hatte ich nahtlosen Gebrauch erwartet, aber dieses Problem ist eine erhebliche Enttäuschung. Daher bitte ich um Ihre Anleitung, wie ich fortfahren kann, um dieses Problem zu beheben. Ich freue mich auf Ihre Empfehlungen oder darauf, eine Reparatur oder einen Austausch zu arrangieren, falls erforderlich.
+
+Vielen Dank im Voraus für Ihre Aufmerksamkeit in dieser Angelegenheit. Bitte kontaktieren Sie mich so schnell wie möglich unter <email> oder über meine Handynummer <tel_num>.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie den Kundenservice des Tech Online Store kontaktiert haben. Wir entschuldigen uns für die Unannehmlichkeiten, die Sie mit Ihrem Dell XPS 13 9310 haben.
+
+Basierend auf Ihrer Beschreibung könnte es sich um ein Hardwareproblem handeln, das behoben werden muss. Da Sie bereits mehrere Problemlösungsmaßnahmen ohne Erfolg versucht haben, empfehlen wir Ihnen, einen Garantieanspruch geltend zu machen.
+
+Bitte antworten Sie auf diese E-Mail und bestätigen Sie die Details Ihrer Bestellnummer <order_num>. Sie können eine Reparatur arrangieren, indem Sie den Laptop zur Bewertung einsenden, oder wir können die Möglichkeit eines Austauschs prüfen, falls erforderlich.
+
+Sobald wir Ihre Bestätigung haben, werden wir Sie durch die nächsten Schritte für die Reparatur oder den Austausch führen. Wir schätzen Ihre Geduld und Mitarbeit bei der Lösung dieses Problems.
+
+Zögern Sie nicht, uns erneut über diese E-Mail oder unter Ihrer Handynummer <tel_num> zu kontaktieren, falls Sie weitere Unterstützung benötigen.
+
+Mit freundlichen Grüßen,
+Kundenservice Tech Online Store

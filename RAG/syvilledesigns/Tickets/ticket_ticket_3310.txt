@@ -1,0 +1,13 @@
+Ticket ID: ticket_3310
+Subject: Help Needed with WiFi Connection Problem
+Incident Type: Incident
+Customer Issue: Customer <name> has reported that their LG OLED C1 is experiencing sporadic WiFi connectivity problems that affect their streaming services and seeks support for a quick fix. They can be contacted at <tel_num>.
+Customer Service answer: Subject: Re: Help Needed with WiFi Connection Problem
+
+Dear <name>,
+
+Thank you for getting in touch. To address the WiFi connectivity problem with your LG OLED C1, please attempt the following: restart your router, verify that the TV's firmware is up to date, and try connecting to a different network for troubleshooting. If these suggestions do not resolve the issue, do not hesitate to reach out to our support team for more assistance.
+
+Warm regards,
+[Your Name]
+[Your Company]

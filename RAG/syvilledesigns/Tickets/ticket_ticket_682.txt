@@ -1,0 +1,27 @@
+Ticket ID: ticket_682
+Subject: Besoin d'aide pour le dépannage d'un clavier non réactif
+Incident Type: Incident
+Customer Issue: Cher support de la boutique en ligne Tech,
+
+Je vous écris pour signaler un problème avec mon nouveau Dell XPS 13 9310 qui a commencé après une récente mise à jour logicielle. Le clavier est devenu non réactif, rendant l'utilisation de l'ordinateur portable difficile. Je demande gentiment des conseils de dépannage pour résoudre ce problème. Votre aide pour le dépannage du clavier non réactif serait grandement appréciée, car je compte beaucoup sur mon ordinateur portable pour mes tâches professionnelles et personnelles.
+
+Merci pour votre attention rapide à cette affaire. Veuillez me conseiller sur d'éventuelles solutions ou si des actions supplémentaires, comme des réparations ou des remplacements, sont nécessaires.
+
+Cordialement,
+
+<name>
+
+<acc_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Pour dépanner votre problème de clavier Dell XPS 13 9310, veuillez suivre ces étapes :
+
+1. Redémarrez l'ordinateur pour réinitialiser les paramètres de mise à jour.
+2. Assurez-vous que toutes les connexions du clavier dans les paramètres système sont activées.
+3. Vérifiez s'il existe d'autres mises à jour logicielles susceptibles de résoudre ce problème.
+4. Essayez de connecter un clavier externe pour tester s'il s'agit d'un problème matériel.
+
+Si ces étapes ne résolvent pas le problème, une réparation ou un remplacement pourrait être nécessaire. Veuillez nous faire savoir comment cela se passe, et si une assistance supplémentaire est requise.
+
+Cordialement,
+Support de la boutique en ligne Tech

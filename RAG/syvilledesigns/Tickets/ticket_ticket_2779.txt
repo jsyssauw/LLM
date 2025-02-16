@@ -1,0 +1,16 @@
+Ticket ID: ticket_2779
+Subject: nan
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam, ich wende mich an Sie, um Sie über ein erhebliches Problem zu informieren, das wir mit Ihrem AWS Management Service haben. Derzeit sind die AWS-Dienste ausgefallen, was erhebliche Unannehmlichkeiten für unsere Betriebe verursacht. Wir sind stark auf Ihre Dienste für wesentliche Komponenten unseres Geschäfts angewiesen, und jede Ausfallzeit wirkt sich direkt auf unsere Produktivität aus. Wir untersuchen derzeit die Ursache des Problems und setzen Lösungen schnell um, um die Auswirkungen dieser Störung zu mildern. Unser Team ist bestrebt, dieses Problem so schnell wie möglich zu lösen, aber wir bitten freundlich um Einblicke oder Unterstützung, die Sie anbieten könnten, um den Prozess zu beschleunigen. Ihre Unterstützung beim Verständnis der aktuellen Servicehistorie und bei eventuellen Protokollen, die helfen könnten, das Problem zurückzuverfolgen, wäre von unschätzbarem Wert. Wir schätzen die Qualität Ihres Services wirklich und hoffen auf Ihre Zusammenarbeit, während wir diese herausfordernde Situation meistern. Zudem bitten wir Sie, eventuelle Updates oder Ankündigungen von Ihrer Seite bezüglich des Ausfalls oder der erwarteten Behebungszeit jetzt möglichst zeitnah mit uns zu teilen. Vielen Dank für Ihre Aufmerksamkeit zu diesem dringenden Anliegen. Mit freundlichen Grüßen, <name> Unternehmen: <company_name> Kontakt: <tel_num> Kontonummer: <acc_num>
+Customer Service answer: Sehr geehrter <name>,
+
+Danke, dass Sie sich an uns gewandt und uns auf dieses Problem aufmerksam gemacht haben. Wir verstehen die kritische Natur der Dienstunterbrechung, die Sie erleben, und die Auswirkungen, die sie auf Ihre Betriebe haben kann. Unser technisches Team ist derzeit über den Vorfall mit dem AWS Management Service informiert und arbeitet aktiv an der Behebung der Situation.
+
+Um Ihre Untersuchung zu unterstützen, sammeln wir relevante Servicehistorie-Protokolle und alle nützlichen Erkenntnisse, die helfen könnten, die Ursache zu ermitteln. Ich werde sicherstellen, dass diese Informationen umgehend mit Ihnen geteilt werden. Zudem halten wir Sie über alle Ankündigungen oder Zeitpläne zur Problemlösung auf dem Laufenden, sobald sie verfügbar sind.
+
+Wir schätzen Ihre Geduld und Zusammenarbeit in dieser Zeit und sind verpflichtet, den normalen Service so schnell wie möglich wiederherzustellen. Bitte zögern Sie nicht, sich unter <customer_service_contact> an uns zu wenden, wenn Sie sofortige Hilfe oder weitere Informationen benötigen.
+
+Vielen Dank für Ihr Verständnis und Ihr fortwährendes Vertrauen in unsere Dienstleistungen.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

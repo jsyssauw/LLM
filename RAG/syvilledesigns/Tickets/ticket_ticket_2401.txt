@@ -1,0 +1,22 @@
+Ticket ID: ticket_2401
+Subject: Problema de guardado de hojas de Excel en Office 365
+Incident Type: Incident
+Customer Issue: Hola,
+
+Estoy experimentando problemas con las hojas de Excel que no se guardan correctamente en Office 365. Parece que podría haber un problema de sincronización con el almacenamiento en la nube. ¿Podría su equipo ayudar a resolver este problema? Espero su pronta respuesta. Gracias.
+
+Saludos cordiales,
+<name>
+<name>, <tel_num>, <acc_num>
+Customer Service answer: Hola <name>,
+
+Gracias por contactarnos respecto a su problema con las hojas de Excel que no se guardan en Office 365. Por favor, intente los siguientes pasos para resolver el problema:
+1. Verifique su conexión a Internet para asegurarse de que sea estable.
+2. Asegúrese de haber iniciado sesión en la cuenta correcta de Office 365.
+3. Reinicie Excel y vuelva a intentar guardar su documento.
+4. Limpie la caché de documentos de Office.
+
+Si el problema persiste, por favor contáctenos nuevamente para que podamos asistirle más. 
+
+Saludos cordiales,
+Equipo del Service Desk

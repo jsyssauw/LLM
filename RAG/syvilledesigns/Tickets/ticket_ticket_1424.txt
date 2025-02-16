@@ -1,0 +1,33 @@
+Ticket ID: ticket_1424
+Subject: Assistance Needed for Canon Setup
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Support Team,
+
+I am seeking assistance with setting up wireless and mobile printing features for my Canon PIXMA MG3620 printer. Unfortunately, I have encountered some challenges in establishing both the wireless connectivity and ensuring seamless operation with my mobile devices. I would appreciate any guidance or troubleshooting tips you could provide to help resolve this issue. Steps on how to properly configure these settings would be extremely helpful. If needed, I am available for a call or further instruction.
+
+Please let me know how we can proceed to address this matter effectively. I look forward to your prompt response and thank you in advance for your assistance.
+
+Sincerely,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your Canon PIXMA MG3620 printer setup. To assist you with wireless and mobile printing, please follow these general steps:
+
+1. **Wireless Setup:**
+   - Ensure your printer is powered on.
+   - Press the Wi-Fi button on the printer until the power lamp flashes.
+   - Press and hold the Wi-Fi button until the Wi-Fi lamp flashes blue, then press the WPS button on your wireless router.
+   - Check whether the Wi-Fi lamp and power lamp are lit stably.
+
+2. **Mobile Printing via Canon PRINT App:**
+   - Download the Canon PRINT app on your mobile device.
+   - Open the app and follow on-screen instructions to detect your printer.
+   - Connect your mobile device to the same network as the printer.
+
+If you continue to experience issues, feel free to call our support hotline at <tel_num> or respond with more details for further assistance. 
+
+We look forward to resolving this for you quickly.
+
+Best regards,
+Tech Online Store Support Team

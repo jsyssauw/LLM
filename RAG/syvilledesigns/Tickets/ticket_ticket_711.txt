@@ -1,0 +1,34 @@
+Ticket ID: ticket_711
+Subject: Issue with Canon PIXMA MG3620 Duplex Printing
+Incident Type: Problem
+Customer Issue: Hello, 
+
+I am reaching out to report an issue with my Canon PIXMA MG3620 purchased from Tech Online Store. The main problem I am encountering is that the printer fails to initiate duplex printing, despite diligently following all troubleshooting steps provided in the user manual. I have performed multiple factory reset attempts, hoping to resolve this issue on my own, but regrettably, to no avail. 
+
+The printer, despite being relatively new, does not seem to enter the duplex mode even when I select the double-sided printing option. I have also ensured that the printer drivers are up-to-date and have reinstalled them as a measure of caution. I would appreciate if your team could provide further guidance or suggest any additional steps I might have overlooked to address this problem effectively. If you require any specific details in order to assist me better, please let me know. 
+
+Thank you for your timely support. I am looking forward to your response at your earliest convenience.
+
+Best regards,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Hello,
+
+Thank you for reaching out regarding the issue with your Canon PIXMA MG3620's duplex printing. We understand how frustrating this can be, and we're here to help.
+
+Since you’ve already updated the drivers and conducted a factory reset, let's try checking a couple of additional things:
+
+1. Verify the paper size and type settings in the printer settings to ensure they match the paper loaded for duplex printing.
+2. Make sure the option for "automatic duplexing" is enabled in your print settings.
+3. If you're printing from a networked device, ensure that the network is stable as disruptions can affect printer communication.
+4. Check for any firmware updates via Canon's official website that might address this functionality.
+
+If the problem persists, it might be beneficial to test the printer on another device to rule out software conflicts. Additionally, consulting with Canon’s direct support might provide specific solutions.
+
+Feel free to reach out if you need further assistance. We’re here to ensure your printer functions smoothly.
+
+Best wishes,
+
+Service Desk Team

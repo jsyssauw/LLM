@@ -1,0 +1,22 @@
+Ticket ID: ticket_1448
+Subject: Probleme bei der Installation
+Incident Type: Incident
+Customer Issue: Hallo Kundenservice,
+
+Ich habe Schwierigkeiten bei der Installation von Windows 11 Pro auf meinem PC. Der Installationsvorgang schlägt immer wieder fehl, und ich bin unsicher, welche Schritte ich als Nächstes unternehmen sollte. Wären Sie so freundlich, mir einige Optionen zur Fehlerbehebung zur Verfügung zu stellen oder mir zu helfen, dieses Problem zu beseitigen? Meine Kontonummer lautet <acc_num>.
+
+Vielen Dank für Ihre Hilfe!
+
+Mit besten Grüßen,
+<name>
+<tel_num>
+Customer Service answer: Lieber <name>,
+
+Wir bedauern die Unannehmlichkeiten, die Sie erleben. Um Ihnen beim Installationsproblem von Windows 11 Pro zu helfen, probieren Sie bitte die folgenden Schritte aus:
+1. Vergewissern Sie sich, dass Ihr System die minimalen Anforderungen erfüllt.
+2. Deaktivieren Sie sämtliches Drittanbieter-Sicherheitssystem.
+3. Laden Sie das Media Creation Tool herunter und versuchen Sie die Installation über einen USB-Stick.
+Sollten die Probleme weiterhin bestehen, kontaktieren Sie uns bitte unter <tel_num> für weitere Unterstützung.
+
+Mit besten Grüßen,
+Kundenservice.

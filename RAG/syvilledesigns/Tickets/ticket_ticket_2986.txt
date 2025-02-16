@@ -1,0 +1,31 @@
+Ticket ID: ticket_2986
+Subject: Demande de changement de l'horaire de maintenance
+Incident Type: Change
+Customer Issue: Cher équipe de support des services informatiques, 
+
+J'espère que ce message vous trouve en bonne santé. Je vous écris pour demander un examen et un éventuel changement de la fenêtre de maintenance actuelle prévue pour le déploiement de notre service de gestion AWS. Nous avons rencontré des pannes de service pendant les heures de pointe, ce qui impacte considérablement nos opérations et l'expérience client. 
+
+Actuellement, les activités de maintenance sont alignées avec un créneau horaire qui coïncide avec nos périodes de trafic les plus élevées. Ce chevauchement a entraîné des temps d'arrêt imprévus, affectant notre capacité à offrir un service constant à nos clients. Pour atténuer ces interruptions, nous demandons gentiment que la fenêtre de maintenance soit ajustée aux heures creuses. Cet ajustement nous permettrait de maintenir une livraison de service fluide tout en garantissant que les mises à jour et la maintenance essentielles soient effectuées. 
+
+De plus, pourriez-vous s'il vous plaît fournir plus d'informations sur la régularité et la durée de ces fenêtres de maintenance afin que nous puissions mieux planifier notre allocation de ressources et gérer les attentes des clients ? Votre attention immédiate à ce sujet sera grandement appréciée, car elle est vitale pour notre efficacité opérationnelle. Merci de votre compréhension et de votre assistance. 
+
+Dans l'attente de votre réponse rapide.
+
+Cordialement,
+<name> 
+Société : <company_name> 
+Numéro de compte : <acc_num> 
+Numéro de contact : <tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant l'horaire de maintenance. Nous comprenons l'impact critique des pannes de service pendant les heures de pointe sur vos opérations et l'expérience de vos clients.
+
+Nous examinerons votre demande d'ajuster la fenêtre de maintenance aux heures creuses et coordonnerons avec notre équipe technique pour garantir une perturbation minimale. Nous visons à trouver une solution qui s'aligne sur vos besoins opérationnels tout en maintenant les mises à jour et la maintenance nécessaires.
+
+Concernant votre demande sur la régularité et la durée des fenêtres de maintenance, nous vous fournirons des informations plus détaillées pour vous aider à mieux planifier votre allocation de ressources et gérer les attentes des clients.
+
+Votre demande est importante pour nous et nous donnerons la priorité à la résolution de ce problème rapidement. Nous vous remercions de votre patience et nous nous engageons à améliorer votre expérience de service.
+
+Cordialement,
+
+Équipe de support des services informatiques

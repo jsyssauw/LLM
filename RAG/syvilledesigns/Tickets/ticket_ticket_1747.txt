@@ -1,0 +1,23 @@
+Ticket ID: ticket_1747
+Subject: Solicitud de actualización de configuración de impresora
+Incident Type: Change
+Customer Issue: Estimado soporte de Tech Online Store,
+
+Estoy escribiendo para solicitar un cambio en la configuración de la impresora para mi Canon PIXMA MG3620 para facilitar una impresión móvil más sencilla y mejorar el rendimiento de la impresión a doble cara. La configuración actual parece ineficiente al imprimir desde dispositivos móviles. ¿Podría proporcionar orientación o una solución paso a paso para mejorar las capacidades de impresión? Su asistencia para resolver estos problemas sería muy apreciada.
+
+Gracias,
+
+<name>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Para mejorar la impresión móvil y a doble cara con tu Canon PIXMA MG3620, por favor sigue estos pasos:
+
+1. Impresión móvil: Asegúrate de que tu impresora y dispositivo móvil estén conectados a la misma red Wi-Fi. Instala la aplicación Canon PRINT Inkjet/SELPHY en tu dispositivo móvil. Abre la aplicación y selecciona tu impresora para comenzar a imprimir directamente.
+
+2. Impresión a doble cara: Accede a la configuración de la impresora en tu computadora, selecciona 'Imprimir', luego 'Propiedades' o 'Preferencias' y habilita la opción 'Impresión a doble cara'. Confirma haciendo clic en Aceptar.
+
+Para orientación detallada, consulta la página de soporte de Canon o el manual del usuario.
+
+Saludos cordiales,
+Soporte de Tech Online Store

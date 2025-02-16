@@ -1,0 +1,28 @@
+Ticket ID: ticket_803
+Subject: Problème de plantage intermittent d'Excel
+Incident Type: Problem
+Customer Issue: Cher support des services informatiques,
+
+Je vous écris pour signaler un problème avec Microsoft Office 365 : Excel après la récente mise à jour du logiciel. Excel plante de manière intermittente, ce qui affecte nos rapports financiers quotidiens. Ce problème devient particulièrement perturbant pour le flux de travail de notre équipe. Nous comptons beaucoup sur Excel pour ces tâches, et il est crucial qu'il soit opérationnel. Pourriez-vous s'il vous plaît donner la priorité à cette affaire ? Votre aide pour résoudre ce problème rapidement serait grandement appréciée.
+
+Merci de votre soutien.
+
+Cordialement,
+<Name>
+<Numéro de compte : <acc_num>>
+Customer Service answer: Cher <name>,
+
+Merci de signaler le problème avec Excel après la récente mise à jour de Microsoft Office 365. Nous comprenons à quel point il est crucial pour votre équipe d'avoir Excel opérationnel pour les rapports financiers quotidiens.
+
+Pour résoudre le problème de plantage intermittent, veuillez essayer les étapes suivantes :
+1. Assurez-vous que votre Office 365 est entièrement à jour.
+2. Réparez Microsoft Office via le Panneau de configuration.
+3. Désactivez tous les modules complémentaires pour vérifier s'ils sont à l'origine du problème.
+4. Effacez les fichiers temporaires et vérifiez si vous avez un espace disque adéquat.
+
+Si ces étapes ne résolvent pas le problème, veuillez nous contacter directement, et nous le ferons passer en priorité pour résolution.
+
+Merci de votre patience et de votre coopération.
+
+Cordialement,
+Support des services informatiques

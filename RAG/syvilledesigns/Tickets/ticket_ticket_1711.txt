@@ -1,0 +1,21 @@
+Ticket ID: ticket_1711
+Subject: Urgente: Resolver problema de latencia del Servicio de Gestión de AWS
+Incident Type: Incident
+Customer Issue: Estimado cliente de Soporte de Servicios de TI,
+
+Estamos experimentando un incidente severo con el Servicio de Gestión de AWS, específicamente relacionado con la escalabilidad de nuestra infraestructura, lo que está causando alta latencia en nuestras aplicaciones desplegadas. Esto impacta severamente el rendimiento y requiere atención y resolución inmediatas. Por favor, priorice este problema y proporcione una actualización sobre el progreso de la resolución tan pronto como sea posible.
+
+Gracias por su pronta respuesta.
+
+Atentamente,
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse respecto al problema de latencia con el Servicio de Gestión de AWS. Entendemos la urgencia y el impacto en sus aplicaciones y estamos priorizando este asunto en consecuencia. Nuestro equipo técnico está actualmente investigando el problema para identificar y resolver la causa raíz. Le proporcionaremos actualizaciones sobre el progreso de la resolución lo más rápido posible.
+
+Gracias por su paciencia y comprensión.
+
+Atentamente,
+Equipo de Service Desk

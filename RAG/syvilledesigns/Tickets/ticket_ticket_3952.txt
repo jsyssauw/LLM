@@ -1,0 +1,34 @@
+Ticket ID: ticket_3952
+Subject: Asistencia Urgente Necesaria para Apagones en MacBook Air M1
+Incident Type: Problem
+Customer Issue: Hola equipo de soporte al cliente,
+
+Me estoy comunicando con ustedes para solicitar asistencia técnica urgente con respecto a un problema con mi MacBook Air M1, que compré recientemente en su tienda. Durante los últimos días, el dispositivo ha estado experimentando apagones repentinos sin ninguna advertencia mientras está en funcionamiento. Este problema ocurre aleatoriamente y ha estado interrumpiendo significativamente mi trabajo y actividades diarias.
+
+He asegurado que mi sistema operativo esté actualizado y también he realizado una verificación exhaustiva sin identificar ninguna discrepancia de hardware por mi parte. Desafortunadamente, los apagones inesperados continúan ocurriendo, lo que ha hecho que el dispositivo sea poco confiable para el uso diario.
+
+¿Podrían proporcionarme orientación sobre cómo resolver este problema? Si se requiere una inspección técnica o una cita de servicio, por favor indíquenme el procedimiento adecuado. Dado que esto es crucial para mis responsabilidades profesionales, aprecio cualquier asistencia expedita que puedan ofrecer.
+
+Gracias por su atención a este asunto urgente. Por favor, háganme saber cualquier información que necesiten de mi parte.
+
+Atentamente,
+
+<name> 
+<name@example.com> 
+<tel_num>
+Customer Service answer: Hola <name>,
+
+Gracias por ponerte en contacto con nosotros respecto a tu problema con la MacBook Air M1. Entendemos la urgencia y la inconveniencia causadas por los apagones inesperados.
+
+Para abordar esto, por favor intenta los siguientes pasos de solución de problemas preliminares:
+
+1. Restablecer el Controlador de Gestión del Sistema (SMC) y NVRAM/PRAM.
+2. Verificar si hay actualizaciones o parches recientes que necesiten instalación.
+3. Asegurarte de que no haya aplicaciones ejecutándose en segundo plano que puedan causar sobrecalentamiento.
+
+Si el problema persiste después de estos pasos, recomendamos una inspección técnica. Para una cita rápida, por favor visita nuestro portal de servicio para reservar un momento conveniente. Alternativamente, llámanos al <tel_num> para asistencia inmediata.
+
+Háznos saber si necesitas más información. Estamos aquí para ayudar a resolver esto rápidamente.
+
+Atentamente,
+Equipo de Soporte al Cliente

@@ -1,0 +1,17 @@
+Ticket ID: ticket_2658
+Subject: Urgente: Desconexiones de Zoom 5.11.0
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente,
+
+Estoy escribiendo para informar que los usuarios están experimentando desconexiones inesperadas durante sesiones activas de videoconferencia en la versión 5.11.0 de Zoom. Este problema interrumpe reuniones importantes y afecta la productividad. Solicitamos amablemente una solución inmediata o orientación sobre cómo resolver este problema.
+
+Gracias,
+<name>
+<tel_num>
+<email>
+Customer Service answer: Estimado <name>,
+
+Gracias por su mensaje. Recomendamos actualizar Zoom a la última versión, ya que las actualizaciones a menudo resuelven problemas de conectividad. Además, verifique la estabilidad de su red y asegúrese de que ningún firewall o software antivirus esté interfiriendo con las conexiones. Si el problema persiste, háganoslo saber para más asistencia.
+
+Saludos cordiales,
+Soporte al Cliente

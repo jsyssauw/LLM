@@ -1,0 +1,20 @@
+Ticket ID: ticket_3131
+Subject: Problema urgente con el teclado Dell XPS 13
+Incident Type: Problem
+Customer Issue: Estimado equipo de soporte al cliente de Tech Online Store, espero que este mensaje les encuentre bien. Estoy escribiendo para expresar mi preocupación respecto a los problemas del teclado que estoy experimentando con el Dell XPS 13 9310, que compré en su tienda. El teclado se ha vuelto completamente inoperante, impactando enormemente mi productividad y interrumpiendo mis tareas diarias. Este problema es de alta prioridad para mí, y necesito asistencia para resolverlo rápidamente. ¿Podrían por favor aconsejar sobre los próximos pasos o proporcionar una solución lo antes posible? Agradecería su atención inmediata a este asunto. Gracias por su comprensión. Saludos cordiales, <name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos acerca del problema del teclado con su Dell XPS 13 9310. Entendemos la inconveniencia que esto ha causado y estamos comprometidos a resolverlo rápidamente.
+
+Por favor intente seguir estos pasos iniciales: 
+1. Realice un apagado forzado manteniendo presionado el botón de encendido durante 10 segundos, luego reinicie su laptop.
+2. Revise si hay actualizaciones disponibles para el teclado o el sistema a través de la herramienta Dell SupportAssist.
+
+Si el problema persiste, considere las siguientes acciones: 
+- Visite nuestra tienda con su laptop para que un técnico evalúe el problema. 
+- Contacte directamente al soporte al cliente de Dell para utilizar los servicios de garantía, si corresponde.
+
+Por favor, háganos saber cómo desea proceder o si necesita más orientación. Estamos aquí para ayudarle.
+
+Saludos cordiales,
+Equipo de soporte al cliente de Tech Online Store

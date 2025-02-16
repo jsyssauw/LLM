@@ -1,0 +1,5 @@
+Ticket ID: ticket_1724
+Subject: Memory Upgrade Request
+Incident Type: Change
+Customer Issue: I need memory upgrade for higher performance
+Customer Service answer: Thank you for your request. Please specify your device model and current memory size.

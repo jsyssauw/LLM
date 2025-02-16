@@ -1,0 +1,15 @@
+Ticket ID: ticket_3816
+Subject: Issue with Ticket Creation
+Incident Type: Incident
+Customer Issue: Dear Customer Support, 
+
+I am reaching out to report that <name> is experiencing issues when trying to create tickets in Jira Software 8.20. We suspect it might be due to incorrect user permissions. Could you please assist in resolving this matter? 
+
+Best regards, 
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. To resolve the issue with ticket creation in Jira Software 8.20, we recommend checking and updating the user's permissions in the Site administration settings. Ensure that <name> has the necessary permissions to create tickets. If the issue persists, please provide more details or contact us for further assistance.
+
+Best regards,
+Customer Support Team

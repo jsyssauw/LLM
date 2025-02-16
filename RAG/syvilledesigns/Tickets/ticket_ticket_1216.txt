@@ -1,0 +1,37 @@
+Ticket ID: ticket_1216
+Subject: Urgent Assistance Required: Samsung QLED QN90A Issue
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. I am writing to report a concerning issue I am experiencing with my recently purchased Samsung QLED QN90A TV, which I bought from your 'Tech Online Store'. Having been a loyal customer, I expected nothing short of superior performance and reliability that Samsung products are renowned for. However, this particular unit seems to be presenting a rather persistent and distracting problem.
+
+The television has developed a flickering issue while in use, which occurs intermittently but frequently enough to hinder the viewing experience significantly. It started subtly but has become more pronounced over time, leading me to believe that it might be a hardware-related issue rather than something that could be adjusted with simple settings modifications. I understand these models are generally known for their impressive picture quality and advanced technology, so this flickering is both unexpected and disappointing.
+
+Given the nature of the problem, I suspect it might involve components relating to the display hardware, as no changes in external settings such as cables or power sources appear to affect or resolve the issue. Unfortunately, adjusting brightness levels or refreshing the support software has shown no improvement. Considering these attempts to troubleshoot the problem have been unsuccessful, I am compelled to seek your professional assistance to resolve this matter promptly.
+
+I would appreciate it if you could provide guidance on the next steps to take, possibly including instructions for an at-home diagnosis or arranging a qualified technician's assessment. Additionally, information about your repair policies and warranty coverage for such issues would be greatly appreciated. My hope is to have this resolved quickly to return to enjoying the high-quality viewing experience I anticipated upon purchase.
+
+Thank you for your attention to this matter. I look forward to your prompt response with advice on how we can proceed to rectify this issue with my Samsung QLED QN90A.
+
+Best regards,
+
+<name>
+
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issue with your Samsung QLED QN90A TV. We understand how important it is to have a high-quality viewing experience and apologize for the inconvenience caused by the flickering issue you are encountering.
+
+To address this problem, please follow these steps:
+1. Perform a Soft Reset: Turn off the TV, unplug it from the power source, wait for a minute, and plug it back in. Then, turn the TV on and check if the issue persists.
+2. Update Firmware: Ensure that your TV's software is up-to-date. You can do this by navigating to Settings > Support > Software Update on your TV menu.
+3. HDMI Cable Check: Verify that all HDMI cables are securely connected and try using a different cable to rule out any connection issues.
+
+If these steps do not resolve the issue, we recommend scheduling a service appointment with one of our qualified technicians. To do so, you can contact our customer service team at <tel_num> or through our website, where you can also check your warranty coverage and repair policies.
+
+We are committed to resolving your issue quickly and ensuring your satisfaction with our products. Please do not hesitate to reach out for further assistance.
+
+Best regards,
+
+Customer Support Team
+Tech Online Store

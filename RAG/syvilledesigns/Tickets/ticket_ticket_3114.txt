@@ -1,0 +1,18 @@
+Ticket ID: ticket_3114
+Subject: nan
+Incident Type: Request
+Customer Issue: Chère équipe d'assistance des services IT,
+
+J'espère que vous allez bien. Je fais face à un souci lors de l'installation de Windows 11 Pro. J'ai respecté toutes les indications fournies, mais la procédure échoue systématiquement. Pourriez-vous, s'il vous plaît, m'assister pour résoudre cette problématique ?
+
+Merci pour votre réponse rapide.
+
+Sincères salutations,
+<name>
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Nous vous remercions de nous avoir contactés. Afin de mieux vous assister, pourriez-vous nous fournir les messages d'erreur ou les codes exacts que vous rencontrez durant l'installation de Windows 11 Pro ? Par ailleurs, veuillez vous assurer que votre appareil satisfait toutes les conditions requises et qu'il possède les dernières mises à jour du BIOS/firmware.
+
+Cordialement,
+L'équipe d'assistance des services IT

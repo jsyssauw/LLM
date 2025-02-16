@@ -1,0 +1,5 @@
+Ticket ID: ticket_1868
+Subject: Dringend: Probleme mit dem Zugriff auf das IT-Ticket-System
+Incident Type: Incident
+Customer Issue: Brauche schnell Unterstützung!
+Customer Service answer: Bitte geben Sie weitere Einzelheiten zu dem Zugriffsproblem an, damit wir eine schnelle Lösung anbieten können.

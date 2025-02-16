@@ -1,0 +1,18 @@
+Ticket ID: ticket_2228
+Subject: Urgent: Immediate Assistance Required for Server Downtime Issue
+Incident Type: Problem
+Customer Issue: Dear IT Services Customer Support, 
+
+Our server, which affects our ticket system, experienced unexpected downtime today. This issue is crucial since it affects our IT Consulting Service operations. We urgently need technical support to resolve the problem and restore normal functionality.
+
+Please prioritize this request and provide immediate assistance.
+
+Thank you, 
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting IT Services Customer Support. We understand the urgency of the server downtime impacting your ticket system and IT Consulting Service operations. Our team is prioritizing this request and will provide immediate assistance to resolve the issue and restore normal functionality.
+
+Best regards,
+IT Services Customer Support

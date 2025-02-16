@@ -1,0 +1,40 @@
+Ticket ID: ticket_2910
+Subject: Issues Setting Up AWS EC2 Security Group
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to seek assistance with an issue I am experiencing while setting up a security group for an AWS EC2 instance. I am currently using your AWS Management Service and having difficulty configuring the security group for approved database access. I have followed the guidelines provided in your knowledge base but still can't gain the proper permissions required to access various databases from the EC2 instance.
+
+My current security group configuration includes specific inbound and outbound rules, yet I am unable to connect to the necessary ports for database interaction. I've verified that the IP ranges are correct, and my network firewall settings are as recommended.
+
+To proceed further, I need guidance on verifying the right setup for enabling isolated environment configuration effectively. It would be great to receive any additional insights or step-by-step instructions that may assist in pinpointing or fixing this issue.
+
+Thank you for your attention to this matter. Please feel free to reach out to me at <tel_num> if you need any more details or logs related to this issue.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us about your AWS EC2 security group setup issue. Here are some steps to help resolve your problem:
+
+1. **Review Security Group Rules**: Double-check your inbound rules to ensure they allow traffic on the ports your databases require (e.g., port 3306 for MySQL). Confirm that the outbound rules allow responses back to your EC2 instance.
+
+2. **IP Range Verification**: Make sure the IP ranges specified in the rules are accurate and correspond to the client systems trying to access the databases.
+
+3. **Network ACLs**: Inspect the Network ACLs associated with your VPC to ensure there are no restrictions prohibiting the required traffic.
+
+4. **VPC and Subnet Settings**: Check that your Subnet’s network setup and route tables properly facilitate traffic between the EC2 instance and your databases.
+
+5. **Database Configuration**: Verify if there are any database-side access controls that might be blocking connections from your EC2 instance.
+
+6. **Test Connectivity**: Use telnet or similar tools from the EC2 instance to test connectivity over the required ports.
+
+7. **Consult Logs**: Review your CloudWatch Logs or VPC Flow Logs for any denial messages that may provide clarity on what's causing access issues.
+
+If these steps do not resolve the situation, please gather any error messages or logs that might help diagnose the problem and contact us back.
+
+Feel free to reach us at <tel_num> for further assistance.
+
+Best regards,  
+AWS Support Team

@@ -1,0 +1,35 @@
+Ticket ID: ticket_2028
+Subject: Wireless Printing Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team, 
+
+I hope this message finds you well. I am writing to report an issue with my HP DeskJet 3755 printer. After a recent firmware update, the wireless printing functionality has unexpectedly stopped working. This interruption has significantly disrupted my daily routine and printing tasks. 
+
+Despite following all recommended troubleshooting steps such as restarting the printer, reconnecting to the Wi-Fi network, and ensuring that the latest firmware version installed correctly, the issue persists. The printer successfully prints through USB, but the wireless feature remains non-functional, which is inconvenient. 
+
+As a loyal customer of Tech Online Store, I trust your team can provide a swift resolution to this problem. Please advise if there are any additional steps I should attempt, or if a replacement or service maintenance is required. I am reachable at <tel_num> for further discussion. I would appreciate any assistance you can provide in resolving this issue at your earliest convenience.
+
+Thank you for your attention to this matter. 
+
+Best regards, 
+<name> 
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the wireless printing issue with your HP DeskJet 3755 printer. We understand the inconvenience this has caused to your routine.
+
+Since you have already attempted the basic troubleshooting steps, please try the following additional actions:
+
+1. Ensure your printer’s Wi-Fi signal is enabled and attempt to re-establish the connection using the printer’s control panel settings.
+2. Check your router settings to ensure there is no interference that might affect the printer's connection. Reboot the router if necessary.
+3. Verify that your printer and devices trying to print are connected to the same Wi-Fi network.
+4. Use the HP Print and Scan Doctor tool, available on the HP website, to diagnose and potentially resolve the problem.
+
+If the issue continues after these steps, a professional evaluation might be needed. Please let us know at your earliest convenience for further assistance or if service maintenance is required. 
+
+Feel free to contact us via <tel_num> for immediate support. We will prioritize addressing this issue swiftly.
+
+Thank you for your loyalty and patience.
+
+Best regards, 
+Tech Online Store Customer Support Team

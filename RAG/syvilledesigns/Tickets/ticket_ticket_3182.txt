@@ -1,0 +1,14 @@
+Ticket ID: ticket_3182
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear IT Services Customer Support,
+
+We are experiencing a critical network outage due to our Netgear Switch GS108 being down. This issue is urgent, as it affects our connectivity across the organization. We would appreciate your prompt assistance in resolving this matter to restore full network functionality.
+
+Thank you.
+Customer Service answer: Dear Customer,
+
+Thank you for reaching out to IT Services Customer Support. We understand the urgency of the network outage caused by the Netgear Switch GS108 being down. Our team will prioritize this issue to restore full network functionality as soon as possible. Please ensure that the switch is securely connected and powered on. A technician will be in touch with you shortly to assist further.
+
+Best regards,
+IT Services Customer Support

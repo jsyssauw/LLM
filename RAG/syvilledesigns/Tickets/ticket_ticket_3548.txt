@@ -1,0 +1,5 @@
+Ticket ID: ticket_3548
+Subject: Dringendes Überhitzungsproblem
+Incident Type: Incident
+Customer Issue: Dell XPS überhitzt nach längerer Nutzung.
+Customer Service answer: Bitte aktualisieren Sie das BIOS und die Treiber. Halten Sie die Lüftungsschlitze frei und begrenzen Sie intensive Aufgaben. Kontaktieren Sie uns, wenn Sie Hilfe benötigen!

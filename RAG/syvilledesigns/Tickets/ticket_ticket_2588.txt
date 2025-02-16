@@ -1,0 +1,33 @@
+Ticket ID: ticket_2588
+Subject: Urgente: Interrupção de Rede
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte ao Cliente,
+
+Estou escrevendo para relatar um incidente de alta prioridade envolvendo o Roteador Cisco ISR4331, que está causando interrupções significativas na rede dentro da nossa organização. Este problema está afetando severamente nossas operações, e precisamos de solução e resolução imediatas para restaurar a funcionalidade da nossa rede.
+
+Nossa equipe notou pela primeira vez a interrupção na manhã de 10 de outubro de 2023, quando surgiram problemas de conectividade afetando nossos aplicativos de negócios críticos e comunicações. Isso resultou em um tempo considerável de inatividade, afetando não apenas as comunicações internas, mas também nossos serviços voltados para o cliente.
+
+O roteador em questão faz parte de um segmento de rede vital e está atualmente exibindo códigos de erro de diagnóstico que são desconhecidos para nossa equipe interna. Tentamos vários procedimentos padrão de solução de problemas sem sucesso. Dado o impacto em nossas operações, solicitamos que sua equipe especializada examine esse assunto o mais rápido possível.
+
+Por favor, informe-nos os próximos passos para facilitar um diagnóstico e resolução expedidos. Você pode me contatar em <tel_num> ou por e-mail na sua primeira oportunidade. Sua rápida atenção a este assunto é muito apreciada, pois impacta diretamente nossas operações diárias.
+
+Obrigado pela sua assistência.
+
+Atenciosamente,
+
+<name>
+Gerente de TI
+<company>
+Contato: <tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato para relatar o incidente de interrupção da rede envolvendo seu Roteador Cisco ISR4331. Entendemos a urgência e o impacto em suas operações.
+
+Nossa equipe técnica começará a investigar este problema imediatamente. Enquanto isso, por favor, assegure-se de que todos os logs do roteador estejam acessíveis e que quaisquer códigos de erro específicos sejam anotados, pois eles podem ser importantes para o diagnóstico.
+
+Entraremos em contato com você em breve com mais instruções ou para coletar mais detalhes. Você pode esperar ouvir da nossa equipe em breve. Fique tranquilo, estamos dedicados a restaurar a funcionalidade da sua rede o mais rápido possível.
+
+Obrigado pela sua paciência e cooperação.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

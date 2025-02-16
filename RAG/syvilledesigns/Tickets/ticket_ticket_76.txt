@@ -1,0 +1,10 @@
+Ticket ID: ticket_76
+Subject: High Priority Incident: Immediate AWS Deployment Resolution Needed
+Incident Type: Incident
+Customer Issue: Dear Customer Support, we are experiencing significant issues with the AWS Management Service impacting deployment and infrastructure. This requires immediate resolution to maintain our operational continuity. Quick assistance would be greatly appreciated. Thank you.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the AWS Management Service issue. We understand the urgency and its impact on your operations. Our technical team is already investigating the matter and working swiftly to resolve it. We will keep you updated on the progress and aim to have everything back to normal as soon as possible. We appreciate your patience and cooperation during this time.
+
+Best regards,
+Customer Support Team

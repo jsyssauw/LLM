@@ -1,0 +1,33 @@
+Ticket ID: ticket_252
+Subject: Urgent: AWS Outage Affecting Deployments
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I am writing to express my concern about a high-priority incident involving AWS downtime that is significantly impacting our application deployment across multiple platforms. We have been utilizing the AWS Management Service and since the outage began, there have been considerable delays and disruptions. Our team is reliant on a stable and efficient service for ongoing operation, and this downtime poses a serious challenge.
+
+At this time, we are unable to proceed with our scheduled updates and deployment projects, affecting our deliverables timeline. Furthermore, the continued lack of access can potentially lead to missed deadlines and client dissatisfaction.
+
+Please escalate this issue to the technical team and provide us with a resolution at the earliest. Also, we would appreciate an update on when the AWS Management Service is expected to be fully operational again.
+
+Thank you for your prompt attention to this matter and please keep me informed of the progress and any steps we need to undertake.
+
+Best regards,
+
+<name>
+Account Number: <acc_num>
+Contact: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the AWS outage affecting your deployments. We understand the urgency and inconvenience this situation has caused. 
+
+Rest assured, we have escalated the issue to our technical team and they are in close contact with AWS to track the progress of the resolution. We are committed to restoring full service and minimizing any further delays as soon as possible.
+
+In the meantime, we recommend frequently checking your AWS Management Service dashboard and our status page for updates.
+
+We will keep you informed of any developments and provide a timeline for when normal operations can resume. If there are specific interim measures or assistance needed, please let us know.
+
+Thank you for your patience and understanding.
+
+Best regards,
+
+Service Desk Team

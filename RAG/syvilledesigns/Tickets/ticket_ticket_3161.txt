@@ -1,0 +1,21 @@
+Ticket ID: ticket_3161
+Subject: nan
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am experiencing irregularly slow browsing while using the latest version of Google Chrome, version 102.0. This issue only affects Chrome, not other browsers. Could you please assist? Looking forward to your guidance and a possible solution to resume normal browsing speed.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. To address the slow browsing issue in Google Chrome, please try the following steps:
+1. Clear cache and cookies: Go to Settings > Privacy and security > Clear browsing data.
+2. Disable extensions: Go to Settings > Extensions and disable unnecessary ones.
+3. Update Chrome: Ensure Chrome is the latest version.
+4. Reset Chrome settings to default if the issue persists.
+
+If these steps don't resolve the issue, let us know for further assistance.
+
+Best regards,
+Customer Support

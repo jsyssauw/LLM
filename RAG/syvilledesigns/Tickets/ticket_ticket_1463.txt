@@ -1,0 +1,16 @@
+Ticket ID: ticket_1463
+Subject: Dringend: Kunde berichtet über Probleme bei der Installation von Norton Antivirus Plus - Unmittelbare Hilfe benötigt
+Incident Type: Change
+Customer Issue: Sehr geehrtes Support-Team,
+
+ich stehe vor Schwierigkeiten bei der Installation von Norton Antivirus Plus. Selbst nach mehreren Versuchen bleibt das Problem ungelöst. Ihre zügige Unterstützung in dieser Angelegenheit würde ich sehr schätzen. Vielen Dank im Voraus.
+
+Mit besten Grüßen,
+
+<name>
+Customer Service answer: Lieber [Name],
+
+es tut mir leid, von Ihren Schwierigkeiten bei der Installation von Norton Antivirus Plus zu hören. Bitte deinstallieren Sie frühere Antivirus-Programme und verwenden Sie das Norton Remove and Reinstall Tool, das Sie von der offiziellen Webseite herunterladen können. Sollte das Problem weiterhin bestehen, zögern Sie bitte nicht, uns für zusätzliche Unterstützung zu kontaktieren.
+
+Mit freundlichsten Grüßen,
+Kundenservice

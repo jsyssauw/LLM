@@ -1,0 +1,20 @@
+Ticket ID: ticket_3251
+Subject: nan
+Incident Type: Change
+Customer Issue: Dear Customer Support,
+
+I am writing to request a review and alteration of the current middleware configuration settings within our cloud infrastructure for improved security and performance. The product in question is your IT Consulting Service. Adjustments are crucial for maintaining the efficiency and security standards necessary for our operations. Please advise on the next steps and any information you might require to facilitate this process.
+
+Thank you very much.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the middleware configuration settings in your cloud infrastructure. To proceed with the review and alteration for improved security and performance, we'll need additional details about your current setup and specific areas you believe require adjustments. Please provide any documentation or information that highlights these aspects.
+
+Once we have this information, our IT Consulting team can better assess your needs and recommend appropriate changes. Feel free to contact us if you require any further assistance.
+
+Best regards,
+Customer Support Team

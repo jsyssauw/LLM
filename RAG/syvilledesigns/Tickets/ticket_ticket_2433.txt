@@ -1,0 +1,10 @@
+Ticket ID: ticket_2433
+Subject: Incident with Server Performance Assistance
+Incident Type: Incident
+Customer Issue: Dear IT Services Support,
+
+I am reaching out to report a performance issue with our servers related to your IT Consulting Service. Kindly assist us through your ticket system for a prompt resolution. Ensuring efficient IT solutions is crucial to our operations.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>, thank you for reaching out. Please submit a ticket via our ticket system. Our team will prioritize your request and work on resolving the server performance issue promptly. Do not hesitate to reach out if you need further assistance. Best regards, IT Services Support.

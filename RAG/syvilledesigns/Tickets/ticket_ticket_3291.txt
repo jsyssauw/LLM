@@ -1,0 +1,35 @@
+Ticket ID: ticket_3291
+Subject: Problema de Faturamento
+Incident Type: Problem
+Customer Issue: Caro Time de Suporte ao Cliente,
+
+Espero que esta mensagem os encontre bem. Estou escrevendo para trazer à sua atenção um problema de faturamento que encontrei com a recente renovação da minha licença do Jira Software. Apesar de esperar cobranças de acordo com nosso contrato, parece que o valor cobrado pelo período atual de assinatura é maior do que o esperado.
+
+Nos últimos anos, nossa organização contou com o Jira Software 8.20 para gerenciar nossos projetos de maneira eficiente. Nosso número de conta é <acc_num>. Durante nosso período de assinatura, apreciamos o serviço e o suporte oferecidos por sua empresa. No entanto, ao revisar a fatura recente, parece que o valor cobrado excede significativamente os custos de renovação anteriores sem qualquer notificação prévia de aumento de preço ou mudanças nos detalhes da assinatura.
+
+De acordo com a fatura datada de <date>, o valor total é <amount>, enquanto todas as renovações anteriores foram consistentemente cobradas em <previous_amount>. Monitoramos cuidadosamente nosso orçamento e estamos preocupados com as alocações orçamentárias quando ocorrem despesas imprevistas. Solicito gentilmente uma clarificação sobre a(s) razão(ões) para esse aumento. Especificamente, gostaria de entender se houve alguma mudança nos nossos termos de serviço, contrato de licenciamento, ou se esse ajuste pode ser um erro de faturamento.
+
+Seria muito apreciado se uma explicação pudesse ser fornecida, juntamente com um detalhamento das cobranças associadas. Se necessário, estou à disposição para fornecer mais informações ou documentação para ajudar a resolver essa questão rapidamente. 
+
+Agradeço sua pronta atenção a este problema, pois estamos ansiosos para resolvê-lo na sua primeira oportunidade para evitar qualquer interrupção em nosso uso do Jira Software. Aguardo sua resposta.
+
+Atenciosamente,
+
+<name>
+Informações de Contato:
+Email: <email_addr>
+Telefone: <tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por nos contatar sobre o problema de faturamento com a renovação da sua licença do Jira Software. Entendemos sua preocupação em relação ao aumento inesperado nas cobranças.
+
+Investigaremos o assunto prontamente para determinar se houve um erro de faturamento ou qualquer mudança não percebida nos seus termos de serviço. Por favor, permita-nos algum tempo para revisar sua conta e os detalhes da fatura recente. 
+
+Enquanto isso, solicitamos que você forneça qualquer documentação adicional que possa ter para ajudar a agilizar o processo. Sua colaboração é muito apreciada.
+
+Fique tranquilo, estamos comprometidos em resolver essa questão rapidamente para garantir o uso ininterrupto do Jira Software. Nós entraremos em contato com você com nossas descobertas e uma resolução apropriada assim que possível.
+
+Obrigado pela sua paciência e compreensão.
+
+Atenciosamente,
+Time de Suporte ao Cliente

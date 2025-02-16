@@ -1,0 +1,23 @@
+Ticket ID: ticket_3568
+Subject: Discrepancia en la facturación con el servicio de AWS
+Incident Type: Problem
+Customer Issue: Estimado servicio de atención al cliente,
+
+Escribo para expresar mis preocupaciones sobre las discrepancias en mi factura reciente por el servicio de gestión de AWS. Parece que me están cobrando por un uso inusualmente alto y hay cargos inesperados que no coinciden con mis registros. ¿Podría revisar mi cuenta, <acc_num>, y proporcionar aclaraciones sobre estos cargos? Además, por favor, indique cómo se pueden rectificar. Agradezco su pronta atención a este asunto.
+
+Gracias,
+<name>
+<tel_num>
+Customer Service answer: Asunto: Discrepancia en la facturación - Servicio de AWS
+
+Estimado <name>,
+
+Gracias por ponerse en contacto con nosotros respecto a la discrepancia en su factura del servicio de gestión de AWS. Entendemos sus preocupaciones sobre los cargos inesperados y el uso inusualmente alto.
+
+Realizaremos una revisión exhaustiva de su cuenta, <acc_num>, para identificar cualquier error o cargo no anticipado. Una vez completada la revisión, proporcionaremos aclaraciones detalladas y esbozaremos los pasos necesarios para rectificar el problema.
+
+Sus preocupaciones son importantes para nosotros y nos esforzaremos por resolver esto lo antes posible. Agradecemos su paciencia y nos pondremos en contacto con usted en breve con nuestros hallazgos.
+
+Atentamente,
+
+Equipo de atención al cliente

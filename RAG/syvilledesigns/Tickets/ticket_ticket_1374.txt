@@ -1,0 +1,36 @@
+Ticket ID: ticket_1374
+Subject: Necesito soporte inmediato
+Incident Type: Incident
+Customer Issue: Estimado Servicio al Cliente,
+
+Me estoy comunicando para expresar mi preocupación urgente sobre la reciente interrupción en el Servicio de Gestión de AWS, que ha obstaculizado considerablemente nuestra infraestructura en la nube, provocando una disminución significativa en la productividad de nuestro equipo. Dependemos de los servicios de AWS para el funcionamiento eficiente de nuestros sistemas de TI, y esta interrupción imprevista ha creado obstáculos sustanciales para nuestros proyectos en curso.
+
+El problema inició el <date>, y desde ese momento, nuestro acceso a funciones esenciales de AWS ha estado profundamente restringido. Esta interrupción está influyendo no solo en los procedimientos internos, sino también en los servicios relacionados con los clientes, lo que podría dañar potencialmente nuestra reputación comercial y las relaciones con los clientes. Como puede apreciar, garantizar operaciones ininterrumpidas es crucial para cumplir con los compromisos y entregables de los clientes.
+
+Busco la intervención inmediata de su equipo calificado para abordar este desafío. Requerimos asistencia urgente para comprender la razón de la interrupción y para implementar medidas que restablezcan el servicio lo antes posible. Una resolución oportuna es esencial para minimizar cualquier efecto adverso adicional en nuestras operaciones comerciales.
+
+Para asegurar un proceso de resolución efectivo, estoy disponible a su conveniencia para una conversación en profundidad sobre la situación actual. Le agradecería que proporcionara una respuesta rápida a este mensaje con actualizaciones sobre el progreso y los plazos anticipados para la resolución.
+
+Gracias de antemano por su rápida atención a este asunto. Anticipamos sus acciones inmediatas y esperamos un regreso rápido al funcionamiento normal de los servicios.
+
+Atentamente,
+
+<name>
+
+<name.company>
+
+Número de teléfono: <tel_num>
+ID de cuenta: <acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos acerca de la interrupción del Servicio de Gestión de AWS. Reconocemos completamente la urgencia de esta situación y sus efectos en sus operaciones.
+
+Nuestro equipo ya está informado sobre el problema y está colaborando activamente con AWS para solucionar y resolver la interrupción lo más rápido posible. Estamos dedicados a restablecer sus servicios a su estado normal con la máxima prioridad.
+
+Valuamos su disposición para participar en una conversación, y nos pondremos en contacto con usted en breve para actualizarle sobre nuestro progreso y los plazos para una resolución.
+
+Gracias por su comprensión y paciencia.
+
+Atentamente,
+
+Equipo de Soporte al Cliente

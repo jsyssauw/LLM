@@ -1,0 +1,5 @@
+Ticket ID: ticket_540
+Subject: Atención Urgente Necesaria: Problema de Apagado Inesperado en MacBook Air M1
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente, Mi MacBook Air M1 se ha estado apagando inesperadamente durante su uso, posiblemente debido a un problema de batería. Por favor, asista lo antes posible. Saludos, <name>.
+Customer Service answer: Estimado <name>, Lamento escuchar sobre el problema con su MacBook Air M1. Por favor, intente reiniciar el SMC y asegúrese de que su sistema esté actualizado a la última versión de macOS. Si el problema persiste, es recomendable visitar una tienda Apple o un proveedor de servicios autorizado para un chequeo diagnóstico. Avíseme si necesita más ayuda. Saludos, Soporte al Cliente.

@@ -1,0 +1,10 @@
+Ticket ID: ticket_2144
+Subject: Inquiry About IntelliJ IDEA Billing Issue
+Incident Type: Request
+Customer Issue: Dear Customer Support, I am reaching out to inquire about the billing process for my IntelliJ IDEA 2024.1 license. I have not received a payment confirmation. My order number is <order_num>. Could you assist me with this issue? Thank you, <name>.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We apologize for the inconvenience regarding your IntelliJ IDEA 2024.1 license. To assist you with your billing inquiry, please ensure that the payment was successfully completed. Sometimes, payment confirmations might be delayed due to processing times. If your payment has been processed and you still haven't received a confirmation, please let us know. We are here to support you further.
+
+Best regards,
+Customer Support Team

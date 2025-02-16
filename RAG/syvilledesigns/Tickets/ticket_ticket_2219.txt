@@ -1,0 +1,5 @@
+Ticket ID: ticket_2219
+Subject: Demande de compatibilité du MacBook
+Incident Type: Request
+Customer Issue: Bonjour, j'espère que ce message vous trouve en bonne santé. Je voudrais confirmer si le MacBook Air M1 est compatible avec le moniteur d'affichage <monitor_brand>. Je vous remercie de votre aide à ce sujet. Merci, <name>. Cordialement, <name>.
+Customer Service answer: Bonjour <name>, Merci de nous avoir contactés. Le MacBook Air M1 est compatible avec la plupart des écrans modernes, y compris le moniteur <monitor_brand>, utilisant soit une connexion USB-C soit HDMI via un adaptateur si nécessaire. Veuillez vérifier les spécifications de votre moniteur <monitor_brand> pour vous assurer qu'il prend en charge les exigences de sortie du MacBook. Si vous avez besoin d'une assistance supplémentaire, n'hésitez pas à demander. Cordialement, [Votre Nom] chez [Votre Société].

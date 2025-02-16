@@ -1,0 +1,16 @@
+Ticket ID: ticket_945
+Subject: Inquiry Regarding Billing Discrepancy
+Incident Type: Incident
+Customer Issue: Dear Support Team,
+
+I am reaching out to discuss a surprising rise in AWS charges that I have recently noticed in my account <acc_num>. This increase appears to be linked to incorrectly configured cloud instances that are part of your AWS Management Service. I would be grateful if you could undertake a thorough investigation of these instances and correct the billing mistakes that have occurred. If you require additional information, please do not hesitate to contact me at <tel_num>.
+
+Thank you,
+
+<name>
+Customer Service answer: Hello <name>,
+
+We appreciate your communication regarding the rise in AWS fees. We understand the inconvenience and our team will promptly examine your AWS instances to identify any configuration errors. Our objective is to resolve this issue swiftly and rectify any incorrect charges. Should we need more details, we will reach out to you at <tel_num>. Thank you for your patience and we will update you as soon as our investigation is complete.
+
+Best regards,
+Service Desk Team

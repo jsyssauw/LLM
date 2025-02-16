@@ -1,0 +1,24 @@
+Ticket ID: ticket_3982
+Subject: Solicitud de cambios en los permisos de acceso
+Incident Type: Change
+Customer Issue: Estimado servicio de atención al cliente,
+
+Espero que este mensaje te encuentre bien. Estoy escribiendo para solicitar un cambio en los permisos de acceso de Google Drive para las herramientas de colaboración de datos empresariales de nuestro equipo bajo el paquete Google Workspace Business Standard. Actualmente, hay problemas con el intercambio de archivos y restricciones que obstaculizan nuestra productividad. ¿Podrías revisar nuestra cuenta <acc_num> para asegurarte de que todos los permisos necesarios estén configurados adecuadamente? Tu pronta asistencia sería muy apreciada. El Dr. <name> puede ser contactado al <tel_num> para más aclaraciones.
+
+Gracias por tu asistencia.
+
+Atentamente,
+
+Dr. <name>
+Customer Service answer: Asunto: Re: Solicitud de cambios en los permisos de acceso
+
+Estimado Dr. <name>,
+
+Gracias por ponerte en contacto con nosotros en relación con los problemas con los permisos de acceso de Google Drive bajo el paquete Google Workspace Business Standard. Entendemos cuán importante es la colaboración sin problemas para tu equipo. Revisaremos tu cuenta <acc_num> para asegurarnos de que todos los permisos estén configurados correctamente y abordar cualquier restricción actual.
+
+Nuestro equipo técnico comenzará la evaluación y ajustes en breve, y te mantendremos informado sobre el progreso. Si se necesita información adicional, es posible que contactemos al Dr. <name> al <tel_num> para aclaraciones.
+
+Gracias por llamar nuestra atención sobre este asunto.
+
+Atentamente,
+Equipo de atención al cliente

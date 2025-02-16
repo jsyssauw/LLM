@@ -1,0 +1,18 @@
+Ticket ID: ticket_3087
+Subject: Problem mit dem Update der Sicherheitseinstellungen in AWS-Konten
+Incident Type: Change
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um ein Problem mit dem ursprünglichen, als problematisch markierten Ticket zu melden, das die Aktualisierung der Sicherheitseinstellungen in AWS-Konten betrifft, die von unserem AWS Management Service verwaltet werden. Wir haben Schwierigkeiten und benötigen Unterstützung, um dieses Problem umgehend zu lösen. Ihre sofortige Aufmerksamkeit für dieses Anliegen wird sehr geschätzt.
+
+Vielen Dank im Voraus für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>
+<company_name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns kontaktiert haben. Wir verstehen die Dringlichkeit der Aktualisierung der Sicherheitseinstellungen in Ihren AWS-Konten. Unser Team prüft das Problem und wird sich in Kürze mit einer Lösung bei Ihnen melden. Wir schätzen Ihre Geduld und werden Sie so schnell wie möglich informieren.
+
+Mit freundlichen Grüßen,
+Kundenservice

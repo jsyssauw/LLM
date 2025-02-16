@@ -1,0 +1,20 @@
+Ticket ID: ticket_3979
+Subject: Rechnungsproblem bei der Verlängerung von Google Workspace
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um eine Rechnungsproblematik bezüglich meines Google Workspace Business Standard Abonnements anzufechten. Die Verlängerungsgebühren stimmen nicht mit dem vereinbarten Servicezeitraum überein. Bitte überprüfen Sie mein Konto (<acc_num>) und erklären Sie mir die fehlerhaften Gebühren für die kürzliche Verlängerung. Ihre zeitnahe Aufmerksamkeit für dieses Anliegen wäre sehr geschätzt.
+
+Vielen Dank.
+
+Mit freundlichen Grüßen,
+<name>
+<tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich des Rechnungsproblems mit Ihrem Google Workspace Business Standard Abonnement an uns gewandt haben. Ich verstehe Ihr Anliegen bezüglich der Verlängerungsgebühren. Ich werde Ihr Konto (<acc_num>) überprüfen, um die Diskrepanz zu untersuchen. Bitte erlauben Sie uns etwas Zeit, um dies für Sie zu klären. Wir werden Sie shortly mit einem Update kontaktieren.
+
+Vielen Dank für Ihre Geduld.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

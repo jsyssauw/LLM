@@ -1,0 +1,23 @@
+Ticket ID: ticket_2209
+Subject: Notificaciones de tickets faltantes que afectan la retroalimentación de Jira
+Incident Type: Problem
+Customer Issue: Hola equipo de soporte al cliente,
+
+Espero que este mensaje les encuentre bien. Me pongo en contacto con respecto a un problema con las notificaciones de tickets faltantes en nuestra instancia de Jira Software 8.20. Este problema está afectando significativamente nuestra retroalimentación de proyectos y la comunicación del equipo, que dependen en gran medida de actualizaciones oportunas. Nuestro equipo no puede recibir actualizaciones cruciales sobre el estado de los proyectos y las asignaciones. ¿Podrían investigar este problema y aconsejar sobre posibles soluciones? Su pronta asistencia sería muy apreciada para restaurar un trabajo en equipo eficiente.
+
+Gracias por su cooperación.
+
+Saludos cordiales,
+<name>
+Customer Service answer: Asunto: Re: Notificaciones de tickets faltantes que afectan la retroalimentación de Jira
+
+Hola <name>,
+
+Gracias por traer esto a nuestra atención. Entendemos la importancia de las notificaciones oportunas para su retroalimentación de proyectos y comunicación. Nuestro equipo investigará el problema con su instancia de Jira Software 8.20 de inmediato.
+
+Para ayudarnos a identificar la causa, ¿podría confirmar si ha habido algún cambio reciente en su configuración de notificaciones o en la configuración del servidor? Además, asegúrese de que los servidores de correo electrónico y los filtros no estén bloqueando las notificaciones de Jira.
+
+Le actualizaremos tan pronto como tengamos más información o soluciones. Gracias por su paciencia y cooperación.
+
+Saludos cordiales,
+Equipo de soporte al cliente

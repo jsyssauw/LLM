@@ -1,0 +1,5 @@
+Ticket ID: ticket_1430
+Subject: Dificultad para Activar Kaspersky
+Incident Type: Incident
+Customer Issue: Apreciado equipo de atención al cliente, estoy enfrentando dificultades para llevar a cabo la activación de Kaspersky Internet Security 2024. Les agradezco me brinden su apoyo. Atentamente, <nombre>, <número_de_cuenta>.
+Customer Service answer: Estimado <nombre>, le solicitamos que se asegure de que su conexión a internet esté funcionando. Si el inconveniente persiste, le sugerimos reinstalar el software o ponerse en contacto con nosotros al 1-800-123-4567. Saludos cordiales, Equipo de Asistencia.

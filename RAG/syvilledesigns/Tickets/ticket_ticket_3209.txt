@@ -1,0 +1,30 @@
+Ticket ID: ticket_3209
+Subject: Urgent Support Required for MacBook Air M1
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Support,
+
+I hope this message finds you well. I am writing to report a critical issue with a product purchased from your store. Our customer, <name>, is experiencing a problem where their MacBook Air M1 fails to power on despite being fully charged.
+
+This issue is causing significant inconvenience as the laptop is essential for <name>'s daily activities. We kindly request immediate troubleshooting assistance to resolve this matter swiftly.
+
+Your prompt response and guidance on the next steps would be greatly appreciated. Please prioritize this case as it impacts the customer's productivity.
+
+Thank you for your attention and support.
+
+Best regards,
+
+<name>
+<position>
+<company>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We're sorry to hear about the issue with the MacBook Air M1. Please try the following troubleshooting steps: 
+
+1. Press and hold the power button for 10 seconds, then release. Press it again.
+2. Connect to a different power outlet.
+3. Reset the SMC (System Management Controller).
+
+If the problem persists, we recommend visiting one of our service centers for further diagnostics. Let us know how the initial steps go, and we will prioritize this case for resolution.
+
+Best regards,
+Tech Online Store Support Team

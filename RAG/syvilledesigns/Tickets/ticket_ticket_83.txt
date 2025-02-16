@@ -1,0 +1,5 @@
+Ticket ID: ticket_83
+Subject: Issues with Slack connection affecting team communication today
+Incident Type: Incident
+Customer Issue: Channels are inaccessible, and messages cannot be sent.
+Customer Service answer: We are currently working on resolving the Slack connectivity issues and will share updates soon. We apologize for any inconvenience caused.

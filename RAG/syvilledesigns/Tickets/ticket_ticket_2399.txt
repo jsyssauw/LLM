@@ -1,0 +1,17 @@
+Ticket ID: ticket_2399
+Subject: Issue Changing Status in Jira Software Project
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team, 
+
+I am unable to change the issue status in my Jira Software 8.20 project. It seems to require an administrative viewing configuration adjustment. Please assist me in resolving this issue at your earliest convenience.
+
+Thank you, 
+<name> 
+Account Number: <acc_num> 
+Phone: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. To change issue status in Jira, you may need specific permissions. Please ensure you have 'Transition Issues' permission for the project. If you still have issues, contact your Jira Admin to review your settings. 
+
+Best regards,
+Customer Support Team

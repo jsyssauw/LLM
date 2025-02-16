@@ -1,0 +1,17 @@
+Ticket ID: ticket_2116
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear <name>,
+
+I am encountering a problem while trying to activate my Windows 11 Pro on my device. After adhering to all the provided instructions, I continue to face an activation error. My account number is <acc_num>. I would be grateful for your help in resolving this issue as soon as possible. You can contact me at <tel_num> or respond to this email with further guidance.
+
+Thank you for your assistance.
+
+Sincerely,
+<name>
+Customer Service answer: Dear [Customer Name],
+
+Thank you for contacting us. I regret to know about the trouble you're facing with the activation of your Windows 11 Pro. To help you better, please ensure your device is connected to the internet and that the product key has been entered accurately. If the issue remains, consider running the activation troubleshooter from Settings > Update & Security. Should you require further assistance, feel free to reply to this email.
+
+Best regards,
+[Your Name]

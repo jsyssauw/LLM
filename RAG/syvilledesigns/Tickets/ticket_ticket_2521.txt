@@ -1,0 +1,16 @@
+Ticket ID: ticket_2521
+Subject: Dringende Bereitstellung von Servern während des AWS-Ausfalls
+Incident Type: Change
+Customer Issue: Sehr geehrter Kundenservice,
+
+wir benötigen die sofortige Bereitstellung von Servern aufgrund eines hochpriorisierten Dienstausfalls, der unsere AWS-Infrastruktur beeinträchtigt. Bitte behandeln Sie dieses Problem dringend, um minimale Störungen zu gewährleisten.
+
+Vielen Dank,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+wir bearbeiten derzeit den AWS-Ausfall und werden die Bereitstellung Ihrer Server umgehend priorisieren, um Störungen zu minimieren. Vielen Dank für Ihre Geduld.
+
+Mit freundlichen Grüßen,
+Kundenservice

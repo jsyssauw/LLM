@@ -1,0 +1,26 @@
+Ticket ID: ticket_2099
+Subject: Problema de Flicker na Tela
+Incident Type: Problem
+Customer Issue: Prezado Suporte da Tech Online Store,
+
+Estou escrevendo para relatar um problema contínuo de flicker na tela do meu MacBook Air M1. O problema ocorre aleatoriamente durante o uso e persiste mesmo após a atualização do sistema operacional para a versão mais recente. A situação é bastante preocupante, pois interfere nas minhas tarefas diárias.
+
+Você poderia, por favor, ajudar a resolver esse problema o mais rápido possível? Agradeceria qualquer orientação ou suporte que você possa oferecer, potencialmente incluindo opções de serviço ou substituição.
+
+Obrigado pela sua atenção a este assunto.
+
+Atenciosamente,
+<name>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato sobre o problema de flicker na tela do seu MacBook Air M1. Por favor, tente os seguintes passos de solução de problemas:
+
+1. Reinicie seu MacBook e reinicie o NVRAM.
+2. Verifique se há mais atualizações do macOS ou atualizações de firmware específicas para seu modelo.
+3. Inicialize seu MacBook em Modo Seguro para ver se o flicker persiste.
+4. Tente desconectar qualquer periférico conectado para descartar causas externas.
+
+Se o problema continuar, entre em contato com nosso centro de serviço para agendar um diagnóstico ou obter mais assistência. Opções de serviço ou substituição serão consideradas após a avaliação do seu dispositivo.
+
+Atenciosamente,
+Suporte da Tech Online Store

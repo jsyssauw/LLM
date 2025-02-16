@@ -1,0 +1,22 @@
+Ticket ID: ticket_2130
+Subject: Problème de sauvegarde des feuilles Excel dans Office 365
+Incident Type: Incident
+Customer Issue: Bonjour, 
+
+Je rencontre des problèmes avec les feuilles Excel qui ne se sauvegardent pas correctement dans Office 365. Il semble qu'il y ait un problème de synchronisation avec le stockage cloud. Votre équipe pourrait-elle m'aider à résoudre ce problème ? J'attends votre réponse rapide. Merci.
+
+Cordialement,
+<name>
+<name>, <tel_num>, <acc_num>
+Customer Service answer: Bonjour <name>,
+
+Merci de nous avoir contactés au sujet de votre problème de sauvegarde des feuilles Excel dans Office 365. Veuillez essayer les étapes suivantes pour résoudre le problème :
+1. Vérifiez votre connexion Internet pour vous assurer qu'elle est stable.
+2. Assurez-vous d'être connecté au bon compte Office 365.
+3. Redémarrez Excel et essayez de sauvegarder votre document à nouveau.
+4. Effacez le cache de documents Office.
+
+Si le problème persiste, veuillez nous recontacter afin que nous puissions vous aider davantage.
+
+Cordialement,
+Équipe du Service Desk

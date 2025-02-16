@@ -1,0 +1,32 @@
+Ticket ID: ticket_2862
+Subject: Problema de Roles de Usuario en Jira
+Incident Type: Problem
+Customer Issue: Hola equipo de soporte al cliente,
+
+Me pongo en contacto para solicitar asistencia con respecto a la gestión de roles de usuario y permisos en nuestro Jira Software, específicamente la versión 8.20. Hemos encontrado dificultades inesperadas que afectan nuestros flujos de trabajo de gestión de proyectos. Muchos usuarios, incluidos los administradores, están teniendo problemas para ajustar roles y permisos de manera efectiva dentro de nuestros proyectos. Este problema está causando una interrupción considerable en nuestros procesos. Por favor, proporcione orientación o instrucciones sobre cómo abordar este problema. Alternativamente, agradeceríamos que un especialista nos asistiera directamente. Si necesita más detalles, por favor hágamelo saber y los proporcionaré de inmediato. Su rápida intervención es muy valorada.
+
+Atentamente,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Asunto: Re: Problema de Roles de Usuario en Jira
+
+Hola <name>,
+
+Gracias por ponerte en contacto con respecto a los problemas con los roles de usuario y permisos en tu Jira Software versión 8.20. Para abordar este problema, puedes intentar los siguientes pasos:
+
+1. Verificar permisos predeterminados: Navega a la configuración de permisos de tu proyecto y asegúrate de que la configuración predeterminada no se haya alterado accidentalmente.
+
+2. Roles de Proyecto: Ve a la sección de Administración, luego a Roles de Proyecto, y verifica que cada rol tenga asignados los permisos correctos.
+
+3. Sincronizar directorios: Asegúrate de que los permisos de tu grupo estén sincronizados con tu directorio de usuarios si estás utilizando un directorio externo.
+
+4. Actualizar y reindexar: Asegúrate de que Jira esté actualizado con los últimos parches y realiza un reindexado para resolver cualquier problema subyacente.
+
+Si estos pasos no resuelven el problema, un especialista de soporte puede ayudarte más. Por favor, confirma si deseas esto, y lo organizaremos de inmediato. Háznos saber si se necesitan más detalles.
+
+Estamos comprometidos a que tu sistema vuelva a funcionar rápidamente.
+
+Atentamente,
+[Tu equipo de soporte de servicios]

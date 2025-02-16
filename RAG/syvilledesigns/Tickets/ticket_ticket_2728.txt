@@ -1,0 +1,20 @@
+Ticket ID: ticket_2728
+Subject: Solicitud de Cambios en la Configuración de Facturación de AWS
+Incident Type: Change
+Customer Issue: Estimado soporte al cliente de Servicios de TI,
+
+Espero que este mensaje lo encuentre bien. Estoy escribiendo para solicitar cambios en nuestra configuración de facturación de AWS bajo el Servicio de Gestión de AWS para optimizar costos y mejorar el seguimiento del uso de recursos. Hemos notado que nuestra configuración actual no proporciona suficientes datos para una gestión eficiente de los recursos. Por favor, aconseje sobre posibles estrategias o herramientas que se puedan implementar para mejorar nuestra estructura de facturación. Además, solicitamos asistencia para modificar la configuración existente para rastrear mejor el consumo de recursos y la eficiencia de costos.
+
+Gracias por su ayuda, y espero su respuesta.
+
+Saludos cordiales,
+<name>
+<company_name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con nosotros respecto a su configuración de facturación de AWS. Para optimizar costos y mejorar el seguimiento del uso de recursos, recomendamos implementar AWS Cost Explorer para visualizar, presupuestar y hacer pronósticos. Además, habilitar los Informes de Costos y Uso de AWS puede proporcionar información detallada sobre la utilización de sus recursos. Para una gestión de costos mejorada, considere habilitar AWS Budgets y configurar alertas para los umbrales de costos.
+
+Estamos más que felices de ayudarle a modificar su configuración existente para rastrear mejor el consumo de recursos y la eficiencia de costos. Por favor, háganos saber un momento conveniente para una llamada o sesión remota, y podemos guiarle a través del proceso de implementación.
+
+Saludos cordiales,
+Soporte al Cliente de Servicios de TI

@@ -1,0 +1,21 @@
+Ticket ID: ticket_1075
+Subject: nan
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich habe beim Browsen mit der neuesten Version von Google Chrome, Version 102.0, unregelmäßig langsames Surfen festgestellt. Dieses Problem betrifft nur Chrome, nicht andere Browser. Könnten Sie bitte helfen? Ich freue mich auf Ihre Anleitung und eine mögliche Lösung, um die normale Browsing-Geschwindigkeit wiederherzustellen.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns kontaktiert haben. Um das Problem mit dem langsamen Surfen in Google Chrome zu beheben, versuchen Sie bitte die folgenden Schritte:
+1. Cache und Cookies löschen: Gehen Sie zu Einstellungen > Datenschutz und Sicherheit > Browserdaten löschen.
+2. Erweiterungen deaktivieren: Gehen Sie zu Einstellungen > Erweiterungen und deaktivieren Sie unnötige.
+3. Chrome aktualisieren: Stellen Sie sicher, dass Chrome die neueste Version ist.
+4. Chrome-Einstellungen auf die Standardeinstellungen zurücksetzen, wenn das Problem weiterhin besteht.
+
+Wenn diese Schritte das Problem nicht lösen, lassen Sie es uns wissen, um weitere Unterstützung zu erhalten.
+
+Mit freundlichen Grüßen,
+Kundenservice

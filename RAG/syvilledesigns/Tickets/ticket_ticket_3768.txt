@@ -1,0 +1,32 @@
+Ticket ID: ticket_3768
+Subject: Problema de prioridad media con conectividad inalámbrica
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte de Tech Online Store,
+
+Espero que este mensaje les encuentre bien. Estoy escribiendo para reportar un problema con la función inalámbrica de mi impresora HP DeskJet 3755. El dispositivo tiene dificultades para conectarse a otros dispositivos para imprimir de forma móvil. Este problema está afectando mi productividad diaria. He intentado varios métodos de solución de problemas, incluyendo reiniciar la impresora y reconectar la red, pero, desafortunadamente, ninguno ha resuelto el problema.
+
+Como esta es una preocupación de prioridad media para mí, agradecería su pronta asistencia. Por favor, háganme saber si necesitan información adicional.
+
+Gracias por su apoyo.
+
+Saludos cordiales,
+
+<name>
+
+Número de cuenta: <acc_num>
+Contacto: <tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos sobre el problema de conectividad inalámbrica con su impresora HP DeskJet 3755. Entendemos cuán importante es esto para su productividad.
+
+Primero, asegúrese de que el firmware de su impresora esté actualizado visitando el sitio web oficial de HP. Si el problema persiste, intente los siguientes pasos: 
+1. Asegúrese de que tanto su impresora como el dispositivo conectado estén en la misma red Wi-Fi.
+2. Verifique que su enrutador esté funcionando y que no se hayan cambiado ninguna configuración de red.
+3. Consulte el manual del usuario de la impresora para obtener instrucciones específicas sobre cómo restablecer la conexión inalámbrica.
+
+Si ha probado estas soluciones y el problema continúa, podría ser útil reiniciar su enrutador o acercar los dispositivos entre sí para evitar posibles interferencias.
+
+Por favor, háganos saber si necesita más asistencia o solución de problemas adicional. ¡Estamos aquí para ayudar!
+
+Saludos cordiales,
+Equipo de soporte de Tech Online Store

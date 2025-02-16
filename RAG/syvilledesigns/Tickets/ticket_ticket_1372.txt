@@ -1,0 +1,36 @@
+Ticket ID: ticket_1372
+Subject: Problemas con la Epson EcoTank ET-4760
+Incident Type: Incident
+Customer Issue: Estimado Cliente del Soporte de Tech Online Store,
+
+Espero que este mensaje le encuentre bien. Le escribo para expresar mis preocupaciones sobre mi reciente experiencia con la impresora Epson EcoTank ET-4760. Tras la última actualización de software, he encontrado problemas de conectividad que parecen interrumpir la funcionalidad inalámbrica del dispositivo.
+
+Antes de la actualización, la impresora estaba funcionando notablemente bien, sin interrupciones en las capacidades de impresión inalámbrica. Sin embargo, desde que se aplicó la actualización, la impresora no logra conectarse de forma inalámbrica a ningún dispositivo. A pesar de intentar varios pasos para solucionar el problema, como reiniciar tanto la impresora como los dispositivos conectados, así como restablecer la configuración de red, el problema persiste.
+
+Esto ha afectado significativamente mi eficiencia laboral diaria, ya que la impresión inalámbrica es una característica crítica para mis necesidades. El modelo de impresora en cuestión está registrado bajo mi número de cuenta <acc_num>. Para su referencia, el número de serie de la impresora es <serial_num>.
+
+Le agradecería si pudiera aconsejarme sobre cualquier paso adicional que deba seguir para resolver este problema o si podría haber una solución anticipada en los próximos parches de software.
+
+Gracias por su pronta atención a este asunto. Espero su orientación sobre los próximos pasos. No dude en ponerse en contacto conmigo en <email> o a mi número de teléfono <tel_num>.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con nosotros sobre los problemas de conectividad con su Epson EcoTank ET-4760.
+
+Nos disculpamos por los inconvenientes causados por la reciente actualización de software. Para abordar este problema, por favor intente los siguientes pasos:
+
+1. Asegúrese de que el firmware de su impresora esté actualizado verificando si hay actualizaciones adicionales en el sitio web de soporte de Epson.
+2. Verifique la configuración de su enrutador y asegúrese de que soporte el estándar inalámbrico actual utilizado por la impresora.
+3. Desactive temporalmente cualquier configuración de cortafuegos que pueda obstaculizar la conexión y vuelva a intentar conectar.
+4. Reinstale los controladores de la impresora en sus dispositivos.
+
+Si estos pasos no resuelven el problema, háganoslo saber y exploraremos más opciones o le informaremos sobre próximos parches de software que puedan solucionar el problema.
+
+Para obtener más asistencia, no dude en ponerse en contacto con nosotros a este correo electrónico o llamarnos. Agradecemos su paciencia y comprensión.
+
+Atentamente,
+
+Equipo de Soporte al Cliente de Tech Online Store

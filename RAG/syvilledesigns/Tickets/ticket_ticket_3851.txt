@@ -1,0 +1,14 @@
+Ticket ID: ticket_3851
+Subject: Consulta sobre Discrepância de Cobrança
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente, estou entrando em contato para solicitar esclarecimentos sobre uma discrepância de cobrança pela minha recente compra do Dell XPS 13 9310 em seu site. Minha fatura apresenta um valor diferente do que foi inicialmente mostrado no checkout. Você poderia, por favor, revisar os detalhes do meu pedido e fornecer uma explicação para essa variação? Agradeço sua pronta assistência na resolução deste assunto. Obrigado pelo seu apoio. Atenciosamente, <name>, <acc_num>.
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre a discrepância de cobrança com a sua compra do Dell XPS 13 9310. Pedimos desculpas por qualquer confusão que isso possa ter causado. Fique tranquilo, estamos verificando os detalhes do seu pedido.
+
+Para facilitar uma resolução rápida, você poderia, por favor, confirmar o número da fatura ou qualquer informação adicional da transação? Assim que recebermos, investigaremos e lhe forneceremos uma explicação para a variação do valor.
+
+Agradecemos sua paciência e estamos comprometidos em resolver isso rapidamente.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

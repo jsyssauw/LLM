@@ -1,0 +1,22 @@
+Ticket ID: ticket_3326
+Subject: Problema de conectividad con ISR4331
+Incident Type: Incident
+Customer Issue: Estimado Servicio al Cliente,
+
+Espero que este mensaje le encuentre bien. Le escribo para informarle que nuestro enrutador Cisco ISR4331 está experimentando problemas de conectividad intermitentes. Esto ha afectado significativamente el rendimiento de nuestra red empresarial y el acceso seguro. Le solicitamos amablemente su asistencia para resolver este problema lo antes posible.
+
+Gracias por su pronta atención a este asunto.
+
+Saludos cordiales,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a los problemas de conectividad con su enrutador Cisco ISR4331. Entendemos la importancia de un rendimiento de red confiable y el acceso seguro para su empresa. Nuestro equipo técnico está listo para ayudarle a resolver este problema rápidamente. ¿Podría proporcionar cualquier mensaje de error específico o cambios recientes en la configuración que puedan ayudar en nuestra investigación? Mientras tanto, asegúrese de que todas las conexiones físicas estén seguras y reinicie el enrutador si aún no lo ha hecho.
+
+Nuestro objetivo es resolver este asunto lo más rápido posible.
+
+Saludos cordiales,
+Equipo de Soporte al Cliente

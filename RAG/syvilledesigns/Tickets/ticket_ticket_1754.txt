@@ -1,0 +1,17 @@
+Ticket ID: ticket_1754
+Subject: Problème d'écran clignotant
+Incident Type: Incident
+Customer Issue: Bonjour Service Client,
+
+J'ai récemment mis à jour mon Dell XPS 13 9310 et je rencontre maintenant un clignotement d'écran intermittent qui affecte gravement l'utilisabilité. Ce problème a commencé immédiatement après la mise à jour. Je ne suis pas sûr s'il s'agit d'un problème matériel ou logiciel, mais j'ai besoin d'aide dès que possible. Merci de bien vouloir me donner des conseils sur le dépannage ou d'initier une réparation si nécessaire.
+
+Merci,
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Bonjour <name>,
+
+Merci de nous avoir contactés. Le problème d'écran clignotant pourrait être lié à la mise à jour récente. Veuillez essayer de réinstaller ou de mettre à jour votre pilote d'affichage. Si le problème persiste, veuillez effectuer une restauration du système à un point antérieur à la mise à jour. Pour une assistance supplémentaire ou pour organiser une réparation, contactez-nous au [Customer Support Hotline].
+
+Cordialement,
+L'équipe du Service Client

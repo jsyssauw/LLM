@@ -1,0 +1,5 @@
+Ticket ID: ticket_2357
+Subject: Solicitud de asistencia: Problema de parpadeo en la pantalla del portátil
+Incident Type: Incident
+Customer Issue: El cliente informa que la pantalla parpadea en el Dell XPS 13 9310. Por favor, proporcione asistencia de diagnóstico para resolver el problema rápidamente.
+Customer Service answer: Gracias por contactarnos. Por favor, revise si hay actualizaciones de software o de controladores a través del sitio web de Dell. Si el problema persiste, intente ajustar la frecuencia de actualización en la configuración de su pantalla. Háganos saber si se necesita más ayuda.

@@ -1,0 +1,33 @@
+Ticket ID: ticket_1810
+Subject: Probleme mit Screen Sharing in Zoom
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe Ihnen, um auf ein hartnäckiges Problem hinzuweisen, das wir mit Zoom Version 5.11.0 haben. Mein Team und ich haben erhebliche Schwierigkeiten mit der Bildschirmfreigabefunktion während Zoom-Anrufen. Dieses Problem beeinträchtigt unsere Zusammenarbeit und die Produktivität während Online-Meetings erheblich. Wir sind stark auf die Bildschirmfreigabe angewiesen, um komplexe Dokumente und Präsentationen gemeinsam durchzugehen. Die fehlerhafte Funktion hat zu Verzögerungen und Missverständnissen unter den Teammitgliedern geführt.
+
+Ich habe bereits einige erste Schritte zur Fehlerbehebung ausprobiert, wie das Zurücksetzen der Anwendung, die Überprüfung, ob die Software auf dem neuesten Stand ist, und die Überprüfung der Netzwerkbedingungen. Diese Maßnahmen haben jedoch das Problem nicht gelöst. Ich verstehe, dass Technologie nuanciert sein kann und gelegentlich Fehler auftreten, aber ich wäre Ihnen sehr dankbar für Hinweise zu weiteren Schritten, die wir unternehmen können, um dieses Problem effektiv zu beheben.
+
+Könnten Sie bitte technische Unterstützung leisten, um dieses Problem zu lösen? Wir freuen uns auf Lösungen oder Umgehungsmöglichkeiten, die Sie vorschlagen können.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<name>
+<tel_num>
+<email>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns bezüglich des Problems mit der Bildschirmfreigabe in Zoom Version 5.11.0 kontaktiert haben. Es tut mir leid zu hören, dass Ihr Team Schwierigkeiten hat. Um dies zu beheben, stellen Sie bitte sicher, dass Sie das neueste Zoom-Update haben, da kleinere Versionen wichtige Fehlerbehebungen enthalten können. Bitte beachten Sie auch:
+
+1. Überprüfen Sie die Einstellungen von Zoom bezüglich der Berechtigungen zur Bildschirmfreigabe und passen Sie die Grafikeinstellungen Ihres Computers an.
+2. Deaktivieren Sie alle unnötigen Anwendungen, die möglicherweise mit Zoom interferieren.
+3. Als Umgehungslösung könnten andere Teilnehmer gebeten werden, die Bildschirme zu teilen, um zu sehen, ob die Probleme bestehen bleiben.
+4. Überprüfen Sie, ob aktive Firewall- oder Antivirus-Konfigurationen die Funktionen von Zoom blockieren.
+
+Wenn das Problem weiterhin besteht, geben Sie bitte spezifische Fehlermeldungen oder Bedingungen während der Vorkommnisse an, um Ihnen weiterhelfen zu können.
+
+Zögern Sie nicht, sich zu melden, wenn Sie weitere Hilfe benötigen.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

@@ -1,0 +1,26 @@
+Ticket ID: ticket_1258
+Subject: Screen Flickering Issue with Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to report a screen flickering issue I've been experiencing with my high-performance Dell XPS 13 9310 laptop. The problem began a few days ago and has persisted despite rebooting and updating drivers. I rely heavily on this laptop for my work, and this issue is significantly affecting my productivity. Could you please advise on potential solutions or arrange for repair services?
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the screen flickering issue with your Dell XPS 13 9310. We recommend the following steps to troubleshoot this problem: 
+
+1. Perform a complete shutdown and restart of the laptop.
+2. Ensure all system updates are installed.
+3. Check if the issue persists in Safe Mode. If not, a third-party application might be causing the problem.
+4. Run diagnostics by pressing F12 during startup to identify any hardware issues.
+
+If the issue remains unresolved, please let us know, and we can arrange for repair services for your device under your account number <acc_num>. Your productivity is important to us.
+
+Best regards,
+Customer Support

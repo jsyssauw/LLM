@@ -1,0 +1,22 @@
+Ticket ID: ticket_1188
+Subject: Dringende Unterstützung benötigt: AWS-Dienstunterbrechung
+Incident Type: Incident
+Customer Issue: Sehr geehrtes IT-Services-Kundensupport-Team,
+
+ich hoffe, es geht Ihnen gut. Ich schreibe, um Sie über eine unerwartete Dienstunterbrechung zu informieren, die wir mit dem AWS Management Service erleben. Unser AWS-Überwachungssystem hat eine unerwartete Unterbrechung der Dienste angezeigt, die unsere Cloud-Zugänglichkeit und die allgemeine Produktivität erheblich beeinträchtigt. Diese Situation wirkt sich auf unseren Betrieb aus, und wir benötigen dringend Ihre technische Expertise, um diese Herausforderungen so schnell wie möglich zu lösen.
+
+Könnten Sie bitte dieses Problem beschleunigen und uns die notwendige Unterstützung zur Wiederherstellung des normalen Betriebs bereitstellen? Wir sind auf AWS für unsere täglichen Aktivitäten angewiesen, und jede Ausfallzeit beeinträchtigt unseren Arbeitsablauf und die Servicebereitstellung erheblich. Wir schätzen Ihre schnelle Reaktion auf diese Angelegenheit und freuen uns auf Ihre zügige Unterstützung bei der Wiederherstellung der vollen Funktionalität.
+
+Bitte zögern Sie nicht, mich unter <tel_num> zu kontaktieren oder mir eine E-Mail zurückzusenden, falls Sie weitere Diskussionen oder Klärungen benötigen. Vielen Dank für Ihre sofortige Aufmerksamkeit und Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank für Ihre Kontaktaufnahme. Wir verstehen die Dringlichkeit der Dienstunterbrechung, die Ihre AWS-Operationen betrifft. Unser technisches Team arbeitet bereits daran, die Ursache zu identifizieren und wird die Wiederherstellung der vollen Funktionalität Ihres AWS Management Service so schnell wie möglich priorisieren.
+
+Wir schätzen Ihre Geduld und werden Sie über den Fortschritt auf dem Laufenden halten. Wenn Sie weitere Fragen haben oder zusätzliche Unterstützung benötigen, zögern Sie bitte nicht, uns unter <tel_num> zu kontaktieren.
+
+Mit freundlichen Grüßen,
+Ihr IT-Services-Kundensupport-Team

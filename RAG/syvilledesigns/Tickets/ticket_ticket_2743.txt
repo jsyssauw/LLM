@@ -1,0 +1,5 @@
+Ticket ID: ticket_2743
+Subject: Consulta sobre discrepância de cobrança na AWS
+Incident Type: Incident
+Customer Issue: Olá Suporte ao Cliente, estou escrevendo para indagar sobre uma discrepância de cobrança na minha conta do AWS Management Service. Você poderia ajudar com uma análise de otimização de custos para minhas faturas recentes? Meu número de conta é <acc_num>. Por favor, entre em contato comigo pelo <tel_num>. Obrigado, <name>.
+Customer Service answer: Olá <name>, obrigado por entrar em contato sobre suas preocupações de cobrança da AWS. Vamos revisar sua conta e realizar uma análise de otimização de custos. Por favor, aguarde um acompanhamento em breve. Para assistência imediata, nos ligue em nossa linha de suporte. Sua paciência é apreciada.

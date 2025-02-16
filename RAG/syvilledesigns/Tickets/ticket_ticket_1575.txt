@@ -1,0 +1,36 @@
+Ticket ID: ticket_1575
+Subject: Asistencia necesaria para el problema de rendimiento del Dell XPS 13 9310
+Incident Type: Request
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Espero que este mensaje les encuentre bien. Estoy escribiendo para solicitar asistencia respecto a un problema de rendimiento que he estado experimentando con mi portátil Dell XPS 13 9310, que compré recientemente en su tienda en línea Tech. Se me aconsejó que contactara a su equipo de soporte para obtener asistencia, y espero que puedan proporcionar la ayuda necesaria para resolver este asunto.
+
+Desde que compré la portátil, he experimentado desaceleraciones significativas durante las operaciones regulares, incluso con aplicaciones básicas como navegar por Internet y utilizar software de productividad. Estos problemas están afectando mis actividades diarias y no cumplen con las expectativas de rendimiento de un dispositivo premium.
+
+He probado algunos pasos estándar de solución de problemas, como actualizar controladores y verificar conflictos de software, pero, desafortunadamente, estos no han resuelto el problema. Dado que mis conocimientos técnicos son limitados, agradecería mucho una guía detallada o pasos que podría seguir. Alternativamente, si pudieran informarme sobre opciones de reparación o servicio disponibles, sería muy apreciado.
+
+Para su referencia, la portátil fue comprada el <purchase_date>, y mi número de cuenta es <acc_num>. Por favor, háganme saber si necesitan más información de mi parte o si desean iniciar una solicitud de servicio de garantía.
+
+Muchas gracias por su atención. Espero con ansias su pronta asistencia para resolver los problemas de rendimiento de mi portátil.
+
+Atentamente,
+
+<name>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a los problemas de rendimiento con su Dell XPS 13 9310. Nos disculpamos por los inconvenientes que esto ha causado.
+
+Por favor, intente los siguientes pasos para mejorar el rendimiento:
+1. Desactive programas de inicio innecesarios (Administrador de tareas > pestaña de Inicio).
+2. Ejecute una verificación de rendimiento (menú de inicio > escriba "Monitor de Rendimiento").
+3. Actualice BIOS y controladores desde el sitio web oficial de Dell.
+
+Si estos pasos no ayudan, sugerimos realizar una prueba de diagnóstico completa utilizando Dell SupportAssist, que puede descargar desde el sitio web de Dell. Esto revisará problemas de hardware y optimizará la configuración del sistema.
+
+Como la portátil probablemente está bajo garantía, se puede iniciar una solicitud de servicio. Por favor, confirme si desea proceder con esto, y le guiaremos a través de los pasos necesarios.
+
+Para más ayuda, no dude en contactarnos directamente o proporcionarnos información adicional si es necesario.
+
+Saludos cordiales,
+Equipo de soporte al cliente

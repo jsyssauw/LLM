@@ -1,0 +1,31 @@
+Ticket ID: ticket_3451
+Subject: Urgente: Error 403 al acceder a la Consola de Administración de AWS
+Incident Type: Problem
+Customer Issue: Estimado equipo de soporte de servicios de TI,
+
+Estoy escribiendo para informar sobre un problema urgente con el servicio de administración de AWS. Nuestro equipo, liderado por <name>, actualmente no puede acceder a la Consola de Administración de AWS; estamos encontrando un Error 403. Este problema está afectando significativamente nuestras operaciones, y una rápida resolución es imperativa para evitar más interrupciones en el servicio. Sospechamos que el error podría estar relacionado con la configuración de permisos o problemas de cuenta y solicitamos amablemente su experiencia para verificar nuestra configuración de <acc_num> o cualquier otra causa probable.
+
+Por favor, háganos saber lo antes posible cómo proceder. Puede comunicarse con nosotros al <tel_num> o enviarme un correo electrónico directamente a <email>. Su respuesta inmediata será muy apreciada.
+
+Gracias por su atención a este asunto urgente.
+
+Atentamente,
+
+<name>
+<position>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por ponerte en contacto. Entendemos la urgencia del problema de Error 403 que afecta el acceso a su Consola de Administración de AWS. Normalmente, este error indica un problema relacionado con los permisos o la configuración de la cuenta.
+
+Para comenzar a solucionar el problema, por favor asegúrese de:
+1. Que su usuario/grupo IAM tenga los permisos de acceso necesarios configurados correctamente.
+2. Que la autenticación multifactor y los detalles de inicio de sesión estén actualizados.
+3. Verificar el estado de cualquier cuenta de facturación asociada.
+
+Investigaremos de inmediato la configuración de su <acc_num> para identificar y resolver cualquier discrepancia que pueda estar causando el error de acceso. Nuestro equipo se pondrá en contacto contigo en breve para más asistencia. Mientras tanto, no dude en llamarnos al <support_tel_num>.
+
+Gracias por su paciencia y comprensión.
+
+Atentamente,
+
+Equipo de Mesa de Ayuda

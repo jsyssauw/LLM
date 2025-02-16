@@ -1,0 +1,26 @@
+Ticket ID: ticket_2038
+Subject: Request for exchange of incorrect model
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I recently purchased a Canon PIXMA MG3620 from Tech Online Store, but unfortunately, I received an incorrect model. My order details are as follows: Order ID: <order_id>, purchased under the account registered with the email <email>. I was expecting the Canon PIXMA MG3620, but the model delivered does not match my purchase.
+
+I kindly request an exchange for the correct model at the earliest convenience. Please let me know the steps to resolve this issue or if any additional information is needed. I appreciate your prompt attention to this matter.
+
+Thank you,
+<name>,
+Contact: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the issue with your recent order. We sincerely apologize for the inconvenience caused by receiving the incorrect model.
+
+To facilitate an exchange for the correct Canon PIXMA MG3620 model, please follow these steps:
+1. Confirm if the package was marked incorrectly from the start using your Order ID: <order_id>.
+2. Prepare the incorrect model for return in its original packaging, if possible.
+3. Contact our logistics partner using the tracking details sent to your registered email <email> for pickup and further instructions.
+4. Once we receive the incorrect model, we will expedite the shipment of the correct model at no extra cost.
+
+Should you need further assistance, feel free to contact us at any time. We value your patience and will work swiftly to resolve this.
+
+Best regards,
+Customer Support Team

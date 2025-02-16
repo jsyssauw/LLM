@@ -1,0 +1,15 @@
+Ticket ID: ticket_2200
+Subject: Problème avec le MacBook Air M1
+Incident Type: Incident
+Customer Issue: Cher service client, 
+
+J'ai un problème avec mon MacBook Air M1. Malgré le chargement complet de la batterie, l'appareil ne s'allume pas. Merci de me conseiller sur la manière de résoudre ce problème.
+
+Merci,
+<name>
+Customer Service answer: Cher <name>,
+
+Veuillez essayer d'effectuer un redémarrage forcé en maintenant le bouton d'alimentation enfoncé pendant 10 secondes. Si le problème persiste, connectez le MacBook à l'alimentation et répétez. S'il ne s'allume toujours pas, une visite à un Apple Store ou à un fournisseur de services agréé est recommandée.
+
+Cordialement,
+Service client

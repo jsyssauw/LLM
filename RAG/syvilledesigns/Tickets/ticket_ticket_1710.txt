@@ -1,0 +1,35 @@
+Ticket ID: ticket_1710
+Subject: Subscription Fee Clarification
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support, 
+
+I hope this message finds you well. I am reaching out today to gain some clarity regarding the recent billing statements connected to my subscription for Adobe Photoshop 2024. Upon reviewing my account, I noticed some discrepancies which have left me a bit confused. It seems that the fees have changed unexpectedly and I have not received any prior notice or explanation for these alterations. 
+
+My subscription account number is <acc_num>, and I usually handle the payments via my card ending with <card_num>. Given the shift in billing amounts, I would appreciate if you could provide a detailed explanation or direct me to where I might find documentation or communication regarding this change. It is crucial for me to manage my financial planning effectively, and understanding these charges is a vital part of it. 
+
+Moreover, if there are any ongoing promotions or alternative subscription options that I might take advantage of, I would appreciate hearing about those too. 
+
+Thank you for your assistance. I look forward to your prompt clarification on this matter. Please feel free to contact me via email or at my phone number <tel_num>. 
+
+Best regards, 
+
+<name>
+Customer Service answer: Subject: Re: Subscription Fee Clarification
+
+Dear <name>,
+
+Thank you for reaching out to us. I understand your concern regarding the billing changes for your Adobe Photoshop 2024 subscription. I apologize for any inconvenience this may have caused.
+
+I have checked your account <acc_num> and it seems there was a change in our pricing structure. An email notification was sent out prior to the change, but it might have ended up in your spam or promotions folder. I recommend checking those folders just in case.
+
+For detailed documentation and communication regarding the change, please visit our website and navigate to the subscription section for updates on policy and fee changes.
+
+Regarding ongoing promotions or alternative subscription options, we do have some offers available. You can view these in the promotions section on our website or contact our sales team for personalized advice.
+
+Feel free to reach out to us again if you need further assistance, either via this email or at our customer service hotline.
+
+We appreciate your understanding and cooperation.
+
+Best regards,
+
+Tech Online Store Customer Support

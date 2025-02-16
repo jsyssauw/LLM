@@ -1,0 +1,29 @@
+Ticket ID: ticket_810
+Subject: Problemas de batería y sobrecalentamiento del Surface Pro 7
+Incident Type: Incident
+Customer Issue: Estimado Servicio de Atención al Cliente de Tech Online Store,
+
+Espero que este mensaje te encuentre bien. Me pongo en contacto para informar sobre un problema repentino con mi Microsoft Surface Pro 7, que he experimentado en los últimos días. El dispositivo, que aún está en garantía, está sufriendo un rápido drenaje de la batería y sobrecalentamiento durante el uso básico como navegar y procesar textos.
+
+Anteriormente, la batería duraba numerosas horas con una carga completa, pero ahora lucha por mantener la energía incluso durante un par de horas. Además, el dispositivo se calienta sorprendentemente al tacto después de un uso corto. Este cambio en el rendimiento despierta mi preocupación por la longevidad del producto.
+
+Solicito amablemente su asistencia para abordar este problema lo antes posible. ¿Cuáles son los pasos para iniciar una solicitud de servicio y soy elegible para un reemplazo o reparación bajo garantía?
+
+Gracias por su apoyo.
+
+Saludos cordiales,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con nosotros sobre los problemas de tu Microsoft Surface Pro 7. Entiendo tu preocupación y estoy aquí para ayudarte.
+
+Dado que tu dispositivo está experimentando un rápido drenaje de la batería y sobrecalentamiento mientras está en garantía, es ciertamente elegible para servicio. Para iniciar una solicitud de servicio, visita nuestro sitio web y navega a la sección 'Soporte' donde encontrarás la opción 'Garantía y Reparación'. Sigue los pasos guiados para llenar un formulario de solicitud de servicio. Ten lista tu prueba de compra y el número de serie del dispositivo, ya que estos pueden ser necesarios durante el proceso.
+
+Una vez que tu solicitud sea enviada, nuestro equipo técnico evaluará los detalles para determinar si es necesaria una reparación o un reemplazo según los términos de garantía.
+
+Para asistencia inmediata o cualquier otra consulta, no dudes en contactar a nuestra línea de atención al cliente al <tel_num>.
+
+Estamos aquí para asegurarnos de que tu Surface Pro 7 se restaure a condiciones óptimas.
+
+Saludos cordiales,
+Equipo de Atención al Cliente de Tech Online Store

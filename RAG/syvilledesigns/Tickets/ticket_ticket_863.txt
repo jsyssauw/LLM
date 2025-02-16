@@ -1,0 +1,45 @@
+Ticket ID: ticket_863
+Subject: Assistance Needed for Jira Setup
+Incident Type: Request
+Customer Issue: Hello Customer Support Team,
+
+I hope this message finds you well. I am reaching out to request assistance with the setup of the Jira ticket system, which we intend to use for Scrum project management within my team. We are currently working with Jira Software 8.20 and need guidance on configuring it to align with our project management needs effectively.
+
+The main areas where we require support include establishing a streamlined workflow for our Scrum sprints, setting up user permissions accurately to ensure that everyone on the team has the necessary access, and customizing the project's boards to reflect our development processes. Additionally, any tips on optimizing Jira for sprint reviews and retrospectives would be greatly appreciated.
+
+Could you let us know the best way to approach this within the current version we are using? Moreover, if there's an existing documentation or a support guide that could facilitate our setup, that would be tremendously helpful. If needed, I am available for a call at <tel_num> to discuss this further.
+
+Thank you for your support and looking forward to your guidance.
+
+Kind regards,
+
+<name>
+Customer Service answer: Subject: Assistance for Jira Setup
+
+Hello <name>,
+
+Thank you for reaching out to us. We are happy to assist you with setting up Jira Software 8.20 for your Scrum project management needs.
+
+To establish a streamlined workflow for your Scrum sprints, we recommend:
+1. Defining your project workflow and using Jira’s inbuilt templates to customize it accordingly.
+2. Creating custom issue types if needed for different stages of your development process.
+
+For setting up user permissions:
+1. Navigate to the 'User Management' section to assign roles and permissions to ensure everyone has appropriate access. Jira permissions are essential for security and efficiency.
+
+Customization of project boards:
+1. Use the 'Board Settings' to configure columns and swimlanes based on your development process.
+2. Filter cards using JQL to match specific requirements.
+
+For optimizing Jira for sprint reviews and retrospectives:
+1. Utilize the 'Reports' section for sprint review metrics.
+2. Consider setting up a Confluence page linked to your board for capturing retrospective insights.
+
+We recommend reviewing the Jira Software 8.20 documentation available on the Atlassian website. It includes setup guides and best practices.
+
+If you need further assistance, please feel free to reach us at your convenience. Alternatively, let's schedule a call at your earliest availability.
+
+Thank you for choosing us to help with your setup. We're here to ensure you have the best experience.
+
+Best regards,
+Customer Support Team

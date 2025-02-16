@@ -1,0 +1,15 @@
+Ticket ID: ticket_3635
+Subject: Fehlerbericht zum Lenovo IdeaPad 5 - Dringende Unterstützung benötigt
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich möchte einen defekten Akku meines kürzlich erworbenen Lenovo IdeaPad 5 melden. Trotz häufiger Benutzung hat die Akkuleistung deutlich nachgelassen. Bitte lassen Sie mich wissen, welche Möglichkeiten zur Reparatur oder zum Austausch bestehen. Meine Kontonummer ist <acc_num>.
+
+Vielen Dank,
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+wir danken Ihnen für Ihre Kontaktaufnahme bezüglich des Akku-Problems Ihres Lenovo IdeaPad 5. Wir bedauern die entstandenen Umstände. Bitte geben Sie uns Ihr Kaufdatum, den aktuellen Zustand des Akkus sowie alle von Ihnen vorgenommenen Fehlerbehebungen bekannt. Dann werden wir das Vorgehen für die Reparatur oder den Austausch einleiten.
+
+Mit freundlichen Grüßen,
+Kundenservice

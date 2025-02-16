@@ -1,0 +1,26 @@
+Ticket ID: ticket_3657
+Subject: Printer Wi-Fi Connection Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am experiencing an issue with my Epson EcoTank ET-4760 printer, which is not printing wirelessly. I need assistance in reconnecting it to the Wi-Fi network. Please provide step-by-step guidance to resolve this issue at your earliest convenience.
+
+Thank you for your support.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+To reconnect your Epson EcoTank ET-4760 printer to Wi-Fi, follow these steps: 
+
+1. On your printer, press the 'Home' button, then navigate to and select 'Wi-Fi Setup'.
+2. Choose 'Wi-Fi Setup Wizard' from the list.
+3. Select your Wi-Fi network name (SSID) from the list provided.
+4. Enter your Wi-Fi password correctly when prompted and confirm.
+5. Wait for the printer to confirm the connection.
+
+If issues persist, restart your router and try again. Let us know if you need further assistance!
+
+Best regards,  
+Customer Support

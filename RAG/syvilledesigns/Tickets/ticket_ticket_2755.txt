@@ -1,0 +1,28 @@
+Ticket ID: ticket_2755
+Subject: Jira Workflow Change Request
+Incident Type: Change
+Customer Issue: Dear Customer Support Team,
+
+I am writing to request a workflow change in our current Jira system to enhance task tracking within our project management framework. We are using Jira Software 8.20, and have noticed that the existing workflow does not fully meet our team's needs for efficient task management. 
+
+We suggest implementing more granular status updates and additional fields to better categorize tasks and priorities. This improvement is crucial for maintaining optimal productivity and ensuring timely project deliveries. We understand such changes need careful consideration, and thus, we are open to any interim solutions you might propose.
+
+Please let us know the next steps in proceeding with the customization. You can contact me any time at <tel_num>. 
+
+Thank you for your attention to this matter.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the workflow change request for your Jira Software 8.20. We understand the importance of optimizing task tracking for better project management and are here to assist you with this enhancement.
+
+To proceed, please provide us with a detailed outline of the specific changes you wish to implement, including the desired status updates and additional fields. This information will help us evaluate the customization requirements and ensure compatibility with your current system.
+
+Once we receive these details, our team will review the proposed changes and discuss any interim solutions that may benefit your team during the transition. We appreciate your willingness to collaborate and will strive to implement the most efficient solution to improve your workflow.
+
+Feel free to reach out at <tel_num> with any further questions or clarifications needed. We look forward to supporting you in this endeavor.
+
+Best regards,
+Customer Support Team

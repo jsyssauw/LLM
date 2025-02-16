@@ -1,0 +1,30 @@
+Ticket ID: ticket_2400
+Subject: Frequent Disruptions in Cloud Services
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I am writing to express concern over the frequent disruptions we have been experiencing with the managed cloud servers, specifically related to the AWS Management Service provided by your company. These interruptions are severely impacting our critical operational workflows and causing repeated delays for our end-users. As an enterprise that relies heavily on these services for seamless day-to-day functions, any disruption leads to significant operational setbacks and customer dissatisfaction on our end.
+
+The reliability of our operations is contingent upon stable and reliable service availability, and these persistent issues undermine our ability to meet our objectives and service commitments to our own clients. I would greatly appreciate it if you could look into this matter urgently, as maintaining high service continuity is crucial for us.
+
+Could you please provide any insights into the root causes of these disruptions, potential timelines for resolution, or any ongoing measures your team is already taking to mitigate these issues? Understanding these factors will help us to manage our internal processes better and set realistic expectations with our stakeholders.
+
+Thank you for your attention to this urgent matter. I look forward to your prompt response, outlining how you plan to address these outages and any available interim solutions.
+
+Best regards,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us and bringing the issue to our attention. We apologize for the inconvenience these disruptions have caused your operations. Our team is currently investigating the root causes of the interruptions with the AWS Management Service to ensure a quick resolution and prevent future occurrences.
+
+We are working diligently on implementing necessary measures to restore stable service promptly. In the meantime, we are coordinating with key personnel to explore interim solutions to support your operational needs.
+
+We will update you with a detailed progress report and potential timelines for resolution shortly. We appreciate your patience and understanding while we address this matter with the urgency it deserves.
+
+Please let us know if there's anything more we can do to assist you during this period.
+
+Best regards,
+Customer Support Team

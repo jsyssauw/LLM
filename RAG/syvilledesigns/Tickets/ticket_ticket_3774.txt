@@ -1,0 +1,9 @@
+Ticket ID: ticket_3774
+Subject: Anfrage zum Austausch des HP DeskJet 3755 Druckers
+Incident Type: Request
+Customer Issue: Sehr geehrter Support des Tech Online Stores, ich möchte einen Austausch für meinen HP DeskJet 3755 Drucker anfragen. Er hat häufig Papierstaus und die Druckqualität ist inkonsistent. Bitte leiten Sie mich bezüglich der nächsten Schritte für den Austausch dieses Produkts. Vielen Dank, <name>.
+Customer Service answer: Sehr geehrter <name>, 
+Vielen Dank, dass Sie sich gemeldet haben. Es tut uns leid zu hören, dass Sie Probleme mit Ihrem HP DeskJet 3755 Drucker haben. Bitte geben Sie Ihre Bestellnummer und weitere Details an oder rufen Sie uns unter <tel_num> an, um Unterstützung beim Austauschprozess zu erhalten.
+
+Mit freundlichen Grüßen,
+Support des Tech Online Stores

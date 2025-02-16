@@ -1,0 +1,30 @@
+Ticket ID: ticket_3366
+Subject: Problema con la consistencia del audio en Zoom 5.11.0
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Espero que este mensaje les encuentre bien. Me pongo en contacto para llamar su atención sobre un problema que he encontrado con la consistencia del audio durante mis reuniones en línea usando Zoom versión 5.11.0, que compré a través de su tienda en línea Tech. A pesar de las numerosas excelentes características del software, los problemas de audio han sido bastante persistentes.
+
+Más específicamente, el audio se corta intermitentemente, lo que interrumpe significativamente el flujo de las reuniones y hace que sea particularmente complicado comunicarse de manera efectiva. He intentado múltiples soluciones, como verificar mi conexión a internet y asegurarme de que mi micrófono y altavoces funcionen correctamente, pero el problema persiste. Agradecería cualquier orientación o pasos de solución de problemas que puedan proporcionarme para resolver estos problemas.
+
+Si es necesario, estoy dispuesto a proporcionar más detalles sobre las especificaciones de mi dispositivo o realizar cualquier diagnóstico sugerido. Por favor, háganme saber cómo puedo ayudarles más en abordar este asunto. Gracias por su tiempo y apoyo.
+
+Saludos cordiales,
+
+<name>
+<email_address>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con respecto a los problemas de consistencia del audio con Zoom 5.11.0. Nos disculpamos por los inconvenientes. Aquí hay algunos pasos que podrías intentar:
+
+1. Actualiza Zoom a la última versión para asegurarte de que se apliquen todas las correcciones de errores recientes.
+2. Prueba la configuración de audio dentro de Zoom: Ve a Configuración > Audio y prueba los volúmenes del altavoz y del micrófono.
+3. Intenta utilizar un dispositivo de audio diferente para ver si el problema persiste.
+4. Desactiva las aplicaciones de fondo que puedan utilizar tu ancho de banda.
+
+Si estos pasos no resuelven el problema, por favor proporciona las especificaciones de tu dispositivo para más asistencia. Estamos aquí para ayudar y podemos guiarte a través de diagnósticos adicionales si es necesario.
+
+Atentamente,
+
+Equipo de soporte al cliente

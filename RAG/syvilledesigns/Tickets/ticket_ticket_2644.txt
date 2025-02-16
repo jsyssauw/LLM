@@ -1,0 +1,5 @@
+Ticket ID: ticket_2644
+Subject: Rencontrez des problèmes de qualité vidéo lors des réunions du client Zoom
+Incident Type: Problem
+Customer Issue: Aide urgente nécessaire pour les problèmes vidéo de Zoom 5.11.0.
+Customer Service answer: Veuillez mettre à jour Zoom et ajuster les paramètres vidéo pour améliorer la qualité. Faites-nous savoir si les problèmes persistent.

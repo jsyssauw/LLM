@@ -1,0 +1,24 @@
+Ticket ID: ticket_3277
+Subject: Problemas con la impresora Canon PIXMA MG3620
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte de Tech Online Store,
+
+Me dirijo a ustedes para informar sobre varios problemas con una compra reciente en su tienda, la Canon PIXMA MG3620. Hemos encontrado atascos de papel frecuentes durante múltiples trabajos de impresión, lo que interrumpe significativamente nuestro flujo de trabajo. Además, la impresora no realiza impresión dúplex como se anunciaba, lo que reduce aún más la eficiencia de nuestras operaciones.
+
+Dado que estos problemas afectan nuestra productividad, agradeceríamos asistencia urgente. Si se requiere un reemplazo o reparación, por favor asesoren sobre los pasos necesarios.
+
+Espero su pronta respuesta para ayudarnos a resolver estos problemas.
+
+Gracias por su atención.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos con respecto a los problemas con su impresora Canon PIXMA MG3620. Nos disculpamos por los inconvenientes causados. Para resolver los atascos de papel y los problemas de impresión dúplex, recomendamos realizar un chequeo manual exhaustivo en busca de obstrucciones y asegurarse de que el papel esté bien cargado. Si los problemas persisten, comuníquese con nosotros para un reemplazo o reparación. Contáctenos en [support email/phone number] con los detalles de su pedido de compra o recibo, y aceleraremos el proceso.
+
+Gracias por su paciencia.
+
+Atentamente,
+Equipo de soporte de Tech Online Store

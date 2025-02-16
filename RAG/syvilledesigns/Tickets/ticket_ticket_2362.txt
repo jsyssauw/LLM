@@ -1,0 +1,30 @@
+Ticket ID: ticket_2362
+Subject: Problema del Cliente con el Acceso al Servidor
+Incident Type: Incident
+Customer Issue: Hola,
+
+Estoy escribiendo para informar sobre un problema encontrado por nuestro cliente, <name>. Han estado experimentando problemas para acceder a ciertas funcionalidades del servidor, lo que ha resultado en un tiempo de inactividad operacional para sus soluciones de software. Este problema afecta particularmente a nuestro Servicio de Consultoría de TI. Actualmente, está causando considerables inconvenientes y un posible impacto financiero.
+
+Nuestro cliente ha expresado que al intentar utilizar las operaciones estándar del servidor, reciben mensajes de error que interrumpen su flujo de trabajo. Parece que podría haber una discrepancia en sus permisos de acceso al servidor, o posiblemente un fallo temporal en las operaciones del servidor.
+
+Por favor, prioriza este problema para una resolución rápida y restaurar la eficiencia del servicio de nuestro cliente. Si es necesario, puedo proporcionar detalles adicionales de los registros de interacción o conectarte directamente con el equipo técnico del cliente.
+
+Gracias por tu pronta atención a este asunto urgente. Nuestro cliente realmente valora la fiabilidad de tus servicios y espera ver las funcionalidades del servidor completamente restauradas pronto.
+
+Saludos cordiales,
+
+<name>
+Departamento de TI
+<company>
+Customer Service answer: Hola,
+
+Gracias por contactarnos sobre el problema de acceso al servidor que está experimentando <name>. Entendemos la importancia de resolver esto rápidamente para minimizar el tiempo de inactividad operativo y el posible impacto financiero.
+
+Nuestro equipo técnico está priorizando actualmente este caso y está analizando los permisos de acceso y las operaciones del servidor para identificar la causa raíz de los mensajes de error. Te mantendremos informado sobre nuestro progreso y nuestro objetivo es restaurar la funcionalidad completa lo más rápido posible.
+
+Mientras tanto, no dudes en enviar cualquier detalle adicional o conectarnos con el equipo técnico del cliente si es necesario. Tu colaboración es apreciada para asegurar una resolución rápida.
+
+Estamos comprometidos a mantener la fiabilidad que esperas de nuestros servicios.
+
+Saludos cordiales,
+Equipo de Servicio al Cliente

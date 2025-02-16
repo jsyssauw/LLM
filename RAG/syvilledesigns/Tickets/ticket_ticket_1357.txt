@@ -1,0 +1,21 @@
+Ticket ID: ticket_1357
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear Customer Service,
+
+I am facing a problem with charging my MacBook Air M1. It appears that the charger is not functioning as it should, and the device is not receiving any power. I would appreciate your guidance on how to fix this issue.
+
+Sincerely,
+<name>
+Customer Service answer: Dear <name>,
+
+We regret to hear about the situation. Kindly follow these steps: 
+1. Confirm that the charger is securely plugged in.
+2. Utilize an outlet that is known to be operational.
+3. Inspect the charging port for any obstructions.
+4. Perform a System Management Controller (SMC) reset.
+
+Should the issue continue, please reach out to Apple Support.
+
+Best regards,
+Customer Service

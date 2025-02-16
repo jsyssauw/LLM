@@ -1,0 +1,25 @@
+Ticket ID: ticket_2470
+Subject: Problema de Cobrança: Renovação da Assinatura do Adobe Photoshop
+Incident Type: Problem
+Customer Issue: Caro Equipe de Suporte ao Cliente,
+
+Espero que esta mensagem os encontre bem. Estou escrevendo para expressar minha preocupação em relação a um problema de cobrança com a renovação da minha assinatura do Adobe Photoshop 2024. Apesar de várias tentativas, parece que o pagamento não foi processado corretamente. Como resultado, não consigo acessar os recursos associados à renovação, o que está afetando meu fluxo de trabalho.
+
+Meu número da conta é <acc_num>. Verifiquei que meus dados de pagamento estão atualizados e que há fundos suficientes disponíveis. No entanto, o problema persiste. Por favor, ajudem a resolver esta questão assim que possível.
+
+Além disso, eu apreciaria orientações sobre quaisquer etapas alternativas que eu pudesse tomar para garantir o processamento suave de pagamentos futuros.
+
+Obrigado pela sua atenção a este problema. Você pode me contatar em <tel_num> se mais informações forem necessárias.
+
+Atenciosamente,
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato com sua preocupação sobre cobrança em relação à renovação da sua assinatura do Adobe Photoshop 2024. Pedimos desculpas por qualquer inconveniente que isso possa ter causado.
+
+Após revisar sua conta (<acc_num>), parece que pode haver um problema com o sistema de processamento de pagamentos. Estamos trabalhando para resolver isso o mais rápido possível. Enquanto isso, por favor, tente as seguintes etapas alternativas: verifique seu método de pagamento novamente, use um cartão diferente se disponível, ou tente uma renovação manual através do site da Adobe.
+
+Nossa equipe entrará em contato diretamente com você em <tel_num> assim que o problema for resolvido. Agradecemos sua paciência.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

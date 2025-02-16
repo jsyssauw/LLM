@@ -1,0 +1,35 @@
+Ticket ID: ticket_1846
+Subject: Connectivity Issues with Zoom 5.11.0 Affecting Screen Sharing
+Incident Type: Incident
+Customer Issue: Dear Customer Support, 
+
+I hope this message finds you well. I am writing to report persistent connectivity issues I have been experiencing with the Zoom 5.11.0 application during video conferences. These disruptions specifically affect my ability to share screens seamlessly, as the feature gets interrupted multiple times during meetings, which significantly hinders productivity and communication effectiveness. 
+
+This issue has started recently, and adjusting the network settings has not alleviated the problem. I rely heavily on Zoom for work-based interactions, and these connectivity problems are posing a challenge to participate efficiently in discussions and presentations.  
+
+I kindly request your assistance in investigating this matter further. I believe a solution from the technical team at 'Tech Online Store' might be required, as previous updates have not resolved the situation. If possible, an immediate recommendation or a patch to address this problem would be greatly appreciated.  
+
+Thank you for your prompt attention to this matter. I look forward to your swift response.
+
+Warm regards, 
+
+<name>
+
+Contact Information: 
+Phone: <tel_num>
+Order ID: <acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the connectivity issues with Zoom 5.11.0. We understand how important seamless communication is for your work.
+
+Firstly, please ensure that you have the latest Zoom version, as updates often fix existing bugs. Additionally, consider the following steps:
+
+1. Restart your router to refresh the network connection.
+2. Disable any VPNs during use with Zoom.
+3. Update your video drivers if necessary.
+4. Ensure that no other devices are heavily using the network bandwidth at the same time.
+   
+If these steps do not resolve the issue, we recommend contacting the technical team at 'Tech Online Store' for further assistance. We appreciate your patience and are committed to helping you restore optimal functionality.
+
+Best regards,
+Customer Support Team

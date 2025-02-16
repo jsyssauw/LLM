@@ -1,0 +1,15 @@
+Ticket ID: ticket_2856
+Subject: Asistencia Necesaria con el Teclado del Surface Pro 7
+Incident Type: Request
+Customer Issue: Estimado Cliente del Soporte Técnico de la Tienda en Línea,
+
+Recientemente compré un Microsoft Surface Pro 7 y tengo problemas para configurar el teclado desmontable. ¿Puede proporcionar instrucciones detalladas o consejos de solución de problemas para ayudarme a hacerlo funcionar? Su pronta ayuda para resolver este problema sería muy apreciada. Mi número de cuenta es <acc_num>. Por favor, contácteme al <tel_num> o por correo electrónico para cualquier información adicional.
+
+Gracias,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Por favor, intente lo siguiente: asegúrese de que los pines del conector del teclado estén limpios y alineados, reinicie su Surface Pro 7, verifique e instale cualquier actualización disponible yendo a Configuración > Actualización y Seguridad, y finalmente, desacople y vuelva a acoplar el teclado de manera segura. Si los problemas persisten, por favor contáctenos directamente a este correo electrónico o llame al <tel_num>.
+
+Saludos cordiales,
+Soporte al Cliente de la Tienda en Línea

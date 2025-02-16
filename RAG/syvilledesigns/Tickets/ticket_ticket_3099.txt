@@ -1,0 +1,32 @@
+Ticket ID: ticket_3099
+Subject: Examen nécessaire sur la facturation de Slack
+Incident Type: Problem
+Customer Issue: Cher équipe de support client, 
+
+Je me permets de vous contacter pour signaler un problème concernant la facturation de notre espace de travail Slack. En examinant notre dernière facture, j'ai remarqué plusieurs frais inhabituels figurant sous les frais de faible priorité pour les services de collaboration, en particulier associés à la version Slack 4.23.0.
+
+Les frais semblent incohérents avec notre structure de facturation habituelle, et cette différence nécessite un examen plus approfondi. Notre numéro de compte est <acc_num>. Nous avons utilisé vos services sans aucun problème jusqu'à présent, et cette anomalie inattendue a soulevé certaines inquiétudes au sein de notre équipe.
+
+Pourriez-vous s'il vous plaît fournir une répartition détaillée de ces frais ? De plus, il serait utile que vous précisiez pourquoi ces frais ont été appliqués et, si possible, de décrivez les ajustements ou remboursements qui pourraient être applicables.
+
+Nous comptons fortement sur une facturation cohérente et transparente pour gérer efficacement nos budgets opérationnels. Il est impératif de résoudre ce problème rapidement pour éviter toute perturbation de nos processus de collaboration.
+
+Merci de votre aide. N'hésitez pas à me contacter au <tel_num> ou par e-mail à <name>@company.com. J'attends votre réponse rapide.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés et d'avoir porté cette préoccupation de facturation à notre attention. Nous nous excusons pour toute confusion ou inconvénient causé par les frais inattendus sur votre dernière facture Slack.
+
+Nous avons bien reçu votre demande concernant les frais inhabituels associés à la version 4.23.0 et nous allons procéder à un examen approfondi de votre compte <acc_num> afin de fournir la répartition détaillée et les raisons de ces frais.
+
+Notre équipe enquête déjà sur la question et reviendra vers vous avec une explication claire ainsi que tout ajustement ou remboursement potentiel qui pourrait s'appliquer, une fois notre analyse terminée.
+
+Assurer une facturation transparente et précise est une priorité pour nous, et nous visons à résoudre ce problème rapidement pour soutenir vos besoins de collaboration optimaux.
+
+Merci de votre patience et compréhension. Nous vous contacterons bientôt via le numéro de téléphone fourni <tel_num> ou par e-mail <name>@company.com.
+
+Cordialement,
+Équipe de support client

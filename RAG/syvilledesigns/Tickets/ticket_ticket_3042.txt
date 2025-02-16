@@ -1,0 +1,38 @@
+Ticket ID: ticket_3042
+Subject: Issue Report: Dell XPS 13 Overheating During Usage
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to report a persistent issue I've been experiencing with my recently purchased Dell XPS 13 9310. During regular usage, the laptop tends to overheat significantly, creating not only discomfort while using but also leading to noticeable reductions in performance. This overheating occurs even with tasks that should be relatively low-intensity.
+
+When I opted for the Dell XPS 13 9310, I was hoping to find a reliable and efficient device that could handle my computing needs smoothly. However, this persistent overheating issue has become quite a frustration and impacts my daily work routine.
+
+I would appreciate your guidance on the matter. Could you please provide instructions on how to resolve or troubleshoot this overheating problem? Alternatively, if necessary, I would like to discuss possible options for repair or replacement. Your prompt assistance in this situation would be highly appreciated.
+
+Thank you for your understanding and support.
+
+Best regards,
+
+<name>
+
+<acc_num>
+
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the overheating issue with your Dell XPS 13 9310. I understand how frustrating this can be and I'm here to help.
+
+To begin troubleshooting, you might consider the following steps:
+1. Ensure the laptop's vents are not blocked and are clean, allowing for airflow.
+2. Use the Dell Power Manager application to adjust thermal management settings to "Cool" to reduce performance for better cooling.
+3. Make sure your laptop's BIOS and drivers are up-to-date, as updates can improve system stability and efficiency.
+
+If these steps do not resolve the issue, we can look into repair or replacement options. Please reach out to us with your purchase information mentioned along with your <acc_num> prepared, and I can assist you further to address this problem swiftly.
+
+Your prompt assistance in this situation is our priority.
+
+Thank you for your patience and understanding.
+
+Best regards,
+[Your Name]
+Customer Support

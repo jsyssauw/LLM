@@ -1,0 +1,35 @@
+Ticket ID: ticket_1269
+Subject: Solicitud de Cambios en la Configuración del Servidor
+Incident Type: Change
+Customer Issue: Estimado Equipo de Soporte al Cliente,
+
+Espero que este mensaje los encuentre bien. Durante una reciente sesión de consultoría de TI con su empresa, se recomendó realizar ciertos cambios en la configuración de nuestro servidor para mejorar tanto el rendimiento como la seguridad. Encontramos estas sugerencias prometedoras y estamos ansiosos por implementarlas a la mayor brevedad posible.
+
+¿Podríamos programar una sesión en su primera disponibilidad para guiarnos a través de estos cambios, asegurándonos de que los ajustes se implementen de manera correcta y sólida? Agradeceríamos que confirmaran su próximo horario disponible para una sesión remota o en el sitio, según la preferencia de su equipo.
+
+Asegurar que nuestros sistemas estén optimizados es una alta prioridad, y cualquier información adicional o recomendaciones que puedan tener para mejoras continuas serían muy apreciadas.
+
+Por favor contáctenme directamente al <tel_num> o a través de mi correo electrónico en cualquier momento para una discusión adicional.
+
+Gracias por su pronta atención a este asunto.
+
+Atentamente,
+
+<name>
+
+Empresa: <company_name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Nos complace saber que está interesado en implementar los cambios recomendados en la configuración del servidor. Podemos programar una sesión para guiarlo a través del proceso y asegurar que todo esté optimizado de manera efectiva.
+
+Por favor, háganos saber sus fechas y horarios preferidos para la sesión, y organizaremos nuestra agenda en consecuencia. Podemos ofrecer sesiones remotas y en el sitio, según lo que mejor se adapte a sus necesidades.
+
+Nuestro equipo también estará listo para proporcionar cualquier información adicional o recomendaciones para mejoras continuas en el sistema. Nos comprometemos a garantizar que sus sistemas funcionen con el máximo rendimiento y seguridad.
+
+No dude en contactarnos si tiene más preguntas o si requiere asistencia inmediata.
+
+Esperamos trabajar con usted.
+
+Atentamente,
+
+<Equipo de Soporte al Cliente>

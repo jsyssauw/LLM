@@ -1,0 +1,15 @@
+Ticket ID: ticket_2598
+Subject: MacBook Air Screen Issue
+Incident Type: Incident
+Customer Issue: Hello,
+
+I am experiencing intermittent screen flickering on my MacBook Air M1 during video playback, which affects usage. I have not made any recent changes to the system. Could you please provide guidance on resolving this issue? Thank you.
+
+Best,
+<name>
+Customer Service answer: Hello <name>,
+
+I'm sorry to hear about the screen flickering on your MacBook Air M1. Try these steps to resolve the issue: 1) Restart your MacBook. 2) Ensure your macOS is up to date. 3) Reset the NVRAM/PRAM. If the problem persists, consider checking for display adapter updates or contacting Apple Support for further assistance, as it could be a software or hardware issue.
+
+Best regards,
+Service Desk Agent

@@ -1,0 +1,15 @@
+Ticket ID: ticket_2168
+Subject: nan
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich möchte ein Ladeproblem mit meinem MacBook Air M1 ansprechen, das ich in Ihrem Webshop erworben habe. Könnten Sie mir bitte bei der Fehlersuche oder der Organisation einer Reparatur helfen? Meine Kontonummer lautet <acc_num>. 
+
+Vielen Dank und freundliche Grüße,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+herzlichen Dank für Ihre Nachricht. Bei Problemen mit dem Laden Ihres MacBook Air M1 empfehlen wir zunächst, ein anderes Ladegerät oder eine andere Steckdose auszuprobieren. Sollte das Problem weiterhin bestehen, können wir gerne eine Reparatur veranlassen. Bitte teilen Sie uns die Details des Kaufs sowie die Seriennummer mit, damit wir Ihnen weiterhelfen können.
+
+Mit besten Grüßen,
+[Ihr Name]

@@ -1,0 +1,18 @@
+Ticket ID: ticket_2165
+Subject: Anfrage zu Problemen mit dem Dell XPS 13 9310
+Incident Type: Request
+Customer Issue: Hallo Kundenservice,
+
+ich schreibe, um Unterstützung bei einem Bildschirmflimmern zu suchen, das ich mit meinem Dell XPS 13 9310 Ultrabook erlebe. Das Produkt scheint dieses Problem kürzlich entwickelt zu haben, und es verursacht erhebliche Unannehmlichkeiten, insbesondere während der Arbeit. Ich habe nach Treiberupdates gesucht und sichergestellt, dass alle Systemupdates installiert sind, aber leider bleibt das Problem bestehen. Könnten Sie bitte Anleitung zu möglichen Lösungen oder Schritten geben, die ich ergreifen kann, um dies zu beheben? Falls notwendig, bin ich bereit, weitere Details wie den Kaufbeleg oder technische Protokolle bereitzustellen. Ich würde Ihre rasche Unterstützung bei der Lösung dieses Problems schätzen. Vielen Dank für Ihre Aufmerksamkeit.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Hallo <name>,
+
+vielen Dank, dass Sie sich wegen Ihres Bildschirmproblems bei dem Dell XPS 13 9310 an uns gewandt haben. Bitte versuchen Sie, die Bildwiederholfrequenz in den Anzeigeeinstellungen anzupassen und alle unnötigen Startprogramme zu deaktivieren. Wenn diese Schritte das Problem nicht lösen, wird empfohlen, den Grafiktreiber zurückzusetzen. Sie können dies tun, indem Sie gleichzeitig die Tasten "Win + Ctrl + Shift + B" drücken. Wenn das Flimmern des Bildschirms weiterhin besteht, kann es notwendig sein, uns Ihren Kaufbeleg und alle technischen Protokolle bereitzustellen, um weiter zu untersuchen.
+
+Wenn diese Schritte nicht helfen, lassen Sie es uns bitte wissen, und wir können die Optionen für den Service prüfen.
+
+Mit freundlichen Grüßen,
+Kundenservice

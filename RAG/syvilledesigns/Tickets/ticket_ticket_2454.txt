@@ -1,0 +1,25 @@
+Ticket ID: ticket_2454
+Subject: Issues with MacBook Air M1 After Recent Updates
+Incident Type: Incident
+Customer Issue: Dear Support Team,
+
+I am writing to report experiencing a significant slowdown in performance on my MacBook Air M1 following the recent software updates. It had been performing seamlessly until these updates. I suspect the issue might be related to these updates. Can you assist with troubleshooting steps or possible solutions to resolve this performance issue?
+
+Thank you for your support.
+
+Best,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding your MacBook Air M1 performance issues after the recent update. Here are a few steps you can try to resolve the slowdown:
+
+1. Restart your MacBook to clear out temporary processes.
+2. Check for any additional updates that might address this issue: Apple Menu > System Preferences > Software Update.
+3. Reset the SMC (System Management Controller) and NVRAM/PRAM.
+4. Manage login items to prevent unnecessary apps from launching at startup: System Preferences > Users & Groups > Login Items.
+5. Consider freeing up space in case your storage is nearly full.
+
+If these steps do not help, feel free to contact us again. We’re here to support you!
+
+Best regards,
+Service Desk Team

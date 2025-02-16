@@ -1,0 +1,28 @@
+Ticket ID: ticket_146
+Subject: Issue with Microsoft Surface Pro 7 Screen Flickering
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I am writing to report a persistent screen flickering issue with my new Microsoft Surface Pro 7. This problem is severely affecting my ability to perform high-priority tasks efficiently, and it occurs frequently enough to be a major concern. I kindly request your guidance on how to resolve this issue or any available support for a potential replacement.
+
+Thank you for your prompt assistance.
+
+Best regards,
+
+<name>
+
+<email>
+Customer Service answer: Subject: Re: Issue with Microsoft Surface Pro 7 Screen Flickering
+
+Dear <name>,
+
+Thank you for contacting Tech Online Store Customer Support. We understand the inconvenience caused by the screen flickering on your Microsoft Surface Pro 7. To address this:
+
+1. Ensure your device’s software and drivers are up to date.
+2. Try performing a soft reset by pressing and holding the power button for 20 seconds.
+3. Check the Surface Diagnostic Toolkit for any hardware issues.
+
+If the problem persists, please reply to this email, and we will assist with initiating a replacement process.
+
+Best regards,  
+Tech Online Store Customer Support

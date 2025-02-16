@@ -1,0 +1,14 @@
+Ticket ID: ticket_2885
+Subject: nan
+Incident Type: Problem
+Customer Issue: Cher équipe de support client, je vous écris pour porter à votre attention les problèmes persistants que nous rencontrons avec notre déploiement cloud AWS, qui est géré par votre service de gestion AWS. Ces perturbations se produisent de plus en plus fréquemment et ont entraîné des interruptions de service significatives pour nos opérations. Le temps d'arrêt affecte nos processus commerciaux et cause des désagréments à nos clients. Nous utilisons vos services informatiques depuis un certain temps et ne nous attendions pas à de telles problématiques récurrentes, étant donné votre réputation de fiabilité. La nature des interruptions semble être liée à des erreurs de configuration et à une allocation de ressources insuffisante pendant les heures de pointe. Nous avons tenté de résoudre les problèmes en utilisant les procédures standards fournies dans votre documentation, sans succès. Malheureusement, nos tentatives de résoudre ce problème sans soutien externe n'ont pas été fructueuses. Étant donné l'urgence de notre situation et l'impact sur notre efficacité commerciale, nous vous prions de bien vouloir donner la priorité à notre cas et de nous fournir une résolution rapide. Veuillez nous conseiller sur les prochaines étapes pour résoudre ces problèmes de déploiement rapidement. Merci de votre attention immédiate à nos besoins urgents. Sincèrement, <name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant les problèmes liés à votre déploiement cloud AWS. Nous nous excusons sincèrement pour les désagréments que cela a causés à vos opérations. Nous comprenons l'urgence et l'impact sur votre entreprise.
+
+Notre équipe technique donne la priorité à votre cas afin d'identifier et de résoudre les erreurs de configuration et les problèmes d'allocation de ressources. Nous vous contacterons bientôt avec une mise à jour et des solutions proposées. En attendant, veuillez vous assurer que tous les journaux système pertinents et les rapports d'erreurs sont accessibles pour que notre équipe puisse effectuer une analyse approfondie.
+
+Nous apprécions votre patience et votre confiance en nos services. Soyez assuré que nous sommes déterminés à résoudre ces problèmes rapidement pour rétablir votre service dans la fiabilité attendue.
+
+Cordialement,
+Équipe de support client

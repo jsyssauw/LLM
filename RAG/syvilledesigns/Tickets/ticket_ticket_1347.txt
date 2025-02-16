@@ -1,0 +1,16 @@
+Ticket ID: ticket_1347
+Subject: Urgent AWS Deployment Issue
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+We are experiencing a high priority issue with our AWS deployment, causing significant downtime. This affects our AWS Management Service. We require your immediate attention to restore the servers. Please address this matter urgently.
+
+Thank you,
+<name>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+We acknowledge the urgent issue with your AWS deployment and its impact on your services. Our team is prioritizing your case to restore your servers as quickly as possible. We will keep you updated on the progress.
+
+Thank you for your patience,
+Customer Support Team

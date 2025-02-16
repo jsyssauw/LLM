@@ -1,0 +1,25 @@
+Ticket ID: ticket_866
+Subject: Buscando asistencia con problemas de rendimiento del Dell XPS 13
+Incident Type: Request
+Customer Issue: Estimado servicio de atención al cliente,
+
+Escribo para buscar asistencia con respecto a los problemas de rendimiento que he notado al usar aplicaciones de software específicas en mi portátil Dell XPS 13 9310. A pesar de sus especificaciones que deberían manejar estas aplicaciones, el portátil exhibe un rendimiento lento a veces, afectando mi eficiencia en el trabajo.
+
+He intentado solucionar problemas estándar, como reiniciar el dispositivo e instalar actualizaciones de software, pero el problema persiste. ¿Podría aconsejarme sobre los pasos a seguir o si podría haber un problema conocido con este modelo y ciertas aplicaciones? Mi número de cuenta es <acc_num>, y agradecería una respuesta detallada a la brevedad.
+
+Muchas gracias por su apoyo.
+
+Saludos cordiales,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con nosotros respecto a los problemas de rendimiento con tu Dell XPS 13 9310. Dado que ya has intentado reiniciar y actualizar el software, te sugerimos verificar si hay procesos en segundo plano o programas de inicio que puedan estar consumiendo recursos. Además, verifica que todos los controladores, especialmente los de gráficos y chipset, estén actualizados desde el sitio web de soporte de Dell.
+
+Si el problema persiste, intenta ejecutar la herramienta de diagnóstico de Dell para identificar posibles problemas de hardware. Si hay problemas conocidos con tu modelo y aplicaciones específicas, normalmente se resolverían mediante actualizaciones de controladores o parches de Dell.
+
+Asegúrate también de que tu sistema operativo esté completamente actualizado. Si se requiere más asistencia, no dudes en ponerte en contacto con detalles específicos del software afectado, y nuestro equipo técnico investigará problemas de compatibilidad conocidos o ajustes de configuración.
+
+No dudes en responder a este correo para obtener más apoyo. Estamos aquí para ayudar a resolver el problema lo antes posible.
+
+Saludos cordiales,
+Equipo de atención al cliente

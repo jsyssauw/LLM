@@ -1,0 +1,5 @@
+Ticket ID: ticket_1355
+Subject: Dell XPS 13 9310 fallido de compra reciente - Solicita ayuda
+Incident Type: Request
+Customer Issue: He recibido un Dell XPS 13 9310 en mal estado y necesito asistencia lo antes posible.
+Customer Service answer: Lamentamos cualquier inconveniente causado. Le pedimos que nos facilite los datos del pedido para iniciar el proceso de reemplazo sin demora.

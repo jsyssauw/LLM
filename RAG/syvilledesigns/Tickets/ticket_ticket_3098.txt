@@ -1,0 +1,24 @@
+Ticket ID: ticket_3098
+Subject: Änderungsantrag für den Office 365-Abonnementplan
+Incident Type: Change
+Customer Issue: Hallo Kundenservice,
+
+ich schreibe, um eine Änderung meines aktuellen Microsoft Office 365-Abonnementplans zu beantragen. Ich interessiere mich für ein Upgrade, um zusätzlichen Cloud-Speicher und die neuesten Updates für den E-Mail-Client einzuschließen. Außerdem möchte ich verstehen, wie sich diese Änderung auf die Gesamtkosten auswirken könnte.
+
+Meine Kontonummer ist <acc_num> und meine Telefonnummer ist <tel_num>. Bitte teilen Sie mir mit, welche Informationen Sie benötigen, um diese Änderung zu bearbeiten.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Hallo <name>,
+
+vielen Dank, dass Sie sich bezüglich der Aktualisierung Ihres Office 365-Abonnements an uns gewandt haben. Wir können Ihnen beim Upgrade Ihres Plans helfen, um zusätzlichen Cloud-Speicher und die neuesten E-Mail-Client-Updates einzuschließen. Diese Änderung kann sich auf Ihre Gesamtkosten für das Abonnement auswirken.
+
+Um fortzufahren, verifizieren Sie bitte Ihr Konto über unser sicheres Portal oder geben Sie einen aktuellen Rechnungsbezugs an. Sobald wir dies erhalten, werden wir mit Ihrem Antrag fortfahren und Sie über möglicherweise anfallende Kosten informieren.
+
+Sollten weitere Details erforderlich sein, um die Änderung abzuschließen, werden wir Sie kontaktieren. Zögern Sie nicht, uns zu kontaktieren, wenn Sie Fragen haben.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

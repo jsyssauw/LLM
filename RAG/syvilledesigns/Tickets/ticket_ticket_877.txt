@@ -1,0 +1,15 @@
+Ticket ID: ticket_877
+Subject: nan
+Incident Type: Change
+Customer Issue: Hello Customer Support,
+
+I recently bought a MacBook Air M1 from your web store, and it appears to be facing some issues. I would appreciate your help in rectifying this matter at your earliest convenience. My account number is <acc_num>.
+
+Sincerely,
+<name>
+Customer Service answer: Hello <name>,
+
+We regret to learn about the difficulties you're having with your MacBook Air M1. Please reach out to our technical support team at [phone number] or respond with further information regarding the issue. We will assist you without delay.
+
+Kind regards,
+Customer Support

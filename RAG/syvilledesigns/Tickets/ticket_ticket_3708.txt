@@ -1,0 +1,5 @@
+Ticket ID: ticket_3708
+Subject: Server Downtime Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I am writing to report a medium priority incident regarding server downtime impacting user access in our regional office. This issue is affecting our IT Consulting Services. Please provide an update on the status and any resolution steps. Thank you. Regards, <name>
+Customer Service answer: Dear <name>, thank you for reaching out to us regarding the server downtime issue impacting your IT Consulting Services. Our technical team is actively investigating the cause of the downtime and working on a resolution as swiftly as possible. We will keep you updated with any progress or resolution steps. Please feel free to contact us if you have any further questions or require immediate assistance. Thank you for your patience. Regards, Customer Support.

@@ -1,0 +1,10 @@
+Ticket ID: ticket_2621
+Subject: El cliente reportó inconvenientes con la instalación de Kaspersky Internet Security 2024
+Incident Type: Incident
+Customer Issue: Estimado equipo de atención, estoy enfrentando problemas para instalar Kaspersky Internet Security 2024. ¿Serían tan amables de ofrecerme ayuda para solucionar esta situación? Gracias, <name>
+Customer Service answer: Estimado <name>,
+
+Asegúrese de que su sistema cumple con los requerimientos, desactive cualquier software conflictivo y ejecute el instalador como administrador. Si el inconveniente persiste, por favor, comparta los detalles del error.
+
+Cordiales saludos,
+Equipo de atención

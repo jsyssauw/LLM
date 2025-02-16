@@ -1,0 +1,15 @@
+Ticket ID: ticket_1734
+Subject: Dell XPS 13 9310 Display Problem
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kunde des Tech Online Stores, 
+
+ich habe ein Problem mit meinem Dell XPS 13 9310 Ultrabook. Das InfinityEdge-Display flackert beim Start zufällig. Dieses Problem ist konstant und hartnäckig. Könnten Sie mir bitte helfen, dieses Problem zu lösen?
+
+Vielen Dank, 
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Bitte stellen Sie sicher, dass die Grafiktreiber Ihres Dell XPS 13 9310 auf dem neuesten Stand sind. Wenn das Problem weiterhin besteht, versuchen Sie, die Anzeigeeinstellungen zurückzusetzen oder wenden Sie sich direkt an den Dell Support für weitere Unterstützung. Wir sind hier, um Ihnen zu helfen, falls Sie noch etwas benötigen.
+
+Mit freundlichen Grüßen,
+Kundenservice Tech Online Store

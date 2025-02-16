@@ -1,0 +1,20 @@
+Ticket ID: ticket_2317
+Subject: Asistencia requerida para problemas de conectividad del enrutador
+Incident Type: Incident
+Customer Issue: Hola Servicio al Cliente,
+
+Estoy experimentando problemas de conectividad con mi enrutador Cisco ISR4331. Necesito ayuda para configurar una red Wi-Fi segura y optimizada. Por favor, guíenme a través del proceso a la mayor brevedad posible.
+
+Gracias,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Asunto: Re: Asistencia requerida para problemas de conectividad del enrutador
+
+Hola <name>,
+
+Gracias por ponerte en contacto. Para abordar tus problemas de conectividad y optimizar tu red Wi-Fi, asegúrate de que el firmware de tu enrutador Cisco ISR4331 esté actualizado. A continuación, coloca el enrutador en una posición central y ajusta el canal de Wi-Fi para reducir la interferencia. Asegura tu red utilizando cifrado WPA3. Para pasos detallados, consulta el manual del usuario del enrutador o el sitio web de Cisco. Háznos saber si necesitas más ayuda.
+
+Saludos cordiales,
+Servicio al Cliente

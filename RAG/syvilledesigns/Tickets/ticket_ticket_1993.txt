@@ -1,0 +1,5 @@
+Ticket ID: ticket_1993
+Subject: Solicitação de Atualização de Serviço da AWS
+Incident Type: Request
+Customer Issue: Por favor, forneça atualizações sobre o uso da AWS e aconselhamento de custos.
+Customer Service answer: Obrigado por entrar em contato. Em breve, fornecerei uma atualização sobre o uso e custos da AWS.

@@ -1,0 +1,10 @@
+Ticket ID: ticket_3095
+Subject: Overheating issue with Dell XPS 13 9310 after usage
+Incident Type: Incident
+Customer Issue: Dear Support Team, I recently purchased a Dell XPS 13 9310 and am experiencing overheating issues after roughly an hour of use. Please assist in resolving this issue. looking forward to your prompt response. Regards, <name>.
+Customer Service answer: Dear <name>, 
+
+Sorry to hear about the overheating issue with your Dell XPS 13 9310. Please ensure your device's vents aren't blocked. If the issue persists, kindly update your BIOS and drivers via Dell SupportAssist. 
+
+Best regards, 
+Support Team

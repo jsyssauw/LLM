@@ -1,0 +1,10 @@
+Ticket ID: ticket_3500
+Subject: Urgente: Problema con la cámara reportado en Dell XPS 13 9310 - Necesita atención inmediata
+Incident Type: Request
+Customer Issue: Estimado Departamento de Atención al Cliente, estoy teniendo dificultades con la cámara de mi Dell XPS 13 9310. Está fallando y requiere pronta asistencia. Agradecería su orientación sobre los próximos pasos a seguir. Gracias, <name>.
+Customer Service answer: Estimado [Nombre],
+
+Lamentamos los desajustes. Le sugerimos que reinstale el controlador de la cámara desde la página de soporte de Dell. Si el problema continúa, podemos coordinar una sesión de asistencia técnica remota.
+
+Saludos cordiales,
+Servicio al Cliente

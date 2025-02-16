@@ -1,0 +1,16 @@
+Ticket ID: ticket_2150
+Subject: Inquiry on MacBook Air M1 Availability
+Incident Type: Request
+Customer Issue: Dear Customer Support,<br><br>My name is <name>, and I am interested in purchasing the MacBook Air M1. I would appreciate it if you could provide me with information regarding its availability. Additionally, I would like to inquire about the delivery options available for this product, as I am eager to purchase it at the earliest. You can reach me at <email> or call me at <tel_num> for any further clarifications or updates. Looking forward to your reply with the necessary details. Thank you for your assistance.<br><br>Best regards,<br><name>
+Customer Service answer: Subject: Re: Inquiry on MacBook Air M1 Availability
+
+Dear <name>,
+
+Thank you for reaching out about the MacBook Air M1. Currently, the availability of this model depends on our stock levels, which generally fluctuate due to demand. We recommend visiting our website or your nearest store for the most up-to-date stock information.
+
+As for delivery options, we offer standard and express shipping, with estimated delivery times provided at checkout. Once you select a shipping option, you'll receive a tracking number to monitor your order's progress.
+
+For further assistance, please feel free to reply to this email or call us directly. We are here to help and look forward to assisting you in purchasing the MacBook Air M1.
+
+Best regards,
+Customer Support Team

@@ -1,0 +1,15 @@
+Ticket ID: ticket_2311
+Subject: Installation von Norton Antivirus Plus Problem, gemeldet von einem Kunden auf dem System
+Incident Type: Incident
+Customer Issue: Liebes Kundenserviceteam, 
+
+ich habe Schwierigkeiten bei der Installation von Norton Antivirus Plus auf meinem Computer. Ich bitte um Ihre Unterstützung, um dieses Problem so schnell wie möglich zu beheben.
+
+Vielen Dank,
+<name>
+Customer Service answer: Sehr geehrter [Kundenname],
+
+wir bedauern die Umstände. Bitte überprüfen Sie, ob Ihr System die erforderlichen Mindestanforderungen erfüllt, und versuchen Sie, die Software von der offiziellen Website herunterzuladen. Sollten weiterhin Schwierigkeiten auftreten, wenden Sie sich bitte an unser Serviceteam unter [Servicenummer/E-Mail].
+
+Mit besten Grüßen,
+Kundenserviceteam

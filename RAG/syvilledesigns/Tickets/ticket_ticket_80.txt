@@ -1,0 +1,10 @@
+Ticket ID: ticket_80
+Subject: Urgente: Problema con la configuración de la impresora HP LaserJet Pro M15w
+Incident Type: Incident
+Customer Issue: Estimado departamento de atención al cliente, me encuentro teniendo dificultades con la configuración de mi impresora HP LaserJet Pro M15w. No se está conectando como se esperaba. Agradecería su orientación para solucionar este inconveniente. Muchas gracias, <name>, <tel_num>, <acc_num>.
+Customer Service answer: Estimado <name>,
+
+Agradecemos su contacto. Por favor, verifique que la impresora esté encendida y dentro del rango de su red Wi-Fi. Asegúrese de revisar la configuración de la red y reinicie tanto su impresora como el router. Si los inconvenientes continúan, no dude en llamarnos al <tel_num> para recibir asistencia adicional.
+
+Cordialmente,
+Servicio al Cliente

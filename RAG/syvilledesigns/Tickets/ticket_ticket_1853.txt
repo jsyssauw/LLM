@@ -1,0 +1,24 @@
+Ticket ID: ticket_1853
+Subject: Asistencia requerida para la implementación de AWS
+Incident Type: Request
+Customer Issue: Estimado servicio de atención al cliente de IT, 
+
+Espero que este mensaje los encuentre bien. Requiero asistencia para implementar nuevas aplicaciones en la infraestructura de AWS, específicamente en cuanto a la configuración óptima de escalado y seguridad. Estamos utilizando el Servicio de Gestión de AWS y agradecería cualquier orientación disponible.
+
+Por favor, háganme saber qué información adicional podrían necesitar o si hay un momento conveniente para discutir esto más a fondo. Su experiencia y apoyo son cruciales para asegurar una implementación sin problemas.
+
+Gracias,
+
+<name>
+Número de cuenta: <acc_num>
+Teléfono: <tel_num>
+Customer Service answer: Estimado <name>, 
+
+Gracias por comunicarse con nosotros sobre su implementación de AWS. Estaríamos encantados de ayudarle con la configuración óptima de escalado y seguridad para sus aplicaciones. Para proporcionar una orientación completa, comparta detalles sobre su configuración actual de AWS y cualquier desafío específico que esté enfrentando.
+
+Una vez que tengamos esta información, podemos programar un momento conveniente para discutir sus requisitos más a fondo y asegurar un proceso de implementación fluido. Por favor, háganos saber su disponibilidad para una llamada, o no dude en comunicarse con nosotros directamente al <tel_num>.
+
+Espero poder ayudarle.
+
+Saludos cordiales, 
+Servicio de Atención al Cliente de IT

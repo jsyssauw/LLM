@@ -1,0 +1,10 @@
+Ticket ID: ticket_2184
+Subject: Difficultés avec l'appareil photo du Samsung Galaxy S21 Ultra
+Incident Type: Request
+Customer Issue: Bonjour, service clientèle. J'éprouve des soucis avec l'appareil photo de mon Samsung Galaxy S21 Ultra. La mise au point semble aléatoire et les images sont floues. Pourriez-vous m'assister pour résoudre ce problème au plus vite ? Merci. Sincèrement, <name>
+Customer Service answer: Cher [Nom],
+
+Nous sommes navrés d'apprendre que vous rencontrez des soucis avec l'appareil photo de votre Galaxy S21 Ultra. Je vous recommande d'effacer le cache de l'application appareil photo en suivant ce chemin : Paramètres > Applications > Appareil photo > Stockage > Vider le cache. Si la situation ne s'améliore pas, n'hésitez pas à nous contacter pour plus de support.
+
+Sincèrement, 
+Service clientèle

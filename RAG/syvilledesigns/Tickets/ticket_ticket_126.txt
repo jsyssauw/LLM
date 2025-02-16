@@ -1,0 +1,18 @@
+Ticket ID: ticket_126
+Subject: Issue with Google Chrome 102.0 Crashing
+Incident Type: Problem
+Customer Issue: Hello,<br><br>I am experiencing frequent crashes in Google Chrome 102.0 when navigating high graphic-intense websites. This issue is persistent, disrupting my online activities and productivity. Could you please provide troubleshooting steps or advise on resolving this problem? Requesting guidance on any updates or settings that can prevent these crashes. Additionally, information about compatibility or known issues with this Chrome version could also be helpful. Looking forward to your support to fix this issue promptly.<br><br>Thank you,<br><name><br><email>
+Customer Service answer: Hello,
+
+Thank you for reaching out. To resolve the Google Chrome 102.0 crashing issue, try the following steps: 
+
+1. Update Chrome to the latest version.
+2. Clear browsing data and cache.
+3. Disable extensions individually to identify any causing problems.
+4. Ensure your graphics driver is up-to-date.
+5. Check compatibility with high graphic websites in Chrome Labs (chrome://flags).
+
+No widespread issues with Chrome 102.0 have been reported. If the problem persists, consider reinstalling Chrome. Let us know if you need further assistance.
+
+Best regards,
+Service Desk

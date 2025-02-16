@@ -1,0 +1,5 @@
+Ticket ID: ticket_1592
+Subject: Ação Imediata Necessária para Interrupção do Serviço AWS
+Incident Type: Incident
+Customer Issue: A interrupção do serviço AWS está causando tempo de inatividade do aplicativo e requer assistência urgente.
+Customer Service answer: Estamos monitorando a situação e abordando a interrupção do serviço AWS para trazer seu aplicativo de volta online. Manteremos você informado à medida que fizermos progressos. Obrigado pela sua compreensão.

@@ -1,0 +1,34 @@
+Ticket ID: ticket_1014
+Subject: Problema inesperado de desconexión de red
+Incident Type: Incident
+Customer Issue: Estimado cliente de servicios de TI,
+
+Estoy escribiendo para llamar su atención sobre un problema repentino de desconexión de red que hemos estado experimentando con nuestro enrutador Cisco modelo ISR4331. Recientemente, hemos observado que el enrutador se desconecta intermitentemente de la red y muestra luces indicadoras parpadeantes, lo que sugiere posibles problemas de rendimiento.
+
+Nuestro equipo técnico inspeccionó el dispositivo a fondo, pero no pudo identificar ninguna falla de hardware visible. Esto ha causado una interrupción significativa en nuestras operaciones y estamos interesados en resolverlo lo antes posible.
+
+Le solicitamos amablemente su asistencia experta para despachar un técnico para inspeccionar el enrutador en el lugar o ofrecer diagnósticos y soporte remoto. Nuestra empresa depende en gran medida de la conectividad de red ininterrumpida, y resolver este problema es de importancia inmediata para nosotros.
+
+Por favor, háganos saber los próximos pasos que debemos seguir para acelerar este proceso. Si necesita información adicional para la solución de problemas, no dude en ponerse en contacto conmigo en <tel_num>.
+
+Gracias por su pronta atención a este asunto.
+
+Atentamente,
+
+<name>
+Número de cuenta: <acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con respecto al problema de desconexión de red con su enrutador Cisco ISR4331. Entendemos la urgencia y la interrupción que esto está causando en sus operaciones.
+
+Primero, recomendamos realizar una actualización de software en el enrutador si no lo ha hecho ya, ya que esto a veces puede resolver problemas de conexión intermitentes. Asegúrese también de que todos los cables y conexiones estén seguros.
+
+Para proceder, podemos organizar que un técnico visite su sitio para proporcionar una inspección a fondo o llevar a cabo una sesión de diagnóstico remoto en su primera disponibilidad. Por favor, confirme su preferencia para que podamos coordinar la asistencia lo antes posible.
+
+No dude en compartir más detalles según sea necesario o ponerse en contacto con nosotros al número proporcionado. Estamos comprometidos a resolver este problema para usted de manera rápida.
+
+Gracias por su paciencia y cooperación.
+
+Atentamente,
+
+Soporte al Cliente de Servicios de TI

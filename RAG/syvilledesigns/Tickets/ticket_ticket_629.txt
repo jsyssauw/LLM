@@ -1,0 +1,18 @@
+Ticket ID: ticket_629
+Subject: nan
+Incident Type: Incident
+Customer Issue: Prezado Suporte ao Cliente,
+
+Estou tendo um inconveniente relacionado à exibição do meu MacBook Air M1 que adquiri na sua loja online. A tela pisca de vez em quando e se desliga. Poderia me orientar sobre como posso solucionar esse problema? Meu número de pedido é <order_num>.
+
+Obrigado,
+<name>
+<tel_num>
+Customer Service answer: Assunto: Re: Dificuldade de Exibição com MacBook Air M1
+
+Caro <name>,
+
+Agradecemos por sua mensagem. Lamentamos ouvir sobre o inconveniente que você está enfrentando com o seu MacBook Air M1. Sugerimos que você tente reiniciar o NVRAM e o SMC como primeiros passos na solução de problemas. Caso o erro continue, foi mais sábio buscar a ajuda de um centro de serviço autorizado ou entrar em contato diretamente com o Suporte da Apple.
+
+Cordialmente,
+Equipe de Suporte ao Cliente

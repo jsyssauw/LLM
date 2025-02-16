@@ -1,0 +1,14 @@
+Ticket ID: ticket_23
+Subject: Google Chrome Extension Issue
+Incident Type: Request
+Customer Issue: Dear Customer Support, I am experiencing a compatibility issue with Google Chrome version 102.0, affecting its performance and security settings. This issue began after installing an extension from your store. Could you assist in resolving this problem? Your prompt help will be greatly appreciated.\n\nThank you,\n<name>\n<tel_num>\n<email_address>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We suggest starting by disabling the extension to see if the issue persists. If the problem stops after disabling, please try uninstalling and reinstalling the extension, ensuring it is the latest version. If issues continue, check for updates to your Google Chrome browser as well. 
+
+Should the problem remain unresolved, please provide the extension's name for further assistance. 
+
+Feel free to reach out if you have any more questions.
+
+Best regards,
+Customer Support Team

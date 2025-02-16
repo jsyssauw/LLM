@@ -1,0 +1,9 @@
+Ticket ID: ticket_3404
+Subject: Häufige Abstürze auf macOS mit Adobe Photoshop 2024
+Incident Type: Problem
+Customer Issue: Hallo Kundenservice, ich erlebe häufige Abstürze auf macOS, wenn ich versuche, Effekte auf Ebenen in Adobe Photoshop 2024 anzuwenden. Dieses Problem beeinträchtigt meine Designarbeit erheblich. Könnten Sie bitte helfen, dieses Problem schnell zu lösen? Vielen Dank, <name>. Kontakt: <tel_num>.
+Customer Service answer: Hallo <name>,
+Wir entschuldigen uns für die Unannehmlichkeiten. Um die Abstürze zu beheben, stellen Sie bitte sicher, dass Sie die neuesten Updates für macOS und Adobe Photoshop 2024 installiert haben. Wenn das Problem weiterhin besteht, versuchen Sie, die Einstellungen von Photoshop zurückzusetzen oder die App neu zu installieren. Kontaktieren Sie uns, wenn Sie weitere Unterstützung benötigen.
+
+Mit freundlichen Grüßen,
+Kundenservice

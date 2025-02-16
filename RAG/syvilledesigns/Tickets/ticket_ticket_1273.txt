@@ -1,0 +1,30 @@
+Ticket ID: ticket_1273
+Subject: AWS EC2 Configuration Assistance
+Incident Type: Request
+Customer Issue: Dear Customer Support Team, 
+
+I hope this message finds you well. I am reaching out to request your assistance with an issue I've encountered while configuring my AWS EC2 instance. I've been trying to deploy a project using your AWS Management Service but have run into some challenges during the deployment process that I have been unable to resolve on my own.
+
+The issue seems to arise when setting up the security groups and connecting the EC2 instance with my VPC. Despite following the documentation provided, I continue to experience errors that prevent the successful configuration and launch of the instance. These difficulties are adversely affecting my workflow and project timeline.
+
+I would greatly appreciate any guidance or support your team can provide to help me address this problem. If it would be helpful, I can provide additional details about the current configuration settings I am using or any other technical specifics that might shed light on what might be causing these errors. Additionally, please let me know if a remote troubleshooting session would be preferable to expedite the resolution process.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Sincerely,
+
+<name>
+
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your AWS EC2 instance configuration issue. We understand how this can impact your project timeline and are here to assist you.
+
+To better assist you, please provide specific details of the errors you are encountering, as well as your current security group settings and VPC configuration. This information will help us identify the root cause of the problem. 
+
+If necessary, we can arrange a remote troubleshooting session to resolve these issues more efficiently. Please let us know your availability for such a session.
+
+Looking forward to your reply.
+
+Kind regards,
+Customer Support Team

@@ -1,0 +1,25 @@
+Ticket ID: ticket_3477
+Subject: Problèmes d'activation de Windows 11 Pro sur mon compte
+Incident Type: Request
+Customer Issue: Bonjour équipe d'assistance technique,
+
+Je vous écris pour faire état d'une difficulté que je rencontre avec l'activation de Windows 11 Pro sur mon appareil. Chaque tentative que je fais pour l'activer se solde par un message d'erreur empêchant une activation réussie. Mon numéro de compte est <acc_num>.
+
+Pourriez-vous s'il vous plaît m'assister pour résoudre ce problème rapidement ? J'ai suivi l'ensemble des étapes de dépannage indiquées dans votre documentation d'aide, mais rien ne semble fonctionnel. Vous pouvez me joindre par téléphone au <tel_num> ou par courriel à <name>@example.com.
+
+Merci pour votre soutien.
+
+Bien cordialement,
+<name>
+Customer Service answer: Bonjour <name>,
+
+Nous vous remercions de nous avoir écrit au sujet du problème d'activation de Windows 11 Pro.
+
+Nous sommes désolés pour les désagréments que cela a pu causer. D'après les détails communiqués, il semble qu'une assistance supplémentaire soit requise. Pourriez-vous, s'il vous plaît, fournir le code d'erreur exact que vous avez rencontré lors de l'activation ? Cela nous permettra de mieux cibler le problème.
+
+En attendant, veillez à vérifier que vos paramètres de date et d'heure sont bien ajustés, ainsi que la stabilité de votre connexion internet.
+
+Nous vous tiendrons informé dès que nous aurons des mises à jour.
+
+Cordialement,
+L'équipe d'assistance technique

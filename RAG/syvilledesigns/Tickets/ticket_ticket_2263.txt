@@ -1,0 +1,20 @@
+Ticket ID: ticket_2263
+Subject: Demande d'options supplémentaires de RAM pour Microsoft Surface Pro 7
+Incident Type: Request
+Customer Issue: Cher service client de Tech Online Store,  
+
+J'espère que ce message vous trouve en bonne santé. Je vous écris pour savoir s'il existe des options de mise à niveau de RAM supplémentaires disponibles pour la tablette Microsoft Surface Pro 7. En tant que multitâche régulier qui dépend énormément de cet appareil pour des tâches personnelles et professionnelles, il m'est crucial d'avoir des capacités de multitâche plus rapides. La mise à niveau de la RAM existante pourrait améliorer considérablement ma productivité.  
+
+Pourriez-vous s'il vous plaît fournir des informations sur les solutions de mise à niveau disponibles ou les modèles alternatifs qui répondent à de tels besoins ? Merci pour votre aide.  
+
+Dans l'attente de votre réponse rapide.  
+
+Cordialement,  
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci pour votre demande concernant les mises à niveau de RAM pour la Microsoft Surface Pro 7. Malheureusement, le Surface Pro 7 ne prend pas en charge les mises à niveau de RAM car la mémoire est soudée sur la carte mère. Si vous avez besoin de plus de RAM pour un multitâche amélioré, vous pouvez envisager des modèles alternatifs tels que le Surface Pro 8 ou le Surface Pro X, qui offrent des configurations de RAM plus élevées au moment de l'achat. N'hésitez pas à nous faire savoir si vous avez besoin de plus d'assistance ou de détails sur nos modèles actuels.
+
+Cordialement,
+Service client de Tech Online Store

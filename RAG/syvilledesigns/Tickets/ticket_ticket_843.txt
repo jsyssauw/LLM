@@ -1,0 +1,17 @@
+Ticket ID: ticket_843
+Subject: Urgente: Problema com Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Caro Suporte da Loja Online Tech,
+
+Estou enfrentando um problema com meu Dell XPS 13 9310, que às vezes congela e interrompe meu fluxo de trabalho. Você poderia me ajudar a diagnosticar e resolver esse problema?
+
+Obrigado,
+<name>
+Número da Conta: <acc_num>
+Telefone: <tel_num>
+Customer Service answer: Caro <name>,
+
+Lamentamos saber sobre o problema com seu Dell XPS 13 9310. Por favor, tente atualizar o BIOS do seu sistema e os drivers no site de suporte da Dell. Se o problema persistir, responda a este e-mail e iremos ajudar mais.
+
+Atenciosamente,
+Suporte da Loja Online Tech

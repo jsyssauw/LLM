@@ -1,0 +1,32 @@
+Ticket ID: ticket_481
+Subject: Demande de retour pour l'achat d'un MacBook Air M1
+Incident Type: Request
+Customer Issue: Cher service client,
+
+J'espère que ce message vous trouve en bonne santé. J'ai récemment acheté un MacBook Air M1 dans votre boutique en ligne, et ma commande est arrivée il y a quelques jours. Le numéro de commande associé à cet achat est <acc_num>. Bien que la transaction se soit bien déroulée et que le produit soit arrivé à temps, j'ai reconsidéré ma décision et ressens des regrets d'acheteur.
+
+Le colis du MacBook Air M1 reste scellé, car je ne l'ai pas encore utilisé depuis sa livraison. J'ai décidé de ne pas le conserver et souhaiterais explorer d'autres options potentiellement plus adaptées à mes besoins actuels. Selon la politique de retour de votre magasin, je comprends que les retours peuvent être effectués dans les 30 jours suivant l'achat tant que le produit est dans son état d'origine et n'a pas été ouvert.
+
+J'apprécierais vos conseils sur la manière de procéder pour ce retour. Pourriez-vous s'il vous plaît fournir des instructions détaillées sur le processus de retour, y compris les étiquettes ou formulaires nécessaires dont je pourrais avoir besoin et les délais que je dois respecter pour garantir que le retour soit réussi ?
+
+Je vous remercie de votre aide.
+
+Cordialement,
+<name>
+<name> <tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous comprenons votre décision et sommes là pour vous aider avec votre demande de retour pour le MacBook Air M1. Conformément à notre politique de retour, les retours peuvent être effectués dans les 30 jours tant que le produit demeure scellé.
+
+Veuillez suivre ces étapes pour votre retour :
+1. Assurez-vous que le MacBook est dans son emballage d'origine et non ouvert.
+2. Remplissez le formulaire de retour disponible sur notre site Web sous "Retours".
+3. Imprimez et incluez l'étiquette de retour, que vous recevrez par e-mail après avoir soumis le formulaire.
+4. Renvoie le colis à l'adresse indiquée sur l'étiquette de retour dans le délai spécifié.
+
+Pour votre commodité, nous avons lancé un processus de retour sur votre compte avec le numéro de commande <acc_num>, et vous recevrez de plus amples instructions sous peu.
+
+Si vous avez des questions, n'hésitez pas à nous contacter à tout moment.
+
+Cordialement,
+Équipe du service client

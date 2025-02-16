@@ -1,0 +1,28 @@
+Ticket ID: ticket_1832
+Subject: Anfrage zur Änderung des Salesforce-CRM-Layouts
+Incident Type: Change
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich hoffe, diese Nachricht trifft Sie wohl. Ich wende mich an Sie, um eine Anpassungsanfrage für unser Salesforce-CRM zu besprechen, das wir über Ihren Salesforce-CRM-Anpassungsservice erhalten haben. Wir glauben, dass die Verbesserung unseres aktuellen Layouts zu einem viel effizienteren Workflow und einer besseren Datenverwaltung führen wird. Insbesondere streben wir eine verbesserte Dashboard-Integration und einen leichteren Zugang zu Kundenanalysen an.
+
+Unser Hauptziel ist es, den Prozess der Analyseberichterstattung zu optimieren, was entscheidend für die Bewertung unserer Kundeninteraktionen und unserer Gesamtleistungskennzahlen ist. Ein kohärentes und gut integriertes Dashboard wird unserem Team erheblich zugutekommen, indem es den Zugriff auf Daten und die Benutzerfreundlichkeit insgesamt vereinfacht.
+
+Wir hoffen, die verfügbaren Optionen zur Anpassung zu erkunden und würden Ihre fachkundige Beratung zu diesem Thema sehr schätzen. Bitte lassen Sie uns wissen, wann der beste Zeitpunkt für eine Beratung ist, um weitere Details zu besprechen. Sie können mich direkt per E-Mail oder unter meiner Telefonnummer <tel_num> erreichen.
+
+Vielen Dank für Ihre Unterstützung. Wir freuen uns auf Ihre schnelle Antwort.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie sich mit Ihrer Anfrage zur Anpassung des Salesforce-CRM an uns gewandt haben. Wir freuen uns zu hören, dass Sie Ihr aktuelles Layout zur Verbesserung des Workflows und der Datenverwaltung optimieren möchten.
+
+Um Ihnen effektiv zu helfen, würden wir gerne eine Beratung vereinbaren, um die verfügbaren Anpassungsoptionen zu besprechen, die eine verbesserte Dashboard-Integration und einen besseren Zugang zu Kundenanalysen ermöglichen können. Unser Ziel ist es, sicherzustellen, dass die vorgeschlagenen Änderungen Ihren Prozess der Analyseberichterstattung erheblich optimieren und die Benutzerfreundlichkeit für Ihr Team verbessern.
+
+Bitte teilen Sie uns Ihre Verfügbarkeit für eine Beratung mit, und wir werden unser Bestes tun, um Ihnen entgegenzukommen. Sie können uns per E-Mail oder unter der von Ihnen angegebenen Telefonnummer erreichen.
+
+Wir freuen uns darauf, Ihnen weiterhelfen zu dürfen.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

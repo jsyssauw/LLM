@@ -1,0 +1,19 @@
+Ticket ID: ticket_303
+Subject: Assistance Required for Ticket System and Server Issues
+Incident Type: Request
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. I am writing to request assistance in implementing a ticket system and addressing current server issues to enhance the efficiency of our IT consulting services. These improvements are crucial for delivering exceptional customer support to our clients. Please advise on the next steps and any technical requirements we need to consider.
+
+Looking forward to your prompt response.
+
+Best regards,
+
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. To assist with implementing a ticket system and addressing server issues, we recommend starting with an assessment of your current infrastructure. This will help identify specific technical requirements. Once you have this information, we can guide you through choosing and configuring an appropriate ticket system and improving server performance. Please let us know how you'd like to proceed.
+
+Best regards,
+Customer Support Team

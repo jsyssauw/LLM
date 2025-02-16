@@ -1,0 +1,22 @@
+Ticket ID: ticket_3937
+Subject: Assistência Urgente Necessária: Interrupção do Serviço AWS
+Incident Type: Incident
+Customer Issue: Caro equipe de Suporte ao Cliente dos Serviços de TI,
+
+Espero que esta mensagem o encontre bem. Estou escrevendo para informar sobre uma interrupção inesperada no serviço que estamos enfrentando com o Serviço de Gerenciamento da AWS. Nosso sistema de monitoramento da AWS indicou uma interrupção inesperada nos serviços, o que está afetando significativamente nossa acessibilidade à nuvem e nossa produtividade geral. Esta situação está impactando nossas operações e estamos em extrema necessidade de sua experiência técnica para nos ajudar a resolver esses desafios o mais rápido possível.
+
+Você poderia, por favor, acelerar essa questão e nos fornecer a assistência necessária para restaurar as operações normais? Dependemos muito da AWS para nossas atividades diárias, e qualquer tempo de inatividade afeta severamente nosso fluxo de trabalho e a entrega de serviços. Agradecemos sua atenção imediata a este assunto e esperamos seu rápido apoio na restauração da funcionalidade plena.
+
+Sinta-se à vontade para me contatar pelo <tel_num> ou me enviar um e-mail de volta para qualquer discussão ou esclarecimento necessário. Obrigado pela sua atenção e apoio imediatos.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Entendemos a urgência da interrupção do serviço que afeta suas operações na AWS. Nossa equipe técnica já está trabalhando para identificar a causa raiz e priorizará a restauração da funcionalidade plena do seu Serviço de Gerenciamento da AWS o mais rápido possível.
+
+Agradecemos sua paciência e o manteremos informado sobre o progresso. Se você tiver mais perguntas ou precisar de assistência adicional, por favor, não hesite em nos contatar pelo <tel_num>.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente dos Serviços de TI

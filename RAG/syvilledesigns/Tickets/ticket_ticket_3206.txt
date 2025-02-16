@@ -1,0 +1,15 @@
+Ticket ID: ticket_3206
+Subject: Solicitud de cambio de permisos de acceso
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Espero que este mensaje les encuentre bien. Actualmente usamos Jira Software 8.20 para gestionar nuestros proyectos y mejorar la colaboración del equipo. Sin embargo, estamos enfrentando desafíos debido a los permisos de acceso actuales, que limitan significativamente nuestra eficiencia. Por lo tanto, solicito amablemente una revisión y posible cambio de los permisos de acceso para alinearlos mejor con nuestras necesidades de gestión de proyectos. ¿Podrían informarnos sobre cómo podríamos proceder con esta solicitud? Su asistencia con este asunto es muy apreciada. Gracias por su pronta atención a esta solicitud.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con respecto a los permisos de acceso en Jira Software 8.20. Entendemos la importancia de tener los permisos adecuados para una gestión eficiente de proyectos. Para proceder, por favor, proporciónenos detalles específicos sobre los cambios de acceso que busca. Una vez que tengamos esta información, nuestro equipo podrá revisar su solicitud y guiarlo a través de las opciones posibles o realizar los ajustes necesarios. Estamos aquí para ayudarlo con una pronta resolución.
+
+Atentamente,
+Equipo de soporte al cliente

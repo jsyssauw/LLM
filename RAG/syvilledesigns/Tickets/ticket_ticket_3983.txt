@@ -1,0 +1,16 @@
+Ticket ID: ticket_3983
+Subject: Urgente: Interrupção de Serviço da AWS
+Incident Type: Request
+Customer Issue: Caro time de Suporte de Serviços de TI,
+
+Estou entrando em contato para relatar uma interrupção crítica de serviço afetando nossa infraestrutura da AWS, impactando especificamente os recursos de computação gerenciados através do seu Serviço de Gerenciamento da AWS. Esta situação requer investigação imediata e resolução rápida, pois prejudica significativamente nossas operações. Por favor, priorizem este pedido e forneçam atualizações na sua primeira oportunidade.
+
+Obrigado,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por nos informar sobre a interrupção do serviço da AWS que afeta seus recursos de computação. Entendemos a urgência da situação e priorizamos seu pedido. Nossa equipe já está investigando o problema e trabalhará para resolvê-lo o mais rápido possível. Forneceremos atualizações sobre o progresso e o cronograma de resolução na primeira oportunidade. Enquanto isso, por favor, nos avise se houver alguma informação adicional que você possa fornecer ou qualquer outra maneira que possamos ajudar.
+
+Atenciosamente,
+Equipe de Suporte de Serviços de TI

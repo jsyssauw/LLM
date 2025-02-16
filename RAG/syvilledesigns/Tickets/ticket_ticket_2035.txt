@@ -1,0 +1,33 @@
+Ticket ID: ticket_2035
+Subject: Instabilität der Wi-Fi-Verbindung mit TP-Link EAP245 bei Überlastung
+Incident Type: Incident
+Customer Issue: Hallo Kundenserviceteam,
+
+ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um Sie über ein Problem zu informieren, das wir mit den TP-Link EAP245 Zugangspunkten in stark frequentierten Bereichen erleben. Während der Nutzung dieses Modells berichten die Nutzer von instabilen Wi-Fi-Verbindungen, was zu Störungen führt, insbesondere zu Spitzenzeiten.
+
+Unsere Netzwerkinstallation hält normalerweise eine hohe Leistung aufrecht; allerdings wird es in stark frequentierten Umgebungen wie Konferenzräumen oder Großraumbüros schwierig, eine stabile Verbindung aufrechtzuerhalten. Die Inkonsistenz wirkt sich negativ auf die Produktivität und die allgemeine Benutzerzufriedenheit aus.
+
+Könnten Sie bitte Anleitungen zu möglichen Lösungen oder Optimierungen bereitstellen, um besser mit hochdichten Umgebungen umzugehen? Wir sind bestrebt, dieses Problem schnell zu lösen, um eine nahtlose Netzwerkverbindung für die Benutzer zu gewährleisten.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<name>
+Konto: <acc_num>
+Telefon: <tel_num>
+Customer Service answer: Hallo <name>,
+
+vielen Dank, dass Sie sich wegen der Instabilität Ihres TP-Link EAP245 in hochfrequentierten Bereichen an uns gewandt haben. Um die Wi-Fi-Leistung in dichten Umgebungen zu verbessern, ziehen Sie bitte die folgenden Lösungen in Betracht:
+
+1. Aktivieren Sie das Bandsteering, um Geräten eine effizientere Nutzung des 5-GHz-Bands zu ermöglichen.
+2. Passen Sie die Kanalbreite an und reduzieren Sie diese möglicherweise auf 20 MHz, um Interferenzen zu verringern.
+3. Erhöhen Sie die Anzahl der APs, um die Last gleichmäßiger zu verteilen.
+4. Verwenden Sie Lastenausgleich, um die Anzahl der Clients pro Zugangspunkt zu verwalten.
+5. Aktualisieren Sie die Firmware Ihrer Geräte auf die neueste Version für optimale Leistung.
+6. Implementieren Sie QoS-Einstellungen, um kritischen Datenverkehr zu priorisieren.
+
+Wenn das Problem weiterhin besteht, lassen Sie es uns bitte wissen, damit wir Ihnen weiterhelfen können.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

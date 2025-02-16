@@ -1,0 +1,33 @@
+Ticket ID: ticket_121
+Subject: Dringende Anfrage zur Klärung der Rechnung und Zahlungsprobleme
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um dringend um Klärung der kürzlich erhaltenen Rechnung für den AWS Management Service zu bitten. Es scheint Unstimmigkeiten bei den als "Servicegebühren" gekennzeichneten Kosten zu geben. Diese unerklärten Gebühren wirken sich auf unsere Budgetplanung aus.
+
+Darüber hinaus haben wir zuvor Bedenken bezüglich ausstehender Zahlungsprobleme auf unserem Konto <acc_num> geäußert, die anscheinend weiterhin ungelöst sind. Könnten Sie bitte detaillierte Informationen und einen Lösungsplan so bald wie möglich bereitstellen?
+
+Wir schätzen unsere Beziehung zu den IT-Services und hoffen, unsere Partnerschaft effektiv fortsetzen zu können.
+
+Bitte kontaktieren Sie mich direkt unter <tel_num> für weitere Informationen.
+
+Vielen Dank für Ihre schnelle Aufmerksamkeit.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrte(r) <name>,
+
+vielen Dank, dass Sie sich mit uns in Verbindung gesetzt haben, um die Bedenken bezüglich Ihrer aktuellen Rechnung für den AWS Management Service und die ausstehenden Zahlungsprobleme im Zusammenhang mit dem Konto <acc_num> anzusprechen.
+
+Wir erkennen die Unstimmigkeiten an, die Sie im Bereich "Servicegebühren" festgestellt haben, und untersuchen derzeit diese Gebühren, um sicherzustellen, dass sie gerechtfertigt sind. Wir werden Ihnen eine aktualisierte Rechnung und Erklärung zukommen lassen, sobald unsere Überprüfung abgeschlossen ist.
+
+Bezüglich der ungelösten Zahlungsprobleme verstehen wir die Wichtigkeit dieser Angelegenheit und versichern Ihnen, dass wir dies gründlich prüfen. Unser Buchhaltungsteam wird Sie bald mit einem Lösungsplan kontaktieren.
+
+Wir schätzen Ihre wertvolle Beziehung zu den IT-Services und sind bestrebt, diese Probleme umgehend zu lösen. Für weitere Informationen oder dringende Gespräche kontaktieren Sie uns bitte unter der angegebenen Nummer, oder Sie können innerhalb des nächsten Geschäftstags mit einer Rückmeldung von uns rechnen.
+
+Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+
+Kundenserviceteam

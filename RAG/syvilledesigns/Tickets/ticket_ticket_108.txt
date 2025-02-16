@@ -1,0 +1,45 @@
+Ticket ID: ticket_108
+Subject: Hilfe benötigt: Problem mit Slack-Benachrichtigung
+Incident Type: Problem
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich schreibe, um Unterstützung bei einem Problem zu suchen, das ich mit der Anwendung Slack Version 4.23.0 habe. Als Nutzer, der stark auf dieses Tool für regelmäßige Kommunikation und Workflow-Management angewiesen ist, stellt das Problem, das ich erlebe, eine erhebliche Störung meines täglichen Ablaufs dar.
+
+Trotz der Überprüfung, dass alle notwendigen Benachrichtigungseinstellungen in meinem Konto aktiviert sind, kann ich diese Benachrichtigungen nicht wie erwartet empfangen. Dies betrifft sowohl Benachrichtigungen über direkte Nachrichten als auch Kanalbenachrichtigungen. Ich habe alle Einstellungen doppelt überprüft und bestätigt, dass diese in den App- und Systemeinstellungen so eingestellt sind, dass Benachrichtigungen zugelassen werden, und somit mögliche Konfigurationsfehler auf meiner Seite ausgeschlossen sind.
+
+Um weiter zu suchen, habe ich versucht, mich mehrmals von der Anwendung abzumelden und wieder anzumelden. Jeder Versuch bestand aus einer Standardabmeldung, dem Warten von ein paar Minuten vor der erneuten Anmeldung und der Sicherstellung, dass die Anwendung ordnungsgemäß neu gestartet wurde. Leider haben diese Versuche das Problem nicht behoben.
+
+Zur Referenz: Mein Benutzername ist <name> und meine berufliche E-Mail-Adresse, die mit dem Konto verbunden ist, ist <name>@example.com. Ich würde es sehr schätzen, wenn Ihr Team diese Angelegenheit mit etwas Dringlichkeit prüfen könnte, da es für mich entscheidend ist, zeitnahe Benachrichtigungen zu erhalten, um über die neuesten Entwicklungen meines Projekts auf dem Laufenden zu bleiben.
+
+Außerdem würde ich gerne nachfragen, ob es bekannte Probleme oder aktuelle Updates gibt, die die Benachrichtigungsfunktionen in dieser Version der Anwendung beeinflusst haben könnten. Wenn möglich, würde ich mich über Hinweise zu weiteren Schritten zur Fehlersuche freuen, die ich unabhängig unternehmen könnte, um dieses Problem schnell zu lösen.
+
+Vielen Dank für Ihre Aufmerksamkeit in dieser Angelegenheit, und ich freue mich auf Ihre zügige Antwort.
+
+Mit freundlichen Grüßen,
+
+<name>
+
+Kontakt Nummer: <tel_num>
+
+Bitte geben Sie Updates per E-Mail und falls direkte Korrespondenz erforderlich ist, zögern Sie nicht, mich unter meinen angegebenen Kontaktdaten zu erreichen.
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie sich bezüglich des Problems mit den Slack-Benachrichtigungen an uns gewandt haben. Ich verstehe, wie störend dies für Ihren täglichen Ablauf sein kann.
+
+Um mit der Fehlersuche zu beginnen, stellen Sie bitte sicher, dass Ihre Version auf die neueste Slack-Version aktualisiert ist, da seit Version 4.23.0 möglicherweise Verbesserungen oder Fehlerbehebungen vorgenommen wurden. Überprüfen Sie außerdem, ob die Betriebssystemversion Ihres Geräts die App ohne Kompatibilitätsprobleme unterstützt.
+
+Hier sind einige Schritte, die möglicherweise hilfreich sind:
+1. Gehen Sie zu den Benachrichtigungseinstellungen von Slack und setzen Sie sie auf die Werkseinstellungen zurück, um zu sehen, ob das eine Änderung bewirkt.
+2. Überprüfen Sie die Systemeinstellungen für Benachrichtigungen, um sicherzustellen, dass Slack ohne Einschränkungen Benachrichtigungen senden darf.
+3. Ziehen Sie in Betracht, den Anwendungscache zu löschen, da dies gelegentlich die Benachrichtigungsfunktionen zurücksetzen kann.
+4. Wenn möglich, versuchen Sie, ein anderes Netzwerk oder die Slack-Webanwendung zu verwenden, um zu überprüfen, ob das Problem weiterhin besteht.
+
+Derzeit gibt es keine weit verbreiteten Probleme mit den Benachrichtigungsfunktionen für die von Ihnen genannte Version, aber das Support-Team steht zur Verfügung, um weiterzuhelfen, falls diese Schritte das Problem nicht lösen.
+
+Für fortgesetzte Unterstützung oder Updates zu etwaigen Entwicklungen halten wir Sie per E-Mail auf dem Laufenden. Sollte eine direkte Kommunikation erforderlich sein, werde ich sicherstellen, dass ich Ihre angegebenen Kontaktdaten verwende.
+
+Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+
+Service Desk Agent

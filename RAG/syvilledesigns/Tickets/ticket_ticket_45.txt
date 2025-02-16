@@ -1,0 +1,33 @@
+Ticket ID: ticket_45
+Subject: Pedido de Assistência para Administração de Servidores
+Incident Type: Request
+Customer Issue: Prezado Suporte ao Cliente de Serviços de TI,
+
+Espero que esta mensagem o encontre bem. Estou escrevendo para solicitar assistência adicional com a administração do servidor para melhorar a eficiência e o desempenho de nossos sistemas atuais. Acreditamos que aproveitar seus serviços de consultoria pode nos ajudar a alcançar essas melhorias e abordar quaisquer desafios existentes que estamos enfrentando.
+
+Nosso principal objetivo é otimizar as operações do servidor para apoiar nosso crescimento e garantir a confiabilidade de nossa infraestrutura de TI. Após revisar seus Serviços de Consultoria de TI, estamos confiantes de que a experiência de sua equipe pode fornecer insights e soluções valiosas adaptadas às nossas necessidades específicas.
+
+Poderíamos, por favor, agendar uma consulta com um de seus especialistas na sua primeira conveniência? Estamos ansiosos para discutir estratégias potenciais, planos de serviço e quaisquer recomendações que você possa ter. Aguardamos ansiosamente o refinamento de nossos sistemas e a sua adaptação às melhores práticas.
+
+Obrigado pela sua atenção a este pedido. Agradecemos sua assistência e estamos animados com a possibilidade de colaborar com sua equipe.
+
+Atenciosamente,
+
+<name>
+<position>
+<company>
+<tel_num>
+<email>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato com o Suporte ao Cliente de Serviços de TI. Agradecemos seu interesse em nossos serviços de consultoria para melhorar a administração do seu servidor.
+
+Ficaríamos felizes em agendar uma consulta para você com um de nossos especialistas. Por favor, nos informe sua disponibilidade e organizaremos uma reunião na primeira conveniência.
+
+Nossa equipe está animada para colaborar com você, discutir estratégias potenciais e fornecer soluções personalizadas para otimizar suas operações de servidor e apoiar seu crescimento.
+
+Aguardamos ansiosos para trabalhar com você.
+
+Atenciosamente,
+
+Equipe de Suporte ao Cliente de Serviços de TI

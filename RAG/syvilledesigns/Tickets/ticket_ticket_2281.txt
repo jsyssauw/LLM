@@ -1,0 +1,5 @@
+Ticket ID: ticket_2281
+Subject: Unterstützung bei der Einrichtung des mobilen Drucks
+Incident Type: Request
+Customer Issue: Ich benötige Hilfe, um den Druck über meinen Canon-Drucker einzurichten.
+Customer Service answer: Bitte stellen Sie sicher, dass die App installiert ist, verbinden Sie sich mit dem WLAN, wählen Sie den Drucker in den Einstellungen aus und drucken Sie.

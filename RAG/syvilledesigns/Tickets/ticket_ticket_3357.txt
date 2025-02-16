@@ -1,0 +1,15 @@
+Ticket ID: ticket_3357
+Subject: Demande de support
+Incident Type: Request
+Customer Issue: Cher service client,
+
+J'ai besoin d'aide concernant le service de conseils en informatique, spécifiquement en ce qui concerne le développement logiciel et l'administration des serveurs. Veuillez nous conseiller sur la manière dont nous pouvons rapidement traiter cette affaire.
+
+Merci,
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Pour vous aider avec le développement logiciel et l'administration des serveurs, veuillez fournir plus de détails ou contacter notre équipe informatique au <tel_num>. Nous sommes ici pour vous aider !
+
+Cordialement,
+Service client

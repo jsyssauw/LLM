@@ -1,0 +1,10 @@
+Ticket ID: ticket_1860
+Subject: nan
+Incident Type: Request
+Customer Issue: {"greeting": "Estimado Equipo de Atención al Cliente,", "message": "Recientemente adquirí un Dell XPS 13 9310 defectuoso a través de su tienda en línea. La laptop no está funcionando adecuadamente. ¿Podrían asistirme con el procedimiento para realizar una devolución o un reemplazo? Agradezco su ayuda.", "closing": "Atentamente, <nombre>"}
+Customer Service answer: Estimado <nombre>,
+
+Lamentamos saber acerca del inconveniente con su Dell XPS 13 9310. Para iniciar el proceso de devolución o reemplazo, le recomendamos visitar nuestro portal de devoluciones en nuestra página web y seguir las instrucciones indicadas. Si encuentra alguna dificultad, no dude en respondernos a este correo electrónico o contactar a nuestro equipo de soporte para obtener asistencia.
+
+Atentamente,
+Equipo de Atención al Cliente

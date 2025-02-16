@@ -1,0 +1,5 @@
+Ticket ID: ticket_1118
+Subject: HP DeskJet 3755 Problem
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice, ich habe einen HP DeskJet 3755 erhalten, und er zeigt während der Ersteinrichtung einen Papierstau-Fehler an. Bitte helfen Sie mir. Mit freundlichen Grüßen, <name>, Konto: <acc_num>
+Customer Service answer: Sehr geehrter <name>, es tut mir leid zu hören, dass Sie ein Problem mit Ihrem HP DeskJet 3755 haben. Bitte überprüfen Sie auf sichtbare Hindernisse, entfernen Sie vorsichtig eingeklemmtes Papier und starten Sie den Drucker neu. Mit freundlichen Grüßen, Kundenservice

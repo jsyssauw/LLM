@@ -1,0 +1,31 @@
+Ticket ID: ticket_3337
+Subject: Assistance requise pour la compatibilité des extensions Chrome
+Incident Type: Problem
+Customer Issue: Cher Service Client,
+
+Je vous écris pour demander de l'aide concernant un problème que je rencontre avec Google Chrome version 102.0. J'ai remarqué des plantages fréquents lors de l'utilisation de certaines extensions, et il semble s'agir d'un problème de compatibilité spécifiquement avec cette version du navigateur. Ces plantages sont devenus assez perturbateurs pour mes activités en ligne quotidiennes, et j'espère que vous pourrez me fournir des conseils ou des étapes de dépannage pour résoudre ce problème. De plus, s'il y a des mises à jour ou des correctifs qui traitent ce problème de compatibilité, j'apprécierais que vous puissiez partager ces informations avec moi. Merci de me dire s'il y a des paramètres spécifiques qui pourraient nécessiter un ajustement ou s'il existe une liste d'extensions incompatibles. Je suis désireux de continuer à utiliser ces extensions et j'apprécie grandement votre soutien rapide pour résoudre cette affaire. Merci de votre attention et de votre assistance. J'attends avec impatience votre réponse rapide.
+
+Cordialement,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant les problèmes liés aux extensions Google Chrome sur la version 102.0. Pour résoudre les plantages que vous rencontrez, veuillez suivre ces étapes :
+
+1. **Mettre à jour Chrome** : Assurez-vous que votre navigateur Chrome est à jour. Parfois, les nouvelles mises à jour résolvent les problèmes de compatibilité.
+2. **Désactiver les extensions problématiques** : Identifiez les extensions provoquant des plantages en les désactivant une par une et en vérifiant la stabilité.
+3. **Effacer les données de navigation** : Allez dans les paramètres de Chrome, videz le cache et les cookies pour voir si les performances s'améliorent.
+4. **Vérifier les mises à jour des extensions** : Assurez-vous que toutes vos extensions sont mises à jour vers leurs dernières versions.
+5. **Réinstaller les extensions** : Supprimez et réinstallez les extensions problématiques depuis le Chrome Web Store.
+6. **Mode sans échec** : Lancez Chrome en mode sans échec pour vérifier si les extensions provoquent des conflits. Si tout fonctionne sans problème, il est probable qu'une extension soit en cause.
+7. **Consulter la liste d'incompatibilité** : Consultez le site officiel de Chrome pour trouver une liste d'extensions incompatibles connues avec votre version.
+
+Pour tout correctif ou mise à jour disponible ciblant ce problème, visitez régulièrement la page de support officielle de Chrome ou leurs forums communautaires.
+
+Veuillez nous faire savoir si vous continuez à rencontrer des problèmes après avoir suivi ces étapes, et nous pourrons explorer d'autres solutions.
+
+Cordialement,
+
+<Votre Équipe de Support>

@@ -1,0 +1,5 @@
+Ticket ID: ticket_1577
+Subject: Solicitud de personalización para el flujo de trabajo de Jira Software
+Incident Type: Change
+Customer Issue: Hola equipo de soporte, Estoy escribiendo para solicitar un ajuste específico en el flujo de trabajo del proyecto en Jira Software 8.20 para asegurarme de que esté más alineado con nuestras metodologías ágiles. Saludos cordiales, <name>
+Customer Service answer: Hola <name>, Gracias por tu consulta. Hemos anotado tu solicitud de personalización del flujo de trabajo de Jira Software. Nuestro equipo la evaluará y te responderá pronto. Saludos cordiales.

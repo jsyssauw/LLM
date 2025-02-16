@@ -1,0 +1,17 @@
+Ticket ID: ticket_1370
+Subject: Solicitud de Devolución: Función HDR Defectuosa del Samsung QN90A
+Incident Type: Request
+Customer Issue: Estimado Soporte de Tech Online Store,
+
+Estoy escribiendo para solicitar una devolución de mi Samsung QLED QN90A debido a una función HDR defectuosa. El problema fue descubierto dentro del periodo de devolución. Por favor, infórmame sobre los próximos pasos para procesar esta devolución.
+
+Gracias,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Lamentamos escuchar sobre el problema con tu Samsung QN90A. Por favor, devuelve el producto a nuestro departamento de devoluciones. Asegúrate de incluir tu número de cuenta <acc_num> en el paquete. Nuestra dirección y más instrucciones serán enviadas por correo electrónico.
+
+Atentamente,
+Soporte de Tech Online Store

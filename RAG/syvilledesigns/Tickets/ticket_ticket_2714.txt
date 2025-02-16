@@ -1,0 +1,18 @@
+Ticket ID: ticket_2714
+Subject: Request for Exchange or Refund of Faulty Ultrabook
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store,
+
+I am reporting a malfunction with my Dell XPS 13 9310's touchpad, occurring after just three months of use. I kindly request an exchange or refund for this device. Please assist me with the next steps.
+
+Thank you.
+
+Best, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your Dell XPS 13 9310. We apologize for the inconvenience caused. To proceed with an exchange or refund, please ensure the device is returned to us in its original packaging along with the receipt. Kindly contact our support team at <tel_num> to initiate the process and receive further instructions. 
+
+We appreciate your patience and understanding.
+
+Best regards,  
+Tech Online Store Support Team

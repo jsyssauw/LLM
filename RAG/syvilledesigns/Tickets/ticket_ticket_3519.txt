@@ -1,0 +1,25 @@
+Ticket ID: ticket_3519
+Subject: Verbindungsprobleme mit Cisco Router
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich habe sporadische Verbindungsprobleme mit meinem kürzlich erworbenen Cisco Router ISR4331. Die Verbindung bricht unerwartet ab, und ich vermute, dass es ein Konfigurationsproblem geben könnte. Ich würde jede Anleitung oder Unterstützung, die Sie mir zur Verfügung stellen können, um dieses Problem zu lösen, sehr schätzen. Bitte helfen Sie mir so schnell wie möglich.
+
+Vielen Dank,
+
+<name>
+<acc_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich der Verbindungsprobleme mit Ihrem Cisco Router ISR4331 an uns wenden. Um Ihnen besser helfen zu können, versuchen Sie bitte die folgenden Schritte:
+
+1. Stellen Sie sicher, dass alle Kabel sicher verbunden sind.
+2. Starten Sie den Router und alle angeschlossenen Geräte neu.
+3. Überprüfen Sie die aktuelle Firmware und aktualisieren Sie diese bei Bedarf.
+4. Überprüfen Sie alle Konfigurationseinstellungen in der Benutzeroberfläche des Routers. Achten Sie besonders auf DHCP-, NAT- und Routing-Einstellungen.
+5. Setzen Sie den Router auf die Werkseinstellungen zurück, wenn das Problem weiterhin besteht, und konfigurieren Sie das Gerät von Grund auf neu.
+
+Wenn diese Schritte das Problem nicht lösen, kontaktieren Sie bitte unser Support-Team für weitere Unterstützung.
+
+Mit freundlichen Grüßen,
+Ihr Service Desk Agent

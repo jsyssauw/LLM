@@ -1,0 +1,28 @@
+Ticket ID: ticket_3505
+Subject: Pregunta sobre la gestión de servidores
+Incident Type: Incident
+Customer Issue: Hola equipo de soporte de IT Consulting Firm,
+
+Espero que estén bien. Mi nombre es <name> y les escribo para preguntar sobre sus servicios en gestión de servidores. Actualmente estamos considerando diferentes soluciones de TI que podrían mejorar nuestras operaciones y fortalecer nuestra infraestructura existente. ¿Podrían compartir información detallada sobre los servicios de gestión de servidores que ofrecen? Estamos especialmente interesados en soluciones que funcionen sin problemas con nuestros sistemas actuales y garanticen una eficiencia óptima del servidor.
+
+Además, si es posible, agradecería que me enviaran cualquier folleto, opciones de precios o planes de servicio completos que puedan tener. Nuestra intención es tomar una decisión bien informada que esté alineada con nuestros objetivos organizacionales.
+
+Espero su pronta respuesta, y no duden en contactarme en la mayor brevedad posible. Si tienen alguna pregunta, pueden comunicarse conmigo al <tel_num> o por correo electrónico a <email_address>.
+
+Gracias por su apoyo.
+
+Saludos cordiales,
+
+<name>
+<company_name>
+<acc_num>
+Customer Service answer: Hola <name>,
+
+Agradecemos su consulta sobre nuestros servicios de gestión de servidores. Proporcionamos una variedad de soluciones destinadas a mejorar la eficiencia del servidor e integrarse sin problemas con los sistemas existentes. Nuestros servicios abarcan monitoreo del sistema, gestión de seguridad, mantenimiento rutinario y mucho más para garantizar tanto la efectividad como la confiabilidad.
+
+Enviaré folletos y opciones de precios detalladas directamente a su correo electrónico, lo que le ayudará a evaluar nuestras ofertas. No dude en revisar estos documentos y no dude en ponerse en contacto si tiene más preguntas o necesita más aclaraciones.
+
+Estamos ansiosos por apoyar a <company_name> en el cumplimiento de sus objetivos de TI.
+
+Atentamente,
+El equipo de atención al cliente de IT Consulting Firm

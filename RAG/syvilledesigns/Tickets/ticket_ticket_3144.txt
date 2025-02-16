@@ -1,0 +1,17 @@
+Ticket ID: ticket_3144
+Subject: Problema de Instalação Reportado
+Incident Type: Request
+Customer Issue: Prezada equipe de suporte <name>,
+
+Estou enfrentando dificuldades com a instalação do Norton Antivirus Plus em meu sistema. O processo de instalação para de maneira abrupta e não consigo avançar. Você poderia me ajudar a solucionar isso?
+
+Agradeço,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Prezado [Nome do Cliente],
+
+Agradecemos por nos contatar. Por gentileza, tente reiniciar o seu computador e verifique se todos os softwares antivírus anteriores foram removidos. Caso o problema continue, faça o download do instalador mais recente no site da Norton. Se necessitar de mais ajuda, sinta-se à vontade para nos avisar.
+
+Atenciosamente,
+Equipe de Suporte

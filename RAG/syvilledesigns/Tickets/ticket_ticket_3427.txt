@@ -1,0 +1,21 @@
+Ticket ID: ticket_3427
+Subject: Requesting Update: Photoshop Crashes Affect Workflow
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. Our team has encountered persistent issues with Adobe Photoshop 2024, specifically it crashes frequently when applying filters. This is causing delays in our HR team's creative tasks. An update is crucial for our ongoing projects to ensure stability and seamless operations. Could you please advise us if there is an upcoming update to address this issue or if there are any temporary solutions we can apply? Your prompt assistance would be greatly appreciated.
+
+Thank you for your attention to this matter.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the issues with Adobe Photoshop 2024. We understand the inconvenience this is causing your HR team. There is an upcoming update scheduled to address these crash issues, which should be available shortly.
+
+In the meantime, as a temporary solution, try updating your graphics driver, disabling third-party plugins, or resetting your Photoshop preferences to default, as these steps have helped resolve similar issues in some cases.
+
+We appreciate your patience and understanding. Please let us know if the problem persists after attempting these steps.
+
+Best regards,
+Customer Support Team

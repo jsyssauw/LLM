@@ -1,0 +1,15 @@
+Ticket ID: ticket_3298
+Subject: Anfrage zur Serverberatung
+Incident Type: Request
+Customer Issue: Sehr geehrte Kundenbetreuung,
+
+ich schreibe, um eine Beratung zur Serveradministration anzufordern. Insbesondere benötige ich Unterstützung bei der Verständigung über Softwareupdates und Wartungspläne im Zusammenhang mit Ihrem IT-Consulting-Service. Ihre Expertise auf diesem Gebiet wird sehr geschätzt.
+
+Danke,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank für Ihre Anfrage. Wir helfen Ihnen gerne bei der Serveradministration, Softwareupdates und Wartungsplänen. Bitte teilen Sie uns mit, wann Ihnen eine Beratung passend ist oder ob Sie spezielle Fragen haben. Wir freuen uns darauf, Ihnen zu helfen.
+
+Mit freundlichen Grüßen,
+Team Kundenbetreuung

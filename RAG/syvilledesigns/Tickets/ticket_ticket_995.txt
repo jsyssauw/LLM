@@ -1,0 +1,29 @@
+Ticket ID: ticket_995
+Subject: Requesting Assistance for Zoom Setup Efficiently
+Incident Type: Change
+Customer Issue: Dear Tech Online Store Support Team, 
+
+I hope this message finds you well. I am writing to seek assistance regarding a feature of the Zoom 5.11.0 product that I purchased from your store. My name is <name>, and I am interested in utilizing Zoom’s video conferencing service effectively for our business meetings. Our team has been using Zoom, and while it has been a valuable tool, we are eager to ensure that we are maximizing its capabilities.
+
+Recently, we have encountered a few challenges in configuring the settings for scheduling recurring meetings and managing participant settings efficiently. I would greatly appreciate any guidance or resources you can offer that would help simplify this process. Specifically, tutorials or guides on optimizing screen-sharing options and host controls would immensely benefit our team.
+
+Moreover, if there are any tips on how to maintain high-quality audio and video during our conferences, they would be most welcome. Ensuring a seamless and professional experience during each meeting is crucial for our continued success and collaboration.
+
+Could someone from your support team reach out to me at <tel_num> to further discuss how we might enhance our use of Zoom? Thank you for your time and support.
+
+Warm regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your use of Zoom 5.11.0 for business meetings. We completely understand the importance of optimizing its features for your team.
+
+To assist with scheduling recurring meetings and managing participant settings, we recommend checking Zoom's Help Center which has comprehensive guides. You may also find it beneficial to explore video tutorials available on Zoom's official YouTube channel. For optimizing screen-sharing and host controls, we specifically suggest looking into their advanced meetings settings and enabling co-host capabilities, if suitable.
+
+For maintaining high-quality audio and video, ensure your internet connection is stable and consider using high-quality microphones and cameras. Try to close unnecessary applications running in the background and adjust Zoom’s video settings for HD resolution, if your network allows.
+
+One of our support team members will gladly contact you at <tel_num> to discuss further improvements.
+
+Best regards,
+
+Tech Online Store Support Team

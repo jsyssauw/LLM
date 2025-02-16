@@ -1,0 +1,20 @@
+Ticket ID: ticket_1039
+Subject: Résolution Urgente Requise : Facturation Incorrecte pour le Plan Google Workspace
+Incident Type: Incident
+Customer Issue: Cher Support Client,
+
+J'espère que ce message vous trouve bien. Je vous écris pour aborder un problème de facturation concernant mon compte, <acc_num>. J'ai erronément été facturé pour le plan Google Workspace Business Standard. Veuillez examiner ma facture récente et rembourser la différence dès que possible. Merci de me contacter si d'autres détails sont nécessaires.
+
+Dans l'attente de votre réponse rapide,
+
+<name>
+<tel_num>
+Merci de votre attention immédiate à cette affaire.
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés au sujet du problème de facturation avec votre compte Google Workspace <acc_num>. Nous nous excusons pour tout inconvénient causé. Notre équipe examine actuellement les détails de votre facture pour résoudre le trop-perçu lié au plan Business Standard. Un remboursement de la différence sera traité sous peu. Si nous avons besoin d'informations supplémentaires, nous vous contacterons au <tel_num>. 
+
+Merci pour votre patience et votre compréhension.
+
+Cordialement,
+Équipe de Support Client

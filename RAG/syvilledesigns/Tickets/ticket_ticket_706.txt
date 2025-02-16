@@ -1,0 +1,31 @@
+Ticket ID: ticket_706
+Subject: Consulta de Serviço
+Incident Type: Request
+Customer Issue: Olá,
+
+Espero que esta mensagem o encontre bem. Estou entrando em contato para solicitar mais informações sobre os seus Serviços de Consultoria em TI, especificamente em relação à administração de servidores e implementação de sistemas de tickets. Estamos considerando esses serviços para otimizar nossas operações de TI e melhorar nosso sistema de suporte. Você poderia, por favor, fornecer detalhes sobre seus serviços, preços e qualquer opção de personalização disponível?
+
+Aguardamos sua resposta rápida.
+
+Obrigado e melhores cumprimentos,
+
+<name>
+
+<name> Empresa
+<email>
+<tel_num>
+Customer Service answer: Olá <name>,
+
+Obrigado por entrar em contato para perguntar sobre nossos Serviços de Consultoria em TI. Oferecemos serviços abrangentes de administração de servidores e implementação de sistemas de tickets projetados para otimizar operações de TI e aprimorar sistemas de suporte. Nossos serviços incluem monitoramento, manutenção e suporte. Também fornecemos opções de personalização para atender às suas necessidades específicas.
+
+Podemos oferecer um plano de preços personalizado com base na escala e nos requisitos de sua organização. Para lhe darmos uma cotação precisa, recomendamos uma breve consulta para entender melhor suas necessidades.
+
+Sinta-se à vontade para entrar em contato conosco a qualquer momento para agendar uma discussão.
+
+Obrigado por considerar nossos serviços.
+
+Atenciosamente,
+
+<name>  
+Equipe de Atendimento ao Cliente  
+<name> Empresa

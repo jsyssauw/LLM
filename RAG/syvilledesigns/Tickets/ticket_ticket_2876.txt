@@ -1,0 +1,5 @@
+Ticket ID: ticket_2876
+Subject: Incidencia con la pantalla del Samsung Galaxy S21 Ultra adquirido en su tienda en línea
+Incident Type: Problem
+Customer Issue: Estimado servicio al cliente, recientemente adquirí un Samsung Galaxy S21 Ultra en su sitio web y estoy teniendo dificultades con la pantalla. ¿Podrían orientarme sobre cómo solucionar este inconveniente o gestionar un reemplazo? Gracias. Atentamente, <nombre>
+Customer Service answer: Estimado <nombre>, siento mucho los inconvenientes que ha tenido con su Samsung Galaxy S21 Ultra. Le agradecemos que se comunique con nuestro servicio técnico al [número de servicio técnico] para ayudarle a resolver el inconveniente. Si no se encuentra una solución, le asistiremos con un reemplazo. Atentamente, [Su Empresa] Atención al Cliente

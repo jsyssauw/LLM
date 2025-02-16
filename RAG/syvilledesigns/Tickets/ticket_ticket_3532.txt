@@ -1,0 +1,17 @@
+Ticket ID: ticket_3532
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado equipo de atención al cliente,
+
+Me comunico con ustedes para reportar inconvenientes con mi Lenovo IdeaPad 5. He notado que el rendimiento del portátil es considerablemente lento desde la semana pasada, lo que afecta mi eficiencia laboral. ¿Me podrían ayudar a resolver este problema?
+
+Saludos,
+<name>
+Número de Cuenta: <acc_num>
+Teléfono de Contacto: <tel_num>
+Customer Service answer: Hola <name>,
+
+Agradecemos tu mensaje. Te recomendamos iniciar realizando una limpieza del disco y asegurarte de que todos tus controladores estén actualizados. Si el inconveniente continúa, intenta iniciar en Modo Seguro para verificar si hay alguna mejora en el rendimiento. Para obtener más asistencia, no dudes en contactarnos al <tel_num> o responder a este correo.
+
+Saludos cordiales,
+Equipo de Atención al Cliente

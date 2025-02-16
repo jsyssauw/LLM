@@ -1,0 +1,32 @@
+Ticket ID: ticket_628
+Subject: Dringend: Störung des Jira-Ticketsystems
+Incident Type: Incident
+Customer Issue: Hallo Kundenserviceteam,
+
+ich schreibe, um unsere Besorgnis über die derzeitige Nichtverfügbarkeit des Jira-Ticketsystems zum Ausdruck zu bringen, die unsere Projektmanagement-Bemühungen erheblich beeinträchtigt. Wir haben beobachtet, dass die Jira-Plattform, insbesondere Version 8.20, seit heute Morgen nicht zugänglich ist, was zu erheblichen Störungen in unseren aktiven Projekten führt. Als wichtiges Werkzeug innerhalb unseres Softwareentwicklungszyklus führt das Fehlen dieser Ressource dazu, dass unsere Teams erhebliche Rückschläge im effektiven Management von Projektaufgaben, Kommunikation und Fristen erleben.
+
+Die Störung betrifft mehrere Teams, was zu einer Unfähigkeit führt, den Fortschritt von Problemen zu verfolgen, Aufgaben zuzuweisen oder aktuelle Projektdetails zu aktualisieren. Die Zusammenarbeit ist zum Stillstand gekommen, was angesichts der zeitkritischen Natur mehrerer unserer Projekte, die derzeit in der Pipeline sind, besorgniserregend ist.
+
+Angesichts der Dringlichkeit dieses Problems bitten wir um eine zügige Untersuchung und Lösung, um den vollständigen Service so schnell wie möglich wiederherzustellen. Wenn es vorübergehende Lösungen oder Umgehungen gibt, die wir während der Reparatur des Systems umsetzen könnten, lassen Sie es uns bitte wissen. Weitere Details zur geschätzten Lösungszeit würden uns zudem helfen, interne Ressourcen und Projektzeitpläne während dieser Störung besser zu verwalten.
+
+Bitte zögern Sie nicht, sich zu melden, wenn von unserer Seite zusätzliche Details oder Protokolle erforderlich sind, um die Fehlersuche zu beschleunigen. Wir freuen uns auf Ihre umgehende Rückmeldung, um weitere Unterbrechungen zu minimieren.
+
+Vielen Dank für Ihre sofortige Aufmerksamkeit für diese dringende Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<name>
+<company_name> | Telefon: <tel_num> 
+E-Mail: <email>
+Customer Service answer: Hallo <name>,
+
+vielen Dank, dass Sie uns über das Problem mit dem Jira-Ticketsystem informiert haben. Wir verstehen die Auswirkungen, die diese Störung auf Ihr Projektmanagement hat, und wir untersuchen derzeit die Ursache mit höchster Priorität.
+
+In der Zwischenzeit empfehlen wir Ihnen, den Zugang in regelmäßigen Abständen weiter zu versuchen, und wir empfehlen, eine manuelle Verfolgung von Aufgaben und Problemen, wenn möglich, zusammenzustellen, um weitere Verzögerungen zu minimieren. Wir werden Sie umgehend informieren, sobald wir eine Lösung oder einen geschätzten Zeitrahmen für die Wiederherstellung des Dienstes haben.
+
+Wenn wir zusätzliche Informationen benötigen, wie Protokolle, werden wir Sie direkt kontaktieren. Bitte seien Sie versichert, dass wir fleißig daran arbeiten, dieses Problem zu lösen.
+
+Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

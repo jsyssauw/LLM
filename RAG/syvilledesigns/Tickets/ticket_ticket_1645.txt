@@ -1,0 +1,18 @@
+Ticket ID: ticket_1645
+Subject: Consulta sobre problemas con el Dell XPS 13 9310
+Incident Type: Request
+Customer Issue: Hola, Soporte al Cliente,
+
+Estoy escribiendo para buscar asistencia con un problema de parpadeo de la pantalla que he estado experimentando con mi Dell XPS 13 9310 Ultrabook. El producto parece haber desarrollado este problema recientemente, y está causando un inconveniente significativo, especialmente durante el trabajo. He verificado las actualizaciones de controladores y asegurado que todas las actualizaciones del sistema estén instaladas, pero desafortunadamente, el problema persiste. ¿Podrían por favor brindarme orientación sobre posibles soluciones o pasos que puedo seguir para rectificar esto? Si es necesario, estoy preparado para proporcionar detalles adicionales como recibo de compra o registros técnicos. Apreciaría su pronta ayuda para resolver este asunto. Gracias por su atención.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Hola <name>,
+
+Gracias por ponerte en contacto sobre el problema de tu pantalla Dell XPS 13 9310. Por favor, intenta ajustar la frecuencia de actualización en la configuración de pantalla y deshabilita cualquier programa innecesario que se inicie al arrancar. Si estos pasos no resuelven el problema, se recomienda restablecer el controlador gráfico. Puedes hacer esto presionando las teclas "Win + Ctrl + Shift + B" simultáneamente. Si el parpadeo de la pantalla continúa, podría ser necesario que nos proporciones tu recibo de compra y cualquier registro técnico para una investigación más profunda.
+
+Si estos pasos no ayudan, por favor háznoslo saber y podemos explorar opciones de servicio.
+
+Saludos cordiales,
+Soporte al Cliente

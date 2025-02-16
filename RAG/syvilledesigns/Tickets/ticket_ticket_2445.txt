@@ -1,0 +1,24 @@
+Ticket ID: ticket_2445
+Subject: Browser-Performanceproblem
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich hoffe, diese E-Mail erreicht Sie wohl. Ich schreibe, um meine Besorgnis über ein Problem mit Google Chrome Version 102.0 auszudrücken. Es scheint, dass der Browser jedes Mal unerwartet abstürzt, wenn ich versuche, mehrere Registerkarten gleichzeitig zu öffnen. Dieses Problem hat erhebliche Auswirkungen auf meinen Arbeitsablauf, und wie ich erfahren habe, haben viele andere Nutzer ähnliche Schwierigkeiten. Ich wäre Ihnen sehr dankbar für jegliche Anleitung oder Lösungen, die Sie zur Behebung dieses Problems so effizient wie möglich bereitstellen könnten. Vielen Dank für Ihre Aufmerksamkeit für dieses dringende Problem.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich des Problems mit Google Chrome Version 102.0 an uns gewandt haben. Wir verstehen, dass dies Ihren Arbeitsablauf stören kann. Hier sind einige Schritte, die Sie versuchen können, um dieses Problem zu mindern:
+
+1. Überprüfen Sie, ob Updates verfügbar sind, da Aktualisierungen oft Korrekturen für Fehler enthalten.
+2. Löschen Sie Ihren Browser-Cache und Cookies, um die Leistung zu verbessern.
+3. Deaktivieren Sie alle unnötigen Erweiterungen, die einen Konflikt verursachen könnten.
+4. Versuchen Sie, Chrome im Inkognito-Modus auszuführen, um zu sehen, ob das Problem weiterhin besteht, was darauf hinweisen kann, ob Erweiterungen beteiligt sind.
+5. Erwägen Sie, ein neues Benutzerprofil in Chrome zu erstellen, um mögliche profilbezogene Probleme auszuschließen.
+
+Wenn das Problem weiterhin besteht, lassen Sie es uns bitte wissen, und wir werden weiter untersuchen. Wir entschuldigen uns für die Unannehmlichkeiten und danken Ihnen für Ihre Geduld.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

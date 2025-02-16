@@ -1,0 +1,5 @@
+Ticket ID: ticket_2878
+Subject: Need support: Screen flickering problem on laptop
+Incident Type: Incident
+Customer Issue: The customer has reported that the screen is flickering on a Dell XPS 13 9310. Kindly provide diagnostic support to quickly address the problem.
+Customer Service answer: We appreciate you reaching out to us. Please verify if there are any updates for software or drivers available on the Dell website. Should the problem continue, try modifying the refresh rate in your display settings. Contact us again if you need additional support.

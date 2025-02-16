@@ -1,0 +1,30 @@
+Ticket ID: ticket_3589
+Subject: Assistência com Configuração do AWS EC2
+Incident Type: Request
+Customer Issue: Prezado Time de Suporte ao Cliente,
+
+Espero que esta mensagem o encontre bem. Estou entrando em contato para solicitar sua assistência com um problema que encontrei ao configurar minha instância AWS EC2. Tenho tentado implantar um projeto usando seu Serviço de Gerenciamento AWS, mas enfrentei alguns desafios durante o processo de implantação que não consegui resolver sozinho.
+
+O problema parece surgir ao configurar os grupos de segurança e conectar a instância EC2 com minha VPC. Apesar de seguir a documentação fornecida, continuo a experienciar erros que impedem a configuração e lançamento bem-sucedido da instância. Essas dificuldades estão afetando negativamente meu fluxo de trabalho e cronograma do projeto.
+
+Agradeceria muito por qualquer orientação ou suporte que sua equipe possa fornecer para me ajudar a resolver esse problema. Se for útil, posso fornecer detalhes adicionais sobre as configurações atuais que estou utilizando ou quaisquer outras informações técnicas que possam lançar luz sobre o que pode estar causando esses erros. Além disso, por favor, me avise se uma sessão de solução de problemas remota seria preferível para acelerar o processo de resolução.
+
+Obrigado pela atenção a este assunto. Aguardo sua resposta rápida.
+
+Atenciosamente,
+
+<name>
+
+<tel_num>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato conosco sobre o seu problema de configuração da instância AWS EC2. Entendemos como isso pode impactar o cronograma do seu projeto e estamos aqui para ajudar.
+
+Para ajudá-lo melhor, por favor forneça detalhes específicos dos erros que você está enfrentando, bem como suas configurações atuais de grupo de segurança e configuração da VPC. Essas informações nos ajudarão a identificar a causa raiz do problema.
+
+Se necessário, podemos agendar uma sessão remota de solução de problemas para resolver essas questões de forma mais eficiente. Por favor, nos informe sua disponibilidade para tal sessão.
+
+Aguardamos sua resposta.
+
+Atenciosamente,
+Time de Suporte ao Cliente

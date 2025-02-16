@@ -1,0 +1,29 @@
+Ticket ID: ticket_2075
+Subject: Asistencia requerida para Adobe Photoshop
+Incident Type: Request
+Customer Issue: Estimado equipo de soporte de Tech Online Store,
+
+Espero que este mensaje los encuentre bien. Escribo para solicitar asistencia con la instalación de Adobe Photoshop 2024. He estado encontrando errores persistentes al intentar instalar el software a través de Creative Cloud, y a pesar de seguir los pasos estándar de solución de problemas, el problema sigue sin resolverse.
+
+Mi objetivo es completar la instalación con éxito lo antes posible. Agradecería mucho si pudieran proporcionar orientación o pasos que puedan remediar esta situación. Por favor, avisen si hay algún requisito específico o si se necesitan más detalles sobre los errores encontrados.
+
+Gracias por su asistencia.
+
+Atentamente,
+
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos sobre el problema de instalación con Adobe Photoshop 2024. Para ayudarlo más, por favor intente los siguientes pasos:
+1. Asegúrese de que su aplicación Creative Cloud esté actualizada.
+2. Limpie la caché de Creative Cloud: Vaya a Preferencias > Creative Cloud > Archivos y luego limpie la caché.
+3. Desactive temporalmente cualquier software antivirus durante la instalación para evitar interferencias.
+4. Verifique la estabilidad de su conexión a internet durante el proceso de descarga.
+
+Si estos pasos no resuelven el problema, por favor proporcione cualquier código de error o mensajes que esté encontrando.
+
+Estamos aquí para ayudar, así que no dude en ponerse en contacto si necesita más apoyo.
+
+Atentamente,
+Equipo de soporte de Tech Online Store

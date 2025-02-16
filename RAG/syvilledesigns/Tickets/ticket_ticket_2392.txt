@@ -1,0 +1,22 @@
+Ticket ID: ticket_2392
+Subject: Hilfe benötigt für Dell XPS 13 Bestellung
+Incident Type: Request
+Customer Issue: Sehr geehrtes Tech Online Store Support Team,
+
+ich wende mich an Sie, um Unterstützung bezüglich des Status und der Lieferung meiner Bestellung für das Dell XPS 13 9310 Laptop zu erbitten. Ich habe keine aktuellen Sendungsverfolgungs-Updates erhalten. Könnten Sie mir bitte das neueste Update und die voraussichtliche Lieferzeit mitteilen? Meine Kontonummer ist <acc_num> zur Referenz.
+
+Vielen Dank für Ihre Aufmerksamkeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<name>
+
+Telefonnummer: <tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich Ihrer Dell XPS 13 9310 Bestellung an uns gewandt haben. Wir entschuldigen uns für die Unannehmlichkeiten hinsichtlich der Sendungsverfolgungs-Updates. Laut unseren neuesten Systeminformationen, die mit Ihrem Konto <acc_num> verknüpft sind, befindet sich Ihre Bestellung auf dem Weg und wird voraussichtlich innerhalb der nächsten 3-5 Geschäftstage geliefert. Wir werden Ihnen in Kürze die Sendungsverfolgungsinformationen per E-Mail zusenden, um weitere Updates zu geben.
+
+Wenn Sie weitere Hilfe benötigen, wenden Sie sich bitte an uns.
+
+Mit freundlichen Grüßen,  
+Tech Online Store Support Team

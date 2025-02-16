@@ -1,0 +1,21 @@
+Ticket ID: ticket_1346
+Subject: Asistencia urgente de AWS necesaria
+Incident Type: Request
+Customer Issue: Estimado equipo de soporte de servicios de TI,
+
+Mi nombre es <name>, y necesito urgentemente asistencia con respecto a los servicios de gestión de AWS. Actualmente estamos enfrentando dificultades para optimizar nuestros costos de AWS y necesitamos ayuda para desplegar una nueva infraestructura escalable. Esto está afectando críticamente nuestras operaciones y requiere atención inmediata.
+
+¿Podrían, por favor, agilizar esta solicitud y proporcionar el apoyo necesario lo antes posible? Si es necesario, puedo ser contactado al <tel_num> para más detalles.
+
+Espero su rápida asistencia.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por su mensaje. Entendemos la urgencia de su situación con respecto a la optimización de costos de AWS y el despliegue de infraestructura. Nuestro equipo está priorizando su solicitud y se pondrá en contacto con usted en breve. Si necesitamos detalles adicionales, nos comunicaremos directamente con usted al <tel_num>.
+
+Agradecemos su paciencia y trabajaremos rápidamente para resolver el problema.
+
+Atentamente,
+Equipo de soporte de servicios de TI

@@ -1,0 +1,20 @@
+Ticket ID: ticket_1120
+Subject: Help Needed for Printer Connection Issue
+Incident Type: Incident
+Customer Issue: Customer <name> reports Epson EcoTank ET-4760 won't connect to the network. Requesting guidance for wireless setup diagnostics to resolve the issue promptly. Please assist soon.
+Customer Service answer: Subject: Re: Help Needed for Printer Connection Issue
+
+Hello <name>,
+
+To resolve the network connectivity issue with your Epson EcoTank ET-4760, please try the following steps: 
+
+1. Ensure your Wi-Fi is enabled and the printer is within range.
+2. Restart both the printer and router.
+3. Check the printer's network settings for correct Wi-Fi credentials.
+4. Update the printer’s firmware.
+
+If the issue persists, feel free to contact us for further assistance.
+
+Best regards,
+[Your Name]  
+Service Desk Agent

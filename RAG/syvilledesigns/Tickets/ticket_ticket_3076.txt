@@ -1,0 +1,5 @@
+Ticket ID: ticket_3076
+Subject: Request for MacBook Air M1 replacement
+Incident Type: Problem
+Customer Issue: The MacBook Air M1 has battery issues. I need a replacement.
+Customer Service answer: Thank you for your message. Please follow the link to schedule your replacement: <service_link>.

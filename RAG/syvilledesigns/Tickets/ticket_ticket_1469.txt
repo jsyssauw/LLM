@@ -1,0 +1,5 @@
+Ticket ID: ticket_1469
+Subject: Poor battery life on MacBook Air M1
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Support, I am writing to report a significant decrease in battery life on my MacBook Air M1 after the latest update. I would like to request assistance in resolving this issue. My account number is <acc_num>. Thank you, <name>, <tel_num>
+Customer Service answer: Dear <name>, thank you for reaching out. We recommend resetting the System Management Controller (SMC) and performing a battery health check. If the issue persists, please visit our support center or contact us directly for further assistance. Regards, Tech Online Store Support.

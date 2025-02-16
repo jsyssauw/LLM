@@ -1,0 +1,35 @@
+Ticket ID: ticket_3732
+Subject: Problema frecuente de desconexión de Wi-Fi con la impresora Canon PIXMA
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Estoy escribiendo para expresar mi frustración con la impresora Canon PIXMA MG3620 que compré en su tienda, experimentando problemas persistentes de conectividad por Wi-Fi. Desde la configuración inicial, la impresora se desconecta frecuentemente del Wi-Fi, deteniendo abruptamente los procesos de impresión, lo que interrumpe significativamente mi trabajo. Este problema está causando considerables inconvenientes ya que dependo de una impresión fluida y sin interrupciones para tareas profesionales que son sensibles al tiempo.
+
+Tras configurar la impresora como se indicó, ocasionalmente se conecta a la red, permitiendo imprimir por un breve periodo antes de desconectarse inesperadamente. La interrupción a mitad de trabajo significa que tengo que esperar o reiniciar el proceso de conexión cada vez que ocurre una interrupción; ninguna de las dos opciones es práctica, especialmente para tareas de impresión en lotes. La solución de problemas utilizando las directrices de soporte de Canon no ha proporcionado una solución sostenible. Como se aconsejó, he verificado las actualizaciones de firmware, reposicionado el router para minimizar las perturbaciones y reiniciado la configuración de Wi-Fi varias veces sin mejoras duraderas.
+
+¿Podrían proporcionarme más información o pasos avanzados de solución de problemas para resolver esta desconexión persistente? Si se necesita un reemplazo o reparación, por favor infórmenme del procedimiento involucrado. Confío en que su equipo puede ayudar de manera eficiente, considerando la reputación que mantiene su empresa por un servicio rápido y centrado en el cliente.
+
+Gracias por su pronta atención a este asunto. Espero su orientación sobre el mejor curso de acción para remediar este problema y, idealmente, restaurar una conexión estable.
+
+Saludos cordiales,
+<name>
+<contact_info>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a los problemas de Wi-Fi con su impresora Canon PIXMA MG3620. Lamentamos el inconveniente que esto ha causado.
+
+Para abordar estos problemas de conectividad, por favor intente los siguientes pasos:
+
+1. Asegúrese de que el firmware de su impresora esté actualizado consultando el sitio web oficial de Canon.
+2. Reinicie su router para ver si esto estabiliza su conexión.
+3. Verifique si hay dispositivos que estén causando interferencia cerca de su impresora o router.
+4. Reduzca la distancia entre su impresora y router para mejorar la potencia de la señal.
+5. Intente cambiar el canal inalámbrico de su router para reducir la superposición y la interferencia.
+6. Utilice una conexión por cable temporalmente para asegurarse de que solo sea un problema de Wi-Fi.
+
+Si estas sugerencias no resuelven el problema, podemos explorar reparar o reemplazar la unidad. Por favor, responda con su recibo o detalles de la orden para que podamos verificar las opciones de garantía y guiarlo a través del proceso de reparación o reemplazo.
+
+Estamos comprometidos a resolver su problema de manera rápida y eficiente. No dude en comunicarse si necesita más asistencia.
+
+Atentamente,
+Equipo de Service Desk

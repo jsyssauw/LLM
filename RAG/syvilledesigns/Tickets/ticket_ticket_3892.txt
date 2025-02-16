@@ -1,0 +1,5 @@
+Ticket ID: ticket_3892
+Subject: Unterstützung suchen: Problem mit flackerndem Laptop-Bildschirm
+Incident Type: Incident
+Customer Issue: Der Kunde hat berichtet, dass der Bildschirm seines Dell XPS 13 9310 flackert. Wir bitten freundlich um diagnostische Unterstützung, um dieses Problem schnell zu beheben.
+Customer Service answer: Vielen Dank, dass Sie sich an uns gewandt haben. Bitte überprüfen Sie, ob es auf der Dell-Website verfügbare Software- oder Treiber-Updates gibt. Sollte das Problem weiterhin bestehen, ziehen Sie in Betracht, die Aktualisierungsrate in Ihren Anzeigeeinstellungen zu ändern. Bitte informieren Sie uns, wenn Sie weitere Hilfe benötigen.

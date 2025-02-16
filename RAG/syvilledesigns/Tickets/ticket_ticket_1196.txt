@@ -1,0 +1,10 @@
+Ticket ID: ticket_1196
+Subject: Problème d'accès avec Jira Software
+Incident Type: Problem
+Customer Issue: L'utilisateur des ressources humaines ne peut pas accéder à la file d'attente Jira, ce qui affecte le traitement des tickets. Veuillez aider à résoudre ce problème avec la version 8.20 de Jira Software.
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous comprenons le désagrément causé. Veuillez vérifier les autorisations de l'utilisateur et vous assurer qu'il est ajouté au bon groupe dans Jira Software 8.20. Si le problème persiste, faites-le nous savoir afin que nous puissions vous aider davantage.
+
+Cordialement,
+Équipe du Service Desk

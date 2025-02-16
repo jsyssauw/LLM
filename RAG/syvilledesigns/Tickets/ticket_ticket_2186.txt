@@ -1,0 +1,34 @@
+Ticket ID: ticket_2186
+Subject: Clarification urgente de facture nécessaire pour les services informatiques
+Incident Type: Request
+Customer Issue: Cher support client,
+
+Je m'appelle <name> et mon numéro de compte est <acc_num>. Je vous écris pour demander une clarification urgente concernant une facture que j'ai reçue pour les services de consultation informatique fournis le mois dernier. Les détails de la facture semblent être incohérents avec l'accord initial et ma compréhension des services fournis.
+
+Nous avons engagé votre service de consultation informatique pour améliorer l'infrastructure informatique de notre entreprise du <date1> au <date2>. Bien que je fasse confiance à la qualité de vos services, j'ai quelques préoccupations concernant certains frais énumérés sur la facture datée du <date3>, numéro de facture <inv_num>. En particulier, la répartition des heures de support supplémentaires et des coûts des matériaux semblent plus élevés que ce que nous avions discuté initialement lors de la phase de consultation.
+
+De plus, j'apprécierais une explication détaillée des heures de consultation comptabilisées, car le résumé de la facture indique un chiffre significativement plus élevé que ce que montrent nos dossiers internes. Pourriez-vous s'il vous plaît examiner les frais associés et fournir une clarification complète ou une facture corrigée si nécessaire ? Il est crucial pour notre responsabilité financière et notre planification budgétaire de garantir que nos dossiers soient en accord avec votre facturation.
+
+Je comprends que des erreurs peuvent se produire, et je cherche à résoudre ce problème rapidement. Ainsi, une clarification rapide serait grandement appréciée pour maintenir notre relation commerciale positive. Si nécessaire, je suis disponible pour en discuter par téléphone au <tel_num> pendant les heures d'ouverture, ou vous pouvez m'envoyer un e-mail à mon adresse enregistrée auprès de votre société.
+
+Merci de votre attention à cette affaire. J'attends votre réponse rapide.
+
+Cordialement,
+
+<name>
+<position>
+<company_name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant la facture de nos services informatiques. Nous nous excusons pour toute confusion que cela a pu causer. Nous allons rapidement enquêter sur la divergence de charges, en particulier les heures de support supplémentaires et les coûts des matériaux et les aligner avec votre accord.
+
+Pourriez-vous nous envoyer une copie de l'accord initial afin que nous puissions comparer efficacement et clarifier les différences ? Pendant ce temps, je ferai examiner les détails de la facture concernant les heures de consultation par notre équipe de facturation.
+
+Nous visons à résoudre cela rapidement pour garantir que tout soit aligné, maintenant ainsi notre partenariat positif. N'hésitez pas à me contacter directement par e-mail si vous avez besoin d'aide supplémentaire ou si vous souhaitez en discuter par téléphone.
+
+Merci de votre patience et de votre compréhension.
+
+Cordialement,
+
+Équipe de support client
+<company_name>

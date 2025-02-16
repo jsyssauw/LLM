@@ -1,0 +1,31 @@
+Ticket ID: ticket_1164
+Subject: Support Needed for Chrome Extensions Compatibility
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to seek assistance regarding an issue I am facing with Google Chrome version 102.0. I've been experiencing frequent crashes when using certain extensions, and it seems to be a compatibility issue specifically with this browser version. These crashes have become quite disruptive to my daily online activities, and I am hoping you can provide some guidance or troubleshooting steps to resolve this problem. Additionally, if there are any updates or patches that address this compatibility issue, I would appreciate if you could share that information with me. Please advise if there are specific settings that might need adjustment or if there is a list of incompatible extensions available. I am eager to continue using these extensions and greatly value your prompt support in resolving this matter. Thank you for your attention and assistance. I look forward to your timely response.
+
+Warm regards,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the issues with Google Chrome extensions on version 102.0. To address the crashes you're experiencing, please follow these steps:
+
+1. **Update Chrome**: Ensure that your Chrome browser is up to date. Sometimes, newer updates resolve compatibility issues.
+2. **Disable Problematic Extensions**: Identify the extensions causing crashes by disabling them one by one and checking for stability.
+3. **Clear Browsing Data**: Go to Chrome settings, clear cache and cookies to see if performance improves.
+4. **Check for Extensions Updates**: Make sure all your extensions are updated to their latest versions.
+5. **Reinstall Extensions**: Remove and reinstall the problematic extensions from the Chrome Web Store.
+6. **Safe Mode**: Launch Chrome in Safe Mode to check if extensions are causing conflicts. If it runs smoothly, it's likely an extension is the issue.
+7. **Consult Incompatibility List**: Check Chrome's official site for a list of known incompatible extensions with your version.
+
+For any available patches or updates targeting this issue, visit Chrome's official support page or their community forums regularly.
+
+Please let us know if you continue to experience problems after trying these steps, and we can explore further solutions.
+
+Warm regards,
+
+<Your Support Team>

@@ -1,0 +1,19 @@
+Ticket ID: ticket_384
+Subject: Immediate Solution Needed for Server Outage
+Incident Type: Problem
+Customer Issue: Dear IT Services Support Team,
+
+I am reaching out to notify you of an urgent issue we are experiencing with our email systems and internal communication channels. Due to a server outage affecting our operations, we require immediate assistance. Our business operations are reliant on the IT Consulting Service provided by your company.
+
+Please contact me at your earliest convenience at <tel_num> to discuss a urgent solution.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand the urgency of the server outage affecting your email systems and communication channels. Our technical team is assigned to address this issue immediately. Someone from our support team will contact you shortly at the provided number to discuss and implement a solution as quickly as possible. We are committed to restoring your services swiftly to minimize disruption.
+
+We appreciate your patience and will be in touch soon.
+
+Best regards,
+IT Services Support Team

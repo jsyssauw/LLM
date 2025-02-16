@@ -1,0 +1,19 @@
+Ticket ID: ticket_2730
+Subject: Assistance urgente requise pour le système de tickets
+Incident Type: Incident
+Customer Issue: Cher équipe de support des services informatiques,
+
+Je m'appelle <name> et je rencontre des problèmes avec le système de tickets suite à une récente maintenance des serveurs. Cette interruption est critique et affecte notre service de conseil informatique. Nous avons besoin d'un soutien en consultation de toute urgence pour résoudre ce problème. Merci de me contacter au <tel_num> ou de m'envoyer un email dès que possible.
+
+Merci pour votre attention immédiate.
+
+Cordialement,
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous nous excusons pour les désagréments causés par les problèmes du système de tickets. Notre équipe examine actuellement la situation et prioritise cela pour rétablir votre service aussi rapidement que possible.
+
+Si vous avez d'autres détails ou questions pendant que nous travaillons là-dessus, n'hésitez pas à répondre à cet email ou à nous faire savoir le meilleur moment pour vous joindre au <tel_num>. Nous apprécions votre patience et votre coopération.
+
+Cordialement,
+L'équipe de support des services informatiques

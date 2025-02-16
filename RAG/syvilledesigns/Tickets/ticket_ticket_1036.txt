@@ -1,0 +1,5 @@
+Ticket ID: ticket_1036
+Subject: Problema con Surface Pro 7
+Incident Type: Request
+Customer Issue: El teclado de mi tableta Microsoft Surface Pro 7 no responde y no se ilumina. Por favor, aconsejen o reemplacen.
+Customer Service answer: Gracias por contactarnos. Por favor, intenta reconectar el teclado y actualizar los controladores. Comunícate si el problema persiste.

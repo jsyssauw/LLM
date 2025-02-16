@@ -1,0 +1,17 @@
+Ticket ID: ticket_1060
+Subject: Deployment Issue with AWS
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+We are experiencing deployment issues with AWS through your Management Service. Please troubleshoot connectivity and optimize our infrastructure to resolve this high-priority incident urgently.
+
+Thank you,
+
+<name>, IT Administrator
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand the urgency of resolving the deployment issues with AWS. Our team is prioritizing this incident and will commence troubleshooting your connectivity and optimizing your infrastructure immediately. We will keep you updated on our progress and return with a solution as soon as possible. For urgent matters, feel free to contact us directly at any time.
+
+Best regards,
+Service Desk Team

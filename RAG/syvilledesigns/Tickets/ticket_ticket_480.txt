@@ -1,0 +1,17 @@
+Ticket ID: ticket_480
+Subject: nan
+Incident Type: Problem
+Customer Issue: Bonjour équipe d'assistance clientèle,
+
+Je rencontre des difficultés pour l'installation de Norton Antivirus Plus sur mon dispositif. Pouvez-vous m'assister afin de résoudre cette situation le plus rapidement possible ?
+
+Bien à vous,
+<name>
+Numéro de compte : <acc_num>
+Contact : <tel_num>
+Customer Service answer: Cher <name>,
+
+Nous vous remercions pour votre prise de contact. Dans un premier temps, essayez de désinstaller tout programme antivirus déjà installé et redémarrez votre dispositif. Si la difficulté persiste, n'hésitez pas à joindre le support au <tel_num> pour obtenir une assistance étape par étape.
+
+Avec nos salutations,
+L'équipe d'assistance clientèle

@@ -1,0 +1,16 @@
+Ticket ID: ticket_1319
+Subject: Problema de Discrepância de Cobrança
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte de Serviços de TI, estou escrevendo para relatar uma discrepância de cobrança que encontrei em relação às cobranças do meu recente serviço de nuvem AWS, especificamente relacionadas ao Serviço de Gerenciamento da AWS. Depois de revisar minhas faturas recentes, percebi que as cobranças aplicadas à minha conta, <acc_num>, parecem mais altas do que o esperado e não estão alinhadas com os detalhes de uso que eu previa. Eu as comparei minuciosamente com o histórico de cobrança e encontrei inconsistências que não consigo justificar. Isso levanta preocupações, já que esperava que algumas cobranças fossem diferentes com base no plano de implantação inicial ao qual consenti. Agradeceria se o departamento de cobrança pudesse investigar essa discrepância na sua conveniência mais próxima, pois isso causou algum inconveniente financeiro. Se necessário, sinta-se à vontade para me contatar pelo <tel_num> caso precise de detalhes adicionais para ajudar a resolver esta questão rapidamente. Obrigado pela sua atenção a este assunto. Espero sua resposta e uma resolução. Atenciosamente, <name>
+Customer Service answer: Caro <name>,
+
+Obrigado por nos contatar sobre a discrepância de cobrança com suas cobranças do Serviço de Gerenciamento da AWS. Pedimos desculpas por qualquer inconveniente que isso possa ter causado.
+
+Encaminhei sua consulta para nosso departamento de cobrança para uma investigação mais aprofundada. Vamos revisar sua conta, <acc_num>, e as faturas associadas para identificar quaisquer inconsistências. Nossa equipe entrará em contato se precisar de mais informações.
+
+Fique tranquilo, estamos tornando isso uma prioridade e trabalharemos para resolver o problema o mais rápido possível. Você será atualizado sobre as descobertas e a resolução por e-mail ou telefone em <tel_num>.
+
+Obrigado pela sua paciência e compreensão.
+
+Atenciosamente,
+Time de Suporte de Serviços de TI

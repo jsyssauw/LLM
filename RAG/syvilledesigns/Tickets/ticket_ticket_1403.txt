@@ -1,0 +1,10 @@
+Ticket ID: ticket_1403
+Subject: Consulta sobre Servicios de TI
+Incident Type: Problem
+Customer Issue: Hola, tengo algunas preguntas generales sobre su proceso de desarrollo de software y apreciaría cualquier consejo sobre administración de servidores. El producto afectado es su Servicio de Consultoría de TI. Espero su orientación y gracias por su apoyo. Saludos, <name>.
+Customer Service answer: Hola <name>,
+
+Gracias por contactarnos con sus consultas. Para nuestro proceso de desarrollo de software, seguimos un enfoque colaborativo y ágil, asegurando flexibilidad e involucramiento del cliente en cada etapa. En cuanto a la administración de servidores, recomendamos actualizaciones regulares, monitoreo constante e implementación de medidas de seguridad robustas. Si necesita asistencia más detallada, no dude en contactarnos nuevamente. Esperamos poder apoyarle más.
+
+Saludos cordiales,
+Su Equipo de Servicio de Consultoría de TI

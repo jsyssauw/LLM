@@ -1,0 +1,13 @@
+Ticket ID: ticket_2351
+Subject: Assistance requise pour un problème de connectivité WiFi
+Incident Type: Incident
+Customer Issue: Le client <name> signale des problèmes de connectivité WiFi intermittente avec le LG OLED C1, affectant les services de streaming, et demande un support pour une résolution rapide. Contact disponible au <tel_num>.
+Customer Service answer: Objet : Re : Assistance requise pour un problème de connectivité WiFi
+
+Cher <name>,
+
+Merci de nous avoir contactés. Pour résoudre le problème de connectivité WiFi avec votre LG OLED C1, veuillez essayer les étapes suivantes : redémarrez votre routeur, assurez-vous que le firmware de la TV est à jour, et essayez de vous connecter à un autre réseau pour diagnostiquer le problème. Si ces étapes ne vous aident pas, n'hésitez pas à contacter directement notre équipe de support pour obtenir une assistance supplémentaire.
+
+Cordialement,
+[Votre nom]
+[Votre entreprise]

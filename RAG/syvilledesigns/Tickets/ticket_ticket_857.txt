@@ -1,0 +1,15 @@
+Ticket ID: ticket_857
+Subject: iPad Pro Concern
+Incident Type: Request
+Customer Issue: Dear Support Team,
+
+I have recently acquired my iPad Pro 2021, and unfortunately, it seems to have some problems. There appears to be a flaw in the device. Could you please help me rectify this issue at your earliest convenience? My account number is <acc_num>. You can reach me at <tel_num>.
+
+Thanks,
+<name>
+Customer Service answer: Dear <name>,
+
+I am sorry to learn about the trouble with your iPad Pro 2021. We will provide immediate assistance. Kindly share any details regarding the defect or any error notifications you are experiencing. We will then take the appropriate measures for repair or replacement.
+
+Thank you for your understanding.
+Support Team

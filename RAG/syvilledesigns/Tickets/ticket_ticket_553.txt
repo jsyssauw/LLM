@@ -1,0 +1,19 @@
+Ticket ID: ticket_553
+Subject: À traiter d'urgence : reçu un iPad Pro 2021 endommagé - Demande d'assistance immédiate pour un remplacement ou un remboursement
+Incident Type: Change
+Customer Issue: Cher service clientèle,
+
+J'ai récemment obtenu un iPad Pro 2021 de votre site internet, mais je l'ai reçu dans un état défectueux. Je vous serais reconnaissant de bien vouloir m'aider à organiser un remplacement ou un remboursement. Mon numéro de commande est <order_num>.
+
+Je vous remercie pour votre attention rapide à ce sujet.
+
+Cordialement,
+<name>
+Customer Service answer: Cher <name>,
+
+Nous nous excusons sincèrement pour le désagrément occasionné par la réception d'un iPad Pro 2021 endommagé. Nous allons rapidement vous assister dans l'obtention d'un remplacement ou d'un remboursement. Vous pourrez attendre un email avec des directives supplémentaires dans un délai de 24 heures.
+
+Merci de votre compréhension.
+
+Cordialement,
+Service clientèle

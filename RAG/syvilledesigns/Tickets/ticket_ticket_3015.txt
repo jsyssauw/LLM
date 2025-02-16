@@ -1,0 +1,31 @@
+Ticket ID: ticket_3015
+Subject: Problemas de Conectividade e Desempenho de Wi-Fi com o Roteador Cisco
+Incident Type: Incident
+Customer Issue: Prezado Suporte ao Cliente,
+
+Estou escrevendo para expressar preocupações sobre problemas contínuos de conectividade Wi-Fi atribuídos ao nosso Roteador Cisco ISR4331. Nas últimas semanas, temos experimentado quedas regulares de desempenho, que suspeitamos ser devido a uma má configuração do roteador. Essas interrupções estão impactando significativamente a confiabilidade da nossa rede empresarial e, portanto, nossas operações comerciais.
+
+Apesar das tentativas de resolver o problema por meio de várias medidas de solução de problemas, o problema persiste, levando a interrupções que afetam nossa eficiência no trabalho. Solicitamos gentilmente sua assistência para resolver essa questão como prioridade. Você poderia nos aconselhar sobre soluções potenciais ou agendar uma visita técnica na primeira oportunidade?
+
+Obrigado pela sua atenção imediata a esta questão urgente.
+
+Atenciosamente,
+
+<name>
+
+<email_address>
+
+<tel_num>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato sobre os problemas de conectividade Wi-Fi com seu Roteador Cisco ISR4331. Entendo a urgência e o impacto que isso tem em suas operações.
+
+Para um alívio imediato, você poderia, por favor, garantir que o firmware do roteador esteja atualizado para a versão mais recente? Além disso, verifique se nenhuma configuração foi alterada que possa afetar o desempenho.
+
+Se o problema persistir, ficarei feliz em agendar uma visita técnica na sua primeira oportunidade ou fornecer mais assistência por meio de uma sessão remota. Por favor, nos avise sobre o seu curso de ação preferido.
+
+Obrigado pela sua paciência e compreensão.
+
+Atenciosamente,
+
+Equipe de Suporte ao Cliente

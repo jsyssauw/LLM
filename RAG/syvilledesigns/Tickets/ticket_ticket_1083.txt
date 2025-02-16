@@ -1,0 +1,31 @@
+Ticket ID: ticket_1083
+Subject: Assistance Required for Touchscreen Settings Issue
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am reaching out to request assistance with configuring the touchscreen settings on my Microsoft Surface Pro 7. I have been experiencing some difficulties in setting it up to meet my preferences and would greatly appreciate any guidance or support you could provide. 
+
+I attempted to resolve the issue using the troubleshooting steps listed on your website, but unfortunately, the problem persists. Could you please offer more detailed instructions or suggest alternative solutions? If needed, I am also available for a call or a remote session to further diagnose the issue.
+
+Thank you for your attention and assistance in advance.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. I'm sorry to hear about the difficulties you've experienced with the touchscreen settings on your Microsoft Surface Pro 7. To better assist you, please try the following steps:
+
+1. Ensure that your device's touchscreen drivers are up to date. You can do this by going to Device Manager, finding the 'Human Interface Devices', and checking the driver status for your touchscreen.
+
+2. Calibrate your touchscreen through the Control Panel under 'Tablet PC Settings'.
+
+3. Perform a clean boot to rule out any software conflicts. Instructions for doing a clean boot can typically be found in the Support section of the Microsoft website.
+
+If the issue still persists, we can arrange a remote support session for further assistance. Please provide a convenient time for you, and our technician can guide you through the process.
+
+Feel free to call our support team at <tel_num> if you prefer to discuss this over the phone. Thank you for your patience and understanding.
+
+Best regards,
+
+Tech Online Store Customer Support Team

@@ -1,0 +1,8 @@
+Ticket ID: ticket_2021
+Subject: Frequent Connectivity Drops with Cisco Router
+Incident Type: Incident
+Customer Issue: Urgent troubleshooting requested for frequent router drops.
+Customer Service answer: Dear <name>, we're addressing your router issue urgently and will follow up shortly.
+
+Best,
+Support Team

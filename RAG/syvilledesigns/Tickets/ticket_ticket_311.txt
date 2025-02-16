@@ -1,0 +1,27 @@
+Ticket ID: ticket_311
+Subject: Problème urgent : Temps d'arrêt de l'architecture cloud AWS
+Incident Type: Problem
+Customer Issue: Cher service client, 
+
+J'espère que ce message vous trouve en bonne santé. Nous connaissons actuellement un temps d'arrêt significatif avec notre architecture cloud, affectant spécifiquement le service de gestion AWS. Ce problème nécessite une attention immédiate pour rétablir le service afin de minimiser l'impact sur nos opérations. En plus de régler le temps d'arrêt, nous avons également besoin d'un soutien urgent pour optimiser notre configuration cloud et gérer les coûts associés à nos ressources AWS. 
+
+Pourriez-vous s'il vous plaît prioriser ce problème et nous fournir des conseils pour stabiliser notre infrastructure ? Votre expertise est cruciale pour garantir la durabilité et l'efficacité de nos services. 
+
+Merci d'avance pour votre attention rapide et votre soutien concernant cette affaire. Nous espérons résoudre ces problèmes rapidement. 
+
+Cordialement, 
+
+<name> 
+<tel_num> 
+<acc_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous comprenons l'urgence de votre situation avec le service de gestion AWS. Notre équipe technique priorise déjà votre demande pour restaurer votre architecture cloud et minimiser tout temps d'arrêt. De plus, nous travaillerons avec vous pour optimiser votre configuration cloud et gérer efficacement les coûts AWS. 
+
+Soyez assuré que nous sommes engagés à garantir la durabilité et l'efficacité de vos services. Nous vous tiendrons informé de nos progrès et fournirons les conseils nécessaires pour stabiliser votre infrastructure.
+
+Pour une assistance immédiate, vous pouvez nous joindre à notre ligne de support. Merci de votre patience et de votre coopération.
+
+Cordialement,
+
+Équipe du service d'assistance

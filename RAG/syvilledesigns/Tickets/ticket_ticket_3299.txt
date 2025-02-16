@@ -1,0 +1,10 @@
+Ticket ID: ticket_3299
+Subject: nan
+Incident Type: Request
+Customer Issue: {"greeting": "Caro Suporte ao Cliente,", "body": "Preciso de detalhes sobre o recurso de teclado destacável e compatibilidade com o Windows 10 para o Microsoft Surface Pro 7. Você poderia fornecer mais informações?", "closing": "Obrigado, <name>"}
+Customer Service answer: Caro <name>,
+
+O Microsoft Surface Pro 7 possui um teclado destacável (vendido separadamente) que se conecta facilmente via interface magnética. Ele é totalmente compatível com o Windows 10, proporcionando uma experiência de uso perfeita.
+
+Atenciosamente,
+Suporte ao Cliente

@@ -1,0 +1,5 @@
+Ticket ID: ticket_912
+Subject: Request to Update AWS Tier
+Incident Type: Change
+Customer Issue: Dear <name>, I am writing to request an update to the AWS cloud storage tier used in our AWS Management Service account <acc_num>. This change aims to optimize our costs and enhance data retrieval performance. Please advise on the necessary steps. Regards, <name>, <tel_num>.
+Customer Service answer: Dear <name>, Thank you for reaching out with your request to update the AWS storage tier. First, please log into your AWS Management Console. Once there, navigate to the 'S3 Storage' section and select the bucket you want to update. From there, you can modify the storage class to match your needs. If further assistance is required, please feel free to contact us directly. Best regards, Service Desk Agent

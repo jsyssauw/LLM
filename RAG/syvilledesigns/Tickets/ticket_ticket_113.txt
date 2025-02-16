@@ -1,0 +1,17 @@
+Ticket ID: ticket_113
+Subject: Solicitud de intercambio de impresora
+Incident Type: Request
+Customer Issue: Estimado soporte de Tech Online Store,
+
+Estoy experimentando atascos de papel frecuentes con mi impresora Canon PIXMA MG3620, lo que hace que sea casi imposible usarla de manera efectiva. ¿Podemos organizar un intercambio para esta unidad? Mis detalles de compra: Número de pedido <acc_num>, a nombre de <name>. Por favor, avísenme sobre los próximos pasos. Gracias por su asistencia.
+
+Atentamente,
+
+<name>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto sobre tu impresora Canon PIXMA MG3620. Lamentamos la inconveniencia con los frecuentes atascos de papel. Para ayudarte con un intercambio, asegúrate de que la impresora esté dentro del periodo de garantía y que tengas el embalaje original disponible. Envía una copia de tu recibo de compra a nuestro departamento de devoluciones, mencionando el número de pedido <acc_num>. Nuestro equipo coordinará el proceso de intercambio y se pondrá en contacto contigo a través de <tel_num> para más instrucciones.
+
+Saludos cordiales,
+Soporte de Tech Online Store

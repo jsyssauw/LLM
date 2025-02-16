@@ -1,0 +1,28 @@
+Ticket ID: ticket_1022
+Subject: Urgente: Interrupción de Servicios de AWS
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente, 
+
+Estoy escribiendo para informarle sobre un incidente de alta prioridad que está afectando nuestras aplicaciones alojadas debido a una interrupción en los servicios en la nube de AWS, específicamente el Servicio de Administración de AWS. Este problema está causando interrupciones significativas y tiempo de inactividad para todos nuestros usuarios, y es crucial que lo resolvamos con prontitud para prevenir cualquier mayor impacto en nuestras operaciones. 
+
+Desde temprano hoy, hemos encontrado múltiples avisos de indisponibilidad de servicios, que han afectado gravemente nuestra capacidad para mantener operaciones sin interrupciones para los clientes que utilizan nuestras aplicaciones alojadas en AWS. Nuestros sistemas de monitoreo indicaron que la interrupción está vinculada directamente al Servicio de Administración de AWS, y estamos ansiosos por entender la raíz del problema y el tiempo esperado de resolución. 
+
+Dependemos en gran medida de los servicios de AWS para garantizar un rendimiento óptimo para nuestros clientes y cualquier asistencia en acelerar el proceso de resolución sería muy apreciada. Por favor, infórmenos sobre cualquier solución temporal que pudiera aliviar las interrupciones que enfrentan nuestros usuarios. 
+
+Gracias por su atención inmediata a este asunto crítico. Su apoyo para resolver este problema rápidamente es crucial. Por favor, contácteme al <tel_num> o por correo electrónico a <email> para cualquier actualización.
+
+Atentamente,
+<name>
+Número de Cuenta: <acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por traer este asunto urgente a nuestra atención. Entendemos el impacto crítico que la interrupción del Servicio de Administración de AWS tiene en sus operaciones, y nuestro equipo está coordinando estrechamente con AWS para abordar y resolver la situación tan pronto como sea posible. 
+
+Actualmente, AWS está trabajando activamente para identificar y corregir la causa raíz de la interrupción. Mientras tanto, considere investigar métodos de acceso alternativos o servicios de respaldo si están disponibles, que podrían servir como soluciones temporales. 
+
+Lo actualizaremos tan pronto como recibamos más información sobre el tiempo de resolución. Tenga la seguridad de que resolver esta interrupción es nuestra máxima prioridad. No dude en comunicarse si tiene más preguntas o actualizaciones inmediatas a través de su método de contacto preferido. 
+
+Gracias por su paciencia y cooperación.
+
+Atentamente,
+[El Equipo de Soporte de Su Empresa]

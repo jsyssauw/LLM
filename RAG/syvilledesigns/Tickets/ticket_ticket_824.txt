@@ -1,0 +1,18 @@
+Ticket ID: ticket_824
+Subject: Asistencia al Cliente: Problema de Parpadeo en la Pantalla del Lenovo IdeaPad 5
+Incident Type: Problem
+Customer Issue: Estimados,
+
+He detectado un inconveniente de parpadeo en la pantalla de mi Lenovo IdeaPad 5, el cual adquirí en su tienda en línea. Agradecería que me informaran sobre la manera de solucionarlo.
+
+Atentamente,
+<nombre>
+
+Número de cuenta: <num_cuenta>
+Teléfono: <tel_num>
+Customer Service answer: Estimado <nombre>,
+
+Sentimos los inconvenientes que presenta su Lenovo IdeaPad 5. Le sugerimos que intente realizar una actualización del controlador de gráficos. Si el problema continua, por favor comuníquese con nuestro equipo de soporte al <tel_num> o diríjase a nuestro centro de servicio para recibir ayuda adicional.
+
+Atentamente,
+<Asistencia al Cliente>

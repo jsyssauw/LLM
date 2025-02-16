@@ -1,0 +1,20 @@
+Ticket ID: ticket_518
+Subject: Solicitação de Otimização de Recursos e Estabilidade da Nuvem AWS
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente de Serviços de TI,
+
+Estou escrevendo para informar sobre um aumento notável nas despesas de implantação e instabilidade da infraestrutura em relação ao nosso Serviço de Gerenciamento AWS. No último mês, observamos esses desafios e valorizaríamos orientações sobre como otimizar nossos recursos na nuvem para melhorar a eficiência e a estabilidade. Por favor, examine nossa conta <acc_num> e forneça sugestões para resolver esses problemas. Se precisar de mais detalhes, sinta-se à vontade para me contatar em <name> por e-mail ou me ligue para <tel_num>.
+
+Obrigado,
+
+<name>
+Customer Service answer: Assunto: Re: Solicitação de Otimização de Recursos e Estabilidade da Nuvem AWS
+
+Caro <name>,
+
+Agradecemos seu contato a respeito dos desafios que você está enfrentando com seu Serviço de Gerenciamento AWS. Reconhecemos quão crucial é manter recursos de nuvem eficientes e confiáveis. Nossa equipe avaliará prontamente sua conta <acc_num> para identificar áreas de otimização e possíveis economias de custos. Enquanto isso, você pode querer verificar configurações como configurações de auto-escalonamento, instâncias reservadas e quaisquer ativos inativos para garantir que atendam aos seus requisitos.
+
+Entraremos em contato com você em breve com nossas recomendações. Se você precisar de assistência urgente ou mais informações, não hesite em responder a este e-mail ou entrar em contato conosco pelo <tel_num>.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente de Serviços de TI

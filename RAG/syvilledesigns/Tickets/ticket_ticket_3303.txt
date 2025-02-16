@@ -1,0 +1,23 @@
+Ticket ID: ticket_3303
+Subject: nan
+Incident Type: Incident
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Le escribimos para informarle sobre un problema crítico que experimentamos con el Servicio de Gestión de AWS. Parece que hubo una mala configuración en los ajustes de AWS, lo que provocó una interrupción del servicio que afectó la disponibilidad de nuestro sitio web durante varias horas. Necesitamos asistencia urgente para resolver este problema y prevenir cualquier ocurrencia futura.
+
+Por favor, investigue este asunto a la brevedad. Su pronta acción será muy apreciada. Gracias por su apoyo.
+
+Atentamente,
+
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con nosotros sobre el problema con el Servicio de Gestión de AWS. Entendemos la urgencia de la situación y el impacto que ha tenido en la disponibilidad de su sitio web. Nuestro equipo priorizará este asunto e investigará la mala configuración para proporcionar una solución y asegurar que no vuelva a ocurrir.
+
+Le mantendremos informado a medida que trabajemos para resolver el problema. Si tiene más información o necesita asistencia adicional mientras tanto, no dude en contactarnos.
+
+Gracias por su paciencia y comprensión.
+
+Atentamente,
+Equipo de Atención al Cliente

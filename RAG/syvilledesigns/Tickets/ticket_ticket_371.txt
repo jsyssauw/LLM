@@ -1,0 +1,27 @@
+Ticket ID: ticket_371
+Subject: Dringende Unterstützung bei Verbindungsproblemen erforderlich
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Pit Services Support Team,
+
+ich schreibe, um zu berichten, dass der Cisco Router ISR4331 in unserem Unternehmen schwerwiegende Verbindungsprobleme hat. Dieses Problem betrifft alle Benutzer in unserem Netzwerk und erfordert sofortige technische Unterstützung. Wir haben grundlegende Fehlerbehebungsmaßnahmen wie das Neustarten des Routers und das Überprüfen der Kabel versucht, aber das Problem besteht weiterhin. Angesichts der kritischen Natur unserer Betriebsabläufe ist eine schnelle Lösung erforderlich, um Störungen zu minimieren. Bitte geben Sie uns Anweisungen zu den nächsten Schritten oder arrangieren Sie einen Techniker, der dieses Problem diagnostiziert und behebt.
+
+Vielen Dank für Ihre schnelle Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Betreff: Re: Dringende Unterstützung bei Verbindungsproblemen erforderlich
+
+Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns bezüglich der Verbindungsprobleme mit dem Cisco Router ISR4331 kontaktiert haben. Wir verstehen die Dringlichkeit und die Auswirkungen auf Ihre Betriebsabläufe. Bitte befolgen Sie diese Schritte, um das Problem zu lösen:
+
+1. Überprüfen Sie, ob die Firmware des Routers auf dem neuesten Stand ist.
+2. Überprüfen Sie auf physische Schäden an den Ports oder Kabeln.
+3. Testen Sie die Verbindung mit einem anderen Router, falls verfügbar.
+
+Nachdem Sie diese Schritte befolgt haben, werden wir, falls das Problem weiterhin besteht, so schnell wie möglich einen Techniker zu Ihnen schicken. Bitte lassen Sie uns Ihre Verfügbarkeit für einen Servicebesuch wissen.
+
+Wir schätzen Ihre Geduld und Zusammenarbeit.
+
+Mit freundlichen Grüßen,
+Pit Services Support Team

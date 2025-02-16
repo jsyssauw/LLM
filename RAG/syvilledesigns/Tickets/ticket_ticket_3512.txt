@@ -1,0 +1,20 @@
+Ticket ID: ticket_3512
+Subject: Urgent issue with Dell XPS 13 keyboard
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support Team, I hope this message finds you well. I'm writing to express my concern regarding the keyboard issues I'm experiencing with the Dell XPS 13 9310, which I purchased from your store. The keyboard has become completely unresponsive, greatly impacting my productivity and disrupting my daily tasks. This issue is high-priority for me, and I need assistance to resolve it promptly. Could you please advise on the next steps or provide a solution as soon as possible? I would appreciate your immediate attention to this matter. Thank you for your understanding. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the keyboard issue with your Dell XPS 13 9310. We understand the inconvenience this has caused and are committed to resolving it swiftly.
+
+Please try following these initial steps: 
+1. Perform a hard shutdown by holding the power button for 10 seconds, then restart your laptop.
+2. Check for any available keyboard or system updates via the Dell SupportAssist tool.
+
+If the problem persists, consider the following actions:
+- Visit our store with your laptop for a technician to assess the issue.
+- Contact Dell customer support directly to utilize warranty services, if applicable.
+
+Please let us know how you wish to proceed or if you need further guidance. We are here to assist you.
+
+Best regards,
+Tech Online Store Customer Support Team

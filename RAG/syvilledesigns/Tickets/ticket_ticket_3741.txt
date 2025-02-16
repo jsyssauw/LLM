@@ -1,0 +1,18 @@
+Ticket ID: ticket_3741
+Subject: Cisco Router ISR4331 Connectivity Issues
+Incident Type: Incident
+Customer Issue: Dear IT Services Support,
+
+We are experiencing connectivity issues with our Cisco Router ISR4331, leading to frequent network outages. This requires immediate troubleshooting, as it affects our ongoing operations. Please provide a prompt resolution to ensure minimal disruption. Awaiting your swift response.
+
+Thank you,
+
+<name>,
+<Company Name>,
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the connectivity issues with your Cisco Router ISR4331. We understand the urgency and its impact on your operations. Our technical team will prioritize this issue and work with you to troubleshoot and resolve it as quickly as possible. Please ensure physical connections are secure and provide any recent changes that might have affected the router. We will contact you shortly via <tel_num> to gather more details and coordinate the next steps.
+
+Best regards,
+IT Services Support Team

@@ -1,0 +1,31 @@
+Ticket ID: ticket_976
+Subject: Chrome 102.0 Issues
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to seek assistance regarding several issues I have encountered with Google Chrome 102.0. Recently, I have been experiencing occasional browser crashes, which disrupt my workflow quite frequently. In addition to this, I've also noticed a consistent lag in performance, especially when loading frequently visited sites and during extended browsing sessions. I've attempted basic troubleshooting steps like clearing the cache and disabling extensions to no avail. Therefore, I suspect there might be a deeper underlying issue that needs addressing.
+
+Could you please provide guidance on further troubleshooting steps I can take or if there is a known problem with this Chrome version that requires a fix or update? I am using a Windows-based system for browsing.
+
+Hoping for your prompt assistance. Thank you for your time and help.
+
+Best regards,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us. We are sorry to hear about the issues you're experiencing with Chrome 102.0.
+
+To address the browser crashes and lag:
+
+1. Ensure that your Chrome is updated to the latest version by checking 'Help' > 'About Google Chrome' which will trigger an update if needed.
+2. Try disabling hardware acceleration: Go to 'Settings' > 'Advanced' > 'System' and uncheck 'Use hardware acceleration when available.'
+3. Reset Chrome settings: Navigate to 'Settings' > 'Advanced' > 'Reset.' This can resolve deeper configuration issues.
+
+If the issues persist, consider reinstalling Chrome. Be sure to back up your bookmarks and other data. Check the Chrome website for any announcements regarding known issues with the version you're using.
+
+Please let us know if these steps help or if you require further assistance.
+
+Best regards,
+Customer Support Team

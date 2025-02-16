@@ -1,0 +1,16 @@
+Ticket ID: ticket_3022
+Subject: Color Print Quality Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am facing consistent issues with the color print quality on my HP DeskJet 3755. The prints are below expected standards and negatively impact my work. Please assist in resolving this problem as soon as possible.
+
+Best regards,
+<name>
+
+Customer Service answer: Dear <name>,
+
+I'm sorry to hear about the issues with your HP DeskJet 3755. Please try cleaning the printheads from your printer software and ensure you are using genuine HP ink cartridges. If the problem persists, you may need more detailed troubleshooting or service.
+
+Best regards,
+Customer Support

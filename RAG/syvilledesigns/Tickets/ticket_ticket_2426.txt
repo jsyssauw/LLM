@@ -1,0 +1,20 @@
+Ticket ID: ticket_2426
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado equipo de atención al cliente,
+
+Estoy enfrentando dificultades para llevar a cabo la instalación de Windows 11 Pro en mi equipo. ¿Serían tan amables de orientarme en los pasos necesarios para la instalación o ofrecerme soporte para solucionar este inconveniente? Su asistencia sería muy valorada.
+
+Muchas gracias,
+<name>, Número de cuenta: <acc_num>
+Customer Service answer: Estimado <name>,
+
+Para asistirle con la instalación de Windows 11 Pro, le solicitamos que siga los siguientes pasos:
+1. Verifique que su dispositivo cumpla con los requisitos del sistema necesarios.
+2. Diríjase a Configuración > Actualización y seguridad > Actualización de Windows.
+3. Presione ‘Buscar actualizaciones’ y elija Windows 11 Pro para proceder con la instalación.
+
+No dude en comunicarse con nosotros si necesita más ayuda.
+
+Atentamente,
+Equipo de atención al cliente

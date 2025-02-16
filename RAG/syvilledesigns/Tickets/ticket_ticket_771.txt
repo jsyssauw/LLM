@@ -1,0 +1,17 @@
+Ticket ID: ticket_771
+Subject: Assistance with Printer Setup
+Incident Type: Change
+Customer Issue: Hello customer support, I need help changing my Canon PIXMA MG3620 printer setup for wireless printing. Please provide step-by-step instructions for configuration. Look forward to your prompt response. Thank you, <name>, account <acc_num>.
+Customer Service answer: Hello <name>,
+
+To set up your Canon PIXMA MG3620 for wireless printing, follow these steps:
+1. Turn on the printer and press the "Wi-Fi" button until the power button flashes.
+2. Press the "Color" button, then the "Wi-Fi" button once more.
+3. Ensure the LED light next to the Wi-Fi button is blinking.
+4. Install the Canon app on your computer.
+5. Follow the app instructions to connect the printer to your Wi-Fi network.
+
+Feel free to reach out if you have further questions.
+
+Best, 
+Customer Support

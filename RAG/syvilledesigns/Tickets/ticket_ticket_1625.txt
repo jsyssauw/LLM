@@ -1,0 +1,12 @@
+Ticket ID: ticket_1625
+Subject: Canon PIXMA MG3620 Issue
+Incident Type: Problem
+Customer Issue: I'm experiencing a paper jam and error message while using wireless printing with Canon PIXMA MG3620. Can you provide guidance on resolving this?
+Customer Service answer: Subject: Re: Canon PIXMA MG3620 Issue
+
+Hi,
+
+To resolve the paper jam, turn off the printer and gently remove jammed paper from the input/output tray area. For wireless errors, ensure the printer is connected to the Wi-Fi network. If issues persist, reset your printer and router. 
+
+Best, 
+<name>

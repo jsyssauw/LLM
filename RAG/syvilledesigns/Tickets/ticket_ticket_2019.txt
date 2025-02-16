@@ -1,0 +1,5 @@
+Ticket ID: ticket_2019
+Subject: nan
+Incident Type: Incident
+Customer Issue: Bonjour cher service clientèle, j'ai dernièrement acquis une cartouche d'encre HP DeskJet 3755 sur votre site de vente en ligne. J'éprouve quelques difficultés. Pourriez-vous, s'il vous plaît, me fournir votre aide ou procéder à un échange ? Mon numéro de commande est <ord_num>. Merci, <name>
+Customer Service answer: Bonjour <name>, nous regrettons d'apprendre que vous rencontrez un souci avec votre cartouche d'encre HP DeskJet 3755. Pourriez-vous s'il vous plaît préciser quel est le problème ? Une fois que nous aurons plus d'informations, nous serons en mesure de vous assister davantage ou d'organiser un échange. Sincères salutations, service client

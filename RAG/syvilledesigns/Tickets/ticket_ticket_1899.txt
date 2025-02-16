@@ -1,0 +1,24 @@
+Ticket ID: ticket_1899
+Subject: Solicitud de actualización del flujo de trabajo en Jira
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Espero que este mensaje los encuentre bien. Mi nombre es <name> y estoy escribiendo para solicitar una actualización de nuestro flujo de trabajo de gestión de proyectos existente para mejorar el seguimiento y la previsión de ventas utilizando Jira Software 8.20.
+
+Hemos estado utilizando Jira Software para nuestras necesidades de gestión de proyectos de manera efectiva; sin embargo, hemos identificado áreas en el seguimiento y la previsión de ventas que se pueden optimizar. Con su experiencia, estoy seguro de que podemos integrar características mejoradas y personalizaciones para agilizar estos flujos de trabajo.
+
+No duden en contactarme al <tel_num> o a través de mi correo electrónico para discutir esta solicitud más a fondo. Además, si requieren alguna verificación de cuenta, mi número de cuenta es <acc_num>.
+
+Gracias por su apoyo,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con nosotros respecto a la actualización de tu flujo de trabajo de gestión de proyectos en Jira Software 8.20. Entendemos la importancia de optimizar el seguimiento y la previsión de ventas, y estamos aquí para ayudarte con esta integración.
+
+Para continuar, agradeceríamos más detalles sobre las mejoras y personalizaciones específicas que tienes en mente. Por favor, háznos saber un momento conveniente para discutir esto más a fondo. Hemos tomado nota de los detalles de contacto y la información de la cuenta que proporcionaste para fines de verificación.
+
+Esperamos poder ayudarte.
+
+Saludos cordiales,
+Equipo de Servicio al Cliente

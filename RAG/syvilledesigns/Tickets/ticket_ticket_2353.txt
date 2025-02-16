@@ -1,0 +1,29 @@
+Ticket ID: ticket_2353
+Subject: Inquiry Concerning Billing Discrepancies for AWS Services
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I hope this message reaches you in good spirits. I am writing to bring to your attention an unexpected increase in charges on our latest invoice regarding the AWS Management Service. This inconsistency was noticed during the last billing cycle, affecting account number <acc_num>. Upon reviewing the charges, it appears there is an irregular amount that deviates significantly from our anticipated expenses based on our usual usage patterns.
+
+We have not made any significant changes to our services or usage that would justify such a spike. Therefore, we humbly request a detailed investigation into the origins of this unanticipated charge. Please inform us if there have been any updates or modifications to involved workflows or fees related to AWS Management Services that might account for this variation.
+
+Additionally, we would value advice on what corrective measures or adjustments might be necessary to prevent such discrepancies in the future. If needed, feel free to contact me directly at <tel_num> for any extra information you may need throughout this investigation. We appreciate your prompt attention to this matter.
+
+Warm regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the billing concerns associated with your AWS Management Service. We acknowledge your apprehensions regarding the unexpected charges, and we are here to assist you.
+
+We will commence an investigation into the discrepancies relevant to your account number <acc_num> and check if any modifications or updates to service fees have contributed to the unanticipated billing amount. Rest assured, we aim to address this issue with urgency.
+
+We kindly ask for your understanding as we conduct a thorough review of your billing account. We will get back to you shortly with our results and necessary corrective measures to mitigate future irregularities.
+
+In the meantime, if you have further information or questions, please feel free to contact us directly at customer.service@email.com or via your registered phone number.
+
+We appreciate your patience and cooperation.
+
+Best wishes,
+
+Customer Support Team

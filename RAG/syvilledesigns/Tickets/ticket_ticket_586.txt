@@ -1,0 +1,19 @@
+Ticket ID: ticket_586
+Subject: Dringende Lösung für Serverausfall benötigt
+Incident Type: Problem
+Customer Issue: Sehr geehrtes IT-Serviceteam,
+
+ich wende mich an Sie, um Sie über ein dringendes Problem zu informieren, das wir mit unseren E-Mail-Systemen und internen Kommunikationskanälen haben. Aufgrund eines Serverausfalls, der unsere Betriebe betrifft, benötigen wir sofortige Unterstützung. Unsere Geschäftsabläufe sind auf den von Ihrem Unternehmen bereitgestellten IT-Consulting-Service angewiesen.
+
+Bitte kontaktieren Sie mich so schnell wie möglich unter <tel_num>, um eine dringende Lösung zu besprechen.
+
+Vielen Dank,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank für Ihre Kontaktaufnahme. Wir verstehen die Dringlichkeit des Serverausfalls, der Ihre E-Mail-Systeme und Kommunikationskanäle betrifft. Unser technisches Team ist beauftragt, dieses Problem umgehend zu lösen. Jemand aus unserem Support-Team wird Sie in Kürze unter der angegebenen Nummer kontaktieren, um eine Lösung so schnell wie möglich zu besprechen und umzusetzen. Wir setzen uns dafür ein, Ihre Dienste schnell wiederherzustellen, um Störungen zu minimieren.
+
+Wir schätzen Ihre Geduld und werden bald wieder in Kontakt treten.
+
+Mit freundlichen Grüßen,
+IT-Serviceteam

@@ -1,0 +1,32 @@
+Ticket ID: ticket_3859
+Subject: Investigação sobre Discrepância na Cobrança da AWS
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou escrevendo para solicitar uma revisão detalhada de uma discrepância de cobrança relacionada à minha fatura recente para o Serviço de Gerenciamento da AWS. Meu número de conta é <acc_num>. Notei algumas cobranças inesperadas que não estão alinhadas com meu entendimento ou uso do serviço. Dado isso, exijo uma análise abrangente e uma explicação dos custos incorridos, especialmente em relação às novas cobranças que apareceram.
+
+Você poderia, por favor, fornecer uma análise detalhada, esclarecendo cada item da fatura e elucidando essas discrepâncias? Uma resposta rápida para destacar quaisquer erros de cálculo ou esclarecer as cobranças seria muito apreciada, pois ajudará a garantir uma cobrança precisa e a manter a confiança em seus serviços.
+
+Por favor, me avise se precisar de informações adicionais da minha parte para facilitar uma investigação completa.
+
+Aguardando sua pronta resposta.
+
+Obrigado.
+
+Atenciosamente,
+<name>
+Contato: <tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre a discrepância de cobrança com sua fatura do Serviço de Gerenciamento da AWS associada ao número da conta <acc_num>. Entendemos sua preocupação com as cobranças inesperadas.
+
+Para resolver essa questão, iniciei uma revisão da sua conta para identificar quaisquer discrepâncias ou erros de cálculo. Estamos preparando uma análise detalhada de sua fatura recente, que incluirá uma explicação minuciosa de cada item, com foco particular nas novas cobranças que você mencionou.
+
+Se precisarmos de mais informações suas para acelerar a investigação, entraremos em contato rapidamente.
+
+Agradecemos sua paciência e nosso objetivo é resolver essa questão rapidamente para manter sua confiança em nossos serviços. Atualizaremos você com nossas conclusões o mais breve possível.
+
+Obrigado por nos trazer isso à nossa atenção.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

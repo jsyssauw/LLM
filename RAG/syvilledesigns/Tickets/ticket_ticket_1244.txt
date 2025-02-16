@@ -1,0 +1,34 @@
+Ticket ID: ticket_1244
+Subject: Concerns regarding MacBook Air M1 battery performance
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Support Team,
+
+I hope this message finds you well. I am writing to express concerns regarding the battery performance of my recently purchased MacBook Air M1. Despite being a new device, I have noticed that the battery life does not meet the expected performance standards advertised by Apple. As I use my MacBook predominantly for work, it is crucial for the battery to last longer to maximize productivity.
+
+Could you provide me with suggestions on how to optimize the settings? Any tips on adjustments that could enhance battery longevity would be greatly appreciated. Additionally, if there are official updates or guidelines from the manufacturer addressing such issues, please let me know. Thank you for your assistance in resolving this matter.
+
+Looking forward to your prompt response.
+
+Best regards,
+
+<name>
+<t</tel_num>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your MacBook Air M1 battery concerns. We understand the importance of having a reliable battery for productivity.
+
+To optimize your MacBook's battery life, you can try the following suggestions: 
+1. Reduce screen brightness and keyboard backlighting.
+2. Turn off Bluetooth and Wi-Fi when not in use.
+3. Use Safari instead of other web browsers to save on battery usage.
+4. Close unnecessary apps running in the background.
+5. Enable "Battery Health Management" in System Preferences to maximize battery lifespan.
+6. Keep your macOS updated to the latest version, as updates often include performance improvements.
+
+Apple has not released any specific updates addressing battery performance for the MacBook Air M1, but regularly checking for updates can help. If the issue persists, consider visiting an authorized service provider for further diagnostics.
+
+Please feel free to reach out again if you need more assistance.
+
+Best regards,
+Tech Online Store Support Team

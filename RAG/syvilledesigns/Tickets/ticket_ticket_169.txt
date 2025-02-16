@@ -1,0 +1,38 @@
+Ticket ID: ticket_169
+Subject: Urgente: Problemas de conectividad de red del router Cisco ISR4331
+Incident Type: Problem
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Espero que este mensaje los encuentre bien. Estoy escribiendo para presentar formalmente un problema relacionado con la conectividad de red de mi router Cisco ISR4331. Mi nombre es <name>, y he estado experimentando consistentemente problemas durante las últimas semanas. El dispositivo, que me fue recomendado por su reputed высокую производительность, no está funcionando como esperaba.
+
+El problema principal es que el router no logra mantener una velocidad de red constante y frecuentemente pierde la conexión. Esto ha interrumpido significativamente mis arreglos de trabajo desde casa, donde la conectividad a Internet fiable es crucial. Inicialmente, pensé que esto podría estar relacionado con mi proveedor de servicios de Internet, pero después de varias verificaciones y consultas con ellos, se ha confirmado que el problema no está en su extremo.
+
+Para proporcionar más detalles, la conexión parece caerse de manera impredecible, a veces incluso varias veces dentro de la misma hora, y durante estos tiempos, no se está realizando ninguna actividad particular que podría abrumar la red. Ya he intentado pasos básicos de solución de problemas como reiniciar el router, restablecerlo a la configuración de fábrica y actualizar el firmware. Ninguna de estas medidas ha dado un resultado positivo.
+
+Dadas estas circunstancias, solicito amablemente su asistencia para resolver esta situación lo antes posible. Quizás podría haber una configuración avanzada o un cambio de configuración que podría estabilizar el rendimiento de la red del ISR4331. Su orientación y soporte expertos para resolver este asunto serían invaluables.
+
+Gracias por su atención a este problema. Por favor, háganme saber si requieren información adicional o si hay detalles específicos sobre la configuración que necesiten para ayudar más.
+
+Saludos cordiales,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a los problemas de conectividad con su router Cisco ISR4331. Entendemos la importancia de un rendimiento de red fiable y estamos aquí para ayudar.
+
+Con base en la información que proporcionó, ya ha tomado pasos significativos para solucionar el problema. Recomendamos verificar estos puntos adicionales:
+
+1. **Verificar cables y conexiones**: Asegúrese de que todos los cables estén conectados de manera segura y no estén dañados.
+2. **Verificar la ubicación del router**: Coloque su router en una ubicación central, libre de obstrucciones, para mejorar la intensidad de la señal.
+3. **Desactivar QoS**: A veces, desactivar el Quality of Service (QoS) puede estabilizar las velocidades.
+4. **Verificar interferencias**: Considere posibles interferencias de otros dispositivos electrónicos y trate de cambiar el canal inalámbrico.
+
+Si esto no mejora la situación, por favor comuníquese con los registros del router y cualquier mensaje de error que haya observado, y lo investigaremos más a fondo.
+
+No dude en contactarnos a su conveniencia para más ayuda. Nuestro objetivo es resolver esto rápidamente para que pueda reanudar sus actividades laborales normales.
+
+Saludos cordiales,
+
+Equipo de soporte al cliente

@@ -1,0 +1,25 @@
+Ticket ID: ticket_396
+Subject: Help Needed: Email Setup Problem
+Incident Type: Request
+Customer Issue: Hello Customer Support Team,
+
+I trust this message finds you in good spirits. I'm contacting you on behalf of our client, <name>, who is currently facing a challenge with their email setup. Specifically, they are having difficulties integrating Outlook with their organization's server. This situation is part of the IT Consulting Service we have been offering, and it is essential for our client's operations that this gets addressed as soon as possible.
+
+The client has reiterated their need for a reliable and functional email system to ensure effective communication with their colleagues and clients. They've tried to fix this issue internally but haven't been able to, prompting them to seek your professional assistance. We recognize the intricacies involved in these configurations and greatly value your help in resolving this issue swiftly. Please feel free to reach out directly to <name> at <tel_num> for any necessary communications or to obtain additional information regarding the account, with details accessible under <acc_num>.
+
+Thank you for your prompt attention and assistance.
+
+Best regards,
+
+<name>
+<IT Consulting Firm Name>
+Customer Service answer: Dear <name>,
+
+Thank you for getting in touch with us concerning the email configuration challenge faced by your client, <name>. We acknowledge the urgency and significance of rectifying this matter for efficient operations.
+
+To help with the Outlook integration issue, we will assign a technical expert to reach out to <name> directly using the provided number <tel_num> for further details. They will collaborate closely to quickly resolve the problem and ensure the email system is operational.
+
+We appreciate your confidence in our services and assure you of our prompt action.
+
+Best wishes,
+The Customer Support Team

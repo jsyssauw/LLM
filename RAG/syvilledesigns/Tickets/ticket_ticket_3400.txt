@@ -1,0 +1,16 @@
+Ticket ID: ticket_3400
+Subject: Technischer Support für Surface Pro 7 Touchscreen benötigt
+Incident Type: Problem
+Customer Issue: Sehr geehrter Tech Online Store Kundenservice, ich hoffe, dass Sie diese Nachricht wohlauf erreicht. Ich schreibe, um Unterstützung bezüglich eines Problems zu suchen, das ich mit meinem Microsoft Surface Pro 7 habe. Kürzlich ist der Touchscreen nicht mehr responsive, was meine Fähigkeit, das Gerät effektiv zu nutzen, stark beeinträchtigt. Ich habe die Fehlerbehebungsschritte auf Ihrer Website überprüft, konnte das Problem jedoch nicht lösen. Da das Gerät für meine täglichen Aufgaben entscheidend ist, möchte ich dies so schnell wie möglich klären. Ich habe das Gerät über Ihren Laden gekauft, und es hat bis zu diesem kürzlichen Problem regelmäßig gut funktioniert. Daher vermute ich, dass es möglicherweise eine professionelle Begutachtung oder Reparatur benötigt. Könnten Sie bitte zu den nächsten Schritten für den Erhalt technischer Unterstützung bei diesem Problem beraten? Außerdem wären alle Informationen zur Garantieabdeckung oder verfügbaren Reparaturdiensten sehr hilfreich. Wenn es Methoden zur Fehlerbehebung oder Überprüfungen gibt, die ich möglicherweise übersehen habe, teilen Sie diese bitte mit. Vielen Dank für Ihre Aufmerksamkeit zu diesem Thema. Ich freue mich darauf, bald von Ihnen zu hören, um Anleitung zu erhalten, wie ich am besten vorgehen kann, um sicherzustellen, dass mein Surface Pro 7 wie erwartet funktioniert. Mit freundlichen Grüßen, <name> <tel_num> <acc_num>
+Customer Service answer: Sehr geehrter <name>,
+
+Vielen Dank, dass Sie sich wegen des Problems mit Ihrem Microsoft Surface Pro 7 an uns gewendet haben. Wir verstehen die Unannehmlichkeiten, die ein nicht reaktionsschneller Touchscreen verursachen kann. Da Sie bereits die Fehlerbehebungsschritte von unserer Website ausprobiert haben, ohne Erfolg, empfehlen wir, Ihr Gerät zur professionellen Begutachtung einzubringen.
+
+Bitte besuchen Sie unser nächstes Servicezentrum, damit unsere Techniker Ihr Surface Pro 7 bewerten können. Wenn das Gerät noch unter Garantie steht, könnten Reparaturen, vorbehaltlich der Bedingungen, abgedeckt sein. Bitte bringen Sie beim Besuch Ihren Kaufnachweis und die Garantiedetails mit.
+
+Bevor Sie fortfahren, stellen Sie bitte sicher, dass Ihr Gerät auf die neueste Software aktualisiert ist, da veraltete Software manchmal Probleme mit dem Touchscreen verursachen kann. Wenn weitere Lösungen verfügbar werden, informieren wir Sie umgehend.
+
+Für spezifische Reparaturen oder zusätzliche Unterstützung können Sie uns gerne unter <tel_num> kontaktieren. Wir sind hier, um sicherzustellen, dass Ihr Gerät wieder in optimalem Zustand funktioniert.
+
+Mit freundlichen Grüßen, 
+Tech Online Store Kundenservice

@@ -1,0 +1,5 @@
+Ticket ID: ticket_831
+Subject: Issue with Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Screen goes black intermittently. Need troubleshooting for hardware or software cause.
+Customer Service answer: Thank you for your query. Try updating your drivers and BIOS. Contact support if issue persists.

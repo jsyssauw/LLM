@@ -1,0 +1,39 @@
+Ticket ID: ticket_178
+Subject: Assistance nécessaire pour la configuration sans fil de la Canon PIXMA MG3620
+Incident Type: Request
+Customer Issue: Cher service client,
+
+Je vous écris pour demander de l'aide pour configurer la fonction sans fil de ma nouvelle imprimante Canon PIXMA MG3620, que j'ai récemment achetée dans votre magasin. En essayant de configurer la connexion sans fil, j'ai rencontré certaines difficultés que je n'ai pas pu résoudre en utilisant le manuel fourni ou les ressources en ligne.
+
+J'ai suivi les étapes initiales, m'assurant que l'imprimante était sous tension et à portée du routeur, mais l'imprimante n'a pas pu se connecter à mon réseau sans fil. De plus, j'ai vérifié que mes identifiants de réseau étaient correctement saisis et que mon réseau fonctionnait correctement avec d'autres appareils.
+
+Malgré ces vérifications, l'imprimante affiche à plusieurs reprises une erreur de connexion. J'apprécierais beaucoup toute orientation que vous pourriez fournir ou tout conseil de dépannage spécifique à ce modèle. S'il est nécessaire de planifier un appel ou de discuter davantage du processus, veuillez me le faire savoir, et je serais heureux de fournir mes coordonnées.
+
+Merci de votre attention à ce sujet. J'attends votre réponse rapide.
+
+Cordialement,
+
+<name>
+Compte client : <acc_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant la configuration sans fil de votre imprimante Canon PIXMA MG3620. Je comprends la frustration causée par les problèmes de connexion et je suis là pour aider.
+
+Tout d'abord, assurez-vous que le firmware de votre imprimante est à jour. Parfois, un firmware obsolète peut provoquer des problèmes de connectivité. Vous pouvez vérifier les mises à jour sur le site officiel de Canon.
+
+Ensuite, essayez de réinitialiser les paramètres sans fil de l'imprimante et recommencez la configuration en utilisant la méthode du bouton WPS Push, si votre routeur la prend en charge. Cette méthode peut souvent résoudre les problèmes de connectivité plus efficacement.
+
+Voici un bref guide :
+1. Appuyez et maintenez le bouton Wi-Fi de l'imprimante jusqu'à ce que le voyant POWER clignote.
+2. Appuyez sur le bouton Couleur, puis sur le bouton Wi-Fi.
+3. Assurez-vous que le voyant Wi-Fi clignote et que le bouton Power est allumé.
+4. Appuyez et maintenez le bouton WPS de votre routeur pendant deux minutes.
+
+Si cette méthode ne fonctionne pas, envisagez d'essayer une méthode différente, comme la configuration via l'application Canon PRINT sur un smartphone ou via les paramètres Wi-Fi de votre ordinateur en utilisant un câble USB pour la configuration initiale.
+
+Si ces étapes ne réussissent pas ou si vous avez besoin d'une assistance plus détaillée, veuillez me le faire savoir, et je peux organiser un appel avec un technicien. N'hésitez pas à répondre à cet e-mail avec toute question supplémentaire ou pour planifier un appel.
+
+Nous sommes là pour vous aider à chaque étape.
+
+Cordialement,
+Équipe du service client

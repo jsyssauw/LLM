@@ -1,0 +1,35 @@
+Ticket ID: ticket_2058
+Subject: Integration Issues
+Incident Type: Problem
+Customer Issue: Dear IT Services Customer Support Team,
+
+I am writing to bring to your attention a significant issue that our team has encountered with the integration of the ticket system which is severely affecting our workflow management. Starting from October, we've noticed consistent server errors that disrupt our operations related to the IT Consulting Service. These errors have led to delays and increased workload on our team, as we are unable to efficiently manage customer requests and internal processing. It seems to be an ongoing issue that's unresolved despite our initial troubleshooting.
+
+We would appreciate it if you could urgently investigate this matter, as it's impacting our day-to-day operations and client satisfaction. Kindly escalate this to your technical experts at the earliest so we can avoid further disruptions. Please keep us posted with any updates or if further information from our side is needed.
+
+Thank you in advance for your prompt assistance.
+
+Best Regards,
+
+<name>
+
+<acc_num>
+
+<tel_num>
+
+Company Name
+Customer Service answer: Subject: Re: Integration Issues
+
+Dear <name>,
+
+Thank you for reaching out regarding the integration issues you're experiencing with the ticket system. We understand how critical this is for your workflow and operations related to the IT Consulting Service. 
+
+Our technical team has been alerted and is already investigating the underlying server errors. We will treat this with the highest priority to minimize any further disruptions to your services. 
+
+Please rest assured that we will keep you updated on our progress and may reach out if additional details are needed from your side to expedite the resolution.
+
+We appreciate your patience and cooperation in this matter.
+
+Best regards,
+
+IT Services Customer Support Team

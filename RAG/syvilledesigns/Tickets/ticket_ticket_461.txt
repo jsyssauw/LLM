@@ -1,0 +1,24 @@
+Ticket ID: ticket_461
+Subject: nan
+Incident Type: Change
+Customer Issue: Caro cliente do Suporte ao Cliente da Tech Online Store,
+
+Estou escrevendo para solicitar assistência na atualização do meu Microsoft Surface Pro 7 para Windows 11. Recentemente, soube que o Windows 11 oferece recursos aprimorados de interação touchscreen e acredito que essas melhorias beneficiariam significativamente minha experiência como usuário com o dispositivo.
+
+Meu número da conta é <acc_num> e comprei o Surface Pro 7 em sua loja há um ano. Compreendendo as complexidades técnicas envolvidas, eu apreciaria qualquer orientação ou instruções que você possa fornecer sobre como realizar essa atualização. Se houver requisitos específicos ou compras adicionais necessárias, por favor, me avise.
+
+Obrigado pelo seu apoio; aguardo sua resposta rápida.
+
+Atenciosamente,
+<name>
+<tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Para atualizar seu Microsoft Surface Pro 7 para Windows 11, certifique-se de que seu dispositivo atenda aos requisitos do sistema e tenha as últimas atualizações do Windows instaladas. Você pode verificar e atualizar seu dispositivo indo em Configurações > Atualização e Segurança.
+
+Se o seu dispositivo for elegível, você verá a opção de atualizar no Windows Update. Certifique-se de que seus dados estão salvos antes de começar. Nenhuma compra adicional deve ser necessária se os requisitos forem atendidos.
+
+Se você encontrar algum problema ou precisar de mais assistência, sinta-se à vontade para nos contatar. Estamos aqui para ajudar!
+
+Atenciosamente,
+Suporte ao Cliente da Tech Online Store

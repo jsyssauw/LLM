@@ -1,0 +1,18 @@
+Ticket ID: ticket_858
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear IT Services Support Team,
+
+I hope this email finds you in good spirits. I am encountering a problem with the installation of Windows 11 Pro. I have adhered to all the supplied guidelines, yet the installation continues to fail. Could you kindly help me in resolving this matter?
+
+Thank you for your quick response.
+
+Sincerely,
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for getting in touch. To provide you with better assistance, could you please share any specific error messages or codes that you are facing during the Windows 11 Pro installation? Furthermore, ensure that your device satisfies all system prerequisites and has the most recent BIOS/firmware updates.
+
+Best regards,
+IT Services Support Team

@@ -1,0 +1,15 @@
+Ticket ID: ticket_1380
+Subject: Langsame Internetprobleme mit Cisco Router
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundensupport,
+
+Ich habe mit meinem Cisco Router ISR4331 langsame Internetverbindungen. Könnten Sie bitte Diagnosetests durchführen, um festzustellen, ob es Konfigurationsfehler oder Hardwareprobleme gibt, die dieses Problem verursachen?
+
+Vielen Dank,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+Vielen Dank, dass Sie uns kontaktiert haben. Wir werden Diagnosetests für Ihren Cisco Router ISR4331 durchführen, um eventuelle Konfigurations- oder Hardwareprobleme zu identifizieren. Sie werden in Kürze mit den Ergebnissen informiert.
+
+Mit freundlichen Grüßen,
+Kundensupport

@@ -1,0 +1,26 @@
+Ticket ID: ticket_1375
+Subject: Urgent Issue: Jira Ticket Creation Disruptions
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to report a critical issue we are experiencing with Jira Software version 8.20. Our team is facing significant problems when trying to create new tickets, which is disrupting our project management workflow severely. This issue is affecting our productivity and we require an immediate resolution. A prompt response from your team would be greatly appreciated as this is impacting our work deadlines. Please let us know any steps we need to take to facilitate a quick resolution.
+
+Thank you for your urgent attention to this matter.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about the Jira Software ticket creation issue. We understand the urgency of the situation and the impact it has on your workflow.
+
+To assist you promptly, please try the following initial troubleshooting steps:
+1. Clear your browser cache and cookies, then restart your browser.
+2. Ensure any browser extensions are disabled, as they may interfere with Jira.
+
+Meanwhile, we will escalate this issue to our technical team for immediate investigation. Please provide any additional details or error messages encountered, as this will assist in resolving the problem faster.
+
+Our team will contact you with further updates as soon as possible. Your patience and cooperation are appreciated as we work to resolve this issue quickly.
+
+Best regards,
+Customer Support Team

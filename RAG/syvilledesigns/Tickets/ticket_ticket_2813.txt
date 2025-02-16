@@ -1,0 +1,5 @@
+Ticket ID: ticket_2813
+Subject: Solicitud de asistencia para servicios de TI
+Incident Type: Request
+Customer Issue: Necesito ayuda con el desarrollo de software y la gestión del servidor.
+Customer Service answer: Gracias por ponerte en contacto. Por favor, proporciona más detalles sobre tus problemas de desarrollo de software y gestión del servidor.

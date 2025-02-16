@@ -1,0 +1,17 @@
+Ticket ID: ticket_506
+Subject: Solicitação de Troca de Impressora
+Incident Type: Request
+Customer Issue: Caro Suporte da Loja Online Tech,
+
+Estou enfrentando travamentos de papel frequentes com minha impressora Canon PIXMA MG3620, o que torna quase impossível usá-la de forma eficaz. Podemos arranjar uma troca para esta unidade? Meus detalhes de compra: Número do Pedido <acc_num>, sob <name>. Por favor, me avise sobre os próximos passos. Obrigado pela sua ajuda.
+
+Atenciosamente,
+
+<name>
+<tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre sua impressora Canon PIXMA MG3620. Pedimos desculpas pelo inconveniente com os travamentos de papel frequentes. Para ajudá-lo com a troca, por favor, assegure-se de que a impressora está dentro do período de garantia e que você possui a embalagem original disponível. Envie uma cópia do seu recibo de compra para o nosso departamento de devoluções, mencionando o Número do Pedido <acc_num>. Nossa equipe coordenará o processo de troca e entrará em contato com você via <tel_num> para instruções adicionais.
+
+Atenciosamente,
+Suporte da Loja Online Tech

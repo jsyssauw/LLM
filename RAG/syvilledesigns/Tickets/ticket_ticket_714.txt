@@ -1,0 +1,16 @@
+Ticket ID: ticket_714
+Subject: Consulta: Actualización de RAM para Dell XPS 13
+Incident Type: Request
+Customer Issue: Hola Soporte de Tech Online Store,
+
+Estoy buscando actualizar la RAM en mi Dell XPS 13 9310 para mejorar el rendimiento. ¿Podrían aconsejarme sobre las opciones compatibles disponibles en su tienda y los costos asociados? Agradecería mucho su asistencia para asegurar un proceso de actualización sin problemas.
+
+Gracias,
+<name>
+<acc_num>
+Customer Service answer: Hola <name>,
+
+Gracias por contactarnos. Para el Dell XPS 13 9310, ofrecemos actualizaciones de RAM compatibles de hasta 32GB. Los precios comienzan en $150 por 16GB y $250 por 32GB. Por favor, háganos saber qué opción le conviene más, y podemos ayudarlo más con su pedido y consejos de instalación.
+
+Atentamente,
+Soporte de Tech Online Store

@@ -1,0 +1,24 @@
+Ticket ID: ticket_2781
+Subject: Unerwarteter AWS-Ausfall während geplanter Wartung
+Incident Type: Change
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich schreibe, um ein Problem zu melden, das während einer geplanten Wartung aufgetreten ist, die unerwartet zu einem AWS-Dienstausfall führte, der unsere Konnektivität und den Zugriff auf Datenbanken beeinträchtigte. Unser Hauptanliegen ist die Auswirkung, die dies auf unseren AWS Management Service hatte, da wir Schwierigkeiten hatten, stabile Verbindungen aufrechtzuerhalten und auf wesentliche Datenbanken zuzugreifen, die für unseren Betrieb entscheidend sind. Die Unterbrechung hat unsere Dienste vorübergehend unbrauchbar gemacht, was sich negativ auf unseren Arbeitsablauf und die Kundenzufriedenheit auswirkt. Wir haben seit Beginn der Wartungsarbeiten, die darauf abzielten, die Gesamteffizienz unseres Systems zu verbessern, intermittierende Konnektivitätsprobleme beobachtet. Dieser unerwartete Ausfall deutet jedoch auf ein zugrunde liegendes Problem hin, das sofortige Aufmerksamkeit und Lösung erfordert. Bitte geben Sie Anweisungen zu den nächsten Schritten und jeglichen erwarteten Updates zum Zeitplan der Wiederherstellung des Dienstes. Ihre schnelle Unterstützung bei der Lösung dieses Problems wird sehr geschätzt, da es entscheidend ist, die normalen Abläufe zügig wiederherzustellen. Vielen Dank für Ihre Kooperation und Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Lieber <name>,
+
+vielen Dank, dass Sie sich an uns gewandt und dieses Problem gemeldet haben. Wir entschuldigen uns für die Unannehmlichkeiten, die durch den unerwarteten AWS-Dienstausfall während der geplanten Wartung verursacht wurden. Unser Team ist sich der Situation bewusst und arbeitet aktiv daran, sie so schnell wie möglich zu lösen.
+
+Bitte seien Sie versichert, dass die Wiederherstellung stabiler Verbindungen und der Zugriff auf Ihre Datenbanken unsere höchste Priorität hat. Wir stehen in ständigem Kontakt mit AWS, um das zugrunde liegende Problem zu ermitteln und den Wiederherstellungsprozess zu beschleunigen. Wir werden Ihnen Updates zukommen lassen, sobald diese verfügbar sind.
+
+In der Zwischenzeit empfehlen wir, das AWS Service Health Dashboard für Echtzeit-Updates zum Status der Dienste zu überwachen. Wir schätzen Ihre Geduld und Ihr Verständnis, während wir an der Wiederherstellung der normalen Abläufe arbeiten.
+
+Vielen Dank für Ihre Kooperation und Unterstützung in dieser herausfordernden Zeit.
+
+Mit freundlichen Grüßen,
+Das Service-Support-Team

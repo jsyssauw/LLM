@@ -1,0 +1,35 @@
+Ticket ID: ticket_2671
+Subject: Interrupción del enrutador Cisco
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente,
+
+Les escribo para informarles sobre un problema técnico de alta prioridad que estamos experimentando con el enrutador Cisco ISR4331. El error asociado con este equipo ha llevado a una interrupción completa del servicio, afectando a múltiples clientes, lo que requiere atención y resolución inmediatas.
+
+Este problema fue detectado por primera vez el <date>, y ha impactado severamente nuestra entrega de servicios. Hemos recibido numerosos informes de clientes que no pueden acceder a sus servicios, y esto está causando interrupciones operativas significativas para ellos. Parece que el enrutador no puede mantener la conectividad y esta interrupción es consistente en varias redes vinculadas. Hemos verificado todas las conexiones y configuraciones para asegurarnos de que el problema no reside en nuestros sistemas internos. En consecuencia, sospechamos firmemente de una falla originada en el hardware o firmware del enrutador que necesita una investigación urgente.
+
+Dada la naturaleza crítica de este problema, estamos escalando este asunto a la más alta prioridad. Nuestros clientes dependen de nosotros para un servicio confiable y es imperativo que esta interrupción se resuelva rápidamente para minimizar más pérdidas y restaurar la confianza de los afectados. Agradeceríamos que pudieran despachar un equipo técnico senior para evaluar y abordar la causa raíz a la brevedad.
+
+¿Podrían por favor confirmar la recepción de esta comunicación y proporcionar orientación sobre los siguientes pasos? Confiamos en su competencia y dependemos de su experiencia para ayudarnos a restaurar la funcionalidad completa lo más pronto posible.
+
+Para fines de documentación, nuestro número de cuenta es <acc_num>. Por favor, contáctenos a través de este correo electrónico o al <tel_num> si requieren más información o aclaraciones.
+
+Gracias por su pronta atención a este asunto crítico.
+
+Saludos cordiales,
+
+<name>
+Equipo de Servicios de TI
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto y informarnos sobre el problema crítico con el enrutador Cisco ISR4331. Entendemos la urgencia y el impacto que esta interrupción está teniendo en sus servicios y clientes.
+
+Nuestro equipo técnico está priorizando su caso y estará coordinándose con usted en breve para abordar la sospecha de falla en el hardware o firmware. Recomendamos preparar cualquier registro o dato relevante que pueda ayudar a un diagnóstico y resolución rápida.
+
+Por favor, espere que un miembro del equipo técnico senior se comunique dentro de la hora para comenzar a resolver este problema. Nuestro objetivo es restaurar la funcionalidad completa y le mantendremos informado durante todo el proceso.
+
+Gracias por su paciencia y confianza en nuestros servicios. Estamos comprometidos a resolver este asunto con la máxima urgencia.
+
+Saludos cordiales,
+
+[Su Nombre]
+Equipo de Soporte al Cliente

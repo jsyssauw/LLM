@@ -1,0 +1,25 @@
+Ticket ID: ticket_1824
+Subject: Consulta sobre compra em grande quantidade do MacBook Air M1
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou entrando em contato para perguntar sobre a possibilidade de comprar várias unidades do MacBook Air M1 para uso corporativo da nossa empresa. Estamos interessados em entender as opções disponíveis para preços em grande quantidade e quaisquer descontos potenciais que vocês possam oferecer para grandes pedidos.
+
+Você pode fornecer mais detalhes sobre o seu programa de compras corporativas e quaisquer termos ou requisitos específicos envolvidos? Sua assistência em acelerar esta consulta seria muito apreciada.
+
+Aguardando sua resposta rápida.
+
+Atenciosamente,
+
+<name>
+<company_name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco em relação ao seu interesse em comprar várias unidades do MacBook Air M1 para uso corporativo. Oferecemos um programa de compras corporativas que inclui opções para preços em grande quantidade e possíveis descontos em grandes pedidos.
+
+Por favor, forneça a quantidade estimada que você pretende comprar para que possamos lhe dar mais detalhes específicos sobre o preço e os termos. Nossa equipe também pode precisar de informações sobre sua empresa para aprovação dentro do programa corporativo.
+
+Sinta-se à vontade para entrar em contato a qualquer momento para mais informações. Nosso objetivo é processar tais consultas rapidamente e trabalharemos para atender às necessidades da sua empresa prontamente.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

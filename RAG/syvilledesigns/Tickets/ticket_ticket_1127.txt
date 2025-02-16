@@ -1,0 +1,19 @@
+Ticket ID: ticket_1127
+Subject: Problemas de facturación en los servicios de AWS
+Incident Type: Problem
+Customer Issue: Estimado soporte al cliente,
+
+Estoy escribiendo para llamar su atención sobre los cargos inesperados que han aparecido en mi cuenta relacionados con su Servicio de Gestión de AWS. Noté estos cargos en el ciclo de facturación más reciente y estoy preocupado por su origen. El número de cuenta asociado con estos cargos es <acc_num>. Le solicito amablemente que investigue las discrepancias y brinde una explicación o solución a la brevedad posible. No dude en contactarme al <tel_num> si necesita información adicional. Gracias por su pronta atención a este asunto.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con respecto a los cargos inesperados en su cuenta de Servicio de Gestión de AWS. Entendemos su preocupación y estamos aquí para ayudarle. Hemos iniciado una investigación sobre las discrepancias asociadas con el número de cuenta <acc_num>.
+
+Tenga la seguridad de que le proporcionaremos una explicación o solución lo antes posible. Si se necesita más información de su parte, nos pondremos en contacto con usted al número proporcionado, <tel_num>.
+
+Gracias por su paciencia y comprensión.
+
+Atentamente,
+Equipo de soporte al cliente

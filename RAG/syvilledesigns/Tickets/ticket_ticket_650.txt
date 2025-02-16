@@ -1,0 +1,25 @@
+Ticket ID: ticket_650
+Subject: Asistencia con Adobe Photoshop
+Incident Type: Request
+Customer Issue: Estimado soporte de la tienda online de tecnología,
+
+Espero que este mensaje le encuentre bien. Estoy escribiendo para solicitar asistencia con respecto al software Adobe Photoshop 2024 que compré con mi número de pedido <acc_num>. Desafortunadamente, he estado experimentando bloqueos frecuentes durante varias tareas de edición de fotos, lo que afecta significativamente mi flujo de trabajo. La aplicación a menudo se cierra inesperadamente sin previo aviso. He intentado actualizar el software y los controladores de mi sistema, pero el problema persiste. Solicito amablemente su orientación para resolver este asunto o si hay pasos específicos o parches disponibles para estabilizar su rendimiento. Gracias por su atención a este problema. Espero su pronta respuesta.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con el soporte de la tienda online de tecnología con respecto a tu problema con Adobe Photoshop 2024. Lamento escuchar sobre las dificultades que estás enfrentando.
+
+Para ayudar a resolver el problema de bloqueo, por favor intenta los siguientes pasos:
+
+1. Asegúrate de que tu sistema cumpla con todos los requisitos de Photoshop.
+2. Desactiva cualquier complemento de terceros y vuelve a habilitarlos gradualmente después de verificar la estabilidad de la aplicación.
+3. Restablece las preferencias de Photoshop manteniendo presionadas las teclas Ctrl + Alt + Shift (Windows) o Command + Option + Shift (Mac) al iniciar la aplicación.
+4. Ejecuta Photoshop como administrador y verifica si hay problemas de permisos que puedan afectar su rendimiento.
+5. Si el problema persiste, verifica el sitio web de Adobe o contacta su soporte para cualquier parche o actualización que aborde específicamente estos bloqueos.
+
+Espero que esto ayude a mejorar tu flujo de trabajo. ¡Háznoslo saber si necesitas más asistencia!
+
+Atentamente,
+Soporte de la tienda online de tecnología

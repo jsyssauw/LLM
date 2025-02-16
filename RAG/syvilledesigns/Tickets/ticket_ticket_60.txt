@@ -1,0 +1,30 @@
+Ticket ID: ticket_60
+Subject: Request for Billing Correction on Subscription
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I'm writing to express a concern regarding a recent billing issue I experienced with my Google Workspace Business Standard subscription under account number <acc_num>. It appears that I have been incorrectly charged for a service I did not sign up for, and I would like to seek a refund or an adjustment to my account to rectify this issue.
+
+On my invoice dated <invoice_date>, I noticed an unexpected charge for the Google Workspace Business Standard, which surprised me as I neither request this service nor have any requirement for it at this time. I have checked all my account settings and confirmed that there was no such subscription authorized from my end.
+
+I kindly ask for your immediate assistance in addressing this billing error. Please review the related transaction in your system to verify the inaccuracy. A prompt refund of the incorrect charge or an adjustment on my account would be highly appreciated.
+
+For your reference, my account details are as follows: Name: <name>, Phone number: <tel_num>. I would also appreciate if you could keep me updated about the status of this inquiry.
+
+Thank you for your prompt attention to this matter. I look forward to your resolution.
+
+Sincerely,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to Tech Online Store Customer Support. I understand your concern regarding the unexpected charge on your Google Workspace Business Standard subscription under account number <acc_num>.
+
+We are currently reviewing the details of your transaction dated <invoice_date> to verify the issue. Please rest assured that we are committed to resolving this promptly. If an error is confirmed, we will ensure a refund or make the necessary adjustments to your account.
+
+You can expect an update from us as soon as we have more information. We appreciate your patience and apologize for any inconvenience this has caused.
+
+If you need immediate assistance or have further questions, please feel free to reach out.
+
+Best regards,
+
+Tech Online Store Customer Support Team

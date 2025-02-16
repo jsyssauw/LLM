@@ -1,0 +1,48 @@
+Ticket ID: ticket_3021
+Subject: Assistance Needed for Wireless Setup
+Incident Type: Request
+Customer Issue: Hello to the Customer Support Team at Tech Online Store,
+
+I am reaching out to ask for assistance in setting up the wireless compatibility of my newly purchased Canon PIXMA MG3620 printer. I've been attempting to configure it for easy mobile printing, but I've faced several challenges in the process.
+
+I followed the provided setup instructions outlined in the manual; however, I'm having trouble connecting it to my home Wi-Fi network. This obstacle prevents me from utilizing the mobile printing capabilities, which heavily influenced my choice to buy this product. I double-checked the correctness of my router's SSID and password during setup yet the printer cannot identify the network.
+
+Additionally, I tried using the Canon PRINT app as advised in the troubleshooting guide, but the app fails to detect the printer despite multiple efforts. I believe there may be an issue with the network settings, or I might be missing key steps due to a lack of clear guidance on the setup process.
+
+Could you please walk me through the steps for the wireless setup or inform me of common problems that may arise during installation? I would sincerely appreciate detailed instructions or any resources that could help with this issue.
+
+Thanks for your assistance.
+
+Best regards,
+
+<name>
+
+<email_address>
+
+<phone_number>
+Customer Service answer: Dear Customer,
+
+Thank you for reaching out. We acknowledge your situation and are here to support you with the wireless setup of your Canon PIXMA MG3620 printer.
+
+Please follow these detailed steps to resolve your installation issue:
+
+1. **Printer Power**: Ensure that your printer is turned on. Press and hold the Wi-Fi button until the power indicator flashes once.
+
+2. **Wireless Activation**: As soon as the light flashes, release the Wi-Fi button and wait until the Wi-Fi light blinks blue, then press the WPS button on your router within the next 2 minutes.
+
+3. **Manual Connection**: If WPS isn't an option for you, connect manually by ensuring your printer is within the Wi-Fi incident range.
+
+4. **Check Network Credentials**: Verify your SSID and password for any spaces or incorrect characters.
+
+5. **Canon PRINT App**: Please uninstall and then reinstall the Canon PRINT application. Ensure your mobile device is connected to the same Wi-Fi network.
+
+6. **Reconnect Printer**: Restart both your printer and router. Try to find your printer again by reopening the Canon PRINT app.
+
+If difficulties persist, you may want to get in touch with your internet service provider regarding any network limitations that could be impacting the connection.
+
+For additional assistance, you may refer to: [Canon Support Page](https://www.usa.canon.com/internet/portal/us/home/support).
+
+We hope this assists you in resolving your issue. Feel free to get in touch if you need more help.
+
+Best regards,
+Tech Online Store Support Team

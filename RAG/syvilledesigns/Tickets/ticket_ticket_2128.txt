@@ -1,0 +1,23 @@
+Ticket ID: ticket_2128
+Subject: Anfrage für technische Unterstützung mit Dell XPS 13 9310
+Incident Type: Request
+Customer Issue: Sehr geehrter Tech Online Store Kundenservice,
+
+ich schreibe, um technische Unterstützung für mein Dell XPS 13 9310 zu verlangen, das während der Aufgabenausführung unerwartete Abschaltungen hat. Dieses Problem beeinträchtigt meine Produktivität und erfordert dringend Aufmerksamkeit. Bitte geben Sie Anleitungen oder mögliche Lösungen zur Behebung dieses Problems an. Ich habe sichergestellt, dass alle Software-Updates aktuell sind und grundlegende Fehlerbehebungen durchgeführt wurden, aber das Problem besteht weiterhin. Lassen Sie mich bitte wissen, welche nächsten Schritte notwendig sind oder ob Sie weitere Informationen benötigen, um mir in dieser Angelegenheit zu helfen.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen, <name>
+Customer Service answer: Sehr geehrte <name>,
+
+vielen Dank, dass Sie sich bezüglich des Problems mit Ihrem Dell XPS 13 9310 an uns gewandt haben. Wir empfehlen, die folgenden Schritte auszuprobieren, um die unerwarteten Abschaltungen zu beheben:
+
+1. Überprüfen Sie, ob eine Überhitzung vorliegt, indem Sie sicherstellen, dass die Lüftungsschlitze nicht blockiert oder verstaubt sind.
+2. Führen Sie die integrierte Hardwarediagnose durch, indem Sie Ihr Gerät neu starten und die Taste F12 drücken, um das Boot-Menü aufzurufen.
+3. Aktualisieren oder installieren Sie die Gerätetreiber über die Dell Support-Website neu.
+4. Erwägen Sie, eine Systemwiederherstellung auf einen Zeitpunkt vor dem Beginn des Problems durchzuführen, falls dies zutrifft.
+
+Wenn diese Schritte das Problem nicht lösen, lassen Sie es uns bitte wissen, damit wir dies an unser technisches Team zur weiteren Untersuchung eskalieren können. Teilen Sie uns gerne alle Fehlermeldungen oder Details mit, die bei der Diagnose des Problems helfen könnten. Wir sind hier, um zu helfen.
+
+Mit freundlichen Grüßen,  
+Tech Online Store Kundenservice

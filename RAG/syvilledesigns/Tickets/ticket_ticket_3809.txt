@@ -1,0 +1,10 @@
+Ticket ID: ticket_3809
+Subject: Request for Replacement of Defective Keyboard
+Incident Type: Change
+Customer Issue: Dear Customer Support Team, I hope this message finds you well. I am writing to address an issue concerning my recent purchase from your store, a Microsoft Surface Pro 7. Upon unboxing the product and setting it up, I discovered that the detachable keyboard is malfunctioning and causing inconvenience to my daily activities. As someone who relies heavily on this device for both professional and personal use, it is imperative that the device performs optimally. I request a replacement for the defective detachable keyboard at your earliest convenience. To facilitate this process, I am more than willing to provide the necessary proof of purchase and any other documentation you may require. Please let me know how to proceed further to expedite the resolution of this issue, as I am keen on continuing to use the product without further disruption. Thank you for your prompt attention to this matter. I look forward to your swift response. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us about the issue with your Microsoft Surface Pro 7 detachable keyboard. We apologize for the inconvenience this has caused. To expedite the replacement process, please provide us with the proof of purchase and any additional details regarding the defect. Once we receive this information, we will arrange for a replacement keyboard to be sent to you as soon as possible. Your satisfaction is important to us, and we appreciate your patience and understanding. Please let us know if there is anything else we can assist you with.
+
+Best regards,
+Customer Support Team
