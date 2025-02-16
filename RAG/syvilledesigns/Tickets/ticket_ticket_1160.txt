@@ -1,0 +1,10 @@
+Ticket ID: ticket_1160
+Subject: Critical Problem
+Incident Type: Incident
+Customer Issue: Hello Support Team, we are encountering a severe problem with the server management that is affecting our ticketing system and software development tasks. Prompt assistance is necessary to address this and reduce business repercussions. Best, <name>.
+Customer Service answer: Hello <name>,
+
+We appreciate your correspondence. We recognize the importance of the server management problem affecting your ticketing system and software development. Our team is prioritizing this issue and will work diligently to resolve it promptly. We will keep you informed about our progress. Thank you for your understanding and cooperation.
+
+Kind regards,
+Support Team

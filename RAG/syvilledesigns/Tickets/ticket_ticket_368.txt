@@ -1,0 +1,27 @@
+Ticket ID: ticket_368
+Subject: Customer experiencing overheating issues with Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I am writing to report an issue with my recently purchased Dell XPS 13 9310 laptop. The device tends to overheat significantly when running high-performance applications, leading to concerns about long-term functionality. I seek guidance on how to address this overheating issue or information about a possible replacement or repair option.
+
+Looking forward to your prompt response.
+
+Thank you.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the overheating issue with your Dell XPS 13 9310. We recommend starting with the following troubleshooting steps: 
+
+1. Ensure your laptop is situated on a hard, flat surface to allow proper ventilation.
+2. Check if your system has the latest BIOS and system updates installed via the Dell Support website.
+3. Consider using Dell Power Manager to adjust thermal settings and optimize cooling performance.
+4. Inspect for any blockages in the cooling vents, but do not open the device as it can void the warranty.
+
+If these steps do not resolve the issue, please contact us directly to discuss replacement or repair options under your warranty.
+
+Best regards,
+Dell Customer Support Team

@@ -1,0 +1,33 @@
+Ticket ID: ticket_3231
+Subject: Asistencia con la Configuración de la Impresora Inalámbrica
+Incident Type: Request
+Customer Issue: Estimado Servicio de Atención al Cliente de la Tienda Online de Tecnología,
+
+Recientemente compré una nueva impresora Canon PIXMA MG3620 en su tienda en línea y tengo dificultades para configurarla para la operación inalámbrica. Seguí los pasos en el manual del usuario, pero no puedo hacer que funcione correctamente. En este momento, no puedo conectar mi impresora a mi red inalámbrica, incluso después de varios intentos de solución de problemas.
+
+Solicito su orientación para resolver este problema. ¿Podrían proporcionarme instrucciones detalladas, paso a paso, o indicarme un recurso que describa el proceso de configuración inalámbrica para este modelo específico? Su ayuda en este asunto sería muy apreciada.
+
+Gracias por su apoyo.
+
+Atentamente,
+<name>
+Customer Service answer: Asunto: Re: Asistencia con la Configuración de la Impresora Inalámbrica
+
+Estimado <name>,
+
+Gracias por comunicarse y lamento las molestias que está experimentando con la configuración de su impresora Canon PIXMA MG3620. Siga estos pasos para establecer una conexión inalámbrica:
+
+1. Asegúrese de que la impresora esté encendida.
+2. Mantenga presionado el botón [Wi-Fi] en la impresora hasta que la lámpara ON parpadee.
+3. Presione el botón [Color], luego el botón [Wi-Fi]. La lámpara de Wi-Fi debería comenzar a parpadear.
+4. En su enrutador Wi-Fi, presione el botón WPS. La lámpara parpadeará, señalizando que está buscando la red.
+5. Una vez que el LED de Wi-Fi en la impresora esté encendido de forma constante, la conexión es exitosa.
+
+Alternativamente, puede configurarlo a través de la aplicación Canon Print, disponible para descargar en dispositivos iOS y Android. Instale la aplicación y siga las instrucciones en pantalla.
+
+Para obtener una guía más detallada, visite la página de soporte de Canon o acceda a su guía de configuración oficial en www.usa.canon.com/internet/portal/us/home/support.
+
+Si se necesita más ayuda, no dude en contactar a nuestro equipo de soporte técnico directamente. Estamos aquí para ayudar.
+
+Atentamente,
+Servicio de Atención al Cliente de la Tienda Online de Tecnología

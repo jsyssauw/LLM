@@ -1,0 +1,14 @@
+Ticket ID: ticket_1831
+Subject: nan
+Incident Type: Problem
+Customer Issue: Estimado Servicio al Cliente, Estoy escribiendo para reportar un problema continuo con mi MacBook Air M1, comprada en su tienda en línea de tecnología. El dispositivo experimenta constantemente sobrecalentamiento, lo que afecta significativamente su rendimiento y vida útil de la batería. A pesar de intentar varios pasos de solución de problemas, el problema persiste, lo que causa preocupación. Dependo mucho de esta computadora portátil para mis tareas diarias, y la situación actual dificulta su uso óptimo. Por favor, asesórenme sobre los pasos apropiados para la rectificación o posibles opciones de reemplazo. Hágame saber cómo proceder y si necesita información adicional para asistencia. Espero su pronta respuesta. Gracias, <name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactar a nuestro equipo de soporte. Lamentamos los problemas que está experimentando con su MacBook Air M1. Para la solución de problemas inmediata, asegúrese de que su MacBook esté actualizada con la última macOS y trate de restablecer el Controlador de Gestión del Sistema (SMC). Si el problema persiste, le sugerimos programar una cita de diagnóstico en su centro de servicio autorizado más cercano.
+
+Dado que su computadora portátil fue comprada en nuestra tienda en línea de tecnología, puede estar cubierta por la garantía. Tenga a mano su recibo de compra o número de pedido cuando se comunique con nosotros o visite un centro de servicio. Háganos saber si necesita más asistencia con el proceso de garantía o si necesita orientación sobre cómo reservar una cita de servicio.
+
+Si fuese necesario un reemplazo, nuestro equipo de soporte le guiará a través de los pasos necesarios después de la evaluación. Por favor, responda con cualquier detalle adicional si es necesario para más asistencia.
+
+Saludos cordiales,
+Equipo de Soporte al Cliente

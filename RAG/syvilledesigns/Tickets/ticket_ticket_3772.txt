@@ -1,0 +1,20 @@
+Ticket ID: ticket_3772
+Subject: Inquiring about licensing options and bulk discounts for Adobe Photoshop 2024
+Incident Type: Request
+Customer Issue: Hello Tech Online Store Support,
+
+I hope this message finds you well. I am reaching out to inquire about the licensing options available for Adobe Photoshop 2024. Additionally, I am interested in understanding if there are any discounts available for bulk purchases, particularly in the pre-sales phase. As we are planning to integrate this into our new design workstation setups, knowing the details would be beneficial for our budgeting purposes. Could you please provide details on pricing tiers, any potential bulk purchasing discounts, and any relevant terms and conditions?
+
+Thank you for your assistance.
+
+Sincerely,
+
+<name>
+Customer Service answer: Hello <name>,
+
+Thank you for reaching out to Tech Online Store Support. We offer various licensing options for Adobe Photoshop 2024 tailored to your needs. Discounts are available for bulk purchases, especially during the pre-sales phase. Pricing tiers vary based on the volume and license type chosen. Please let us know the quantity you're considering, and we will provide a detailed quote including terms and conditions. 
+
+Feel free to contact us for any further assistance.
+
+Best regards,
+Tech Online Store Support Team

@@ -1,0 +1,5 @@
+Ticket ID: ticket_1519
+Subject: Issue: Blurry HDR Playback on Samsung QLED TV
+Incident Type: Problem
+Customer Issue: Dear Customer Support, I am experiencing blurry visuals when playing HDR content on my Samsung QLED QN90A TV. Please advise on a solution or initiate a return process. Thank you for your assistance. Regards, <name>.
+Customer Service answer: Dear <name>, I suggest trying these steps: 1) Ensure your TV firmware is up to date under Settings > Support > Software Update. 2) Adjust your Picture Settings for HDR content via Settings > Picture > Expert Settings. 3) Confirm your content source and HDMI cables support HDR. If issues persist, please contact Samsung Support directly or initiate a return through the retailer. Best regards, <service_desk_agent>.

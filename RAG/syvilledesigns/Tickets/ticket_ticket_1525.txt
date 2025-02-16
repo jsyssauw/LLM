@@ -1,0 +1,5 @@
+Ticket ID: ticket_1525
+Subject: Anleitung zu IT-Diensten
+Incident Type: Request
+Customer Issue: Kunde sucht Anleitung zur Serveradministration und IT-Lösungen.
+Customer Service answer: Sicher! Für Anleitungen zur Serveradministration und IT-Lösungen kontaktieren Sie bitte unser IT-Support-Team unter <tel_num> oder besuchen Sie unsere Website.

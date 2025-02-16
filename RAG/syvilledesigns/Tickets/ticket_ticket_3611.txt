@@ -1,0 +1,10 @@
+Ticket ID: ticket_3611
+Subject:  
+Incident Type: Change
+Customer Issue: Hello, I am creating a ticket to initiate a 'Change' request for updating Visual Studio Code from version 1.70 to the latest version accessible. The priority level is considered low.
+Customer Service answer: Dear <name>,
+
+Thank you for your inquiry. We are proceeding with the upgrade of Visual Studio Code to the latest available version.
+
+Best regards,
+<company_name>

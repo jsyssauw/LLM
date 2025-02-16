@@ -1,0 +1,26 @@
+Ticket ID: ticket_3729
+Subject: Solicitando asistencia inmediata: Problemas de red con el enrutador Cisco
+Incident Type: Problem
+Customer Issue: Hola, Soporte al Cliente,
+
+Estoy experimentando interrupciones en la red con el enrutador ISR4331. Ha fallado constantemente en mantener una conexión estable hoy. Esta situación impacta gravemente nuestras operaciones, ya que dependemos de un entorno de red de alto rendimiento y seguro.
+
+Por favor, proporcione orientación o envíe a un técnico para solucionar y resolver esto lo antes posible. Para su referencia, el producto en cuestión es el enrutador Cisco ISR4331.
+
+Espero su pronta respuesta.
+
+Gracias,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Hola <name>,
+
+Gracias por ponerte en contacto con nosotros respecto a los problemas de red con tu enrutador Cisco ISR4331. Entendemos la urgencia y el impacto en tus operaciones. Para comenzar a solucionar el problema, por favor intenta reiniciar el enrutador y verifica si hay conexiones sueltas. Asegúrate de que el firmware esté actualizado.
+
+Si estos pasos no resuelven el problema, podemos organizar la visita de un técnico a tu ubicación. Por favor, confirma tu disponibilidad para la visita del técnico, o si prefieres, podemos ayudarte más a fondo a través de soporte remoto.
+
+Tu solicitud es nuestra prioridad, y nuestro objetivo es abordar este asunto rápidamente. Proporcionaremos actualizaciones lo antes posible.
+
+Saludos cordiales,
+Equipo de Soporte al Cliente

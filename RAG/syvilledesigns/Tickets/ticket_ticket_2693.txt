@@ -1,0 +1,27 @@
+Ticket ID: ticket_2693
+Subject: Performance Issue with Dell XPS 13
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I am reaching out to report a performance issue with my recently purchased Dell XPS 13 9310 ultrabook. Since acquiring it, I have noticed that its performance is significantly slower than expected for a machine of this caliber and price point. Programs are taking an unusually long time to load, and the overall system responsiveness is sluggish, even when performing basic tasks.
+
+I have already attempted some basic troubleshooting steps, such as restarting the device, checking for updates, and running a virus scan to ensure no malware is affecting performance. Despite these efforts, the issue persists.
+
+As my warranty period is still active, I would appreciate your guidance on the next steps I should take to resolve this problem. If necessary, I am open to sending my device in for a thorough diagnostic check or repair. Additionally, please let me know if this is a known issue with this model and if there are specific recommended solutions.
+
+Thank you for your prompt attention to this matter. I look forward to your swift response.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting Tech Online Store Customer Support. I am sorry to hear about the performance issues with your Dell XPS 13 9310. Since you've already tried some basic troubleshooting steps, I recommend checking if the system performance issue is related to software or hardware by starting the laptop in Safe Mode. This can help determine if any background processes are causing delays.
+
+If the problem persists, please contact our support team to arrange a diagnostic check under your active warranty. It could also help to visit the Dell support website to check if this issue is recorded as a known problem and if any driver or firmware updates might address it.
+
+Should repair be required, we can assist with the logistics to ensure your device is refurbished swiftly. Rest assured, we will look into this matter promptly to resolve your concerns.
+
+Best regards,
+
+Customer Support Team

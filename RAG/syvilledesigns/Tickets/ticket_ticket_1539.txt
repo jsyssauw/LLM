@@ -1,0 +1,26 @@
+Ticket ID: ticket_1539
+Subject: Issue with Dell XPS 13 Powering On
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I am writing to report an issue with my Dell XPS 13 9310, which is not powering on after a factory reset. I would appreciate your assistance in troubleshooting this problem. Please let me know the next steps or if further information is needed to resolve this issue promptly.
+
+Thank you for your support.
+
+Best regards,
+
+<name>
+
+Customer Service Number: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. I apologize for the issue with your Dell XPS 13 9310. Please try the following steps to troubleshoot: 
+
+1. Ensure the power adapter is connected properly and the power outlet is working.
+2. Perform a hard reset by holding down the power button for 15-20 seconds.
+3. Disconnect any external devices.
+
+If the laptop still doesn't power on, please reply with any error indicators or sounds it might be making, and we can assist further or arrange for service.
+
+Kind regards,
+Tech Online Store Customer Support

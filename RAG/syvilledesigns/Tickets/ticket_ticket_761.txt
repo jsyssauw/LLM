@@ -1,0 +1,25 @@
+Ticket ID: ticket_761
+Subject: Consulta sobre la compra al por mayor de MacBook Air M1
+Incident Type: Request
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Me pongo en contacto para preguntar sobre la posibilidad de adquirir múltiples unidades del MacBook Air M1 para uso corporativo de nuestra empresa. Estamos interesados en conocer las opciones disponibles para precios al por mayor y cualquier posible descuento que puedan ofrecer para grandes pedidos.
+
+¿Podrían proporcionarme más detalles sobre su programa de compras corporativas y cualquier término o requisito específico involucrado? Su ayuda para agilizar esta consulta sería muy apreciada.
+
+Espero su pronta respuesta.
+
+Atentamente,
+
+<name>
+<company_name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a su interés en la compra de múltiples unidades del MacBook Air M1 para uso corporativo. Ofrecemos un programa de compras corporativas que incluye opciones para precios al por mayor y posibles descuentos en grandes pedidos.
+
+Por favor, proporcione la cantidad estimada que tiene la intención de comprar para que podamos brindarle detalles más específicos sobre los precios y términos. Nuestro equipo también puede requerir información sobre su empresa para la aprobación dentro del programa corporativo.
+
+No dude en contactarnos en cualquier momento para obtener más información. Nuestro objetivo es procesar tales consultas de manera expedita y trabajar para satisfacer las necesidades de su empresa rápidamente.
+
+Atentamente,
+Equipo de Atención al Cliente

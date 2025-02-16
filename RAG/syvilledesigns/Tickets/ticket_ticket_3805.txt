@@ -1,0 +1,18 @@
+Ticket ID: ticket_3805
+Subject: Request on Wireless Printer Setup
+Incident Type: Request
+Customer Issue: Hello, I need assistance setting up my HP DeskJet 3755 printer to connect wirelessly with my laptop. Could you please provide step-by-step guidance? Thank you. Best, <name> <email> <tel_num>
+Customer Service answer: Subject: Re: Request on Wireless Printer Setup
+
+Hello <name>,
+
+To set up your HP DeskJet 3755 wirelessly:
+1. Turn on the printer.
+2. Activate wireless setup from the printer's settings.
+3. Download the HP Smart App on your laptop.
+4. Follow the app instructions to find and connect to your printer.
+
+Let me know if you need any more help!
+
+Best regards,
+Service Desk Agent

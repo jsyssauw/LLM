@@ -1,0 +1,10 @@
+Ticket ID: ticket_1390
+Subject: Information Request
+Incident Type: Request
+Customer Issue: Dear Customer Support Team, I hope this message finds you well. I am writing to inquire about your IT solutions for remote work and server management services. Can you provide detailed information on the range of services offered and any relevant case studies or client testimonials? Additionally, I would appreciate guidance on setting up a consultation to discuss potential collaboration possibilities. Thank you for your assistance, and I look forward to your response. Best regards, <name> <email> <tel_num>
+Customer Service answer: Dear <name>, 
+
+Thank you for reaching out. We offer a comprehensive suite of IT solutions tailored for remote work and server management, including cloud services, cybersecurity, and virtual desktops. I will send you detailed information, case studies, and client testimonials shortly. To discuss collaboration, please let us know your availability for a consultation, and we’ll arrange a call. Feel free to contact us anytime at <tel_num> or <email>.
+
+Best regards,
+Customer Support Team

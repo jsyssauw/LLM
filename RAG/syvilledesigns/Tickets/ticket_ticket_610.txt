@@ -1,0 +1,10 @@
+Ticket ID: ticket_610
+Subject: Problemas com Instâncias de Implantação da AWS
+Incident Type: Problem
+Customer Issue: Prezado suporte ao cliente, estamos enfrentando problemas com o serviço de gerenciamento da AWS em que as instâncias do servidor não estão sendo iniciadas corretamente. Isso está impactando severamente a disponibilidade do nosso serviço. Por favor, forneça assistência para resolver este problema prontamente. Obrigado.
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato sobre os problemas de implantação da AWS. Entendemos o impacto que isso tem na sua disponibilidade de serviço e estamos aqui para ajudar. Por favor, certifique-se de que você verificou as configurações das instâncias e grupos de segurança em busca de discrepâncias. Caso o erro persista, gentilmente forneça quaisquer mensagens de erro que você esteja encontrando ou IDs das instâncias, e nós escalaremos isso para nossa equipe técnica imediatamente para garantir uma resolução rápida.
+
+Atenciosamente,
+Suporte ao Cliente

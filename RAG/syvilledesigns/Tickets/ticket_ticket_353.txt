@@ -1,0 +1,30 @@
+Ticket ID: ticket_353
+Subject: Issue with Surface Pro 7 - Screen Flickering
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Support,
+
+I am writing to report a persistent issue with my Microsoft Surface Pro 7, which was purchased on account number <acc_num>. For the past week, I have experienced frequent screen flickering and an unresponsive touchscreen. The issue severely affects usability and productivity. Attempts to troubleshoot, including software updates and hard resets, have not resolved the problems. 
+
+Could you please advise on the next steps? I am concerned the device might be defective or requires servicing. I would appreciate any details regarding troubleshooting or arranging for repair or replacement under warranty. Please contact me at <tel_num> to discuss further. 
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this to our attention. We understand the inconvenience caused by the screen flickering and unresponsive touchscreen on your Microsoft Surface Pro 7. Since you’ve tried updating the software and performing hard resets without success, it indeed seems like service might be needed.
+
+Please follow these steps:
+1. Ensure all critical Windows updates are installed.
+2. Run the Surface Diagnostic Toolkit to check for hardware issues; download it from the Microsoft website.
+
+If the issue persists, your Surface may require servicing. I can assist you in arranging a repair or replacement under warranty. Please provide us with your proof of purchase and confirm your account details for service validation. 
+
+Our technician can contact you at <tel_num> for further discussion and scheduling. Your case has been prioritized, and you should hear from us within the next 48 hours.
+
+We apologize for any inconvenience and appreciate your patience.
+
+Best regards,
+Tech Online Store Support Team

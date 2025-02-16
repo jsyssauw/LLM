@@ -1,0 +1,21 @@
+Ticket ID: ticket_3190
+Subject: Solicitud de configuración del servidor
+Incident Type: Change
+Customer Issue: Hola,
+
+Me estoy comunicando para solicitar modificaciones a la configuración actual del servidor en relación con nuestro Servicio de Consultoría de TI. Nuestro objetivo es mejorar la eficiencia de la entrega de correos electrónicos sin interrumpir las operaciones en curso. ¿Podría ayudarme a implementar estos ajustes a la brevedad posible?
+
+Gracias por su apoyo.
+
+Atentamente,
+
+<name>
+
+<acc_num>
+Customer Service answer: Hola,
+
+Gracias por comunicarse con respecto a la solicitud de configuración del servidor. Entendemos la importancia de mejorar la eficiencia de la entrega de correos electrónicos. Nuestro equipo le asistirá con las modificaciones asegurando que no haya interrupción en las operaciones en curso. Comenzaremos a procesar su solicitud y le actualizaremos sobre el progreso en la próxima oportunidad.
+
+Atentamente,
+
+Equipo del Servicio de Atención

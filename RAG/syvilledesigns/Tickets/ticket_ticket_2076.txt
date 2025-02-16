@@ -1,0 +1,16 @@
+Ticket ID: ticket_2076
+Subject: nan
+Incident Type: Problem
+Customer Issue: Bonjour <name>,
+
+Je m'adresse à vous afin de signaler un souci avec mon chargeur Lenovo IdeaPad 5, qui semble défaillant. Mon numéro de téléphone est <tel_num> et mon identifiant de compte est <acc_num>. Je vous serais reconnaissant de m'aider à obtenir un remplacement ou une réparation. Je vous remercie pour votre assistance.
+
+Sincères salutations,
+<name>
+Customer Service answer: Bonjour [Nom du Client],
+
+Nous vous remercions de nous avoir contactés. Nous sommes désolés pour les désagréments que vous rencontrez avec votre chargeur Lenovo IdeaPad 5. Merci de vérifier que votre appareil est toujours sous garantie et de nous faire parvenir un exemplaire de votre preuve d'achat. Notre équipe sera là pour vous aider avec un remplacement ou une réparation.
+
+Cordialement,
+[Votre Nom]
+Équipe du Support Client

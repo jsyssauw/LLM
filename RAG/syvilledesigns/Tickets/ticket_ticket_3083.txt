@@ -1,0 +1,28 @@
+Ticket ID: ticket_3083
+Subject: Problème d'écran scintillant sur Microsoft Surface Pro 7
+Incident Type: Incident
+Customer Issue: Cher support client du Tech Online Store,
+
+Je vous écris pour signaler un problème persistant de scintillement de l'écran avec ma nouvelle Microsoft Surface Pro 7. Ce problème affecte gravement ma capacité à effectuer des tâches de haute priorité efficacement, et il se produit suffisamment fréquemment pour être une préoccupation majeure. Je sollicite votre aide pour résoudre ce problème ou tout soutien disponible pour un éventuel remplacement.
+
+Merci pour votre assistance rapide.
+
+Cordialement,
+
+<name>
+
+<email>
+Customer Service answer: Objet : Re : Problème d'écran scintillant sur Microsoft Surface Pro 7
+
+Cher <name>,
+
+Merci d'avoir contacté le support client du Tech Online Store. Nous comprenons les désagréments causés par le scintillement de l'écran sur votre Microsoft Surface Pro 7. Pour y remédier :
+
+1. Assurez-vous que le logiciel et les pilotes de votre appareil sont à jour.
+2. Essayez de faire une réinitialisation douce en appuyant et en maintenant le bouton d'alimentation pendant 20 secondes.
+3. Vérifiez l'outil de diagnostic Surface pour d'éventuels problèmes matériels.
+
+Si le problème persiste, veuillez répondre à cet e-mail, et nous vous aiderons à initier un processus de remplacement.
+
+Cordialement,
+Tech Online Store Support Client

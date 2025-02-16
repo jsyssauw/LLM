@@ -1,0 +1,25 @@
+Ticket ID: ticket_407
+Subject: Assistance with Adobe Photoshop
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Support,
+
+I hope this message finds you well. I am writing to seek assistance regarding the Adobe Photoshop 2024 software that I purchased with my order number <acc_num>. Unfortunately, I have been experiencing frequent crashes during various photo editing tasks, significantly affecting my workflow. The application often closes unexpectedly with no prior warning. I have tried updating the software and my system drivers, but the issue persists. I kindly request your guidance on resolving this matter or if there are specific steps or patches available to stabilize its performance. Thank you for your attention to this issue. Looking forward to your prompt response.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to Tech Online Store Support regarding your Adobe Photoshop 2024 issue. I'm sorry to hear about the difficulties you're facing.
+
+To help resolve the crashing issue, please try the following steps:
+
+1. Ensure your system meets all of Photoshop's requirements.
+2. Disable any third-party plugins and gradually re-enable them after checking the application's stability.
+3. Reset Photoshop's preferences by holding Ctrl + Alt + Shift (Windows) or Command + Option + Shift (Mac) upon starting the application.
+4. Run Photoshop as an administrator and check for permissions issues that might affect its performance.
+5. If the problem persists, check Adobe's website or contact their support for any patches or updates specifically addressing these crashes.
+
+I hope this helps improve your workflow. Let us know if you need further assistance!
+
+Best regards,
+Tech Online Store Support

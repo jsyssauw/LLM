@@ -1,0 +1,10 @@
+Ticket ID: ticket_618
+Subject: Dringende Unterstützung benötigt: Audiostörung in der Videokonferenz
+Incident Type: Incident
+Customer Issue: Liebes Support-Team, während eines kritischen Meetings über Zoom 5.11.0 fiel der Ton plötzlich aus, was zu einer erheblichen Störung führte. Sofortige Unterstützung ist erforderlich, um dieses Kommunikationsproblem zu lösen. Vielen Dank. Mit freundlichen Grüßen, <name>
+Customer Service answer: Lieber <name>,
+
+Vielen Dank für Ihre Kontaktaufnahme. Bitte versuchen Sie die folgenden Schritte: Stellen Sie sicher, dass Ihre Audioeinstellungen in Zoom 5.11.0 korrekt konfiguriert sind und überprüfen Sie, ob die Lautsprecher und das Mikrofon Ihres Geräts funktionieren. Starten Sie Zoom neu und, falls erforderlich, Ihr Gerät. Stellen Sie sicher, dass Ihre Zoom-App auf die neueste Version aktualisiert ist und Ihre Internetverbindung stabil ist. Wenn das Problem weiterhin besteht, kontaktieren Sie unser Support-Team mit weiteren Einzelheiten.
+
+Mit freundlichen Grüßen,
+Ihr Service Desk Team

@@ -1,0 +1,5 @@
+Ticket ID: ticket_3111
+Subject: Nicht reagierender Touchscreen auf dem Gerät
+Incident Type: Problem
+Customer Issue: Hallo, ich habe Probleme mit der Touchscreen-Funktionalität auf meinem Microsoft Surface Pro 7. Es reagiert nicht, was die Navigation extrem schwierig macht. Können Sie bitte bei der Fehlersuche helfen oder Reparaturoptionen bereitstellen? Danke, <name>.
+Customer Service answer: Hallo <name>, es tut mir leid, von dem Touchscreen-Problem mit Ihrem Microsoft Surface Pro 7 zu hören. Bitte versuchen Sie, Ihr Gerät neu zu starten, und stellen Sie sicher, dass alle Treiber und Systemupdates auf dem neuesten Stand sind. Sie können auch einen Zwei-Button-Neustart versuchen: Halten Sie die Ein-/Aus-Taste und die Lauter-Taste etwa 15 Sekunden lang gedrückt und lassen Sie dann beide los. Wenn das Problem weiterhin besteht, sollten Sie in Betracht ziehen, den Microsoft-Support zu kontaktieren oder ein zertifiziertes Servicezentrum für weitere Unterstützung aufzusuchen. Mit freundlichen Grüßen, [Ihr Service Desk]

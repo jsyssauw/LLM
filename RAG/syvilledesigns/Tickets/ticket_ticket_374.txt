@@ -1,0 +1,32 @@
+Ticket ID: ticket_374
+Subject: Problème de bouton d'alimentation sur Dell XPS
+Incident Type: Incident
+Customer Issue: Cher service client,
+
+Je vous écris pour signaler un problème avec mon ordinateur portable que j'ai acheté dans votre magasin. L'appareil en question est un Dell XPS 13 9310. J'ai des problèmes avec le bouton d'alimentation qui ne répond pas, ce qui empêche l'appareil de démarrer complètement.
+
+J'ai tenté quelques étapes de dépannage de base, comme brancher l'ordinateur portable à une source d'alimentation pour m'assurer que la batterie n'est pas déchargée, mais malheureusement, aucune de ces méthodes n'a réussi à résoudre le problème. Cet ordinateur portable est crucial pour mes opérations quotidiennes et j'apprécierais votre assistance rapide pour résoudre cette affaire.
+
+Pourriez-vous s'il vous plaît conseiller sur les prochaines étapes ? Dois-je amener l'appareil à un technicien local affilié à votre entreprise, ou serait-il possible de le renvoyer à votre centre pour un contrôle supplémentaire ? J'ai essayé de contacter votre ligne d'assistance au <tel_num> mais n'ai pas pu joindre un opérateur. Mon numéro de compte est <acc_num> et j'espère que cela pourra aider à accélérer le processus.
+
+Merci de votre attention à cette affaire. J'attends votre réponse rapide pour garantir une interruption minimale de mon travail. Veuillez me faire savoir si des informations supplémentaires sont nécessaires.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant le problème avec votre Dell XPS 13 9310. Je comprends à quel point votre ordinateur portable est crucial pour vos opérations, et je suis là pour vous aider.
+
+Puisque vous avez déjà essayé des étapes de dépannage de base, la prochaine étape recommandée est de le faire inspecter plus en profondeur. Vous pouvez soit l'apporter à l'un de nos techniciens locaux autorisés, soit le renvoyer à notre centre de service.
+
+Pour procéder avec cette dernière option, je vais organiser une demande de réparation en utilisant votre numéro de compte fourni <acc_num>. Veuillez vous assurer que l'appareil est correctement emballé pour éviter tout dommage pendant le transport. Notre équipe vous enverra bientôt une étiquette d'expédition et des instructions.
+
+Nous vous prions de nous excuser pour les désagréments que vous avez rencontrés avec notre ligne d'assistance. Si vous avez besoin d'une assistance plus immédiate, n'hésitez pas à répondre à cet e-mail.
+
+Si vous avez besoin d'informations ou d'assistance supplémentaires, n'hésitez pas à nous contacter. Notre objectif est de minimiser toute interruption de votre travail.
+
+Cordialement,
+
+<Votre Nom>
+<Équipe de Support Client>

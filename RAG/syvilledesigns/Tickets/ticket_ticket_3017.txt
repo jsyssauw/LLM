@@ -1,0 +1,7 @@
+Ticket ID: ticket_3017
+Subject: Demande de retour d'un MacBook Air défectueux
+Incident Type: Request
+Customer Issue: Bonjour, j'ai acheté un MacBook Air M1 dans votre magasin et j'ai trouvé un défaut dans le pavé tactile de la machine. Veuillez m'assister dans le processus de retour. Mon numéro de commande est <acc_num>. Merci, <name>, <tel_num>.
+Customer Service answer: Bonjour <name>,
+Nous sommes désolés pour le désagrément. Veuillez visiter notre page de retours et entrer votre numéro de commande <acc_num> pour initier le retour. Pour une assistance supplémentaire, appelez-nous à notre numéro de service client.
+Merci.

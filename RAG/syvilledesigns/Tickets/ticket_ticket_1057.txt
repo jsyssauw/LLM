@@ -1,0 +1,28 @@
+Ticket ID: ticket_1057
+Subject: Problema de Cargos Duplicados
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Estoy escribiendo para hacerles saber sobre un problema de facturación que he encontrado. Este mes, noté que me han cobrado dos veces por la renovación de la suscripción anual de Microsoft Office 365. Mi número de cuenta es <acc_num>. Es crucial para mí resolver esto con prontitud, ya que afecta mi planificación presupuestaria. He confirmado los cargos duplicados en mi estado de cuenta bancario bajo las transacciones con referencias <trn_ref>.
+
+¿Podrían verificar esto y emitir un reembolso por el cargo adicional lo antes posible? Aprecio su asistencia en corregir este asunto rápidamente.
+
+Gracias por su atención a este asunto.
+
+Atentamente,
+<name>
+Customer Service answer: Asunto: Re: Problema de Cargos Duplicados
+
+Estimado <name>,
+
+Gracias por ponerse en contacto con respecto al problema de facturación de su suscripción a Microsoft Office 365. Nos disculpamos por cualquier inconveniente causado por el cargo duplicado.
+
+He escalado su solicitud a nuestro departamento de facturación para una revisión rápida. Ellos verificarán el cargo duplicado en su cuenta <acc_num> e iniciarán un reembolso por el monto adicional según sea necesario.
+
+Agradecemos su paciencia y comprensión mientras trabajamos para resolver este problema. Lo mantendremos informado tan pronto como se procese el reembolso. Por favor, permita unos días hábiles para que los fondos se reflejen nuevamente en su cuenta.
+
+Si tiene alguna otra pregunta o necesita asistencia adicional, no dude en comunicarse con nosotros.
+
+Saludos cordiales,
+<Servicio de Atención al Cliente> 
+Equipo de Soporte al Cliente

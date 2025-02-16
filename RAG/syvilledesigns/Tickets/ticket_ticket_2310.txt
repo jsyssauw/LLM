@@ -1,0 +1,29 @@
+Ticket ID: ticket_2310
+Subject: Issue with Canon PIXMA MG3620 Printer
+Incident Type: Incident
+Customer Issue: Hello,
+
+I hope you are well. I am writing to report a connectivity issue with my Canon PIXMA MG3620 printer. Since performing the latest update, I am unable to print wirelessly. This problem arose right after the update, and it has disrupted my daily printing activities. I have tried restarting both my router and the printer, but the issue persists.
+
+Could you please assist me in troubleshooting this problem? Thank you for your prompt attention.
+
+Best regards,
+
+<name>
+
+<tel_num>
+
+<acc_num>
+Customer Service answer: Hello,
+
+Thank you for reaching out with your Canon PIXMA MG3620 issue. Please try the following steps to resolve the connectivity problem:
+
+1. Ensure the printer is connected to the correct Wi-Fi network.
+2. Reinstall the printer drivers via the Canon website, ensuring they are up-to-date.
+3. On your printer, access setup menus to reset network settings and reconnect.
+4. Confirm there are no firewall settings on your router blocking the printer.
+
+Should these steps not help, please let us know for further assistance.
+
+Best regards,
+Service Desk Agent

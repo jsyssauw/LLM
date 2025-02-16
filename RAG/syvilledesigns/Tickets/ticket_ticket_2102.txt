@@ -1,0 +1,30 @@
+Ticket ID: ticket_2102
+Subject: Demande de facturation
+Incident Type: Request
+Customer Issue: Cher équipe de support client,
+
+Je vous écris pour exprimer mes préoccupations concernant les informations de facturation pour Jira Software 8.20 sous mon compte <acc_num>. J'ai remarqué plusieurs instances peu claires dans le traitement des paiements sur mes factures récentes. Spécifiquement, il y a un frais mensuel élevé récurrent que je ne peux pas expliquer. J'apprécierais si vous pouviez fournir un récapitulatif détaillé des frais sur mon relevé de facturation.
+
+Les factures affichent des montants différents chaque mois, et cette incohérence a suscité des inquiétudes de mon côté. Il serait utile de comprendre les calculs derrière ces frais et s'ils reflètent tous les services utilisés sous le plan actuel.
+
+De plus, s'il y a des fonctionnalités supplémentaires ou des mises à niveau de service incluses dans les frais mensuels, pourriez-vous clarifier ce qu'elles sont ? Toute information ou éclaircissement supplémentaire à ce sujet serait grandement apprécié.
+
+De plus, j'ai tenté de contacter votre ligne d'assistance au <tel_num> mais je n'ai pas encore reçu d'explication ou de réponse satisfaisante. Merci de traiter ce problème dès que possible pour éviter toute interruption de service.
+
+Merci pour votre attention et votre résolution rapide de cette question.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés avec votre demande de facturation concernant Jira Software 8.20 sous le compte <acc_num>. Nous comprenons vos préoccupations concernant les frais élevés récurrents et les incohérences dans vos factures mensuelles.
+
+Pour vous aider, nous fournirons un récapitulatif détaillé des frais mentionnés dans votre relevé de facturation et clarifierons toutes fonctionnalités supplémentaires ou mises à niveau de service qui pourraient contribuer aux frais mensuels. Veuillez nous accorder un peu de temps pour examiner les détails de votre compte et vos factures récentes.
+
+Nous nous excusons pour l'inconvénient que vous avez rencontré en essayant de contacter notre équipe de support au <tel_num>. Soyez assuré que nous donnons la priorité à ce problème et fournirons bientôt une réponse plus claire et plus complète.
+
+Merci de votre patience et de votre compréhension. Nous reviendrons vers vous dès que possible pour résoudre ce problème et garantir que vos services continuent sans interruption.
+
+Cordialement,
+Équipe de support client

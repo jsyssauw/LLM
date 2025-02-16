@@ -1,0 +1,16 @@
+Ticket ID: ticket_1217
+Subject: Demande concernant les frais de facturation pour Adobe Photoshop 2024
+Incident Type: Request
+Customer Issue: Cher équipe de support client,
+
+J'ai récemment acheté une licence pour Adobe Photoshop 2024. Cependant, je remarque des frais inattendus sur mon relevé de facturation. Pourriez-vous s'il vous plaît fournir plus de détails ou clarifier ces frais ?
+
+Merci,
+<name>
+<email>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous nous excusons pour toute confusion. Veuillez fournir le relevé de facturation et le numéro de commande afin que nous puissions examiner les frais en profondeur.
+
+Cordialement,
+Équipe de support client

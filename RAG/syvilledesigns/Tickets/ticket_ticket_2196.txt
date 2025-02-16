@@ -1,0 +1,26 @@
+Ticket ID: ticket_2196
+Subject: Problema de Piscar da Tela com Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou escrevendo para relatar um problema de piscar da tela que venho enfrentando com meu laptop Dell XPS 13 9310 de alto desempenho. O problema começou há alguns dias e persistiu apesar de reiniciar e atualizar os drivers. Dependo muito deste laptop para meu trabalho, e esse problema está afetando significativamente minha produtividade. Você poderia me aconselhar sobre possíveis soluções ou arranjar serviços de reparo?
+
+Obrigado pela sua assistência.
+
+Atenciosamente,
+
+<name>
+<acc_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre o problema de piscar da tela com seu Dell XPS 13 9310. Recomendamos os seguintes passos para solucionar esse problema:
+
+1. Realize um desligamento completo e reinicie o laptop.
+2. Certifique-se de que todas as atualizações do sistema estejam instaladas.
+3. Verifique se o problema persiste em Modo Seguro. Se não, um aplicativo de terceiros pode estar causando o problema.
+4. Execute diagnósticos pressionando F12 durante a inicialização para identificar quaisquer problemas de hardware.
+
+Se o problema continuar, por favor, nos avise, e podemos arranjar serviços de reparo para seu dispositivo sob o seu número de conta <acc_num>. Sua produtividade é importante para nós.
+
+Atenciosamente,
+Suporte ao Cliente

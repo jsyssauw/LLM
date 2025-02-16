@@ -1,0 +1,10 @@
+Ticket ID: ticket_2395
+Subject: nan
+Incident Type: Problem
+Customer Issue: Liebes Kundenserviceteam, ich habe ein Anliegen bei der Installation von Norton Antivirus Plus. Die Einrichtung stagniert bereits in der ersten Phase. Hätten Sie die Möglichkeit, mir bei der Lösung dieses Problems zu helfen? Vielen Dank, <name>. Kontakt: <tel_num>. Kontonummer: <acc_num>.
+Customer Service answer: Sehr geehrter <name>,
+
+Wir bedauern, dass Sie Probleme bei der Installation von Norton Antivirus Plus erleben. Bitte versuchen Sie, Ihren Computer neu zu starten und die Installation mit Administratorrechten durchzuführen. Sollte das Problem weiterhin bestehen, kontaktieren Sie uns bitte direkt unter <tel_num> mit Ihrer Kontonummer <acc_num>.
+
+Mit besten Grüßen,
+Ihr Kundenserviceteam

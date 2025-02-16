@@ -1,0 +1,20 @@
+Ticket ID: ticket_1099
+Subject: Urgente: Erro Grave no Sistema de Tickets
+Incident Type: Incident
+Customer Issue: Prezado Suporte ao Cliente,
+
+Estamos enfrentando interrupções significativas no fluxo de trabalho em nossa gestão de projetos devido a um erro grave no sistema de tickets Jira Software 8.20. Este problema requer sua atenção imediata para diagnóstico e resolução. Por favor, forneça uma atualização na sua primeira oportunidade, pois isso afeta severamente nossas operações diárias.
+
+Por favor, priorize este pedido.
+
+Obrigado.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Prezado <name>,
+
+Obrigado por nos notificar sobre a questão significativa no Jira Software 8.20. Entendemos a urgência e estamos priorizando a resolução deste erro grave para minimizar interrupções em seu fluxo de trabalho. Nossa equipe técnica está atualmente investigando e irá atualizá-lo com um relatório de status assim que possível. Agradecemos sua paciência e estamos comprometidos em resolver isso rapidamente.
+
+Atenciosamente,
+Suporte ao Cliente

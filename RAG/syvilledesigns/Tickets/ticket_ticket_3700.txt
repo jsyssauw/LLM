@@ -1,0 +1,28 @@
+Ticket ID: ticket_3700
+Subject: Échange urgent nécessaire pour un MacBook défectueux
+Incident Type: Problem
+Customer Issue: Cher équipe du support client de Tech Online Store,
+
+J'espère que ce message vous trouve en bonne santé. Je vous écris pour signaler un problème avec mon achat récent, un MacBook Air M1, qui est malheureusement arrivé avec un écran défectueux. En l'installant, j'ai remarqué que l'affichage présente des scintillements persistants et quelques pixels morts. En tant que client régulier, je compte beaucoup sur cet appareil pour le travail, et il est crucial que j'aie une machine entièrement fonctionnelle. Par conséquent, je demande aimablement un échange urgent du produit.
+
+Mon numéro de commande est <order_num>, et je l'ai acheté le <purchase_date>. Merci de me faire savoir la procédure à suivre pour retourner le produit défectueux et obtenir un remplacement rapidement. N'hésitez pas à me contacter à <email_address> ou à m'appeler au <tel_num> si vous avez besoin d'informations supplémentaires.
+
+J'apprécie votre attention immédiate à ce sujet et j'attends avec impatience de résoudre le problème rapidement. Merci pour votre assistance.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous nous excusons pour le désagrément causé par le MacBook Air M1 défectueux. Pour procéder à un échange, veuillez suivre ces étapes :
+
+1. Emballez le MacBook en toute sécurité avec tous les accessoires d'origine.
+2. Visitez notre portail de retours et entrez votre numéro de commande <order_num> pour générer une étiquette de retour.
+3. Une fois que nous aurons reçu et inspecté le produit, un remplacement sera expédié rapidement.
+
+Nous sommes ici pour vous aider davantage si besoin. N'hésitez pas à nous contacter à <email_address> ou au <tel_num> pour toute information complémentaire.
+
+Merci pour votre patience et votre compréhension.
+
+Cordialement,
+L'équipe de support client de Tech Online Store

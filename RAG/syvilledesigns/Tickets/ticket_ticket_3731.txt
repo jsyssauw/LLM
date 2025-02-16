@@ -1,0 +1,30 @@
+Ticket ID: ticket_3731
+Subject: Urgente: Problema de Interrupção do Serviço de Gerenciamento da AWS
+Incident Type: Change
+Customer Issue: Caro Time de Suporte de Serviços de TI,
+
+Estou escrevendo para trazer à sua atenção imediata uma solicitação de mudança de alta prioridade que requer intervenção urgente envolvendo nosso Serviço de Gerenciamento da AWS. Recentemente, temos enfrentado interrupções frequentes que impactam severamente nossas operações comerciais. Os problemas têm sido disruptivos, levando a um tempo de inatividade significativo e, consequentemente, afetando nossa entrega de serviços para os clientes. É crucial que abordemos esta questão prontamente para restaurar a estabilidade e prevenir novas interrupções.
+
+Nossa equipe tentou os passos iniciais de solução de problemas; no entanto, a complexidade da situação necessitou de intervenção especializada. Agradeceríamos muito se sua equipe de especialistas pudesse dedicar recursos urgentes para investigar e implementar uma solução. Isso inclui uma análise detalhada das configurações atuais, a identificação da causa raiz das interrupções e a instituição de medidas preventivas.
+
+Anexo todos os logs e configurações relevantes para sua revisão. Esperamos que sua expertise facilite uma resolução rápida.
+
+Aguardamos sua resposta e apoio imediato para corrigir esta situação.
+
+Obrigado,
+
+<name> <acc_num>
+<name>@companyemail.com
+<tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por nos contatar sobre as interrupções urgentes no Serviço de Gerenciamento da AWS. Entendemos a natureza crítica deste problema e o impacto que ele tem em suas operações.
+
+Nossa equipe de especialistas está priorizando esta questão e começará imediatamente uma investigação detalhada. Vamos revisar os logs e configurações que você forneceu para identificar a causa raiz e implementar as medidas corretivas necessárias. Nosso objetivo é restaurar a estabilidade do seu serviço o mais rápido possível.
+
+Fique tranquilo, estamos dedicando nossos recursos para resolver este problema de maneira eficiente. Manteremos você informado sobre nosso progresso e quaisquer desenvolvimentos.
+
+Obrigado pela sua paciência e cooperação.
+
+Atenciosamente,
+Equipe de Suporte de Serviços de TI

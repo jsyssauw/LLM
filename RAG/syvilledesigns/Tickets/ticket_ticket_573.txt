@@ -1,0 +1,21 @@
+Ticket ID: ticket_573
+Subject: Anfrage zu zusätzlicher Fehlerfunktion in VSCode
+Incident Type: Change
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um das Problem mit der zusätzlichen Familienfehlerfunktion anzusprechen, die in Visual Studio Code 1.70 nicht verfügbar ist. Derzeit gibt es Probleme mit hellen Themen und dem Fehlen von Palettenanzeigen, was das Programmieren erschwert. Bitte helfen Sie mir, diese Probleme zu lösen.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Betreff: Re: Anfrage zu zusätzlicher Fehlerfunktion in VSCode
+
+Sehr geehrte/r <name>,
+
+vielen Dank für Ihre Nachricht. Wir verstehen die Schwierigkeit, die Sie durch das Fehlen der zusätzlichen Familienfehlerfunktion in Visual Studio Code 1.70 haben, insbesondere in Bezug auf helle Themen und Probleme mit der Palettenanzeige. Wir empfehlen, nach Updates zu suchen, da neue Versionen diese Probleme möglicherweise beheben. Alternativ können Sie auch Extensions erkunden, die möglicherweise Lösungen für die Funktionsweise von Themen und Paletten bieten.
+
+Wenn Sie weitere Unterstützung benötigen, können Sie uns gerne kontaktieren.
+
+Mit freundlichen Grüßen,
+Das Kundenserviceteam

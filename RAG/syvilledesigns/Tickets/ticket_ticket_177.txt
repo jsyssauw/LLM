@@ -1,0 +1,5 @@
+Ticket ID: ticket_177
+Subject: nan
+Incident Type: Incident
+Customer Issue: Guten Tag, ich benötige Hilfe bei der Aktivierung von Windows 11 Pro. Meine bisherigen Versuche waren nicht erfolgreich. Vielen Dank.
+Customer Service answer: Hallo, um Windows 11 Pro zu aktivieren, navigieren Sie bitte zu Einstellungen > Update & Sicherheit > Aktivierung und geben Sie Ihren Produktschlüssel ein.

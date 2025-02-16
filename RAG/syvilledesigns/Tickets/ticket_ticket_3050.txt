@@ -1,0 +1,26 @@
+Ticket ID: ticket_3050
+Subject: nan
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um ein Problem zu melden, das wir mit unserem Jira-Ticket-System festgestellt haben, insbesondere bezüglich der Benutzerberechtigungen, die das Workflow-Management in unserer Personalabteilung beeinträchtigen. Benutzer haben Schwierigkeiten, auf bestimmte Funktionen zuzugreifen, was zu Verzögerungen in unseren Abläufen führt.
+
+Wir verwenden derzeit Jira Software 8.20. Wir benötigen dringend Unterstützung, um dieses Problem zu lösen, da es die Produktivität und Effizienz der Abläufe beeinträchtigt. Könnten Sie dieses Problem bitte priorisieren und uns so schnell wie möglich Anleitungen oder eine Lösung zur Verfügung stellen?
+
+Vielen Dank für Ihre schnelle Aufmerksamkeit zu diesem Thema.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie sich bezüglich des Jira-Berechtigungsproblems, das Ihre Personalabteilung betrifft, an uns gewandt haben. Wir verstehen die Dringlichkeit und entschuldigen uns für die entstandenen Unannehmlichkeiten.
+
+Unser Team hat dieses Thema priorisiert. In der Zwischenzeit stellen Sie bitte sicher, dass Ihre Jira-Benutzerberechtigungen gemäß den Dokumentationen zu Rollen und Berechtigungen Ihres Teams korrekt eingerichtet sind.
+
+Wir untersuchen die Ursachen und werden bald eine Lösung oder Anleitung bereitstellen, um ein reibungsloses Workflow-Management sicherzustellen.
+
+Vielen Dank für Ihre Geduld.
+
+Mit freundlichen Grüßen,
+Team Service Desk

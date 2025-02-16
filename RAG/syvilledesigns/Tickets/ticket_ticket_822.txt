@@ -1,0 +1,17 @@
+Ticket ID: ticket_822
+Subject: Request for assistance with Wi-Fi connectivity issue
+Incident Type: Request
+Customer Issue: Dear Tech Online Store customer support, 
+
+I am experiencing Wi-Fi connectivity issues with my Dell XPS 13 9310 Ultrabook. Could you please assist me in resolving this as soon as possible?
+
+Thank you.
+
+Sincerely, 
+<name>
+Customer Service answer: Dear <name>,
+
+We're sorry for the inconvenience. Please try restarting your router and updating your laptop's Wi-Fi drivers. If the issue persists, contact us with further details.
+
+Sincerely,
+Tech Online Store Support Team

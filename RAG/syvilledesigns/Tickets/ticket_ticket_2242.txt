@@ -1,0 +1,10 @@
+Ticket ID: ticket_2242
+Subject: Le client signale un problème : Écran clignotant sur la Samsung Galaxy Tab S7
+Incident Type: Problem
+Customer Issue: Bonjour, équipe du service client. J'ai récemment acquis une Samsung Galaxy Tab S7 et j'observe un scintillement intermittent de l'écran. Ce souci perturbe mon activité. Je vous prie de bien vouloir m'aider à y remédier le plus rapidement possible. Merci d'avance, <nom>.
+Customer Service answer: Cher <nom>,
+
+Nous sommes désolés pour ce désagrément. Nous vous recommandons de redémarrer votre appareil et de vous assurer que celui-ci dispose de la dernière mise à jour logicielle. Si le problème persiste, vous pourriez envisager une réinitialisation d'usine ou vous rendre dans un centre de service agréé.
+
+Cordialement,
+L'équipe du service client

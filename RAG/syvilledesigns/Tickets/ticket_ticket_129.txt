@@ -1,0 +1,34 @@
+Ticket ID: ticket_129
+Subject: Billing Discrepancies in AWS Services Cost
+Incident Type: Incident
+Customer Issue: Dear IT Services Customer Support Team, 
+
+I hope this message finds you well. I am writing to bring to your immediate attention the billing discrepancies I've encountered with the monthly cost for the AWS Management Service provided by your company. I've been reviewing my account charges closely and have noticed some discrepancies that I believe require further examination. 
+
+My current account number is <acc_num>, and I have noticed a significant increase in charges over the past few months without any substantial modifications to the services utilized. These unexpected increases are a cause for concern, and I would appreciate a detailed review of the bills issued for the services provided. 
+
+Furthermore, I suspect there may be opportunities for cost optimization that could help in managing these expenditures more effectively. As a valued customer, I would appreciate any insights your team could offer regarding potential adjustments or options to optimize my AWS service costs without affecting the service quality. 
+
+Could you please provide a thorough breakdown of the charges and clarify any changes in pricing or service structure that may have contributed to these apparent discrepancies? Additionally, I would like to discuss strategies that could be employed for future cost optimization. Such guidance would be highly beneficial in ensuring alignment with budget expectations. 
+
+I am available for a call at <tel_num> to discuss this matter further at your earliest convenience. Please let me know a suitable time that works for your team, or feel free to reach out via email for any written clarification you might require. 
+
+Thank you in advance for your assistance with this matter. I look forward to your prompt response so that we can resolve these discrepancies and endeavor towards a more optimally managed service usage. 
+
+Warm regards, 
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for bringing this to our attention. We understand your concern regarding the discrepancies in your AWS Management Service billing.
+
+We will conduct a thorough review of your account (<acc_num>) to identify any inconsistencies in the charges over the past few months. Our team will provide you with a detailed breakdown of the bills and clarify if there have been any changes in pricing or service structure.
+
+Regarding cost optimization, we will present strategies that could help manage your expenditure without affecting service quality. 
+
+Please let us know a convenient time for a call to discuss this matter further, or if you prefer email communication, we are happy to proceed that way as well.
+
+We appreciate your patience and are committed to resolving this issue promptly.
+
+Best regards,
+IT Services Customer Support Team

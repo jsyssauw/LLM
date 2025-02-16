@@ -1,0 +1,23 @@
+Ticket ID: ticket_587
+Subject: Connecting Surface Pro 7
+Incident Type: Request
+Customer Issue: Dear Customer Service,
+
+I am experiencing difficulties linking my Microsoft Surface Pro 7 to external screens for my presentations. I would greatly appreciate some guidance on how to set up the configurations for seamless connectivity. My objective is to utilize it effectively during my presentations. Thank you for your support.
+
+Sincerely,
+<name>
+Customer Service answer: Subject: Re: Connecting Surface Pro 7
+
+Dear <name>,
+
+Thank you for contacting us. To link your Surface Pro 7 with external displays, please follow these instructions: 
+
+1. Make sure your external screens are powered on and correctly connected to your Surface with the suitable adapter or port (USB-C, Mini DisplayPort).
+2. Press Windows Key + P to bring up the projection menu and choose the preferred projection mode (Duplicate, Extend, etc.).
+3. Navigate to Settings > System > Display to modify any additional display settings if necessary.
+
+Should you encounter any problems, feel free to reach out to us.
+
+Best regards,
+Customer Service

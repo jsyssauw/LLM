@@ -1,0 +1,15 @@
+Ticket ID: ticket_2672
+Subject: Demande de modification de la configuration AWS
+Incident Type: Change
+Customer Issue: Bonjour Service Client,
+
+Je cherche une assistance pour modifier nos configurations AWS afin d'améliorer les performances de l'infrastructure et d'optimiser les coûts. Le produit en question est le service de gestion AWS. Veuillez conseiller sur les prochaines étapes.
+
+Merci,
+<name>
+Customer Service answer: Bonjour <name>,
+
+Merci de nous avoir contactés. Pour modifier vos configurations AWS en vue d'une meilleure performance et d'une optimisation des coûts, vous devrez examiner vos paramètres actuels et identifier les domaines nécessitant des changements. Vous pouvez commencer par analyser les métriques CloudWatch et utiliser AWS Cost Explorer. Nous pouvons vous aider en fournissant des conseils et en recommandant des meilleures pratiques. Merci de nous faire savoir comment vous souhaitez procéder ou si vous avez besoin d'une consultation détaillée.
+
+Cordialement,
+Service Client

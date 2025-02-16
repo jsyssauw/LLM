@@ -1,0 +1,18 @@
+Ticket ID: ticket_699
+Subject: Issue with AWS Billing
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team, I hope this message finds you well. I am writing to bring to your attention an issue related to my AWS cost optimization under the AWS Management Service. This month, I have noticed unexpected charges on my billing account that I did not anticipate. As a valued customer, I rely on your services to ensure that I can efficiently manage and forecast my expenses. However, these unanticipated charges have created concern and affected my budget. Could you please investigate this issue at your earliest convenience and provide clarification on the origin of these charges? Furthermore, I would appreciate guidance on how to prevent similar situations in future billing periods. My account number is <acc_num>, and the registered email is <email>. Your immediate attention and resolution to this matter would be greatly appreciated. For any queries, I am available at <tel_num>. Thank you for your cooperation and prompt support regarding this situation. Looking forward to your response to ensure smooth service continuation. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the unexpected charges on your AWS billing account. We understand the importance of managing and forecasting expenses efficiently and are committed to resolving this for you promptly.
+
+We will investigate the unexpected charges on your account <acc_num> and get back to you with detailed information about their origin. Our goal is to provide clarity and help you avoid similar issues in the future.
+
+Meanwhile, we suggest reviewing the AWS Cost Management tools, which can assist in monitoring your usage and setting up alerts for unforeseen charges.
+
+Our billing team will contact you soon at <email>, and if necessary, on <tel_num>, to discuss the next steps.
+
+Thank you for your patience and understanding.
+
+Best regards,
+Customer Support Team

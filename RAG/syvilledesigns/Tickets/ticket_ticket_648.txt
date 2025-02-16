@@ -1,0 +1,29 @@
+Ticket ID: ticket_648
+Subject: Surface Pro 7 Batterie- und Überhitzungsprobleme
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kunde des Tech Online Shops,
+
+ich hoffe, diese Nachricht trifft Sie wohl. Ich möchte ein plötzliches Problem mit meinem Microsoft Surface Pro 7 melden, das ich in den letzten Tagen erlebt habe. Das Gerät, das noch unter Garantie steht, hat einen schnellen Batterieverbrauch und überhitzt während der grundlegenden Nutzung wie Surfen und Textverarbeitung.
+
+Früher hielt die Batterie bei voller Ladung zahlreiche Stunden, hat aber jetzt Schwierigkeiten, die Leistung auch nur für ein paar Stunden aufrechtzuerhalten. Außerdem wird das Gerät nach kurzer Nutzung überraschend heiß. Diese Veränderung der Leistung erregt meine Sorge um die Langlebigkeit des Produkts.
+
+Ich bitte Sie freundlich um Ihre Unterstützung, um dieses Problem so schnell wie möglich zu beheben. Was sind die Schritte, um eine Serviceanfrage zu starten, und bin ich berechtigt, eine Ersatz- oder Reparaturleistung unter Garantie zu erhalten?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns bezüglich der Probleme mit Ihrem Microsoft Surface Pro 7 kontaktiert haben. Ich verstehe Ihre Bedenken und bin hier, um Ihnen zu helfen.
+
+Da Ihr Gerät einen schnellen Batterieverbrauch und Überhitzung während der Garantiezeit erfährt, ist es definitiv für einen Service berechtigt. Um eine Serviceanfrage zu starten, besuchen Sie bitte unsere Website und navigieren Sie zum Abschnitt 'Support', wo Sie die Option 'Garantie und Reparatur' finden. Befolgen Sie die geführten Schritte, um ein Serviceantragsformular auszufüllen. Halten Sie Ihren Kaufnachweis und die Seriennummer des Geräts bereit, da diese während des Prozesses erforderlich sein könnten.
+
+Sobald Ihre Anfrage eingereicht ist, wird unser technisches Team die Einzelheiten bewerten, um festzustellen, ob eine Reparatur oder ein Austausch gemäß den Garantiebedingungen erforderlich ist.
+
+Für sofortige Unterstützung oder weitere Anfragen können Sie sich gerne an unsere Kundenhotline unter <tel_num> wenden.
+
+Wir sind hier, um sicherzustellen, dass Ihr Surface Pro 7 wieder in optimalem Zustand ist.
+
+Mit freundlichen Grüßen,
+Team des Tech Online Shop Kundenservice

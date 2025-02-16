@@ -1,0 +1,33 @@
+Ticket ID: ticket_1156
+Subject: Preciso de ajuda para configurar a impressora Canon
+Incident Type: Request
+Customer Issue: Caro time de suporte da Tech Online Store,
+
+Preciso de assistência para configurar as capacidades de impressão sem fio e móvel da minha impressora Canon PIXMA MG3620. Enfrentei algumas dificuldades ao tentar estabelecer a conectividade sem fio e garantir que funcione sem problemas com meus dispositivos móveis. Agradeceria imensamente qualquer sugestão de aconselhamento ou resolução de problemas que você pudesse oferecer para me ajudar a corrigir esse problema. Orientações detalhadas sobre como configurar corretamente esses recursos seriam extremamente úteis. Se necessário, estou aberto a uma ligação telefônica ou a instruções adicionais.
+
+Por favor, informe-me como podemos lidar de forma eficaz com esta situação. Aguardo sua resposta rápida e agradeço antecipadamente pela sua ajuda.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre a configuração da sua impressora Canon PIXMA MG3620. Para ajudá-lo a habilitar a impressão sem fio e móvel, siga as seguintes instruções gerais:
+
+1. **Configuração Sem Fio:**
+   - Certifique-se de que sua impressora esteja ligada.
+   - Pressione o botão Wi-Fi na impressora até que a luz de energia comece a piscar.
+   - Pressione e segure o botão Wi-Fi até a luz Wi-Fi piscar em azul, então pressione o botão WPS no seu roteador sem fio.
+   - Verifique se as luzes Wi-Fi e de energia estão iluminadas de forma consistente.
+
+2. **Impressão Móvel usando o aplicativo Canon PRINT:**
+   - Baixe o aplicativo Canon PRINT no seu dispositivo móvel.
+   - Abra o aplicativo e siga as instruções na tela para encontrar sua impressora.
+   - Certifique-se de que seu dispositivo móvel esteja conectado à mesma rede que a impressora.
+
+Se você ainda enfrentar dificuldades, não hesite em ligar para nossa linha de suporte no <tel_num> ou responder com informações adicionais para mais ajuda.
+
+Estamos ansiosos para resolver esta questão rapidamente para você.
+
+Cordialmente,
+Equipe de Suporte da Tech Online Store

@@ -1,0 +1,34 @@
+Ticket ID: ticket_748
+Subject: Urgent: Overheating Issue with Dell XPS 13
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to inform you about an issue I am experiencing with my Dell XPS 13 9310 laptop, which I purchased from your store. The laptop tends to overheat during regular use, resulting in a significant degradation in performance. This issue started occurring about two weeks ago and has progressively gotten worse.
+
+The model number of the laptop is Dell XPS 13 9310. Despite trying various troubleshooting steps myself, such as cleaning the vents, updating the drivers, and using a cooling pad, the laptop continues to overheat after short periods of typical usage.
+
+Given that this device is critical for my work, the performance dips are causing considerable inconvenience. I am reaching out to request support in resolving this matter as swiftly as possible. I would appreciate guidance on the next steps I should take, whether it involves bringing the laptop to an authorized service center or having a technician review the issue online.
+
+Thank you in advance for your prompt attention to this matter. I look forward to your response.
+
+Best regards,
+
+<name>
+<email_address>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting Tech Online Store Customer Support. We apologize for the inconvenience you're experiencing with your Dell XPS 13 9310.
+
+To address the overheating issue promptly, we recommend the following steps:
+1. Please ensure the system BIOS and all system drivers are up to date, as sometimes updates contain fixes for overheating issues.
+2. Confirm that your laptop is placed on a hard, flat surface to facilitate adequate airflow under the device.
+
+Since you've already tried several solutions, the next step is to have the laptop inspected by a professional. Please bring your device to an authorized service center or let us arrange for a technician to provide remote assistance. You may also want to check if your laptop is still under warranty for a possible replacement or repair.
+
+To proceed, please reply with your preferred option and availability.
+
+We appreciate your patience and look forward to resolving this issue swiftly.
+
+Best regards,
+Tech Online Store Customer Support

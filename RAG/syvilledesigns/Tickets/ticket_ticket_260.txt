@@ -1,0 +1,20 @@
+Ticket ID: ticket_260
+Subject: Assistência Necessária: Problema de Configuração Sem Fio
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente da Loja Online Tech, estou solicitando assistência para configurar a conexão sem fio da minha impressora colorida Compact All-in-One, a HP DeskJet 3755. Não consigo prosseguir com as instruções atuais fornecidas. Poderia me guiar pelos passos necessários? Obrigado pela sua ajuda. Atenciosamente, <name>.
+Customer Service answer: Assunto: Re: Assistência Necessária: Problema de Configuração Sem Fio
+
+Caro <name>,
+
+Obrigado por entrar em contato. Para conectar sua HP DeskJet 3755 sem fio, siga estas etapas:
+
+1. Certifique-se de que a impressora esteja ligada e que o papel esteja carregado.
+2. No painel de controle da impressora, pressione o botão Wireless para ativar o sinal sem fio.
+3. Mantenha pressionado até que a luz comece a piscar, aproximadamente 3 segundos.
+4. Instale o aplicativo HP Smart no seu dispositivo e siga as instruções do aplicativo para adicionar a impressora usando Wi-Fi Direct ou pela sua rede.
+5. Complete a configuração com os prompts do aplicativo.
+
+Se você encontrar mais problemas, fique à vontade para entrar em contato.
+
+Atenciosamente,
+Suporte ao Cliente da Loja Online Tech

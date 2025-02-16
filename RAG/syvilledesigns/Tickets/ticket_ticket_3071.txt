@@ -1,0 +1,16 @@
+Ticket ID: ticket_3071
+Subject: nan
+Incident Type: Request
+Customer Issue: Hello Customer Support,
+
+I recently bought a Lenovo IdeaPad 5 from your online shop. Regrettably, I am facing difficulties with charging the unit, as it appears to not retain its charge. Could you please help me fix this issue or advise on how I might proceed with obtaining a replacement?
+
+Sincerely,
+<name>
+<acc_num>
+Customer Service answer: Hello <name>,
+
+We are sorry for the trouble you are facing with your Lenovo IdeaPad 5. Kindly try a different charger or power outlet. If the issue continues, please start a return or replacement request via your account using acc_num <acc_num> on our website, or reach out to our support team directly for additional assistance.
+
+Sincerely,
+Customer Support

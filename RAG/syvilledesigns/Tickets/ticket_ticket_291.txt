@@ -1,0 +1,22 @@
+Ticket ID: ticket_291
+Subject: Screen Flickering Issue on Dell XPS 13
+Incident Type: Problem
+Customer Issue: Dear Customer Support, I am reaching out to report an issue with my Dell XPS 13 (model 9310) purchased from your Tech Online Store. After the recent Windows 10 update, I have been experiencing severe screen flickering that makes the laptop nearly unusable. It seems the issue might be related to the latest update's compatibility with the Dell hardware. As an avid user of Dell products, this has been quite inconvenient for me. I kindly request your guidance on possible solutions or steps I should take towards resolving this matter. Any assistance would be greatly appreciated. Please feel free to contact me here or by phone at <tel_num>. Thank you for your attention to this urgent matter. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and I'm sorry to hear about the screen flickering issue with your Dell XPS 13. This problem can sometimes occur after updates due to compatibility issues. Here are a few steps you can try:
+
+1. Roll Back Driver: Go to Device Manager, find the display adapter, and right-click to 'Properties'. Under the 'Driver' tab, select 'Roll Back Driver' if the option is available.
+
+2. Update or Reinstall Driver: Alternatively, try updating the driver through the same 'Properties' menu or uninstalling it and allowing Windows to reinstall it upon restart.
+
+3. Adjust Display Settings: Sometimes adjusting refresh rate and resolution via 'Display settings' can help. Change these settings to see if it resolves the problem.
+
+4. Check for Further Updates: Occasionally, a subsequent update may fix such issues; ensure your Windows and Dell drivers are entirely up-to-date on the Dell Support page.
+
+If these steps do not resolve your issue, please do not hesitate to contact our tech support team. We're here to assist you further.
+
+Thank you for your patience and continued trust in Dell products.
+
+Kind regards,
+Customer Support Team

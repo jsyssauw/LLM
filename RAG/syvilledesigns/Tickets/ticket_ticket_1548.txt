@@ -1,0 +1,33 @@
+Ticket ID: ticket_1548
+Subject: nan
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Support Team,
+
+I hope this message finds you well. I am writing to request immediate assistance regarding a connectivity issue I am facing with the wireless printing feature of my Canon PIXMA MG3620 printer. The device has been integral to my daily tasks, and this unforeseen problem has disrupted my workflow.
+
+The printing function over the wireless network has ceased to operate, which is critically impacting my efficiency. I have verified my network settings and attempted basic troubleshooting steps, yet the issue persists. Given the urgency of the situation, I would appreciate your prompt guidance or escalation of this matter.
+
+My Canon PIXMA MG3620 printer, with the serial number <serial_num>, was purchased from your tech online store. Thank you for your attention to this urgent issue.
+
+Warm regards,
+
+<name>
+<tel_num>
+<email>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting the Tech Online Store Support Team. I understand the importance of resolving your issue with the Canon PIXMA MG3620's wireless printing function promptly.
+
+Here are a few steps you might try to resolve the connectivity problem:
+
+1. Restart your printer, router, and computer.
+2. Ensure that your printer is connected to the correct Wi-Fi network.
+3. Reinstall the printer drivers on your computer.
+4. Check for any firmware updates for your printer.
+
+If the issue persists, please reply with confirmation of the steps you've taken, and we can escalate your case to our technical specialists.
+
+Thank you for your patience and cooperation.
+
+Regards,
+Tech Online Store Support Team

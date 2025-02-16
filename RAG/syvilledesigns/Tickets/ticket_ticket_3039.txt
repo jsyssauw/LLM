@@ -1,0 +1,5 @@
+Ticket ID: ticket_3039
+Subject: MacBook Air M1 Display Issue
+Incident Type: Incident
+Customer Issue: MacBook Air M1 shows glitches after recent update. Please assist.
+Customer Service answer: Thank you for contacting us! Please restart your device. If issue persists, contact support.

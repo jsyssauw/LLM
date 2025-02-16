@@ -1,0 +1,15 @@
+Ticket ID: ticket_3701
+Subject: nan
+Incident Type: Change
+Customer Issue: Dear Customer Service Team,
+
+I am reaching out to inform you about a problem with my iPad Pro 2021, which I bought from your online shop. The display is exhibiting glitches and requires urgent attention. Could you please provide instructions on how to proceed?
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+We apologize for the inconvenience you are experiencing with your iPad Pro 2021. Please attempt to reboot the device. If the issue continues, it may be necessary to restore it to its original settings. Should the problems persist, consider initiating a repair through our online system or reaching out to Apple Support.
+
+Sincerely,
+Customer Service

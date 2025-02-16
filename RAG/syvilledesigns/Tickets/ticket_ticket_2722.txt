@@ -1,0 +1,39 @@
+Ticket ID: ticket_2722
+Subject: Assistance Needed with Wireless Setup for Canon PIXMA MG3620
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I am writing to request assistance with setting up the wireless feature on my new Canon PIXMA MG3620 printer, which I recently purchased from your store. Upon attempting to configure the wireless connection, I encountered some difficulties that I could not resolve using the provided manual or online resources.
+
+I followed the initial steps, ensuring the printer was powered on and within range of the router, but the printer failed to connect to my wireless network. Additionally, I made sure that my network credentials were correctly entered and that my network was functioning properly with other devices.
+
+Despite these checks, the printer repeatedly shows a connection error. I would greatly appreciate any guidance you could provide or any troubleshooting tips specific to this model. If there is a need to schedule a call or to discuss the process further, please let me know, and I'd be happy to provide my contact details.
+
+Thank you for your attention to this matter. I look forward to your prompt reply.
+
+Best regards,
+
+<name> 
+Customer Account: <acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the wireless setup of your Canon PIXMA MG3620 printer. I understand the frustration caused by connection issues and am here to help.
+
+Firstly, ensure your printer's firmware is up to date. Sometimes outdated firmware can cause connectivity problems. You can check for updates on Canon's official website.
+
+Next, try resetting the wireless settings on the printer and reattempt the setup using the WPS Push Button method, if your router supports it. This method can often resolve connectivity issues more effectively.
+
+Here’s a brief guide:
+1. Press and hold the Wi-Fi button on the printer until the POWER lamp flashes.
+2. Press the Color button and then the Wi-Fi button.
+3. Ensure that the Wi-Fi light is flashing and the Power button is lit.
+4. Press and hold the WPS button on your router within two minutes.
+
+If this method does not work, consider trying a different method like setting it up via the Canon PRINT app on a smartphone or through your computer's Wi-Fi settings using a USB cable for the initial setup.
+
+If these steps are unsuccessful or you need more detailed guidance, please let me know, and I can arrange a call with a technician. Feel free to respond to this email with any further questions or to schedule a call.
+
+We are here to assist you every step of the way.
+
+Best regards,
+Customer Support Team

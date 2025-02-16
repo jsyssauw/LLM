@@ -1,0 +1,17 @@
+Ticket ID: ticket_3850
+Subject: nan
+Incident Type: Request
+Customer Issue: Bonjour <name>,
+
+Je rencontre un souci avec l'installation de Windows 11 Pro. Malgré avoir suivi toutes les indications données, le processus d'installation échoue à plusieurs reprises. Pourriez-vous m'apporter votre aide afin de résoudre ce problème ?
+
+Merci,
+<name>
+Numéro de compte : <acc_num>
+Numéro de téléphone : <tel_num>
+Customer Service answer: Bonjour [Nom du client],
+
+Je suis navré d'apprendre que vous rencontrez des soucis avec l'installation de Windows 11 Pro. Veuillez vérifier que votre ordinateur respecte les exigences système et que le démarrage sécurisé ainsi que le TPM 2.0 sont activés. Si le problème persiste, n'hésitez pas à joindre notre équipe d'assistance au [numéro d'assistance] ou à répondre à ce message.
+
+Merci,
+[Votre Nom]

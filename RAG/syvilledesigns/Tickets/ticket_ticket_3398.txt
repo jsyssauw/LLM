@@ -1,0 +1,27 @@
+Ticket ID: ticket_3398
+Subject: Incidente de alta prioridade: Teclado com mal funcionamento no Surface Pro 7
+Incident Type: Incident
+Customer Issue: Caro Atendimento ao Cliente,
+
+Estou enfrentando um problema de alta prioridade com meu Microsoft Surface Pro 7. O teclado destacável está com mal funcionamento, o que está afetando severamente minha produtividade no trabalho. Qualquer tecla que eu pressione às vezes não é registrada ou registra várias vezes, interrompendo meu fluxo de trabalho. O número de série do meu dispositivo é <serial_num>. Preciso urgentemente de assistência para resolver esse problema. Uma resposta rápida seria muito apreciada.
+
+Obrigado pela sua compreensão e assistência.
+
+Atenciosamente,
+
+<name>
+<tel_num>
+Customer Service answer: Caro <name>,
+
+Entendemos a urgência da sua situação em relação ao teclado com mal funcionamento no seu Microsoft Surface Pro 7. Por favor, tente as seguintes etapas:
+
+1. Desconecte e reconecte o teclado para garantir uma conexão segura.
+2. Verifique se há atualizações de sistema disponíveis navegando até Configurações > Atualização e Segurança > Atualização do Windows.
+3. Redefina as configurações do teclado acessando o Gerenciador de Dispositivos, clicando com o botão direito no dispositivo do teclado e selecionando 'Desinstalar'. Reinicie seu dispositivo para reinstalar os drivers.
+
+Se essas etapas não resolverem o problema, entre em contato com nosso suporte técnico assim que possível utilizando o seguinte link ou opção de telefone.
+
+Obrigado pela sua paciência e cooperação.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

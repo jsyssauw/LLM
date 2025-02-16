@@ -1,0 +1,24 @@
+Ticket ID: ticket_1622
+Subject: Urgent Assistance Needed for Zoom Issues
+Incident Type: Request
+Customer Issue: Dear Customer Support Team,<br><br>I am writing to request immediate technical assistance for a high-priority issue we are experiencing with the Zoom application, version 5.11.0, during our webinars. We are seeing a significant disruption in our webinar presentations due to persistent technical glitches. Participants are encountering frequent disconnections, screen freeze incidents, and audio delays which are severely impacting the quality and effectiveness of the session. These disruptions are causing frustration among our attendees and have directly affected our engagement metrics.<br><br>The nature of our business demands reliable video conferencing tools, and we depend heavily on Zoom for our operations. Thus, it is crucial that these issues are attended to promptly. Please prioritize this request and advise on potential resolutions at the earliest convenience.<br><br>For any further information you may require, please feel free to contact me directly at <tel_num> or respond to this email.<br><br>Thank you for your prompt attention to this urgent matter.<br><br>Best regards,<br><name><br><acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the Zoom issues. We understand the urgency and importance of resolving these glitches impacting your webinars. 
+
+To help address these disconnection, screen freeze, and audio delay problems, please try the following steps:
+
+1. Ensure that all users are running the latest version of Zoom, as updates often include important bug fixes.
+2. Check your internet connection for stability, as bandwidth issues commonly cause disconnections and delays.
+3. Try using a wired connection for more reliable connectivity during sessions.
+4. Adjust Zoom settings to lower the video quality if bandwidth is an issue.
+5. Close all unnecessary applications that may be consuming bandwidth or processing power.
+
+If these steps do not resolve the issue, please let us know so we can escalate the matter for more in-depth technical support. We are committed to minimizing disruptions and ensuring your webinars run smoothly.
+
+Don't hesitate to contact us directly at <tel_num> or reply here for further assistance.
+
+Thank you for your patience and understanding.
+
+Best regards,
+Customer Support Team

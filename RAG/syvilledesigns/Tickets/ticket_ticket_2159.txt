@@ -1,0 +1,18 @@
+Ticket ID: ticket_2159
+Subject: Frequentes atolamentos de papel com a impressora
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou enfrentando frequentes atolamentos de papel com minha impressora HP DeskJet 3755 tudo-em-um sem fio, especificamente ao usar a função de cópia. Esse problema persiste há várias semanas e prejudica consideravelmente a produtividade. Tentei etapas básicas de solução de problemas, como recarregar papel e limpar os rolos, mas o problema persiste. A impressora afetada foi comprada há três meses e ainda está sob garantia. Por favor, forneça orientação sobre como resolver esse problema ou me avise sobre o procedimento para iniciar um pedido de serviço.
+
+Obrigado pela sua assistência.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Sinto muito ouvir sobre os problemas com sua impressora HP DeskJet 3755. Dado que você já tentou recarregar o papel e limpar os rolos, e como a impressora ainda está sob garantia, recomendo entrar em contato diretamente com o Suporte da HP para assistência especializada ou para iniciar um pedido de serviço. Certifique-se de ter seu comprovante de compra e detalhes da garantia em mãos ao contatá-los. Se precisar de mais orientações sobre o processo, fique à vontade para nos avisar.
+
+Atenciosamente,
+Suporte ao Cliente

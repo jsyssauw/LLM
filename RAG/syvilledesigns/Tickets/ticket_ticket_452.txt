@@ -1,0 +1,26 @@
+Ticket ID: ticket_452
+Subject: Issue with Epson EcoTank ET-4760 wireless function
+Incident Type: Incident
+Customer Issue: Hello Support Team,
+
+I'm experiencing an issue with my Epson EcoTank ET-4760 printer. The wireless printing feature is not functioning. I have attempted all troubleshooting methods advised by the user manual but to no avail. Could you offer any guidance on resolving this? Your assistance would be sincerely appreciated.
+
+Thank you.
+
+Best regards,
+
+<name>
+
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. I understand you are experiencing issues with the wireless function of your Epson EcoTank ET-4760 printer. Please try the following steps:
+
+1. Ensure your printer is connected to the correct Wi-Fi network and that there is a stable internet connection.
+2. Restart your printer and the connected device.
+3. Check for any firmware updates available for your printer model.
+
+If the issue persists, feel free to contact Epson Support directly. 
+
+Best regards,
+Service Desk Agent

@@ -1,0 +1,20 @@
+Ticket ID: ticket_2345
+Subject: nan
+Incident Type: Request
+Customer Issue: Chère équipe de service client,
+
+Je vous écris pour vous notifier un souci concernant la batterie de mon iPhone 13 Pro, acquis dans votre magasin en ligne. Elle ne conserve pas la charge comme prévu, et j'aimerais solliciter votre assistance concernant cet inconvénient de batterie défectueuse. Mon identifiant de compte est <acc_num>. Pourriez-vous m'orienter sur les étapes suivantes pour régler ce problème ? Je vous remercie pour votre assistance.
+
+Sincèrement,
+<name>
+Customer Service answer: Chère <name>,
+
+Nous vous remercions pour votre prise de contact. Nous sommes désolés d'apprendre que vous rencontrez un souci avec la batterie de votre iPhone 13 Pro. Pour remédier à ce problème, veuillez suivre les étapes suivantes :
+1. Rendez-vous dans la section d'assistance de notre boutique en ligne.
+2. Allez sur la page 'Retours et Réparations'.
+3. Soumettez un ticket en utilisant votre identifiant de compte <acc_num>.
+
+Notre équipe vous recontactera prochainement avec des instructions supplémentaires.
+
+Bien à vous,
+L'équipe d'assistance client

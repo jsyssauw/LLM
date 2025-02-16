@@ -1,0 +1,15 @@
+Ticket ID: ticket_3218
+Subject: Inquiry Regarding Order Status for Dell XPS 13 9310
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am reaching out to check on the status of my recent purchase of a Dell XPS 13 9310. Could you please give me an update on when I might anticipate its arrival? My account number is <acc_num>. Should you require any additional details, feel free to contact me at <tel_num>.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us. Your order for the Dell XPS 13 9310 is currently being processed. The expected delivery window is within the next 5 to 7 business days. For further details, you can monitor your order through your account or get in touch with us directly.
+
+Best regards,
+Customer Support Team

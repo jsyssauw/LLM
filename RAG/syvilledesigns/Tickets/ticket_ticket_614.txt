@@ -1,0 +1,20 @@
+Ticket ID: ticket_614
+Subject: Assistance requise pour l'optimisation des coûts AWS
+Incident Type: Problem
+Customer Issue: Cher équipe de support client,
+
+J'espère que ce message vous trouve en bonne santé. Je cherche de l'aide pour optimiser mes coûts d'instance AWS en utilisant l'outil AWS Cost Explorer. Je crois que votre service de gestion AWS peut fournir les conseils nécessaires pour atteindre une meilleure gestion budgétaire. Pourriez-vous s'il vous plaît fournir des étapes spécifiques ou des ressources pour aider à utiliser efficacement l'outil ? Votre expertise serait grandement appréciée.
+
+Merci pour votre soutien.
+
+Cordialement,
+
+<name>
+<name@domain.com>
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous sommes ravis de vous aider avec l'optimisation des coûts AWS. Pour utiliser efficacement AWS Cost Explorer, commencez par identifier vos habitudes de dépenses et configurez des alertes budgétaires. Profitez des métriques utilisateur du Cost Explorer pour analyser les données et créer des rapports sur les coûts et l'utilisation. Notre service de gestion AWS propose des recommandations personnalisées pour les réservations d'instances et les options de dimensionnement appropriées. Veuillez nous faire savoir si vous avez besoin d'une aide supplémentaire.
+
+Cordialement,
+Équipe de support client

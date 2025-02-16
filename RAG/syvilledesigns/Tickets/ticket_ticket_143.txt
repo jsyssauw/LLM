@@ -1,0 +1,15 @@
+Ticket ID: ticket_143
+Subject: Zoom 5.11.0 Connection Issues
+Incident Type: Incident
+Customer Issue: Hello,
+
+I am experiencing frequent disconnections while joining video conferences on Zoom 5.11.0. Could you please assist in resolving this issue? Thank you.
+
+Regards,
+<name>
+Customer Service answer: Hello,
+
+I'm sorry to hear about the connection issues you're experiencing with Zoom 5.11.0. Please try the following steps: ensure your internet connection is stable, update your Zoom app to the latest version, and check for any firewall or antivirus settings that could interfere. If the issue persists, let us know.
+
+Regards,
+Customer Service Team

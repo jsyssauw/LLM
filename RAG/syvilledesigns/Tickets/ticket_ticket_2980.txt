@@ -1,0 +1,12 @@
+Ticket ID: ticket_2980
+Subject: nan
+Incident Type: Problem
+Customer Issue: Hello Customer Support,
+I recently received an iPad Pro 2021 that was damaged in my latest order. Could you please assist me in the steps to obtain a replacement or a refund? My order number is <acc_num>.
+
+Thanks,
+<name>
+Customer Service answer: Hello <name>,
+I regret to learn about the damaged iPad Pro 2021. Please return the item using the prepaid label included in the package. We will initiate a replacement or refund once we receive the returned item.
+Best regards,
+Customer Support

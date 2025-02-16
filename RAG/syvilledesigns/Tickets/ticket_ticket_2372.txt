@@ -1,0 +1,18 @@
+Ticket ID: ticket_2372
+Subject: Anfrage zu Umtausch oder Rückerstattung eines fehlerhaften Ultrabooks
+Incident Type: Problem
+Customer Issue: Sehr geehrter Tech Online Store,
+
+ich melde eine Fehlfunktion des Touchpads meines Dell XPS 13 9310, die nach nur drei Monaten Nutzung aufgetreten ist. Ich bitte um einen Umtausch oder eine Rückerstattung für dieses Gerät. Bitte unterstützen Sie mich bei den nächsten Schritten.
+
+Danke.
+
+Mit freundlichen Grüßen, <name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich wegen Ihres Dell XPS 13 9310 an uns gewendet haben. Wir entschuldigen uns für die Unannehmlichkeiten. Um mit einem Umtausch oder einer Rückerstattung fortzufahren, stellen Sie bitte sicher, dass das Gerät in der Originalverpackung zusammen mit dem Beleg an uns zurückgesendet wird. Bitte kontaktieren Sie unser Support-Team unter <tel_num>, um den Prozess zu starten und weitere Anweisungen zu erhalten.
+
+Wir schätzen Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+Tech Online Store Support Team

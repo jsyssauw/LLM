@@ -1,0 +1,23 @@
+Ticket ID: ticket_267
+Subject: Problema menor con el teclado Surface Pro 7
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte de Tech Online Store,
+
+Me comunico para informar un problema menor que he encontrado al usar el teclado desmontable de mi Microsoft Surface Pro 7. El problema aparece cuando el dispositivo está funcionando con poca energía. Durante estos momentos, el teclado a veces se desconecta o se vuelve insensible. Esto generalmente se resuelve después de cargar la batería, pero puede ser bastante inconveniente.
+
+¿Podrían aconsejarme sobre cómo abordar este problema? Cualquier orientación sería muy apreciada.
+
+Gracias por su atención a este asunto.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse sobre el problema de su teclado Surface Pro 7. Este inconveniente ocurre a menudo debido a la configuración de ahorro de energía. Para ayudar a resolverlo, intente actualizar sus controladores de Surface y teclado yendo a Configuración > Actualización y seguridad. Además, verifique la configuración de energía: asegúrese de que la "Configuración de suspensión selectiva de USB" esté desactivada en el Panel de control > Opciones de energía > Cambiar la configuración del plan > Configuraciones avanzadas de energía.
+
+Si el problema persiste, puede realizar un apagado de dos botones manteniendo presionado el botón de encendido durante 30 segundos y luego presionando el botón de encendido y el botón de volumen + durante 15 segundos. Esto podría ayudar a restablecer las conexiones.
+
+Háganos saber si necesita más ayuda.
+
+Saludos cordiales,
+Equipo de soporte de Tech Online Store

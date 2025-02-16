@@ -1,0 +1,38 @@
+Ticket ID: ticket_2100
+Subject: Urgente: Problemas de Control de Acceso en Jira Software
+Incident Type: Incident
+Customer Issue: Hola Equipo de Soporte al Cliente,
+
+Espero que este mensaje les encuentre bien. Me pongo en contacto para informar sobre un problema significativo relacionado con los permisos de usuario en la plataforma Jira Software, específicamente en la versión 8.20. Desafortunadamente, este problema está afectando nuestra capacidad para gestionar eficazmente el control de acceso dentro de la herramienta de gestión de proyectos.
+
+Varios miembros del equipo han informado problemas donde ciertos permisos de usuario no se están concediendo o son revocados inesperadamente. Esta inconsistencia ha obstaculizado nuestro flujo de trabajo y ha causado interrupciones en los plazos de finalización de proyectos. Hemos intentado restablecer manualmente los permisos a sus niveles apropiados; sin embargo, estos cambios no se reflejan en la plataforma.
+
+Dada la naturaleza de nuestro negocio, la necesidad de un control de acceso eficiente y preciso para gestionar los proyectos en curso es crítica. Les solicitamos amablemente su atención inmediata para investigar este problema y proporcionar una solución que restablezca los permisos adecuados y la integridad funcional sin comprometer la seguridad y la eficiencia operativa de nuestros proyectos.
+
+¿Podrían guiarnos sobre los posibles pasos de solución de problemas que podríamos tomar de nuestra parte mientras esperan su evaluación técnica? Su pronta asistencia para rectificar este problema sería muy apreciada.
+
+Gracias de antemano por su apoyo y comprensión.
+
+Saludos cordiales,
+
+<name>
+<company>
+<tel_num>
+<email_address>
+Customer Service answer: Hola <name>,
+
+Gracias por ponerse en contacto con nosotros respecto a los problemas de control de acceso en Jira Software. Entendemos la importancia crítica de gestionar con precisión los permisos de usuario para sus proyectos.
+
+Para ayudarle rápidamente, por favor intente los siguientes pasos de solución de problemas:
+1. Verifique que los usuarios que experimentan problemas estén añadidos a los grupos correctos con los permisos adecuados.
+2. Revise cualquier cambio reciente en los permisos globales, roles de proyecto o membresías de grupos que puedan afectar el acceso del usuario.
+3. Borre el caché del navegador y las cookies del producto o intente acceder a Jira desde un navegador alternativo.
+
+Mientras realiza estos pasos, priorizaremos su caso para una evaluación técnica detallada por parte de nuestro equipo. Tenga la seguridad de que estamos dedicados a resolver este asunto rápidamente para restablecer la funcionalidad de su plataforma Jira sin comprometer la seguridad.
+
+Para mayor asistencia, proporcione cualquier mensaje de error específico o detalles de los usuarios afectados por separado (excluyendo datos personales como nombres). Le mantendremos informado sobre nuestro progreso.
+
+Gracias por su paciencia y cooperación.
+
+Saludos cordiales,
+Equipo de Soporte al Cliente

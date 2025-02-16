@@ -1,0 +1,22 @@
+Ticket ID: ticket_1151
+Subject: Asistencia Urgente Requerida para Problemas de AWS
+Incident Type: Problem
+Customer Issue: Estimado Equipo de Soporte de Servicios de TI,
+
+Estoy escribiendo para expresar que estoy encontrando desafíos significativos con el despliegue en la nube, específicamente usando el Servicio de Gestión de AWS. El servicio ha estado experimentando tiempos de inactividad frecuentes, creando un impacto severo en nuestra eficiencia operativa y en los procesos comerciales en general. Esta interrupción repetida requiere una intervención técnica inmediata para mitigar cualquier impacto adicional.
+
+Hemos asegurado que nuestras configuraciones se alineen con las prácticas recomendadas, pero estos problemas persisten sin importar. La rápida resolución de este problema es primordial. ¿Podrían coordinarse con sus expertos técnicos para investigar y proporcionar una solución lo antes posible?
+
+Gracias por su pronta atención a este asunto urgente. Por favor, háganme saber si se necesita más información en este momento.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a los problemas con el Servicio de Gestión de AWS. Entendemos la urgencia y el impacto que estos tiempos de inactividad están teniendo en sus operaciones. Nuestro equipo técnico comenzará a investigar este problema de inmediato. Por favor, espera un seguimiento en breve, y no dudes en proporcionar cualquier información adicional que pueda ayudar a acelerar la resolución.
+
+Gracias por tu paciencia.
+
+Atentamente,
+Servicios de Soporte de TI

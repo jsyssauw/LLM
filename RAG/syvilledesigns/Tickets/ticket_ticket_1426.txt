@@ -1,0 +1,26 @@
+Ticket ID: ticket_1426
+Subject: Internetverbindungsprobleme
+Incident Type: Problem
+Customer Issue: Sehr geehrter IT-Dienste-Kundenservice,
+
+ich habe häufige Internetverbindungsprobleme mit meinem Cisco Router ISR4331. Der Router hat häufige Verbindungsabbrüche, was die gesamte Netzwerkstabilität an meinem Standort erheblich beeinträchtigt hat. Trotz mehrerer Fehlersuche-Schritte, einschließlich des Zurücksetzens des Routers und der Überprüfung aller Verbindungen, besteht das Problem weiterhin. Könnten Sie bitte helfen, dieses Problem so schnell wie möglich zu lösen?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>
+<tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns bezüglich Ihrer Internetverbindungsprobleme mit dem Cisco Router ISR4331 kontaktiert haben. Wir verstehen, wie frustrierend häufige Verbindungsabbrüche sein können.
+
+Bitte stellen Sie sicher, dass die Firmware Ihres Routers auf dem neuesten Stand ist, da dies oft Stabilitätsprobleme lösen kann. Sie können Firmware-Updates auf der Cisco-Website überprüfen. Wenn das Problem auch nach dem Update weiterhin besteht, versuchen Sie, den Router von Umwelteinflüssen abzuschirmen, indem Sie ihn an einem zentralen, offenen Ort platzieren.
+
+Wenn diese Schritte das Problem nicht lösen, kann es notwendig sein, einen Werksreset an Ihrem Router durchzuführen oder fehlerhafte Hardware zu ersetzen. Wir können Ihnen bei weiteren Diagnosen aus der Ferne helfen oder einen Techniker für einen Besuch arrangieren, falls erforderlich.
+
+Bitte kontaktieren Sie uns, wenn es Ihnen passt, um mit diesen Schritten fortzufahren oder für zusätzliche Unterstützung.
+
+Vielen Dank für Ihre Kontaktaufnahme.
+
+Mit freundlichen Grüßen,
+IT-Dienste-Kundenservice

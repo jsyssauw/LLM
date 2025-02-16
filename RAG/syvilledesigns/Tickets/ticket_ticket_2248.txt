@@ -1,0 +1,27 @@
+Ticket ID: ticket_2248
+Subject: Demande de support technique urgent
+Incident Type: Request
+Customer Issue: Cher équipe de support informatique, 
+
+Je vous écris pour exprimer une demande de haute priorité pour un support technique concernant nos difficultés persistantes avec la mise en œuvre des solutions informatiques, spécifiquement liées à votre service de conseil en informatique. Dernièrement, mon équipe et moi avons rencontré une variété de défis qui entravent notre flux de travail et affectent notre productivité globale. 
+
+Nous avons initialement signalé ce problème la semaine dernière à votre représentant, <name>. Cependant, nous n'avons pas encore reçu de résolution satisfaisante ou de suivi sur la question. Pour garantir un fonctionnement plus fluide, nous croyons qu'une intervention urgente de votre part est nécessaire. 
+
+Pourriez-vous s'il vous plaît donner la priorité à notre dossier et nous fournir une stratégie de soutien plus complète ? Nous avons besoin de conseils pour optimiser votre service de conseil en informatique en résolvant ces difficultés pressantes. Je suis convaincu que grâce à un effort collaboratif, nous pouvons surmonter ces défis efficacement. 
+
+N'hésitez pas à me contacter à tout moment par email ou à me joindre directement au <tel_num>. Nous apprécions vraiment votre engagement envers un service client excellent et attendons avec impatience votre réponse rapide. 
+
+Merci de votre compréhension et coopération.
+
+Cordialement, 
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant les défis que vous rencontrez avec notre service de conseil en informatique. Nous nous excusons pour le désagrément et comprenons l'urgence de votre situation.
+
+Nous donnons actuellement la priorité à votre dossier et l'avons transmis à notre équipe technique senior. Ils entreront en contact avec vous sous peu pour faciliter une stratégie de soutien complète adaptée à vos besoins. Nous visons à résoudre les problèmes rapidement afin de rétablir votre flux de travail et votre productivité.
+
+Merci de votre patience et de votre confiance continue dans nos services. N'hésitez pas à nous contacter à tout moment pour toute assistance supplémentaire.
+
+Cordialement,
+L'équipe de support informatique

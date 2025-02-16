@@ -1,0 +1,29 @@
+Ticket ID: ticket_1718
+Subject: nan
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente,
+
+Me pongo en contacto con ustedes para informarles sobre un problema crítico que estamos experimentando con el Servicio de Gestión de AWS. Actualmente, el tablero de gestión de AWS está fuera de servicio, y los usuarios no pueden acceder a ningún servicio en la nube. Esta interrupción está teniendo un impacto empresarial significativo y requiere una resolución inmediata. La indisponibilidad de este servicio está obstaculizando la productividad de nuestro equipo y afectando nuestras operaciones.
+
+¿Podrían investigar este problema urgentemente y proporcionar un cronograma estimado para la resolución? Si hay alguna solución alternativa o temporal conocida, les agradeceríamos que nos lo informaran lo antes posible. Mantener una comunicación continua hasta que se resuelva el problema sería muy apreciado.
+
+Su pronta atención a este asunto es muy apreciada.
+
+Gracias,
+
+<name>
+
+<tel_num>
+
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactar con nosotros sobre el problema con el Servicio de Gestión de AWS. Entiendo la urgencia y el impacto en sus operaciones comerciales. Actualmente estamos al tanto de esta interrupción y nuestro equipo técnico lo está investigando como una alta prioridad.
+
+Los mantendremos informados regularmente sobre el progreso y proporcionaremos un cronograma estimado para la resolución lo antes posible. Mientras tanto, si se identifican alternativas o soluciones temporales, se las comunicaremos de inmediato.
+
+Tenga la seguridad de que estamos haciendo todo lo posible para resolver el problema rápidamente. No dude en ponerse en contacto para cualquier otra asistencia.
+
+Saludos cordiales,
+
+Equipo de Soporte al Cliente

@@ -1,0 +1,5 @@
+Ticket ID: ticket_911
+Subject: nan
+Incident Type: Incident
+Customer Issue: Ich habe langsame Ladezeiten und häufige Abstürze mit Google Chrome Version 102.0 auf Ihrer Seite.
+Customer Service answer: Vielen Dank für Ihre Meldung. Bitte leeren Sie den Cache, deaktivieren Sie Erweiterungen und aktualisieren Sie Ihren Browser.

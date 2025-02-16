@@ -1,0 +1,22 @@
+Ticket ID: ticket_1865
+Subject: Problema na Impressora Epson
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte da Tech Online Store, Estou entrando em contato com vocês sobre um problema com a impressora Epson EcoTank ET-4760 que comprei em sua loja online. Recentemente, ela tem mostrado consistentemente um erro de 'atolamento de papel' em seu display, mesmo que não pareça haver realmente um atolamento ou qualquer obstrução no caminho do papel. Este erro persiste e está impedindo a conclusão de qualquer trabalho de impressão, o que está impactando significativamente minha capacidade de realizar tarefas de trabalho essenciais com eficiência. Poderiam, por favor, fornecer orientações sobre como solucionar esse problema ou sugerir um curso de ação adequado? Se necessário, estou preparado para realizar quaisquer verificações ou ajustes de manutenção básica conforme necessário. Se isso não resolver o problema, eu apreciaria quaisquer recomendações sobre como proceder com possíveis reparos ou uma reclamação de garantia. Agradeço pela atenção a este assunto. Espero ouvir da sua equipe em breve sobre esta questão urgente, uma vez que esta impressora é fundamental para minhas operações diárias. Atenciosamente, <name>.
+Customer Service answer: Caro <name>, 
+
+Obrigado por entrar em contato conosco sobre o problema com sua impressora Epson EcoTank ET-4760. Entendemos o quão importante isso é para a sua eficiência no trabalho.
+
+Para resolver o erro de 'atolamento de papel' que você está enfrentando, por favor, tente os seguintes passos de solução de problemas:
+1. Desligue a impressora e desconecte-a da fonte de energia por alguns minutos antes de reiniciá-la.
+2. Remova qualquer papel das bandejas de entrada e saída e verifique se há pequenos detritos ou obstruções no caminho do papel minuciosamente.
+3. Abra a tampa da impressora e inspecione gentilmente toda a área dos rolos em busca de pedaços de papel que possam não ser facilmente visíveis.
+4. Certifique-se de que as configurações do tipo e tamanho do papel na impressora estão corretamente configuradas para o papel que você está usando.
+
+Se o problema persistir após esses passos, talvez você precise redefinir a impressora. Consulte o manual da impressora para orientações sobre como fazer uma redefinição de fábrica.
+
+Caso nenhuma dessas soluções resolva o problema, recomendo iniciar uma reclamação de garantia ou entrar em contato com o suporte da Epson para serviços de reparo. Você pode iniciar o processo de reclamação de garantia diretamente em nosso site ou entrando em contato com nossa equipe de atendimento ao cliente.
+
+Por favor, nos avise se precisar de mais assistência. Estamos aqui para ajudar você a retornar às suas tarefas essenciais com tranquilidade.
+
+Atenciosamente,
+Equipe de Suporte da Tech Online Store

@@ -1,0 +1,16 @@
+Ticket ID: ticket_1172
+Subject: Customer Has Reported Problems with Using HP DeskJet 3755
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team,
+
+I am facing an issue with my newly acquired HP DeskJet 3755 printer. The ink does not appear to be dispensing correctly, despite the troubleshooting steps I have attempted. My account number is <acc_num>. I would appreciate your assistance in resolving this issue promptly.
+
+Sincerely,
+<name>
+Phone: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us. Please verify that the ink cartridges are installed correctly and are not expired. Consider executing the printer’s cleaning cycle through the settings menu. Should the problem continue, we advise reaching out to our technical support team at <support_tel_num> for additional help or visiting our Support website.
+
+Best regards,
+Customer Support Team

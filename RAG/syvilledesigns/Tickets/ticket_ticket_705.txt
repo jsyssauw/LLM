@@ -1,0 +1,5 @@
+Ticket ID: ticket_705
+Subject: Problemas con Surface Pro 7
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte de Tech Online Store, estoy experimentando una falta de respuesta intermitente de la pantalla táctil en mi Microsoft Surface Pro 7. Este problema comenzó después de la actualización reciente del firmware. Por favor, indíqueme cómo resolver este problema. Saludos, <name>
+Customer Service answer: Estimado <name>, Por favor, intente reinstalar el controlador de la pantalla táctil a través del Administrador de dispositivos y asegúrese de que todas las actualizaciones de Windows estén actualizadas. Si el problema persiste, considere realizar una restauración del sistema al punto anterior a la actualización o contáctenos para obtener más ayuda. Saludos, Equipo de soporte de Tech Online Store

@@ -1,0 +1,31 @@
+Ticket ID: ticket_3920
+Subject: Anfrage zu Dienstleistungen
+Incident Type: Request
+Customer Issue: Hallo,
+
+ich hoffe, es geht Ihnen gut. Ich wende mich an Sie, um weitere Informationen zu Ihren IT-Beratungsdiensten anzufordern, insbesondere zur Serververwaltung und Implementierung von Ticket-Systemen. Wir ziehen diese Dienste in Betracht, um unsere IT-Betriebe zu optimieren und unser Unterstützungssystem zu verbessern. Könnten Sie bitte Einzelheiten zu Ihren Dienstleistungen, Preisen und verfügbaren Anpassungsoptionen bereitstellen?
+
+Ich freue mich auf Ihre zeitnahe Antwort.
+
+Vielen Dank und beste Grüße,
+
+<name>
+
+<name> Firma
+<email>
+<tel_num>
+Customer Service answer: Hallo <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben, um Informationen über unsere IT-Beratungsdienste anzufordern. Wir bieten umfassende Dienstleistungen zur Serververwaltung und Implementierung von Ticket-Systemen, die darauf ausgelegt sind, IT-Betriebe zu optimieren und Unterstützungssysteme zu verbessern. Zu unseren Dienstleistungen gehören Überwachung, Wartung und Unterstützung. Wir bieten auch Anpassungsoptionen an, um Ihren spezifischen Bedürfnissen gerecht zu werden.
+
+Wir können einen maßgeschneiderten Preisplan basierend auf dem Umfang und den Anforderungen Ihrer Organisation anbieten. Um Ihnen ein genaues Angebot zu unterbreiten, empfehlen wir eine kurze Beratung, um Ihre Bedürfnisse besser zu verstehen.
+
+Bitte zögern Sie nicht, uns jederzeit zu kontaktieren, um ein Gespräch zu vereinbaren.
+
+Vielen Dank, dass Sie unsere Dienste in Betracht ziehen.
+
+Mit freundlichen Grüßen,
+
+<name>  
+Kundenserviceteam  
+<name> Firma

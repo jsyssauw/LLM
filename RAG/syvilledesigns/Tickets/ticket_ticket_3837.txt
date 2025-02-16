@@ -1,0 +1,16 @@
+Ticket ID: ticket_3837
+Subject: nan
+Incident Type: Change
+Customer Issue: Sehr geehrter Kundensupport,
+
+ich schreibe, um ein Upgrade unseres AWS Management Service-Plans zu beantragen, um das Kostenmanagement und die Skalierbarkeit der Infrastruktur zu verbessern. Wir möchten eine Überprovisionierung vermeiden. Bitte informieren Sie mich über die verfügbaren Optionen und die erforderlichen Schritte, um fortzufahren.
+
+Vielen Dank,
+<name>
+<acc_num>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie sich an uns gewendet haben. Um Ihren AWS Management Service-Plan für besseres Kostenmanagement und Skalierbarkeit zu aktualisieren, bieten wir mehrere Optionen, die auf Ihre Bedürfnisse zugeschnitten sind. Bitte melden Sie sich bei Ihrem Konto an und besuchen Sie den Abschnitt 'Konto', um die verfügbaren Pläne zu erkunden oder kontaktieren Sie uns für weitere Unterstützung.
+
+Mit freundlichen Grüßen,
+Kundensupport

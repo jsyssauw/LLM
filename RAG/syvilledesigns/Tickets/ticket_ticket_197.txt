@@ -1,0 +1,32 @@
+Ticket ID: ticket_197
+Subject: Connectivity Issues with HP DeskJet 3755
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I am experiencing ongoing printer connectivity issues with my HP DeskJet 3755, specifically regarding its wireless printing capabilities. After the initial setup, the printer appears connected; however, it fails to process and print documents sent wirelessly. 
+
+I have attempted several basic troubleshooting steps, such as restarting both the printer and the router, ensuring the printer is within range of the wireless network, and checking for any available firmware updates. Despite these efforts, I remain unable to print any documents.
+
+This issue is quite urgent as it affects daily operations. Could you please guide me through resolving these connectivity problems? Additionally, if there are any detailed manuals or resources, it would be beneficial. Your prompt assistance would be greatly appreciated.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding your HP DeskJet 3755 connectivity issues. I understand the urgency and regret any inconvenience caused. Here are some additional steps you can try:
+
+1. Reboot your computer alongside the printer and router.
+2. Make sure your printer and PC are connected to the same Wi-Fi network.
+3. Disable and then re-enable the wireless settings on your printer.
+4. Review your router settings to ensure it's set to 2.4GHz, which is compatible with your printer.
+5. Remove and re-add the printer in your computer's settings.
+
+If these don't resolve the issue, consult with HP's print and scan doctor tool available on their website for more diagnostics. For detailed manuals, please visit HP's support site and search for your printer model.
+
+If the problem persists, please provide any error messages you receive.
+
+Best regards,
+[Your Name]
+Service Desk Agent

@@ -1,0 +1,32 @@
+Ticket ID: ticket_2763
+Subject: Issues with AWS Configuration and Performance
+Incident Type: Request
+Customer Issue: Dear Customer Support Team,
+
+I am writing to inform you about several issues we are facing with the AWS Management Service. Our client, <name>, has recently requested configuration changes on their AWS setup. Despite our diligent efforts, we are encountering significant challenges in implementing cost optimization strategies effectively. These issues are leading to unexpected charges beyond our forecasted budget.
+
+Additionally, we are experiencing delays in launching some of the essential services, which is critically affecting our project timelines and client satisfaction. The client, <name>, is understandably concerned about the financial implications and the impact on their operational performance.
+
+Given the urgency of the situation, we would appreciate it if your team could provide us with guidance on the best practices for cost optimization and assist in troubleshooting the service deployment delays. We aim to resolve these issues promptly to ensure uninterrupted and cost-effective service delivery for our client.
+
+Thank you for your attention to this matter. We look forward to your prompt response.
+
+Best regards,
+
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about the AWS Management Service issues you're facing. We understand the urgency and impact this has on your project timelines and client satisfaction.
+
+To assist with the cost optimization strategies, we recommend reviewing the AWS Cost Explorer and setting cost alerts to better manage and forecast expenses. Our team can also help by suggesting Reserved Instances and Savings Plans that fit your usage patterns.
+
+Regarding the deployment delays, please ensure all prerequisites are met for the essential services, and consider scaling models that auto-adjust based on demand. We can arrange a consultation with our AWS specialists to dive deeper into the configuration and identify potential bottlenecks.
+
+Please let us know your availability for a quick call to address these issues more thoroughly. We are committed to helping you resolve them promptly and ensure a seamless experience for your client.
+
+Looking forward to your reply.
+
+Best regards,
+
+Service Desk Team

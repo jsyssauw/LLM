@@ -1,0 +1,12 @@
+Ticket ID: ticket_2828
+Subject: MacBook Air M1 Power Issue
+Incident Type: Incident
+Customer Issue: My MacBook Air M1 is not powering on. I used the correct charger and adapter. Could you advise on warranty or service options?
+Customer Service answer: Subject: MacBook Air M1 Power Issue
+
+Hi,
+
+Try holding the power button for 10 seconds. If it doesn't work, your device may need service. Please check if it's still under warranty via <brand>'s website or contact an authorized service provider for assistance.
+
+Best, 
+Support Team

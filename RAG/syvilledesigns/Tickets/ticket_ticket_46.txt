@@ -1,0 +1,17 @@
+Ticket ID: ticket_46
+Subject: nan
+Incident Type: Request
+Customer Issue: Prezado <name>,
+
+Sentimos muito ao saber sobre o atraso na entrega do seu Apple Watch Series 7 GPS. Compreendemos sua preocupação e estamos atualmente investigando o problema. Esperamos que seu pacote chegue em breve. Pedimos desculpas por quaisquer transtornos que isso possa ter ocasionado e agradecemos sua compreensão. Se você tiver mais dúvidas, entre em contato conosco pelo <tel_num> ou responda este e-mail.
+
+Agradecemos por escolher nossa loja online!
+
+Cordialmente,
+Equipe de Atendimento ao Cliente
+Customer Service answer: Prezado Equipe de Atendimento ao Cliente,
+
+Agradeço pela atualização acerca do atraso no envio do meu Apple Watch Series 7 GPS. Valorizo os esforços de vocês para solucionar a situação e estou otimista de que o pacote chegará em breve. Entrarei em contato caso tenha mais dúvidas.
+
+Cordialmente,
+[Seu Nome]

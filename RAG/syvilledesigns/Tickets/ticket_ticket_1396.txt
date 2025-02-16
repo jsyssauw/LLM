@@ -1,0 +1,5 @@
+Ticket ID: ticket_1396
+Subject: nan
+Incident Type: Change
+Customer Issue: Hello Customer Support, the keyboard of my newly bought Dell XPS 13 9310 is acting up. Could you please guide me on whether to repair or replace it? Thank you, <name>
+Customer Service answer: Hello <name>, we regret the inconvenience you're facing. Kindly send us your order number along with your contact information, and we'll help you with the repair or replacement process. Best regards, Customer Support.

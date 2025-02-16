@@ -1,0 +1,15 @@
+Ticket ID: ticket_3034
+Subject: Urgent: Cisco Router Issue
+Incident Type: Incident
+Customer Issue: Hello IT Services,
+
+Our Cisco Router ISR4331 is causing internet connectivity disruptions on multiple floors. Immediate assistance is required to restore high-performance, secure networking. Kindly prioritize this urgent matter. Looking forward to your prompt response.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand the urgency of the situation with your Cisco Router ISR4331. Our team is prioritizing this issue and will address it promptly to restore full connectivity. We will keep you updated on the progress.
+
+Best regards,
+IT Services

@@ -1,0 +1,20 @@
+Ticket ID: ticket_20
+Subject: Consulta sobre Servicios de Consultoría en TI
+Incident Type: Request
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Mi nombre es <name>, y estoy interesado en obtener más información sobre sus Servicios de Consultoría en TI, centrándome específicamente en el desarrollo de software y la administración de servidores. Agradecería información detallada sobre los servicios ofrecidos, precios y proceso de compromiso. ¿Podría proporcionarme esta información o direccionarme a un representante que pueda ayudarme con mi consulta?
+
+Gracias por su asistencia.
+
+Atentamente,
+
+<name>
+<tel_num>
+<email_address>
+Customer Service answer: Estimado <name>,
+
+Gracias por su consulta sobre nuestros Servicios de Consultoría en TI. Ofrecemos soluciones personalizadas en desarrollo de software y administración de servidores. Para obtener información detallada sobre servicios, precios y procesos de compromiso, le referiré a nuestro consultor dedicado que se pondrá en contacto con usted en breve. Mientras tanto, no dude en consultar nuestro sitio web para obtener una visión general.
+
+Atentamente,
+Equipo de Atención al Cliente

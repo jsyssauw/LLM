@@ -1,0 +1,26 @@
+Ticket ID: ticket_3240
+Subject: Hilfe bei der Tastaturablösung erforderlich
+Incident Type: Request
+Customer Issue: Sehr geehrtes KundenSupport-Team,
+
+ich hoffe, diese Nachricht erreicht Sie wohlauf. Ich kontaktiere Sie, um Hilfe bei der Entfernung der Tastatur von meinem Dell XPS 13 9310 Laptop zu suchen. Ich versuche, die Funktion des Tablet-Modus zu aktivieren, habe jedoch Schwierigkeiten im Prozess. Könnten Sie mir bitte eine Schritt-für-Schritt-Anleitung oder relevante Anweisungen zur Verfügung stellen, um mir dabei zu helfen? Ich würde Ihre Unterstützung bei der Lösung dieses Problems sehr schätzen und warte auf Ihre zügige Antwort.
+
+Vielen Dank für Ihre Kooperation.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich gemeldet haben. Der Dell XPS 13 9310 ist als Klapp-Laptop konzipiert und verfügt nicht über eine abnehmbare Tastatur, weshalb eine Aktivierung des Tablet-Modus durch das Entfernen der Tastatur nicht möglich ist. Sie können jedoch den Tablet-Modus über die Windows-Einstellungen aktivieren, ohne die Tastatur physisch zu trennen. Bitte folgen Sie diesen Schritten:
+
+1. Klicken Sie auf das Startmenü.
+2. Gehen Sie zu Einstellungen > System > Tablet.
+3. Wählen Sie "Zusätzliche Tablet-Einstellungen ändern." 
+4. Aktivieren Sie den "Tablet-Modus-Schalter."
+
+Sobald Sie im Tablet-Modus sind, wird das Gerät die Schnittstelle für die Touch-Interaktion anpassen. Wenn Ihr Ziel darin bestand, nur den Bildschirm zu verwenden, ist diese Option nützlich für die Touch-Bedienung.
+
+Wenn Sie weitere Unterstützung benötigen, zögern Sie nicht, uns zu kontaktieren.
+
+Mit freundlichen Grüßen,
+KundenSupport-Team

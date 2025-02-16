@@ -1,0 +1,5 @@
+Ticket ID: ticket_960
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado soporte, solicito una devolución para mi HP DeskJet 3755. Tiene una funcionalidad inadecuada y conectividad inalámbrica inconsistente.
+Customer Service answer: Estimado cliente, por favor inicie su devolución visitando nuestra página de devoluciones o contactando a nuestro Servicio al Cliente al <tel_num>. ¡Gracias!

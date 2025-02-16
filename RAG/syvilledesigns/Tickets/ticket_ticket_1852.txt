@@ -1,0 +1,12 @@
+Ticket ID: ticket_1852
+Subject: Urgent: Display Issue on Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I am writing to report a display flickering issue with my Dell XPS 13 9310 purchased from your online store. This problem occurs frequently, making it difficult to use the laptop effectively. As the issue affects the functionality significantly, I kindly request an immediate physical assessment, and if necessary, a replacement of the affected unit. Please contact me at your earliest convenience to arrange a solution. Thank you for your attention and prompt response to this matter. Yours sincerely, <name> <acc_num> <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us regarding the display flickering issue with your Dell XPS 13 9310. We understand how crucial it is to have a fully functional device. We will arrange a physical assessment of your laptop as soon as possible. One of our representatives will be in touch with you shortly at <tel_num> to coordinate the next steps. If proven necessary, we will facilitate a replacement. 
+
+We appreciate your patience and cooperation.
+
+Best regards,
+Customer Support Team

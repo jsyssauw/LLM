@@ -1,0 +1,15 @@
+Ticket ID: ticket_434
+Subject: Issue with Jira Software 8.20
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I'm unable to create new tickets in Jira Software 8.20 after the recent update. Could you please look into it urgently?
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for your message. We're looking into the issue with Jira Software 8.20 and will get back to you shortly with a solution.
+
+Best regards,
+Customer Support

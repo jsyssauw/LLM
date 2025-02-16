@@ -1,0 +1,16 @@
+Ticket ID: ticket_2665
+Subject: Jira Ticket Problem
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+Nach dem Update auf Jira Software Version 8.20 kann ich aufgrund eines 'internen Serverfehlers' keine neuen Tickets erstellen. Könnten Sie mir bitte bei der Lösung dieses Problems helfen?
+
+Mit freundlichen Grüßen,
+<name>
+Kontonummer: <acc_num>
+Customer Service answer: Sehr geehrter <name>,
+
+Vielen Dank, dass Sie sich an uns gewandt haben. Wir entschuldigen uns für die Unannehmlichkeiten. Bitte versuchen Sie, den Cache Ihres Browsers zu leeren und Jira neu zu starten. Wenn das Problem weiterhin besteht, senden Sie uns bitte einen Screenshot des Fehlers zur weiteren Unterstützung.
+
+Mit besten Grüßen,
+Kundenservice

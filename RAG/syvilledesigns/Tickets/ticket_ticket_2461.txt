@@ -1,0 +1,30 @@
+Ticket ID: ticket_2461
+Subject: Anfrage zur Änderung der Benutzerberechtigungen
+Incident Type: Change
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich hoffe, es geht Ihnen gut. Wir haben ein Problem mit den Benutzerberechtigungen in unserer Jira-Software-Instanz, insbesondere mit Version 8.20. Diese Situation wirkt sich erheblich auf unseren Projektmanagement-Workflow aus. Wir haben kürzlich eine Anfrage von einem unserer wichtigen Benutzer, <name>, erhalten, der uns darauf hingewiesen hat, dass bestimmte Berechtigungen für Projektrollen angepasst werden müssen, um die Teamzusammenarbeit und den Zugriff zu verbessern.
+
+Könnten Sie bitte bei der Überprüfung der aktuellen Berechtigungseinstellungen helfen? Darüber hinaus würden wir Ihre Anleitung zu den besten Praktiken schätzen, um Änderungen ohne Störung unserer laufenden Projekte umzusetzen. Wenn möglich, wäre ein Zeitrahmen zur Behebung dieser Probleme sehr hilfreich.
+
+Ich freue mich auf Ihre schnelle Antwort.
+
+Mit freundlichen Grüßen,
+
+<name>
+<name> Softwareentwicklungsgesellschaft
+<email_address>
+<tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns bezüglich des Problems mit der Benutzerberechtigung in Ihrer Jira-Software Version 8.20 kontaktiert haben. Wir verstehen die Bedeutung eines reibungslosen Workflows in Ihrem Projektmanagement.
+
+Wir werden zunächst Ihre aktuellen Berechtigungseinstellungen überprüfen, um die notwendigen Anpassungen für Ihre Projektrollen zu identifizieren. Um sicherzustellen, dass der Prozess reibungslos und minimal störend verläuft, werden wir Ihnen auch die besten Praktiken für die Umsetzung dieser Änderungen zur Verfügung stellen.
+
+Für eine effektive Lösung streben wir an, diese Überprüfung abzuschließen und innerhalb der nächsten fünf Werktage substanzielles Feedback zu geben. Bitte lassen Sie uns wissen, ob es spezifische Zeitrahmen oder Projektfristen gibt, die wir berücksichtigen sollten, um die Lösung entsprechend zu priorisieren.
+
+Zögern Sie nicht, uns zu kontaktieren, wenn Sie weitere Fragen oder zusätzliche Details haben.
+
+Mit freundlichen Grüßen,
+
+Ihr Kundenserviceteam

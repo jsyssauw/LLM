@@ -1,0 +1,26 @@
+Ticket ID: ticket_3584
+Subject: Urgente: Suporte para Roteador com Mau Funcionamento
+Incident Type: Incident
+Customer Issue: Olá Suporte ao Cliente,
+
+Nosso Roteador Cisco ISR4331 está apresentando uma falha repentina, causando grandes interrupções na rede em todo o sistema. Este problema é crítico e exige a sua intervenção técnica imediata. Suspeitamos que a atualização do firmware do roteador possa restaurar sua funcionalidade normal. Pedimos que você agilize o processo para resolver essas interrupções e restaurar nossos serviços na maior brevidade possível. Dependemos fortemente de um serviço contínuo e ininterrupto e agradecemos sua rápida assistência.
+
+Atenciosamente,
+<name>
+<tel_num>
+Customer Service answer: Assunto: Re: Urgente: Suporte para Roteador com Mau Funcionamento
+
+Olá <name>,
+
+Obrigado por entrar em contato sobre o problema com seu roteador Cisco ISR4331. Entendemos a urgência da situação e estamos aqui para assisti-lo prontamente.
+
+Para abordar o problema suspeito de firmware, por favor, siga os seguintes passos:
+1. Baixe a atualização de firmware mais recente para o Cisco ISR4331 no site oficial da Cisco.
+2. Siga os passos guiados no site para instalar a atualização. Certifique-se de fazer backup das configurações atuais antes de prosseguir.
+
+Se precisar de mais assistência ou se o problema persistir após a atualização, por favor, responda a este e-mail ou ligue para nossa linha de suporte em [Support Contact Number] para assistência imediata.
+
+Estamos comprometidos em restaurar seu serviço o mais rápido possível.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

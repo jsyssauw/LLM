@@ -1,0 +1,33 @@
+Ticket ID: ticket_242
+Subject: Request for Assistance: Internet Disruptions with Cisco Router ISR4331
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. I am experiencing repeated internet disruptions which seem to be associated with the security settings of my Cisco Router ISR4331, making my connectivity rather intermittent. Attempts to resolve the issue by resetting the device and reviewing the configurations have been unsuccessful. The disruptions are affecting both personal and work-related online activities, thus causing significant inconvenience.
+
+The router’s potential security settings might be at the core of these connectivity problems. Could you please assist in diagnosing the issue and advise on any specific adjustments that may stabilize the connection? Any guidance you can provide to ensure more consistent operation would be greatly appreciated.
+
+Please let me know if any more details are required from my end to aid your assessment. You can reach me at my phone number <tel_num> or via this email. I trust your expertise and look forward to your prompt assistance in resolving this matter.
+
+Thank you for your attention to this urgent issue.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the internet disruptions with your Cisco Router ISR4331. We understand the inconvenience this has caused and are here to assist you in resolving the issue.
+
+Firstly, please ensure that your router's firmware is up to date, as outdated firmware can often lead to connectivity issues. You can check this through the router's web interface. 
+
+Next, review the security settings such as firewall and access control lists, as over-restrictive settings might affect connectivity. Temporarily disabling these features can help determine if they are contributing to the issue.
+
+If the problem persists, consider resetting the router to factory settings and reconfiguring it. Be sure to back up any important configurations before doing so.
+
+If none of these steps resolve the issue, it may require deeper diagnostics. Please provide any error messages or logs, which can help us in a more detailed analysis. 
+
+Feel free to contact us if you have further questions, and we'll be glad to assist. 
+
+Best regards,
+
+Customer Support Team

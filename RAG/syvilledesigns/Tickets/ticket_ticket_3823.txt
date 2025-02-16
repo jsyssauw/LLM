@@ -1,0 +1,34 @@
+Ticket ID: ticket_3823
+Subject: Discrepancias de facturación en el costo de los servicios de AWS
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente de servicios de TI,
+
+Espero que este mensaje te encuentre bien. Estoy escribiendo para atraer tu atención inmediata sobre las discrepancias de facturación que he encontrado con el costo mensual del Servicio de Gestión de AWS proporcionado por tu empresa. He estado revisando de cerca los cargos en mi cuenta y he notado algunas discrepancias que creo que requieren un examen más profundo.
+
+Mi número de cuenta actual es <acc_num>, y he notado un aumento significativo en los cargos durante los últimos meses sin modificaciones sustanciales en los servicios utilizados. Estos aumentos inesperados son motivo de preocupación y agradecería una revisión detallada de las facturas emitidas por los servicios proporcionados.
+
+Además, sospecho que puede haber oportunidades para la optimización de costos que podrían ayudar a gestionar estos gastos de manera más efectiva. Como cliente valioso, apreciaría cualquier información que tu equipo pudiera ofrecer sobre posibles ajustes u opciones para optimizar los costos de mi servicio de AWS sin afectar la calidad del servicio.
+
+¿Podrías proporcionar un desglose exhaustivo de los cargos y aclarar cualquier cambio en la estructura de precios o de servicio que pueda haber contribuido a estas aparentes discrepancias? Además, me gustaría discutir estrategias que podrían emplearse para la futura optimización de costos. Tal orientación sería muy beneficiosa para asegurar la alineación con las expectativas presupuestarias.
+
+Estoy disponible para una llamada al <tel_num> para discutir este asunto más a fondo en el momento más conveniente para ti. Por favor, házmelo saber en un momento adecuado que funcione para tu equipo, o no dudes en comunicarte por correo electrónico para cualquier aclaración escrita que puedas necesitar.
+
+Gracias de antemano por tu asistencia con este asunto. Espero tu pronta respuesta para que podamos resolver estas discrepancias y esforzarnos hacia un uso del servicio más gestionado de manera óptima.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por traer esto a nuestra atención. Entendemos tu preocupación respecto a las discrepancias en la facturación de tu Servicio de Gestión de AWS.
+
+Llevaremos a cabo una revisión exhaustiva de tu cuenta (<acc_num>) para identificar cualquier inconsistencia en los cargos durante los últimos meses. Nuestro equipo te proporcionará un desglose detallado de las facturas y aclarará si ha habido algún cambio en la estructura de precios o de servicio.
+
+En cuanto a la optimización de costos, presentaremos estrategias que podrían ayudar a gestionar tus gastos sin afectar la calidad del servicio.
+
+Por favor, háganos saber un momento conveniente para una llamada para discutir este asunto más a fondo, o si prefieres la comunicación por correo electrónico, también estamos felices de proceder de esa manera.
+
+Agradecemos tu paciencia y estamos comprometidos a resolver este problema de inmediato.
+
+Atentamente,
+Equipo de soporte al cliente de servicios de TI

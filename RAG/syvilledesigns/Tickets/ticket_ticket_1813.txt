@@ -1,0 +1,32 @@
+Ticket ID: ticket_1813
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado equipo de soporte de servicios de TI,
+
+Escribo para solicitar asistencia con el despliegue en AWS para mejorar la optimización de costos y mejorar la eficiencia de nuestra infraestructura en la nube. Actualmente estamos utilizando el Servicio de Gestión de AWS y creo que hay un potencial significativo para optimizar nuestros gastos y rendimiento.
+
+Para proporcionar un poco de contexto, nuestra organización ha experimentado algunas inconsistencias con la asignación y uso de recursos. Dada la complejidad y la amplitud de los servicios involucrados, es crucial para nosotros contar con orientación experta para navegar y optimizar eficazmente nuestro entorno actual de AWS.
+
+Apreciaría si pudieran asignar a un especialista conocedor que nos guíe a través de las mejores prácticas para gestionar y optimizar los costos de AWS mientras mantenemos altos niveles de eficiencia en nuestra infraestructura en la nube. Esperamos aprovechar la amplia experiencia y perspicacia de su equipo en arquitecturas de AWS para implementar cambios recomendados que produzcan mejoras tangibles de manera pronta.
+
+Espero abordar este problema con su apoyo. Por favor, dirijan sus respuestas a mi correo electrónico, o pueden contactarme al <tel_num> si una conversación es más conveniente.
+
+Gracias por su atención a este asunto.
+
+Atentamente,
+
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactar al equipo de soporte de servicios de TI para obtener asistencia con su despliegue en AWS y la optimización de costos. Entendemos la importancia de una infraestructura en la nube eficiente y estaremos encantados de proporcionar la experiencia necesaria para ayudarle a alcanzar sus objetivos.
+
+Asignaremos a un especialista con experiencia en la gestión de AWS y la optimización de costos para trabajar con usted. Este experto le guiará a través de las mejores prácticas para optimizar los gastos y mejorar el rendimiento de su entorno de AWS.
+
+Su especialista asignado se pondrá en contacto con usted en breve para discutir sus necesidades en detalle. Mientras tanto, si tiene alguna pregunta adicional o detalles que compartir, no dude en enviarnos un correo electrónico o llamar.
+
+Esperamos trabajar con usted para abordar los desafíos actuales e implementar mejoras.
+
+Atentamente,
+
+Equipo de soporte de servicios de TI

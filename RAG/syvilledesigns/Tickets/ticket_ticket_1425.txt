@@ -1,0 +1,19 @@
+Ticket ID: ticket_1425
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I am reaching out to report a problem with the battery of my Lenovo IdeaPad 5 laptop. The battery discharges very quickly even with standard usage. The device remains under warranty. I would appreciate your help with this matter at your earliest opportunity.
+
+Thank you.
+
+Best regards,
+<name>
+Account Number: <acc_num>
+Phone: <tel_num>
+Customer Service answer: Dear <name>,
+
+We appreciate you reaching out to us. We regret to learn about the issue you are facing with the battery of your Lenovo IdeaPad 5 laptop. Since your device is still covered by warranty, we recommend visiting the nearest service center or contacting our technical support team at [support number/email] for additional assistance.
+
+Kind regards,
+Customer Support Team

@@ -1,0 +1,14 @@
+Ticket ID: ticket_2267
+Subject: Preocupación por la Factura
+Incident Type: Request
+Customer Issue: Estimado Servicio al Cliente, me pongo en contacto para informarle sobre una preocupación de facturación relacionada con mi reciente adquisición de la computadora portátil Dell XPS 13 9310 en su tienda en línea. Aunque había un descuento promocional disponible al finalizar la compra, mi cuenta muestra un cargo inexacto. Mi número de identificación de pedido es <order_id> y la fecha de la transacción es <date>. Solicito amablemente que prioricen este asunto para una rápida resolución y garantizar que no haya un impacto negativo en mi perfil de crédito. Agradezco su pronta ayuda para corregir este problema. No duden en ponerse en contacto conmigo al <tel_num> para cualquier información adicional que puedan necesitar. Gracias por su atención a esta situación. Saludos cordiales, <name>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por contactarnos con respecto al problema de facturación relacionado con su compra de la Dell XPS 13 9310. Lamentamos sinceramente cualquier inconveniente que esto haya podido causar. Hemos escalado su número de identificación de pedido <order_id> para su examen prioritario y estamos dedicados a corregir la discrepancia. Nuestro equipo asegurará que el cargo adecuado se refleje en su cuenta.
+
+Si necesita alguna actualización o información adicional, nos comunicaremos con usted al <tel_num>. Tenga la seguridad de que estamos tomando todas las medidas necesarias para proteger su perfil de crédito de cualquier efecto adverso.
+
+Gracias por su comprensión.
+
+Atentamente,
+Equipo de Atención al Cliente

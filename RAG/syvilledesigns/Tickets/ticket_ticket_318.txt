@@ -1,0 +1,15 @@
+Ticket ID: ticket_318
+Subject: nan
+Incident Type: Problem
+Customer Issue: Hola soporte al cliente,
+
+Estoy experimentando problemas con mi MacBook Air M1. Se bloquea y se apaga aleatoriamente, interrumpiendo mis tareas laborales. Por favor, aconsejen sobre los pasos de solución de problemas o posibles soluciones. Mi número de cuenta es <acc_num>.
+
+Saludos,
+<name>
+Customer Service answer: Hola,
+
+Lamento escuchar sobre los problemas con tu MacBook Air M1. Por favor, intenta los siguientes pasos de solución de problemas: 1. Actualiza macOS a la última versión. 2. Reinicia tu Mac en modo seguro para verificar conflictos de software. 3. Restablece el SMC (Controlador de Gestión del Sistema). Si el problema persiste, considera contactar a Soporte de Apple o visitar una tienda de Apple para obtener más ayuda. Háznos saber si necesitas más ayuda.
+
+Saludos cordiales,
+Soporte al Cliente

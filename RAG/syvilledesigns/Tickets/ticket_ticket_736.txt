@@ -1,0 +1,13 @@
+Ticket ID: ticket_736
+Subject: Monitor Issue
+Incident Type: Problem
+Customer Issue: Hello Support Team, my Dell XPS 13 9310 is not recognizing an external monitor. I have attempted troubleshooting the graphics drivers, but the issue persists. Please advise on further steps to resolve this problem. Thank you, <name>
+Customer Service answer: Hello <name>,
+Please try the following steps:
+1. Ensure the external monitor is set to the correct input source.
+2. Use a different cable or port.
+3. Update the BIOS and graphics drivers from Dell's support website.
+If the issue persists, please contact us again.
+
+Best regards, 
+Support Team

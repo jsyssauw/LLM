@@ -1,0 +1,19 @@
+Ticket ID: ticket_1929
+Subject: Häufige Abstürze von Adobe Photoshop 2024 auf macOS
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+Ich schreibe, um häufige Abstürze zu melden, die ich mit Adobe Photoshop 2024 während meiner Grafikdesign-Aufgaben auf meinem macOS-System erlebe. Dieses Problem beeinträchtigt erheblich meinen Arbeitsablauf und meine Produktivität.
+
+Ich würde jede Unterstützung oder Anleitung, die Sie anbieten können, sehr schätzen, um dieses Problem umgehend zu lösen. Meine Kontodaten sind <acc_num>.
+
+Vielen Dank für Ihre Aufmerksamkeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+Ich entschuldige mich für die Unannehmlichkeiten, die Sie mit Adobe Photoshop 2024 haben. Bitte stellen Sie sicher, dass Ihr macOS und Photoshop auf die neuesten Versionen aktualisiert sind. Versuchen Sie, die Photoshop-Einstellungen zurückzusetzen, indem Sie beim Starten der Anwendung die Tasten Command + Option + Shift gedrückt halten. Wenn das Problem weiterhin besteht, wenden Sie sich bitte direkt an den Adobe-Support für weitere Unterstützung. Ihre Kontodaten sind als <acc_num> vermerkt.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

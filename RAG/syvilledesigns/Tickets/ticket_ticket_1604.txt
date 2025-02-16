@@ -1,0 +1,31 @@
+Ticket ID: ticket_1604
+Subject: Issues with MacBook Air M1 Crashing
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am reaching out to discuss a recurring issue I've been encountering with my MacBook Air M1, which I purchased from your store in March this year. During video calls, the laptop unexpectedly crashes, particularly when using popular conferencing applications like Zoom, Microsoft Teams, and Google Meet.
+
+This issue severely hampers my ability to conduct daily meetings and collaborate effectively in a professional setting, impacting my productivity and performance. I've attempted various troubleshooting measures, including resetting the applications, updating to the latest macOS version, and even re-installing the operating system, yet the issue persists.
+
+Given that this is a critical tool for my business and personal communication, I am keen to find a resolution at the earliest. Could you advise if there have been similar reports and whether there is an updated patch or hardware solution available? Additionally, would a warranty inspection or a replacement be considered under the given circumstances?
+
+Thank you for your attention to this matter, and I await your prompt response.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and detailing the issue with your MacBook Air M1. We understand how disruptive this can be to your daily activities.
+
+From your description, it seems that despite taking extensive troubleshooting steps, the crashing issue persists. We have noted this issue with certain applications that utilize high resources. 
+
+To proceed, please bring your MacBook to our store for a warranty evaluation. If applicable, our technicians will perform a detailed inspection to identify whether the issue is software-related or if a hardware replacement is necessary.
+
+In the meantime, you can ensure that you’ve updated Zoom, Microsoft Teams, and Google Meet to the latest versions available, as each update might contain patches specific to crashes and stability improvements. 
+
+Thank you for your understanding and patience. Please let us know your availability for visiting our store or if you require any further assistance.
+
+Best regards,
+
+Tech Online Store Customer Support

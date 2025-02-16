@@ -1,0 +1,25 @@
+Ticket ID: ticket_2309
+Subject: Problemas con MacBook Air M1 después de las actualizaciones recientes
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte,
+
+Estoy escribiendo para informar que estoy experimentando una desaceleración significativa en el rendimiento de mi MacBook Air M1 después de las actualizaciones de software recientes. Había estado funcionando sin problemas hasta estas actualizaciones. Sospecho que el problema podría estar relacionado con estas actualizaciones. ¿Pueden ayudarme con los pasos de solución de problemas o posibles soluciones para resolver este problema de rendimiento?
+
+Gracias por su apoyo.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con respecto a los problemas de rendimiento de tu MacBook Air M1 después de la actualización reciente. Aquí hay algunos pasos que puedes intentar para resolver la desaceleración:
+
+1. Reinicia tu MacBook para eliminar procesos temporales.
+2. Verifica si hay actualizaciones adicionales que puedan abordar este problema: Menú de Apple > Preferencias del Sistema > Actualización de Software.
+3. Restablece el SMC (Controlador de Gestión del Sistema) y NVRAM/PRAM.
+4. Gestiona los elementos de inicio para evitar que aplicaciones innecesarias se inicien al arrancar: Preferencias del Sistema > Usuarios y Grupos > Elementos de inicio.
+5. Considera liberar espacio en caso de que tu almacenamiento esté casi lleno.
+
+Si estos pasos no ayudan, no dudes en contactarnos nuevamente. ¡Estamos aquí para apoyarte!
+
+Saludos cordiales,
+Equipo de Service Desk

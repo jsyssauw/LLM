@@ -1,0 +1,37 @@
+Ticket ID: ticket_1100
+Subject: Asistencia requerida: Resolución de discrepancias de facturación de AWS
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte de servicios de TI,
+
+Espero que este correo le encuentre bien. Le escribo para llamar su atención sobre un problema que nuestro cliente, <name>, ha estado experimentando con el sistema de facturación de AWS proporcionado a través del Servicio de Gestión de AWS. Hemos observado algunas discrepancias en su informe de asignación de costos mensual y necesitamos su asistencia para resolver estas preocupaciones a la mayor brevedad.
+
+Nuestro cliente ha informado que los cargos reflejados no se alinean completamente con su uso real del mes. Han señalado instancias específicas en las que los recursos estaban subutilizados, pero los gastos eran más altos de lo estimado. Sospechamos que podría haber un error en el ciclo de facturación o posiblemente un error de cálculo en las métricas de asignación de recursos.
+
+En un intento por abordar esto internamente, hemos revisado los informes de uso y verificado con los detalles de facturación proporcionados. Sin embargo, los gastos descritos continúan apareciendo inconsistentes. Por lo tanto, solicitamos amablemente su experiencia en la auditoría de los estados de cuenta de facturación actuales y la identificación de cualquier anomalía que pueda haber resultado de errores del sistema o posiblemente problemas de entrada de datos.
+
+Dada la importancia de una facturación precisa para la planificación y el presupuesto, nuestro cliente está ansioso por recibir un informe revisado de asignación de costos. Agradeceríamos si pudiera acelerar esta consulta y proporcionarnos soluciones o medidas compensatorias donde sea aplicable para abordar cualquier cargo no justificado.
+
+Para su referencia, el número de cuenta de AWS del cliente es <acc_num>. No dude en comunicarse conmigo a <email> o por teléfono al <tel_num> para cualquier aclaración adicional necesaria para facilitar el proceso de resolución.
+
+Gracias por su pronta atención a este asunto. Esperamos su rápida respuesta.
+
+Atentamente,
+
+<name>
+Coordinador de Servicios de TI
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con nosotros sobre las discrepancias de facturación que su cliente está experimentando con AWS. Entendemos la importancia de una facturación precisa y estamos aquí para ayudarle de forma rápida.
+
+Realizaremos una auditoría exhaustiva de los estados de cuenta de facturación y el uso de la cuenta para identificar cualquier discrepancia. Por favor, permítanos un tiempo para investigar el asunto y aceleraremos el proceso para asegurarnos de que su cliente reciba pronto un informe de asignación de costos revisado y preciso.
+
+Si encontramos alguna inexactitud en la facturación, ciertamente propondremos correcciones o medidas compensatorias para abordar cualquier cargo injustificado.
+
+Para asistencia inmediata o actualizaciones, contácteme directamente al <tel_num> o por correo electrónico a <email>.
+
+Agradecemos su paciencia en este asunto y le mantendremos informado de nuestro progreso.
+
+Atentamente,
+
+<name>
+Agente del Servicio de Atención

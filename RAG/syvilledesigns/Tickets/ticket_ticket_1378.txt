@@ -1,0 +1,5 @@
+Ticket ID: ticket_1378
+Subject: Frequent Disconnections and Crashes
+Incident Type: Incident
+Customer Issue: Customer reports frequent disconnections and crashes during video meetings using Zoom 5.11.0. Please investigate. Thank you.
+Customer Service answer: We'll investigate the issue with Zoom 5.11.0. Meanwhile, ensure you're using the latest version and check your internet connection. Thank you.

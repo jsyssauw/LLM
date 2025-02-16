@@ -1,0 +1,41 @@
+Ticket ID: ticket_935
+Subject: High CPU Usage Issue: Dell XPS 13 9310
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to bring to your attention a critical issue I am experiencing with my Dell XPS 13 9310 laptop purchased from your Tech Online Store. The device exhibits consistently high CPU usage, even during light tasks, resulting in system overheating, which makes it uncomfortable and concerning to use for extended periods. Additionally, this high CPU activity has led to random shutdowns, severely impacting the performance and reliability I expect from a high-end model.
+
+The laptop, despite recent updates and minimal software installations, struggles to maintain optimal performance. This situation is causing significant distress, as it affects both productivity and extends downtime, neither of which is acceptable.
+
+Given the nature of this issue, I would appreciate it if you could provide guidance on potential fixes or recommendations on how to proceed, including an evaluation for a possible repair or replacement under warranty. This defect heavily impacts my user experience, necessitating a timely resolution.
+
+I look forward to your prompt response to help resolve this issue. Thank you for your understanding and assistance.
+
+Best regards,
+
+<name> 
+<email_address> 
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this matter to our attention. I'm sorry to hear about the issues you're experiencing with your Dell XPS 13 9310.
+
+To address high CPU usage, please try the following steps:
+
+1. **Check Background Processes:** Ensure unnecessary background processes are disabled. You can do this through Task Manager.
+2. **Run System Diagnostics:** Use Dell SupportAssist to run diagnostics and check for hardware issues.
+3. **Cooling and Ventilation:** Make sure the laptop is on a hard, flat surface for optimal airflow.
+4. **BIOS/Driver Updates:** Verify that all drivers and BIOS are up to date by visiting Dell's official support page.
+
+If the problem persists after these steps, I recommend scheduling a service under your warranty. Our technicians will evaluate your device for a potential repair or replacement solution.
+
+Please reach out directly to our technical support team at <customer_support_email> or call us at our helpline <support_tel_num> for further assistance. 
+
+We're here to resolve this issue promptly so you can get back to uninterrupted productivity. 
+
+Thank you for your patience and cooperation.
+
+Best regards,
+
+Customer Support Team
+Tech Online Store

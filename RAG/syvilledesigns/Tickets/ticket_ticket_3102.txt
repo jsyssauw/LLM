@@ -1,0 +1,15 @@
+Ticket ID: ticket_3102
+Subject: Assistance urgente requise pour des pannes logicielles critiques
+Incident Type: Incident
+Customer Issue: Chère entreprise de conseil en informatique,  
+
+Notre client, <name>, a signalé des pannes intermittentes affectant la stabilité du serveur en raison de votre service de conseil en informatique. Nous demandons aimablement une consultation immédiate pour évaluer et résoudre les problèmes en cours. Veuillez contacter <name> au <tel_num>.  
+
+Merci.
+Customer Service answer: Cher client,  
+
+Merci de nous avoir contactés. Nous comprenons l'urgence de traiter les pannes de serveur intermittentes affectant le système de votre client. Notre équipe examine actuellement la situation et priorisera la résolution de ces problèmes. Un consultant informatique contactera <name> au <tel_num> sous peu pour organiser une consultation et travailler à une solution rapide. Merci de votre patience.  
+
+Cordialement,  
+
+L'équipe de support de l'entreprise de conseil en informatique

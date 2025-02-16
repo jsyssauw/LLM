@@ -1,0 +1,18 @@
+Ticket ID: ticket_1017
+Subject: Experiencing Frequent Disconnections with Zoom 5.11.0
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team, I hope this message finds you well. I am writing to express my concern regarding the Zoom 5.11.0 software, which I purchased from your Tech Online Store. Over the past weeks, I have experienced frequent disconnections during video calls, severely impacting my user experience and productivity. I have tried troubleshooting usual suspects like internet speed and device compatibility, to no avail. My attempts to resolve this by upgrading to a newer Zoom version or altering settings have been unsuccessful. I would appreciate your guidance on this matter or any possible fixes to improve the stability of the video calls. Thank you for your prompt response. Sincerely, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this issue to our attention. I'm sorry to hear about the disconnection problems you're having with Zoom 5.11.0. To help improve the stability of your video calls, I suggest the following steps:
+
+1. Ensure your Zoom software is updated to the latest version available, as it may contain fixes for known issues.
+2. Check for any pending updates for your device's operating system and apply them.
+3. Disable background applications that may consume bandwidth during your calls, as these can affect connection stability.
+4. Test a wired internet connection, if possible, to rule out Wi-Fi signal issues.
+5. Adjust Zoom's video settings to a lower resolution to reduce bandwidth usage.
+
+If the problem persists after these steps, you might want to consider reaching out to Zoom's official support for more detailed troubleshooting, as they might have specific guidance for their products. Please feel free to contact us if you need further assistance.
+
+Best regards,
+Tech Online Store Support Team

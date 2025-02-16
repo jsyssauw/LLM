@@ -1,0 +1,5 @@
+Ticket ID: ticket_203
+Subject: Pobre duración de la batería en MacBook Air M1
+Incident Type: Problem
+Customer Issue: Estimado soporte de Tech Online Store, estoy escribiendo para informar sobre una disminución significativa en la duración de la batería de mi MacBook Air M1 después de la última actualización. Me gustaría solicitar asistencia para resolver este problema. Mi número de cuenta es <acc_num>. Gracias, <name>, <tel_num>
+Customer Service answer: Estimado <name>, gracias por ponerte en contacto. Recomendamos restablecer el Controlador de Gestión del Sistema (SMC) y realizar un chequeo de salud de la batería. Si el problema persiste, por favor visita nuestro centro de soporte o contáctanos directamente para más asistencia. Saludos, Soporte de Tech Online Store.

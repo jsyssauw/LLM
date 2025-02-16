@@ -1,0 +1,5 @@
+Ticket ID: ticket_3969
+Subject: Urgente: Problema de desligamento inesperado com MacBook Air M1
+Incident Type: Request
+Customer Issue: Meu MacBook Air M1 está desligando com frequência.
+Customer Service answer: Por favor, redefina o SMC e atualize o macOS. Se persistir, entre em contato com o suporte da Apple.

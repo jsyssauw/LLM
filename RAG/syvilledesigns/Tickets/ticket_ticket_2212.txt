@@ -1,0 +1,17 @@
+Ticket ID: ticket_2212
+Subject: nan
+Incident Type: Request
+Customer Issue: Bonjour <name>,
+
+J'ai besoin d'assistance pour mettre en place Windows 11 Pro sur mon dispositif. Pourriez-vous me fournir des directives précises ou planifier un appel de soutien afin de m'aider à résoudre cette préoccupation ?
+
+Merci,
+<name>
+Numéro de compte : <acc_num>
+Téléphone : <tel_num>
+Customer Service answer: Bonjour <name>,
+
+Nous vous remercions de votre prise de contact. Nous vous prions de bien vouloir appeler notre ligne d’assistance au <tel_num> pour organiser un appel de soutien concernant l’installation de Windows 11 Pro, ou de visiter notre site internet pour accéder à des instructions d’installation détaillées.
+
+Sincères salutations,
+L’équipe de support

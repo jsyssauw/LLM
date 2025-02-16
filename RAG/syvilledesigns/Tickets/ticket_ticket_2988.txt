@@ -1,0 +1,33 @@
+Ticket ID: ticket_2988
+Subject: Reinicio inesperado del router Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Les escribo para informarles sobre un problema significativo que encontramos con uno de sus productos durante el horario laboral regular. Nuestro router Cisco ISR4331 experimentó un reinicio inesperado, lo que resultó en una interrupción de la red. Esta situación ha comprometido nuestras operaciones, y una mayor exacerbación de tales problemas puede ser perjudicial para nuestra productividad empresarial.
+
+Dado que este es un dispositivo empresarial seguro y de alto rendimiento, nos sorprendió bastante su mal funcionamiento. Creemos que todo nuestro equipo de red debería proporcionar no solo estabilidad, sino también confiabilidad, especialmente durante las horas pico de negocio.
+
+¿Podrían abordar las siguientes preocupaciones como prioridad? En primer lugar, necesitamos una investigación sobre qué causó este reinicio imprevisto. En segundo lugar, solicitamos orientación sobre cómo prevenir tales ocurrencias en el futuro. Asegurar la estabilidad de nuestra red es crucial para mantener nuestro impulso operacional.
+
+Confiamos en que su equipo proporcionará asistencia oportuna para resolver este asunto de manera integral y ayudarnos a restablecer la normalidad en nuestra red. Si necesitan más información, por favor contáctenme directamente al correo electrónico de <name> o llámeme al <tel_num>.
+
+Gracias por su pronta atención a este asunto urgente.
+
+Atentamente,
+
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con nosotros e informarnos sobre el reinicio inesperado de su router Cisco ISR4331. Entendemos la naturaleza crítica de su situación y el impacto que ha tenido en sus operaciones.
+
+En primer lugar, le aseguramos que iniciaremos de inmediato una investigación para determinar la causa del reinicio inesperado. Nuestro equipo técnico analizará los registros del sistema y cualquier cambio reciente para identificar problemas potenciales. En segundo lugar, le proporcionaremos recomendaciones y mejores prácticas para prevenir tales ocurrencias en el futuro, asegurando la operación estable de su red.
+
+Por favor, asegúrese de que el software de su router esté actualizado con los últimos parches, ya que este es un paso vital para mantener la estabilidad del sistema.
+
+Nuestro equipo está comprometido a resolver este problema lo antes posible. Tendrá noticias nuestras en breve con las conclusiones iniciales y las soluciones propuestas. Si necesita asistencia inmediata, no dude en comunicarse con nuestro equipo de soporte técnico.
+
+Gracias por su paciencia y comprensión.
+
+Atentamente,
+Equipo de soporte al cliente

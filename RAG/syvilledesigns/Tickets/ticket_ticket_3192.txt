@@ -1,0 +1,35 @@
+Ticket ID: ticket_3192
+Subject: Problemas de Slack 4.23.0
+Incident Type: Incident
+Customer Issue: Estimado Soporte de Servicios de TI,
+
+Les escribo para informarles sobre varios problemas que he estado experimentando con la aplicación Slack 4.23.0. Desde que actualicé a esta versión, he encontrado dificultades significativas que están afectando mi flujo de trabajo.
+
+En primer lugar, enviar mensajes ha sido problemático. Los mensajes o no se envían en absoluto o se envían con un considerable retraso, lo que interrumpe las comunicaciones del equipo. Además, estoy experimentando desconexiones frecuentes del servidor, lo que requiere que me reconecte para continuar usando la aplicación. Este problema interrumpe las conversaciones en curso y causa frustración innecesaria.
+
+Además, hay alertas de notificación erráticas que no parecen corresponder con la actividad real. A menudo, recibo alertas de mensajes que no aparecen al revisar, o, por el contrario, no recibo alertas de nuevos mensajes. Esta inconsistencia está dificultando el seguimiento de las actualizaciones importantes en tiempo real.
+
+Agradecería que su equipo pudiera investigar estos problemas y proporcionar una solución o pasos recomendados. No dude en contactarme al <tel_num> si necesita más información sobre los problemas.
+
+Gracias por su atención.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto y por informar sobre estos problemas. Entendemos lo crucial que es Slack para su flujo de trabajo y comunicación.
+
+Los problemas que está experimentando con el envío de mensajes, las desconexiones del servidor y las notificaciones en Slack 4.23.0 son ciertamente preocupantes. Aquí hay algunos pasos que podría intentar inicialmente y que podrían ayudar:
+
+1. Verifique su conexión a internet para asegurar la estabilidad, ya que las desconexiones podrían estar relacionadas.
+2. Borra la caché de Slack yendo a Ayuda > Solución de Problemas > Borrar Caché y Reiniciar.
+3. Asegúrese de que su sistema operativo y la aplicación Slack estén actualizados con los últimos parches.
+4. Intente reinstalar la aplicación si los problemas persisten.
+
+Si estos pasos no mejoran la situación, háganoslo saber y escalaremos el problema a nuestro equipo técnico para una investigación adicional.
+
+No dude en contactar a los Servicios de TI directamente al <tel_num> si necesita asistencia inmediata.
+
+Atentamente,
+El equipo de Soporte de Servicios de TI

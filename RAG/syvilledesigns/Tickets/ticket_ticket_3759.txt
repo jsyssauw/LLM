@@ -1,0 +1,29 @@
+Ticket ID: ticket_3759
+Subject: Dringend: Datenbankdienstproblem
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich schreibe, um ein erhebliches Problem mit unseren Datenbankdiensten zu melden, das den Zugriff der Kunden beeinträchtigt und zu schweren Störungen in den Abläufen in unserem Unternehmen führt. Wir erleben derzeit einen Ausfall mit der PostgreSQL 14.3-Datenbank, die für unsere täglichen Abläufe und die Kundenservicebereitstellung von entscheidender Bedeutung ist.
+
+Es scheint, dass der Dienst heute gegen 9:00 Uhr nicht mehr verfügbar wurde, und trotz intensiver interner Bemühungen, das Problem zu lösen, besteht das Problem weiterhin. Dies hat dazu geführt, dass wichtige Anwendungen nicht mehr funktionieren, und wir sind nicht in der Lage, Kundenanfragen effizient zu erfüllen. Infolgedessen sind unsere Geschäftsabläufe auf vielen Ebenen erheblich gestört.
+
+Wir benötigen sofortige Unterstützung von Ihrem technischen Support-Team, um die Ursache dieses Ausfalls zu identifizieren und eine schnelle Lösung zu ermöglichen. Ich bitte Sie, diese Angelegenheit mit größter Dringlichkeit zu behandeln, da jede Minute Verzögerung unser Geschäft und die Beziehungen zu unseren Kunden negativ beeinträchtigt.
+
+Vielen Dank für Ihre schnelle Aufmerksamkeit. Bitte kontaktieren Sie mich unter <tel_num> oder antworten Sie auf diese E-Mail, wann immer es Ihnen möglich ist. Die Lösung dieses Problems ist von größter Bedeutung.
+
+Mit freundlichen Grüßen,
+
+<name> <acc_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns wegen des Problems mit der PostgreSQL 14.3-Datenbank kontaktiert haben. Wir verstehen die Dringlichkeit, diesen Ausfall zu beheben, da er Auswirkungen auf Ihre Abläufe und Kundenservices hat.
+
+Unser technisches Support-Team priorisiert Ihren Fall und wird umgehend eine Untersuchung einleiten, um das Problem so schnell wie möglich zu identifizieren und zu beheben. Wir werden sicherstellen, dass alle notwendigen Ressourcen bereitgestellt werden, um die Wiederherstellung Ihres Datenbankdienstes zu beschleunigen.
+
+Bitte seien Sie versichert, dass wir uns dafür einsetzen, weitere Störungen für Ihr Geschäft zu minimieren. Wir werden Sie über den Fortschritt auf dem Laufenden halten und Sie bei Bedarf unter <tel_num> kontaktieren.
+
+Vielen Dank für Ihre Geduld und Zusammenarbeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+Kundenserviceteam

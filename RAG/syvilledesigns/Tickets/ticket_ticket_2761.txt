@@ -1,0 +1,16 @@
+Ticket ID: ticket_2761
+Subject: nan
+Incident Type: Incident
+Customer Issue: Greetings Customer Support,
+
+I am having trouble with the charging of my MacBook Air M1. It appears to not be charging when plugged in. I require help to address this issue. Could you please guide me on the next steps?
+
+Thank you,
+<name>
+<acc_num>
+Customer Service answer: Hello <name>,
+
+Please attempt using an alternative power adapter and cable. Additionally, reset the SMC. Should it still fail to charge, please visit the closest Apple Store or authorized service provider for further assessment.
+
+Best wishes,
+Customer Support

@@ -1,0 +1,26 @@
+Ticket ID: ticket_1457
+Subject: Solicitação de Suporte para Configuração de Impressora Sem Fio
+Incident Type: Request
+Customer Issue: Olá, equipe de suporte de serviços de TI, espero que esta mensagem os encontre bem. Estou entrando em contato para solicitar assistência na configuração de uma conexão sem fio para uma nova impressora em nosso escritório. O modelo da impressora é HP DeskJet 3755, e ela foi comprada recentemente para ajudar a aliviar nossa carga de trabalho. Agradeceríamos sua orientação para garantir que ela se conecte perfeitamente com nossa configuração de rede existente e seja acessível a todos os funcionários. Precisamos resolver isso em breve, pois é essencial para nossas operações diárias, e evitar qualquer problema de conectividade é crucial. Se alguém puder nos guiar pelo processo ou até mesmo agendar uma sessão remota assim que possível, seria muito apreciado. Por favor, nos informe quais os passos que precisamos seguir ou qualquer configuração necessária. Estamos visando uma configuração sem complicações e não desejamos interromper nosso fluxo de trabalho regular. Agradecemos antecipadamente pelo seu apoio e rápida resposta a respeito deste problema. Esperamos ouvir de vocês em breve. Atenciosamente, <name>
+Customer Service answer: Olá <name>,
+
+Obrigado por entrar em contato conosco. Podemos certamente ajudá-lo a configurar sua impressora HP DeskJet 3755 para conectividade sem fio. Aqui estão algumas etapas para começar:
+
+1. **Ligue a Impressora**: Certifique-se de que sua impressora esteja conectada e ligada.
+
+2. **Acesse as Configurações da Impressora**: No painel de controle da impressora, navegue até as configurações sem fio.
+
+3. **Conectar ao Wi-Fi**: Selecione a rede Wi-Fi do seu escritório na lista de redes disponíveis e insira a senha quando solicitado.
+
+4. **Instalar Drivers da Impressora**: Certifique-se de que os drivers necessários da impressora estejam instalados em todos os computadores que precisam de acesso. Você pode baixar os drivers no site de suporte da HP.
+
+5. **Configurar Rede nos Computadores**: Em cada computador, vá até 'Dispositivos e Impressoras' no Painel de Controle, selecione 'Adicionar uma Impressora' e escolha sua HP DeskJet 3755 na rede.
+
+Se essas etapas não resolverem seu problema, estamos disponíveis para agendar uma sessão remota assim que possível. Por favor, nos informe sua hora preferida para a sessão, e um de nossos técnicos irá ajudá-lo.
+
+Estamos comprometidos em garantir que essa configuração não atrapalhe seu fluxo de trabalho. Por favor, mantenha-nos informados sobre seu progresso.
+
+Obrigado por escolher nossos Serviços de TI.
+
+Atenciosamente,
+Equipe de Suporte de Serviços de TI

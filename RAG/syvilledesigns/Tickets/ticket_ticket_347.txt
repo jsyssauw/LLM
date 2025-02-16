@@ -1,0 +1,16 @@
+Ticket ID: ticket_347
+Subject: Problemas de conectividad inalámbrica de HP DeskJet 3755
+Incident Type: Problem
+Customer Issue: Estimado soporte de Tech Online Store,
+
+Estoy experimentando problemas con la conectividad inalámbrica de mi impresora HP DeskJet 3755. Consistentemente falla en conectarse de forma inalámbrica, lo que afecta significativamente mis tareas de impresión. ¿Podrían proporcionarme pasos de solución de problemas para abordar este problema? Agradeceré enormemente su asistencia para resolver esta inconveniencia a la brevedad posible.
+
+Gracias,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Para problemas inalámbricos con su HP DeskJet 3755, intente lo siguiente: 1) Reinicie su impresora, enrutador y computadora. 2) Asegúrese de que su impresora esté dentro del alcance del enrutador Wi-Fi. 3) Reconéctese ejecutando el Asistente de Configuración Inalámbrica en la impresora. 4) Verifique si su contraseña de red es correcta. Si el problema persiste, considere reinstalar el controlador de la impresora.
+
+Atentamente,
+Soporte de Tech Online Store

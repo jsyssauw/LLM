@@ -1,0 +1,10 @@
+Ticket ID: ticket_1738
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear Customer Support, my Canon PIXMA MG3620 printer isn’t connecting wirelessly, and I urgently need the color printing restored. Please assist in resolving this issue promptly.
+Customer Service answer: Dear <name>, 
+
+To resolve the wireless connection issue with your Canon PIXMA MG3620, please ensure your printer and router are on and connected to the same network. Restart both devices. Verify Wi-Fi settings are correct on the printer. If the issue persists, reinstall the printer drivers from Canon's website. Let us know if the problem continues.
+
+Best regards, 
+Customer Support

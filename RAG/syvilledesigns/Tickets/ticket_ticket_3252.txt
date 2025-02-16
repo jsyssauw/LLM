@@ -1,0 +1,31 @@
+Ticket ID: ticket_3252
+Subject: Otimização de Custos Urgente Necessária para o Serviço AWS
+Incident Type: Change
+Customer Issue: Caro Suporte ao Cliente dos Serviços de TI,
+
+Estou escrevendo para solicitar assistência imediata com nossa conta do Serviço de Gerenciamento AWS, <acc_num>. Recentemente, observamos picos de uso inesperados que levaram a aumentos significativos nos custos. Esses picos são preocupantes e acreditamos que há uma necessidade urgente de otimização de custos para mitigar o impacto financeiro.
+
+Nosso principal objetivo é entender o que está causando esse aumento e encontrar maneiras de reduzir os custos imediatamente. Agradeceria o seu conselho especializado e intervenção rápida para ajudar na identificação das questões subjacentes. Além disso, estamos buscando orientação sobre como ajustar nossa configuração AWS para controlar as despesas imprevistas.
+
+Por favor, priorize este pedido, pois a situação é crítica para nossas operações em andamento. Estamos ansiosos para ouvir suas recomendações ou marcar uma reunião com um de seus especialistas, se necessário.
+
+Agradecemos a sua atenção a este assunto urgente. Aguardamos sua resposta imediata. Você pode nos contatar diretamente pelo <tel_num>.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre a urgente questão de otimização de custos com sua conta do Serviço de Gerenciamento AWS. Entendemos a natureza crítica dessa situação e estamos comprometidos em ajudá-lo.
+
+Primeiro, recomendamos revisar seus relatórios de custos da AWS e as ferramentas de monitoramento para identificar quaisquer serviços específicos que estejam contribuindo para esses picos. Simultaneamente, nossa equipe irá investigar as causas potenciais para o uso inesperado e sugerir opções de otimização adaptadas às suas necessidades.
+
+Sugerimos agendar uma reunião com um de nossos especialistas em AWS para discutir estratégias detalhadas para redução imediata de custos. Eles podem ajudá-lo a configurar sua configuração AWS para evitar ocorrências futuras.
+
+Priorizamos seu pedido e entraremos em contato em breve para agendar uma consulta.
+
+Obrigado pela sua paciência e confiança.
+
+Atenciosamente,
+
+Equipe de Suporte ao Cliente dos Serviços de TI

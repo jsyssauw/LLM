@@ -1,0 +1,5 @@
+Ticket ID: ticket_2865
+Subject: Problèmes de performance Dell XPS
+Incident Type: Problem
+Customer Issue: Je rencontre des retards et j'ai besoin d'assistance.
+Customer Service answer: Veuillez redémarrer votre Dell XPS et vérifier s'il y a des mises à jour disponibles. Contactez-nous si le problème persiste.

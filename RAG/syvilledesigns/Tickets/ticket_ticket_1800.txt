@@ -1,0 +1,5 @@
+Ticket ID: ticket_1800
+Subject: nan
+Incident Type: Incident
+Customer Issue: Prezada equipe de suporte, recebi um display com defeito em meu Dell XPS 13 9310. Solicitamos a sua ajuda para resolver ou realizar a troca com urgência. Agradeço, <name>
+Customer Service answer: Prezado [Nome], lamentamos pela situação. Poderia nos enviar seu número de pedido e suas informações de contato para que possamos acelerar a resolução ou a troca? Agradecemos.

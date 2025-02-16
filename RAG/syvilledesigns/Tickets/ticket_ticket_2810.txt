@@ -1,0 +1,24 @@
+Ticket ID: ticket_2810
+Subject: Browserleistungsproblem
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich hoffe, diese E-Mail erreicht Sie wohl. Ich schreibe, um meine Bedenken bezüglich eines Problems mit Google Chrome Version 102.0 auszudrücken. Es scheint, dass der Browser jedes Mal unerwartet abstürzt, wenn ich versuche, mehrere Tabs gleichzeitig zu öffnen. Dieses Problem hat erhebliche Auswirkungen auf meinen Arbeitsablauf und, soweit ich gehört habe, haben viele andere Nutzer ähnliche Schwierigkeiten. Ich wäre Ihnen sehr dankbar für jegliche Unterstützung oder Lösungen, die Sie anbieten können, um dieses Problem so effizient wie möglich zu lösen. Vielen Dank für Ihre Aufmerksamkeit für dieses dringende Problem.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich wegen des Problems mit Google Chrome Version 102.0 an uns gewandt haben. Wir verstehen, dass dies Ihren Arbeitsablauf stören kann. Hier sind einige Schritte, die Sie ausprobieren können, um dieses Problem zu mindern:
+
+1. Überprüfen Sie, ob es ein Update gibt, um zu sehen, ob eine neuere Version von Chrome verfügbar ist, da Updates häufig Fehlerbehebungen enthalten.
+2. Löschen Sie den Browser-Cache und die Cookies, was die Leistung verbessern kann.
+3. Deaktivieren Sie alle unnötigen Erweiterungen, die möglicherweise einen Konflikt verursachen.
+4. Versuchen Sie, Chrome im Inkognito-Modus auszuführen, um zu sehen, ob das Problem weiterhin besteht, was darauf hindeuten kann, dass Erweiterungen beteiligt sind.
+5. Ziehen Sie in Betracht, ein neues Benutzerprofil in Chrome zu erstellen, um spezifische Probleme mit dem Profil auszuschließen.
+
+Wenn das Problem weiterhin besteht, lassen Sie es uns bitte wissen, und wir werden weitere Nachforschungen anstellen. Wir entschuldigen uns für die Unannehmlichkeiten und danken Ihnen für Ihre Geduld.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

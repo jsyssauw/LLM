@@ -1,0 +1,15 @@
+Ticket ID: ticket_2404
+Subject: Urgent: AWS Infrastructure Issue
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+We are experiencing a high-priority issue with our AWS Management Service that requires immediate attention. Immediate resolution is necessary to prevent potential downtime and optimize costs. Your prompt assistance on this matter is critical.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand the urgency of the situation with your AWS Management Service. Our team is investigating the issue and prioritizing its resolution to mitigate any potential downtime and manage costs effectively. We will update you on our progress shortly. Please let us know if there are any additional details or contacts we should be aware of. 
+
+Best regards,
+Service Desk Team

@@ -1,0 +1,26 @@
+Ticket ID: ticket_972
+Subject: Rücksendungsanfrage: Problem mit Tintentank-Leckage
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um eine Rücksendung des Epson EcoTank ET-4760 Druckers zu beantragen, den ich kürzlich in Ihrem Online-Shop gekauft habe. Leider traten beim ersten Einrichten des Druckers Probleme mit einem Tintentank-Leck auf, was zu erheblichen Unannehmlichkeiten führte.
+
+Die Produktdetails sind wie folgt:
+- Produkt: Epson EcoTank ET-4760
+- Bestellnummer: <order_number>
+
+Ich habe alle Fehlerbehebungs Schritte im Handbuch befolgt, aber das Problem besteht weiterhin. Ich würde dringend um Unterstützung bitten, um die Rücksendung zu bearbeiten und entweder einen Ersatz oder eine Rückerstattung zu erhalten.
+
+Bitte kontaktieren Sie mich so schnell wie möglich unter <tel_num>. Vielen Dank für Ihre schnelle Bearbeitung dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+wir bedauern, von dem Problem mit Ihrem Epson EcoTank ET-4760 Drucker zu hören. Um mit Ihrer Rücksendungsanfrage fortzufahren, stellen Sie bitte sicher, dass Sie das Produkt zur Rücksendung bereit haben und alle damit verbundenen Unterlagen. Wir werden den Rücksendeprozess einleiten und einen Ersatz oder eine Rückerstattung nach Ihrer Wahl erleichtern. Bitte erwarten Sie bald ein Update zu den Rücksendeanweisungen. Für sofortige Unterstützung können Sie uns unter [Kundenservice-Kontaktmöglichkeiten] erreichen.
+
+Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

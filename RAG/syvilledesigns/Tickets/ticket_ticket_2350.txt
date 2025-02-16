@@ -1,0 +1,5 @@
+Ticket ID: ticket_2350
+Subject: Asistencia Inmediata Requerida por Disrupción del Servicio de AWS
+Incident Type: Incident
+Customer Issue: La interrupción del servicio de AWS está causando tiempo de inactividad en la aplicación y requiere acción inmediata.
+Customer Service answer: Reconocemos la situación y estamos abordando actualmente la interrupción de AWS para restaurar su aplicación. Le mantendremos informado a medida que avancemos. Agradecemos su comprensión.

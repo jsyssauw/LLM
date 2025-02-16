@@ -1,0 +1,27 @@
+Ticket ID: ticket_2131
+Subject: Interrupciones frecuentes del servicio con Zoom
+Incident Type: Incident
+Customer Issue: Estimado soporte al cliente de Tech Online Store,
+
+Estoy escribiendo para expresar mi frustración con las interrupciones recurrentes del servicio que he estado experimentando durante las videoconferencias utilizando Zoom versión 5.11.0, que compré a través de su plataforma. Estas interrupciones han interrumpido notablemente varias reuniones virtuales en equipo de alta prioridad, afectando nuestra productividad general. Como usted puede entender, estas reuniones son cruciales para nuestras operaciones comerciales, y cualquier interrupción puede llevar a oportunidades perdidas y malas comunicaciones entre los miembros del equipo.
+
+El problema ocurre generalmente varias veces durante cualquier sesión de conferencia, causando un retraso significativo e incluso caídas completas en la conexión, a menudo requiriéndonos reiniciar la sesión. Esto no solo ha sido inconveniente, sino que ha llevado a considerables retrasos y ha puesto presión en nuestros horarios.
+
+He intentado resolver este problema asegurándome de que mi conexión a Internet sea estable e implementando todos los ajustes de configuración recomendados que encontré en foros de usuarios; sin embargo, el problema persiste. Considerando la naturaleza crítica de estas sesiones, solicito amablemente su asistencia para resolver el asunto lo antes posible.
+
+Agradecería que su equipo pudiera investigar este problema y ayudar a facilitar una experiencia de usuario más fluida. Gracias por su atención a este asunto. Espero su pronta respuesta.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactar al soporte al cliente de Tech Online Store. Lamento los inconvenientes causados por las interrupciones del servicio con Zoom versión 5.11.0.
+
+Para resolver este problema, asegúrese de tener la última versión de Zoom, ya que las actualizaciones a menudo incluyen correcciones de errores críticas y mejoras. Además, considere eliminar la congestión de red priorizando su dispositivo en la configuración de su enrutador, o intente conectarse directamente a través de Ethernet para una conexión más estable.
+
+Si el problema persiste, nuestro equipo técnico puede ayudarle más. Le animamos a proporcionar cualquier mensaje de error específico que reciba durante estas interrupciones. Entendemos la importancia de las reuniones ininterrumpidas para su negocio y estamos comprometidos a ayudarle a encontrar una solución rápidamente.
+
+Gracias por hacernos llegar este asunto. Estamos aquí para apoyarle y asegurarle una experiencia más fluida con Zoom.
+
+Saludos cordiales,
+Soporte al cliente de Tech Online Store

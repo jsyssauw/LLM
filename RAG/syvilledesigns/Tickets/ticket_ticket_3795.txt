@@ -1,0 +1,15 @@
+Ticket ID: ticket_3795
+Subject: Unterstützung erforderlich: Drucker-Verbindungsproblem
+Incident Type: Incident
+Customer Issue: Hallo Kundenservice,
+
+ich habe ein Problem mit meinem HP DeskJet 3755 Drucker. Er verbindet sich nicht mit dem WLAN, obwohl ich die Einrichtungshinweise befolge. Können Sie mir bei der Fehlersuche helfen, um dieses Problem zu lösen?
+
+Vielen Dank,
+<name>
+Customer Service answer: Hallo <name>,
+
+vielen Dank, dass Sie sich gemeldet haben. Um das Verbindungsproblem Ihres HP DeskJet 3755 Druckers zu beheben, versuchen Sie bitte Folgendes: 1) Starten Sie Ihren Drucker und Router neu. 2) Stellen Sie sicher, dass Ihr Drucker sich im Bereich des WLANs befindet. 3) Geben Sie die WLAN-Anmeldeinformationen genau ein. 4) Aktualisieren Sie die Druckertreiber. 5) Verwenden Sie das Diagnose-Tool HP Print and Scan Doctor. Wenn das Problem weiterhin besteht, lassen Sie es uns bitte wissen, damit wir Ihnen weiterhelfen können.
+
+Mit freundlichen Grüßen,
+Kundenservice

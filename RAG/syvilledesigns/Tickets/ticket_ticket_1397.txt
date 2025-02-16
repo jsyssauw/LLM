@@ -1,0 +1,28 @@
+Ticket ID: ticket_1397
+Subject: Solicitud de Cambio en las Configuraciones de AWS para Optimización
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte al cliente de IT Services,
+
+Espero que este mensaje los encuentre bien. Estoy escribiendo para solicitar modificaciones a nuestras configuraciones actuales de instancia de AWS bajo su Servicio de Gestión de AWS. Nuestro objetivo es lograr una mejor optimización de costos mientras mejoramos el rendimiento dentro de nuestra infraestructura de TI.
+
+Actualmente, parece que las configuraciones que tenemos podrían no estar totalmente alineadas con nuestros requisitos empresariales en evolución y las restricciones presupuestarias. Por lo tanto, estamos buscando orientación profesional para ajustar estas configuraciones y maximizar la eficiencia y reducir gastos.
+
+¿Podríamos organizar una consulta para discutir esto? Además, sería útil obtener un análisis de nuestros patrones de uso existentes junto con recomendaciones adaptadas a nuestras necesidades específicas.
+
+Gracias por su atención a este asunto.
+
+Atentamente,
+
+<name>
+<name>
+<email>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Entendemos la importancia de optimizar las configuraciones de AWS tanto para el rendimiento como para la eficiencia de costos. Estaríamos encantados de organizar una consulta para revisar su configuración actual de AWS y proporcionar recomendaciones adaptadas a las necesidades de su negocio.
+
+Por favor, háganos saber sus horarios disponibles para una reunión, y coordinaremos con uno de nuestros especialistas en AWS para ayudarle más. Además, realizaremos un análisis de sus patrones de uso existentes antes de la reunión para asegurarnos de aprovechar al máximo nuestra discusión.
+
+Esperamos poder ayudarle.
+
+Saludos cordiales,
+Equipo de Soporte al Cliente de IT Services

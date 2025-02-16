@@ -1,0 +1,24 @@
+Ticket ID: ticket_1194
+Subject: Solicitação de Orientação sobre Otimização de Custos da AWS
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte da Consultoria de TI,
+
+Espero que esta mensagem o encontre bem. Estou entrando em contato porque estou enfrentando desafios para otimizar os custos de vários serviços em nuvem da AWS. Preciso de orientação detalhada e solução de problemas em relação a essas questões. Especificamente, estou tendo dificuldades com o Serviço de Gerenciamento da AWS.
+
+Agradeceria muito sua assistência especializada na identificação de áreas para redução de custos e melhoria de eficiência. Por favor, deixe-me saber sua disponibilidade para uma sessão de consulta na sua primeira conveniência.
+
+Obrigado pelo seu suporte.
+
+Atenciosamente,
+<name> 
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre a otimização de custos da AWS. Estamos aqui para ajudá-lo com seus desafios no Serviço de Gerenciamento da AWS e identificar áreas onde você pode reduzir custos e melhorar a eficiência.
+
+Para prosseguir, por favor, informe-nos suas datas e horários preferidos para uma sessão de consulta. Estamos comprometidos em proporcionar a você a orientação detalhada e a solução de problemas que você precisa.
+
+Aguardamos ansiosamente para ajudá-lo mais.
+
+Atenciosamente,
+Time de Suporte da Consultoria de TI

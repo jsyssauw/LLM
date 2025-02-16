@@ -1,0 +1,5 @@
+Ticket ID: ticket_56
+Subject: Anfrage zum Rückgabeprozess für Drucker
+Incident Type: Request
+Customer Issue: Hallo, ich habe Probleme mit der drahtlosen Verbindung zu meinem HP DeskJet 3755 Drucker und möchte ihn zurückgeben. Könnten Sie mir bitte beim Rückgabeprozess behilflich sein? Ich schätze Ihre Unterstützung. Vielen Dank. Mit freundlichen Grüßen, <name>
+Customer Service answer: Hallo <name>, es tut mir leid zu hören, dass Sie Probleme mit Ihrem Drucker haben. Um eine Rückgabe einzuleiten, suchen Sie bitte Ihren Kaufbeleg oder die Bestellbestätigungsmail. Besuchen Sie dann den Rückgabebereich unserer Webseite und füllen Sie das Rückgabeantragsformular aus. Stellen Sie sicher, dass der Drucker vor dem Versand sicher verpackt ist. Wenn Sie weitere Unterstützung benötigen, können Sie sich gerne an unser Support-Team wenden. Vielen Dank, dass Sie sich an uns gewendet haben. Mit freundlichen Grüßen, [Your Name] Service Desk Team

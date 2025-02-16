@@ -1,0 +1,23 @@
+Ticket ID: ticket_3626
+Subject: Unterstützung benötigt: Verbindungsproblem mit Canon PIXMA MG3620
+Incident Type: Change
+Customer Issue: Hallo Support-Team,
+
+Ich habe Schwierigkeiten, eine Verbindung zu meinem Canon PIXMA MG3620 Drucker herzustellen. Könnten Sie mir bitte Anweisungen oder Schritte zur Behebung dieses Problems geben? Vielen Dank für Ihre Hilfe.
+
+Beste Grüße,
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Sehr geehrter <name>,
+
+Um die Verbindungsprobleme mit Ihrem Canon PIXMA MG3620 Drucker zu lösen, bitten wir Sie, folgende Schritte zu befolgen:
+
+1. Führen Sie einen Neustart Ihres Druckers sowie deines Routers durch.
+2. Überprüfen Sie, ob das WLAN des Druckers aktiviert ist.
+3. Versuchen Sie erneut, die Verbindung über die Canon PRINT Inkjet/SELPHY-App herzustellen.
+
+Falls Sie weitere Unterstützung benötigen, zögern Sie bitte nicht, uns zu kontaktieren.
+
+Mit besten Grüßen,
+Ihr Support-Team

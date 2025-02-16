@@ -1,0 +1,10 @@
+Ticket ID: ticket_93
+Subject: Billing discrepancy - Overcharged for IT consultation
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I noticed a discrepancy in my recent bill for the IT Consulting Service. I was overcharged for the server administration setup consultation. Please review my account and rectify this issue at your earliest convenience. Regards, <name>
+Customer Service answer: Dear <name>, 
+
+Thank you for bringing this to our attention. We apologize for any inconvenience caused. We will review your account and correct any discrepancies. You will be updated shortly.
+
+Best regards,
+Customer Support Team

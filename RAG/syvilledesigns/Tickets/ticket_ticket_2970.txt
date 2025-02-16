@@ -1,0 +1,10 @@
+Ticket ID: ticket_2970
+Subject: Problem mit Netzteil GS108
+Incident Type: Incident
+Customer Issue: Hallo,
+
+ich erlebe häufige Verbindungsunterbrechungen und nicht reagierende Ports an meinem Netgear Switch GS108, den ich letzten Monat gekauft habe. Bitte geben Sie mir Ratschläge zu den Fehlersuche-Schritten. Sie können mich über meine E-Mail erreichen, und meine Bestellnummer ist <acc_num>.
+
+Danke,
+<name>
+Customer Service answer: Hallo <name>, um Ihr GS108-Switch zu beheben: 1. Schalten Sie das Switch aus und wieder ein. 2. Stellen Sie sicher, dass die Kabel und Ports sicher sind. 3. Aktualisieren Sie die Switch-Firmware. Wenn die Probleme weiterhin bestehen, wenden Sie sich an den Netgear-Support. Halten Sie Ihre Bestellnummer bereit. Mit freundlichen Grüßen.

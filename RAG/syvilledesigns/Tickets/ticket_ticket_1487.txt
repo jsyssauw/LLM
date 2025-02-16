@@ -1,0 +1,20 @@
+Ticket ID: ticket_1487
+Subject: Login Issues with Microsoft Surface Pro 7
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Support,
+
+I hope this message finds you well. I am writing to report an issue I am experiencing with the Microsoft Surface Pro 7 tablet I purchased. The device has been consistently exhibiting boot issues, which result in login problems. As an important tool for my daily tasks, this disruption has significantly affected my productivity. I have attempted basic troubleshooting steps such as restarting the device, checking for software updates, and resetting the device; however, these efforts have not resolved the problem. I am reaching out to request guidance on more advanced troubleshooting steps or to explore the possibility of a repair or replacement under warranty. Please let me know the next steps to resolve this issue. My order number is <order_num> and my account number is <acc_num>. Thank you for your attention to this matter, and I look forward to your prompt response.
+
+Best regards,
+<name>
+Contact: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this to our attention. We're sorry to hear about the issues with your Microsoft Surface Pro 7. Since basic troubleshooting steps have not resolved the problem, we recommend trying a few advanced steps such as performing a system restore to revert to a previous stable state if possible. If the issue persists, it may be necessary to examine the device further.
+
+Given the impact on your productivity, we suggest that the next step would be to check the warranty status and consider sending the device in for repair or replacement. Please contact our support team at <support_tel_num> or visit our support site to initiate a service request with your order number <order_num> and account number <acc_num> handy.
+
+We're committed to resolving this issue promptly for you. Please let us know if there's anything more we can do to assist you.
+
+Best regards,
+Tech Online Store Support

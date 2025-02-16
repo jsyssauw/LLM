@@ -1,0 +1,18 @@
+Ticket ID: ticket_2685
+Subject: Experienciando Desconexões Frequentes com o Zoom 5.11.0
+Incident Type: Problem
+Customer Issue: Caro time de suporte ao cliente, espero que esta mensagem os encontre bem. Estou escrevendo para expressar minha preocupação em relação ao software Zoom 5.11.0, que comprei na sua loja online Tech. Nas últimas semanas, experimentei desconexões frequentes durante chamadas de vídeo, o que impactou severamente minha experiência de usuário e produtividade. Tentei solucionar problemas comuns, como velocidade de internet e compatibilidade do dispositivo, sem sucesso. Minhas tentativas de resolver isso atualizando para uma versão mais nova do Zoom ou alterando configurações foram infrutíferas. Agradeceria sua orientação sobre este assunto ou quaisquer soluções possíveis para melhorar a estabilidade das chamadas de vídeo. Obrigado pela sua resposta rápida. Atenciosamente, <name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato e trazer esse problema à nossa atenção. Sinto muito em saber sobre os problemas de desconexão que você está enfrentando com o Zoom 5.11.0. Para ajudar a melhorar a estabilidade das suas chamadas de vídeo, sugiro os seguintes passos:
+
+1. Certifique-se de que seu software Zoom esteja atualizado para a versão mais recente disponível, pois pode conter correções para problemas conhecidos.
+2. Verifique se há atualizações pendentes para o sistema operacional do seu dispositivo e aplique-as.
+3. Desative aplicativos em segundo plano que possam consumir largura de banda durante suas chamadas, pois eles podem afetar a estabilidade da conexão.
+4. Teste uma conexão de internet com fio, se possível, para descartar problemas de sinal Wi-Fi.
+5. Ajuste as configurações de vídeo do Zoom para uma resolução mais baixa para reduzir o uso de largura de banda.
+
+Se o problema persistir após esses passos, você pode considerar entrar em contato com o suporte oficial do Zoom para uma solução de problemas mais detalhada, pois eles podem ter orientações específicas para seus produtos. Sinta-se à vontade para nos contatar se precisar de mais assistência.
+
+Atenciosamente,
+Equipe de Suporte da Tech Online Store

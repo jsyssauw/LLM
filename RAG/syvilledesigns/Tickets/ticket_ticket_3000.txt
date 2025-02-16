@@ -1,0 +1,17 @@
+Ticket ID: ticket_3000
+Subject: Hilfe bei der Migrationsanfrage
+Incident Type: Change
+Customer Issue: Sehr geehrter Kundenservice,
+
+Unser Kunde, <name>, benötigt Hilfe bei der Migration von seinen kostenlosen Gmail-Konten zu Google Workspace Business Standard. Es ist wichtig, die Daten während dieses Prozesses zu behalten. Eine angemessene Betreuung und Unterstützung während dieses Übergangs wird geschätzt. Wir haben alle notwendigen Schritte skizziert, benötigen jedoch Ihre Fachkenntnis, um die Datenintegrität zu wahren und ein reibungsloses Benutzererlebnis zu gewährleisten. Bitte beraten Sie uns über die besten praktischen Vorgehensweisen und den erwarteten Zeitrahmen. Sie können mich direkt unter <tel_num> für weitere Details kontaktieren. Vielen Dank für Ihre Aufmerksamkeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Betreff: Re: Hilfe bei der Migrationsanfrage
+
+Lieber <name>,
+
+Danke, dass Sie sich wegen der Migration zu Google Workspace Business Standard gemeldet haben. Um die Datenintegrität und einen nahtlosen Übergang zu gewährleisten, empfehlen wir, vor Beginn des Migrationsprozesses alle Daten zu sichern. Nutzen Sie den Google Data Migration Service für den E-Mail-Transfer, profitieren Sie von Google Vault für die Datenaufbewahrung und verwalten Sie den Benutzerzugang effizient. Typischerweise kann der Migrationsprozess 1-3 Wochen dauern, abhängig vom Datenvolumen und der Anzahl der Nutzer. Für detaillierte Schritte und bewährte Verfahren beziehen Sie sich bitte auf die Migrationsleitfäden von Google und ziehen Sie in Betracht, Drittanbieter-Tools für spezifische Bedürfnisse zu verwenden. Unser Team steht Ihnen während des gesamten Prozesses zur Verfügung. Bitte lassen Sie uns wissen, ob Sie weitere Unterstützung benötigen, oder zögern Sie nicht, sich unter <tel_num> zu melden.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

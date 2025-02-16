@@ -1,0 +1,25 @@
+Ticket ID: ticket_3529
+Subject: Problema Urgente no Servidor
+Incident Type: Problem
+Customer Issue: Prezado Suporte ao Cliente,
+
+Estou escrevendo para expressar minha preocupação em relação a um problema de alta prioridade com a gestão de servidores e a integração do sistema de tickets em seu Serviço de Consultoria de TI. Este problema requer atenção imediata, pois impacta significativamente nosso tempo operacional e eficiência.
+
+Nossa empresa, <name> Corp, tem enfrentado dificuldades com a gestão de tickets e a disponibilidade do servidor desde a recente integração. O comportamento errático do sistema está causando atrasos e potenciais riscos à segurança que poderiam afetar gravemente nossos serviços aos clientes.
+
+Agradeceríamos se você pudesse priorizar esse problema e providenciar uma resolução rápida. Por favor, entre em contato comigo pelo <tel_num> ou envie um e-mail para <name@domain>.com para discutir isso em mais detalhes ou se mais informações forem necessárias de nossa parte.
+
+Obrigado pela sua atenção rápida a este assunto sério.
+
+Atenciosamente,
+<name>
+Customer Service answer: Prezado <name>,
+
+Obrigado por trazer este problema urgente do servidor à nossa atenção. Entendemos a natureza crítica da situação e seu impacto em suas operações. Nossa equipe técnica está priorizando este assunto e iniciará uma investigação completa imediatamente.
+
+Nós garantiremos comunicação com você pelo <tel_num> ou através de <name@domain>.com para discutir o progresso e coletar quaisquer informações adicionais necessárias. Fique tranquilo, estamos comprometidos em resolver essa questão de integração rapidamente para restaurar a estabilidade e segurança dos seus sistemas.
+
+Agradecemos sua paciência e compreensão.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

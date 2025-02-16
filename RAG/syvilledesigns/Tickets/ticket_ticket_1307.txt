@@ -1,0 +1,16 @@
+Ticket ID: ticket_1307
+Subject: Blauer Bildschirmfehler auf Dell XPS 13
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice des Tech Online Stores,
+
+ich erlebe einen blauen Bildschirmfehler auf meinem Dell XPS 13 9310 mit einer Hochleistungs-Konfiguration, die unter Windows 10 läuft. Bitte helfen Sie mir, dieses Problem so schnell wie möglich zu lösen.
+
+Mit freundlichen Grüßen,
+<name>
+<acc_num>
+Customer Service answer: Sehr geehrte/r <name>,
+
+es tut uns leid zu hören, dass Sie einen blauen Bildschirmfehler auf Ihrem Dell XPS 13 9310 haben. Bitte versuchen Sie, im Abgesicherten Modus neu zu starten und Ihre Treiber zu aktualisieren. Wenn das Problem weiterhin besteht, kontaktieren Sie uns bitte mit weiteren Details wie Fehlercodes.
+
+Mit freundlichen Grüßen,
+Kundenservice von Tech Online Store

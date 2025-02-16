@@ -1,0 +1,33 @@
+Ticket ID: ticket_2630
+Subject: Screen Sharing Issues in Zoom
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to bring to your attention a persistent problem we are experiencing with Zoom version 5.11.0. My team and I have encountered significant difficulties with the screen-sharing function during Zoom calls. This issue critically affects our collaboration efforts and overall productivity during online meetings. We heavily rely on screen sharing to go through complex documents and presentations collaboratively. The malfunctioning feature has caused delays and misunderstandings among team members. 
+
+I've already tried some initial troubleshooting steps such as resetting the application, ensuring the software is up to date, and verifying network conditions. However, these measures have not resolved the issue. I understand technology can be nuanced, and occasional bugs happen, yet I would greatly appreciate guidance on any additional steps we can take to address this matter effectively.
+
+Could you please provide some technical assistance to help resolve this problem? We look forward to any solutions or workarounds you might suggest.
+
+Thank you for your support.
+
+Best regards,
+
+<name>
+<tel_num>
+<email>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about the screen sharing issue in Zoom version 5.11.0. I'm sorry to hear about the difficulties your team is experiencing. To address this, please ensure you have the latest Zoom update as minor releases can contain essential fixes. Also, consider:
+
+1. Checking Zoom's settings for screen sharing permissions and adjusting your computer’s graphics settings.
+2. Disabling any unnecessary applications that might interfere with Zoom.
+3. As a workaround, asking other participants to share screens to see if issues persist.
+4. Verifying any active firewall or antivirus configurations aren't blocking Zoom functions.
+
+If the issue remains unresolved, please provide specific error messages or conditions during occurrences to assist further. 
+
+Feel free to reach out if you need any more help. 
+
+Best regards,
+Customer Support Team

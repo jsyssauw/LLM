@@ -1,0 +1,23 @@
+Ticket ID: ticket_3593
+Subject: Minor Glitch with Surface Pro 7 Keyboard
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Support Team,
+
+I am reaching out to report a minor glitch I have encountered while using the detachable keyboard on my Microsoft Surface Pro 7. The issue appears when the device is running on low power. During these moments, the keyboard sometimes disconnects or becomes unresponsive. This usually resolves after the battery is charged, but it can be quite inconvenient.
+
+Could you please advise on how to address this issue? Any guidance would be most appreciated.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about your Surface Pro 7 keyboard issue. This inconvenience often occurs due to power-saving settings. To help resolve it, try updating your Surface and keyboard drivers by going to Settings > Update & Security. Additionally, check the power settings: ensure that the "USB Selective Suspend Setting" is disabled under Control Panel > Power Options > Change Plan Settings > Advanced Power Settings. 
+
+If the problem persists, you can perform a two-button shutdown by holding the power button for 30 seconds and then pressing the power and volume-up button for 15 seconds. This might help reset the connections.
+
+Please let us know if you need further assistance.
+
+Best regards,
+Tech Online Store Support Team

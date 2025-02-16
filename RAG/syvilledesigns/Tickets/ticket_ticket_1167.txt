@@ -1,0 +1,30 @@
+Ticket ID: ticket_1167
+Subject: Perturbations fréquentes des services cloud
+Incident Type: Incident
+Customer Issue: Cher équipe de support client,
+
+Je vous écris pour exprimer ma préoccupation concernant les perturbations fréquentes que nous avons rencontrées avec les serveurs cloud gérés, en particulier en ce qui concerne le Service de Gestion AWS fourni par votre entreprise. Ces interruptions affectent gravement nos flux opérationnels critiques et entraînent des retards répétés pour nos utilisateurs finaux. En tant qu'entreprise qui dépend fortement de ces services pour des fonctions quotidiennes sans faille, toute perturbation entraîne des contretemps opérationnels significatifs et une insatisfaction de la part de nos clients.
+
+La fiabilité de nos opérations dépend d'une disponibilité de service stable et fiable, et ces problèmes persistants underminent notre capacité à atteindre nos objectifs et nos engagements de service envers nos propres clients. J'apprécierais beaucoup que vous puissiez examiner ce problème de toute urgence, car le maintien d'une continuité de service élevée est crucial pour nous.
+
+Pourriez-vous s'il vous plaît fournir des informations sur les causes profondes de ces interruptions, les délais potentiels de résolution, ou toute mesure que votre équipe prend déjà pour atténuer ces problèmes? Comprendre ces facteurs nous aidera à mieux gérer nos processus internes et à établir des attentes réalistes avec nos parties prenantes.
+
+Merci pour votre attention à cette affaire urgente. J'attends avec impatience votre réponse rapide, décrivant comment vous prévoyez de résoudre ces pannes et toute solution provisoire disponible.
+
+Cordialement,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés et d'avoir porté ce problème à notre attention. Nous nous excusons pour les désagréments que ces perturbations ont causés à vos opérations. Notre équipe enquête actuellement sur les causes profondes des interruptions avec le Service de Gestion AWS pour garantir une résolution rapide et éviter des occurrences futures.
+
+Nous travaillons assidûment à la mise en œuvre des mesures nécessaires pour rétablir rapidement un service stable. En attendant, nous coordonnons avec le personnel clé pour explorer des solutions provisoires pour soutenir vos besoins opérationnels.
+
+Nous vous tiendrons informé avec un rapport d'avancement détaillé et des délais potentiels de résolution sous peu. Nous apprécions votre patience et votre compréhension pendant que nous nous attaquons à cette question avec l'urgence qu'elle mérite.
+
+Veuillez nous faire savoir si nous pouvons faire quelque chose de plus pour vous aider pendant cette période.
+
+Cordialement,
+L'équipe de support client

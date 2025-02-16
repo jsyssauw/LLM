@@ -1,0 +1,21 @@
+Ticket ID: ticket_3815
+Subject: Urgent: Resolve AWS Management Service Latency Issue
+Incident Type: Incident
+Customer Issue: Dear IT Services Customer Support,
+
+We are experiencing a severe incident with the AWS Management Service, specifically related to scaling our infrastructure, which is causing high latency in our deployed applications. This severely impacts performance and requires immediate attention and resolution. Please prioritize this issue and provide an update on the resolution progress as soon as possible.
+
+Thank you for your quick response.
+
+Best regards,
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the latency issue with the AWS Management Service. We understand the urgency and impact on your applications and are prioritizing this matter accordingly. Our technical team is currently investigating the issue to identify and resolve the root cause. We will provide you with updates on the resolution progress as quickly as possible.
+
+Thank you for your patience and understanding.
+
+Best regards,
+Service Desk Team

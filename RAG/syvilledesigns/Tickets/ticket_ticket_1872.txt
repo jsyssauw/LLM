@@ -1,0 +1,37 @@
+Ticket ID: ticket_1872
+Subject: Assistência Necessária: Configuração da Epson EcoTank ET-4760
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente,
+
+Espero que esta mensagem o encontre bem. Estou entrando em contato para solicitar assistência na configuração da minha nova impressora sem fio Epson EcoTank ET-4760 para conectar com minha nova rede doméstica. Após várias tentativas de configurar a impressora usando as instruções de configuração fornecidas, não consigo conectar o dispositivo com sucesso à minha rede Wi-Fi.
+
+O processo parece encontrar problemas durante a etapa de configuração da rede. Certifiquei-me de que estou seguindo as instruções conforme descrito no manual do usuário, e minha rede Wi-Fi está funcionando corretamente com outros dispositivos. No entanto, a impressora não reconhece nem se conecta à rede como esperado.
+
+Diante desses desafios, eu apreciaria qualquer orientação ou conselho de solução de problemas que você pudesse fornecer para resolver esse problema. Especificamente, gostaria de saber se existem armadilhas comuns das quais eu deva estar ciente ao configurar este modelo, ou se atualizações de software adicionais ou configurações são geralmente necessárias para um desempenho ideal.
+
+Além disso, se houver uma opção para uma sessão de suporte ao vivo ou um tutorial detalhado, eu estaria aberto a agendar um horário com um técnico para uma assistência mais personalizada.
+
+Muito obrigado pela sua atenção a este assunto. Aguardo sua resposta rápida.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato e peço desculpas pelo inconveniente que você está enfrentando ao configurar sua Epson EcoTank ET-4760.
+
+Aqui estão algumas etapas de solução de problemas que você pode tentar:
+
+1. Certifique-se de que sua impressora e roteador não estão muito distantes, idealmente a 1,8-3 metros para a configuração inicial.
+2. Verifique se sua rede Wi-Fi está usando uma conexão de 2,4GHz, pois muitas impressoras têm problemas com redes de 5GHz.
+3. Reinicie sua impressora, roteador e computador para redefinir as conexões de rede.
+4. Certifique-se de que não há restrições de rede ou firewalls impedindo a impressora de se conectar à rede sem fio.
+5. Acesse as configurações de rede da impressora manualmente para verificar o nome SSID e a entrada de senha.
+6. Atualize o firmware da sua impressora visitando o site oficial de suporte da Epson para garantir compatibilidade ideal com sua rede.
+
+Se essas etapas não resolverem o problema, recomendo fortemente agendar uma sessão de suporte ao vivo para uma assistência mais prática. Você pode entrar em contato com nossa linha de suporte para agendar um horário conveniente para um técnico ajudá-lo ainda mais.
+
+Por favor, me avise se você precisar dos detalhes de contato ou de mais assistência!
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

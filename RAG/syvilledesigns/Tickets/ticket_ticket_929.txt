@@ -1,0 +1,19 @@
+Ticket ID: ticket_929
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear Support Team,
+
+I am facing difficulties while attempting to install Norton Antivirus Plus. Even after adhering to the provided guidelines, the installation fails to complete successfully. I would appreciate your help in resolving this matter at your earliest convenience.
+
+Thank you for your assistance.
+
+Sincerely,
+<name>
+Account Number: <acc_num>
+Phone: <tel_num>
+Customer Service answer: Dear [Name],
+
+We appreciate your message. I regret to learn that you are encountering installation challenges with Norton Antivirus Plus. Please verify that your system fulfills the necessary software specifications and consider turning off any alternative antivirus solutions before you proceed with the installation. Should the issue continue, do not hesitate to contact us directly at our support line at [tel_num] for additional help.
+
+Sincerely,
+Customer Support

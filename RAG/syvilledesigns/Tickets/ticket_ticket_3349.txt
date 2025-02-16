@@ -1,0 +1,8 @@
+Ticket ID: ticket_3349
+Subject: Problems Encountered With Canon PIXMA MG3620 Wireless Printer - Urgent Help Needed
+Incident Type: Problem
+Customer Issue: Hello Customer Support, I am facing some connectivity problems with my Canon PIXMA MG3620 wireless printer. Please assist me as soon as you can. Thank you. Best, <name>.
+Customer Service answer: Hello <name>,
+Kindly reboot your printer, router, and the device you are using. Make sure that the printer is located within the range of your Wi-Fi network. Should the problem continue, please inform us for additional support. 
+Best regards,
+Customer Support

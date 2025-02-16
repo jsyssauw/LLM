@@ -1,0 +1,28 @@
+Ticket ID: ticket_1965
+Subject: Problèmes de connectivité avec le point d'accès TP-Link
+Incident Type: Problem
+Customer Issue: Cher Service Client,
+
+J'espère que ce message vous trouve en bonne santé. Je vous écris pour signaler un problème que nous rencontrons avec notre point d'accès TP-Link EAP245, suite à une application récente de nouveaux paramètres de configuration fournis par votre service de configuration réseau. Depuis la mise en œuvre de ces changements, nous avons rencontré des problèmes de connectivité intermittents qui ont gravement affecté nos opérations.
+
+Notre équipe a tenté plusieurs étapes de dépannage, y compris une réinitialisation du point d'accès et la réapplication de configurations précédentes, mais nous continuons à faire face à des interruptions. Vu l'impact sur notre entreprise, nous apprécierions votre assistance immédiate pour résoudre ces problèmes.
+
+Veuillez nous faire savoir comment nous pouvons procéder ou si vous avez besoin de plus d'informations de notre part. Dans l'attente de votre réponse rapide.
+
+Cordialement,
+
+<name>
+<acc_num>
+<tel_num>
+Nom de l'entreprise
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous nous excusons pour les désagréments causés par les problèmes de connectivité avec votre point d'accès TP-Link EAP245. Pour vous assister rapidement, pourriez-vous s'il vous plaît fournir d'autres détails tels que la version du firmware de votre point d'accès et tout message d'erreur rencontré lors du problème ?
+
+De plus, nous vous recommandons de vérifier s'il existe des mises à jour du firmware disponibles pour l'appareil et de s'assurer que les paramètres de configuration sont conformes aux spécifications de votre infrastructure réseau. Si possible, testez la connectivité en isolant le point d'accès dans un environnement contrôlé pour éliminer les interférences réseau.
+
+Nous sommes là pour vous assister davantage si nécessaire et apprécions votre coopération.
+
+Cordialement,
+
+Équipe du Service Client

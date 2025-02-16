@@ -1,0 +1,10 @@
+Ticket ID: ticket_1008
+Subject: nan
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice, wir erleben intermittent Verbindungsprobleme mit unserem Cisco Router ISR4331, die die Internet- und Netzwerkleistung unserer Organisation beeinträchtigen. Bitte helfen Sie uns, dieses Problem umgehend zu beheben, um den normalen Betrieb sicherzustellen. Unser technisches Team hat versucht, das Problem zu beheben, jedoch ohne Erfolg. Wir schätzen Ihre dringende Unterstützung. Vielen Dank, <name>, Konto: <acc_num>, Kontakt: <tel_num>.
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich wegen der Verbindungsprobleme mit Ihrem Cisco Router ISR4331 an uns gewandt haben. Wir verstehen die Dringlichkeit und sind hier, um zu helfen. Bitte stellen Sie sicher, dass die Router-Firmware auf dem neuesten Stand ist und alle physischen Verbindungen sicher sind. Versuchen Sie außerdem, den Router neu zu starten. Wenn das Problem weiterhin besteht, werden wir das Problem zur weiteren Untersuchung an unsere technischen Experten weiterleiten. Wir werden Sie in Kürze über die angegebenen Kontaktdaten kontaktieren, um dieses Anliegen umgehend zu klären.
+
+Mit freundlichen Grüßen,
+Kundenservice

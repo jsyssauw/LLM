@@ -1,0 +1,18 @@
+Ticket ID: ticket_3459
+Subject: Problèmes de connectivité avec le routeur Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Chers services de support informatique,
+
+Nous rencontrons des problèmes de connectivité avec notre routeur Cisco ISR4331, ce qui entraîne des pannes fréquentes du réseau. Cela nécessite un dépannage immédiat, car cela affecte nos opérations en cours. Veuillez fournir une résolution rapide pour garantir une interruption minimale. Dans l'attente de votre réponse rapide.
+
+Merci,
+
+<name>,
+<Company Name>,
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant les problèmes de connectivité avec votre routeur Cisco ISR4331. Nous comprenons l'urgence et son impact sur vos opérations. Notre équipe technique priorisera ce problème et travaillera avec vous pour le dépanner et le résoudre le plus rapidement possible. Veuillez vous assurer que les connexions physiques sont sécurisées et nous faire part de tout changement récent qui pourrait avoir affecté le routeur. Nous vous contacterons bientôt via <tel_num> pour recueillir plus de détails et coordonner les prochaines étapes.
+
+Cordialement,
+Équipe de support informatique

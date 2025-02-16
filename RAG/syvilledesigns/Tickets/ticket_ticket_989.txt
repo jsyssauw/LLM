@@ -1,0 +1,29 @@
+Ticket ID: ticket_989
+Subject: Solicitud de asistencia para configurar Zoom de manera eficiente
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte de Tech Online Store,
+
+Espero que este mensaje le encuentre bien. Estoy escribiendo para solicitar asistencia con respecto a una función del producto Zoom 5.11.0 que compré en su tienda. Mi nombre es <name>, y estoy interesado en utilizar el servicio de videoconferencias de Zoom de manera efectiva para nuestras reuniones de negocios. Nuestro equipo ha estado utilizando Zoom y, aunque ha sido una herramienta valiosa, estamos ansiosos por asegurarnos de que estamos maximizando sus capacidades.
+
+Recientemente, hemos encontrado algunos desafíos para configurar las opciones de programación de reuniones recurrentes y gestionar la configuración de los participantes de manera eficiente. Agradecería mucho cualquier orientación o recurso que pueda ofrecer que ayude a simplificar este proceso. Específicamente, tutoriales o guías sobre cómo optimizar las opciones de uso compartido de pantalla y los controles del anfitrión beneficiarían enormemente a nuestro equipo.
+
+Además, si hay algún consejo sobre cómo mantener una calidad de audio y video alta durante nuestras conferencias, serán muy bienvenidos. Asegurar una experiencia fluida y profesional durante cada reunión es crucial para nuestro éxito y colaboración continuos.
+
+¿Podría alguien de su equipo de soporte comunicarse conmigo al <tel_num> para discutir cómo podríamos mejorar nuestro uso de Zoom? Gracias por su tiempo y apoyo.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con nosotros respecto a su uso de Zoom 5.11.0 para reuniones de negocios. Entendemos completamente la importancia de optimizar sus características para su equipo.
+
+Para ayudar con la programación de reuniones recurrentes y la gestión de configuraciones de participantes, le recomendamos consultar el Centro de Ayuda de Zoom, que tiene guías completas. También puede resultar beneficioso explorar los tutoriales en video disponibles en el canal oficial de YouTube de Zoom. Para optimizar el uso compartido de pantalla y los controles del anfitrión, sugerimos específicamente consultar la configuración de reuniones avanzadas y habilitar capacidades de co-anfitrión, si es adecuado.
+
+Para mantener una alta calidad de audio y video, asegúrese de que su conexión a internet sea estable y considere utilizar micrófonos y cámaras de alta calidad. Intente cerrar aplicaciones innecesarias que se estén ejecutando en segundo plano y ajuste la configuración de video de Zoom para resolución HD, si su red lo permite.
+
+Uno de los miembros de nuestro equipo de soporte se pondrá en contacto con usted al <tel_num> para discutir mejoras adicionales.
+
+Saludos cordiales,
+
+Equipo de soporte de Tech Online Store

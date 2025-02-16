@@ -1,0 +1,17 @@
+Ticket ID: ticket_1957
+Subject: Soutien urgent nécessaire pour un bug Jira
+Incident Type: Incident
+Customer Issue: Cher équipe de support client,
+
+J'espère que ce message vous trouve bien. Nous rencontrons actuellement un problème critique avec Jira Software 8.20 concernant les attributions de tickets qui ne se sauvegardent pas correctement. Cela cause une perturbation significative de notre flux de travail et nécessite un support technique urgent pour résoudre le problème. Pourriez-vous s'il vous plaît donner la priorité à ce problème et fournir une résolution rapide ? Votre assistance immédiate sera grandement appréciée. Merci de votre attention à cette affaire urgente.
+
+Cordialement,
+
+<name>
+<acc_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous comprenons l'urgence du problème que vous rencontrez avec Jira Software 8.20 concernant les problèmes d'attribution des tickets. Notre équipe technique donne la priorité à votre dossier et travaille pour fournir une résolution rapide. Nous apprécions votre patience et vous tiendrons informé des progrès. Si nous pouvons vous aider avec autre chose, n'hésitez pas à nous contacter.
+
+Cordialement,
+L'équipe de support client

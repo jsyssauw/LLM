@@ -1,0 +1,18 @@
+Ticket ID: ticket_2667
+Subject: Problema de facturación con la suscripción a Office 365
+Incident Type: Request
+Customer Issue: Hola equipo de atención al cliente, espero que este mensaje los encuentre bien. Estoy escribiendo para solicitar una aclaración sobre un problema de facturación relacionado con mi suscripción a Microsoft Office 365. Recientemente, noté un cargo inesperado en mi cuenta <acc_num> después de la renovación de mi suscripción, y me gustaría entender los términos asociados con ello. ¿Podrían proporcionarme información detallada sobre el ciclo de facturación o cualquier cambio reciente en los precios que pudiera haber afectado mi cuenta? Además, si hubo descuentos promocionales aplicados anteriormente que ahora han expirado y han llevado a este cargo, agradecería que me informaran sobre eso también. Entender estos detalles es crucial para mí a la hora de tomar decisiones sobre mi uso futuro de los servicios de suscripción proporcionados por su estimada empresa. Por favor, hágame saber si necesitan más información de mi parte o si sería preferible una llamada telefónica. Pueden comunicarse conmigo al <tel_num>. Gracias por su ayuda. Saludos cordiales, <name>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por comunicarte con nosotros respecto a tu problema de facturación de la suscripción a Office 365. Entendemos tu preocupación acerca del cargo inesperado en tu cuenta <acc_num>.
+
+Para abordar tu consulta, las suscripciones a Office 365 suelen tener ciclos de facturación específicos, y los precios pueden variar según el plan y la duración de la suscripción. Es posible que los descuentos promocionales aplicados anteriormente hayan expirado, lo que podría explicar el aumento en el monto de la facturación. Además, puede haber habido cambios en nuestra estructura de precios.
+
+Para obtener información más detallada, incluido tu ciclo de facturación específico y cualquier cambio en los términos o precios, te recomendamos acceder a tu cuenta en línea, donde se proporcionan todos los detalles de facturación. Alternativamente, nuestro departamento de facturación puede ofrecer una explicación completa de tus cargos.
+
+Si deseas discutir esto más a fondo por teléfono, no dudes en contactarnos y te ayudaremos de inmediato. Estamos comprometidos a asegurar tu satisfacción y apreciamos tu preferencia.
+
+Por favor, háznos saber si hay algo más con lo que podamos ayudarte.
+
+Saludos cordiales,
+Equipo de atención al cliente

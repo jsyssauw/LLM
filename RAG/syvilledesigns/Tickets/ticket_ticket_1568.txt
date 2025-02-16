@@ -1,0 +1,35 @@
+Ticket ID: ticket_1568
+Subject: Issues Faced With Starting Video Calls After Update
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I've been experiencing issues with Zoom since the latest update to version 5.11.0. When trying to start a video call, the application persistently crashes or freezes. Previously, I had no issues with Zoom, but after this update, these problems occur frequently.
+
+The disruptions in service have significantly impeded my work efficiency. I am contacting you in hopes of obtaining guidance or a potential fix on the matter. Is there a recommended action plan or an upcoming patch that might resolve these issues?
+
+Thank you in advance for your assistance. Please let me know as soon as possible if further information is required.
+
+Best regards,
+
+<name>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the issues with Zoom version 5.11.0. We're sorry for the inconvenience this has caused to your work efficiency.
+
+To address the crashing and freezing problems, we recommend the following troubleshooting steps:
+
+1. Ensure that your operating system and device drivers are fully updated.
+2. Try reinstalling the Zoom application to clear any corrupt files.
+3. Close any unnecessary programs that may consume high CPU or memory while using Zoom.
+4. Check for any new patches or updates from Zoom directly, as they may have released a fix for this issue.
+
+If you continue to experience difficulties, please provide us with details of any error messages you're seeing, or the specific conditions under which the app crashes. This information will be crucial for further assistance.
+
+Please monitor Zoom’s official website or support page for any announcements regarding updates or patches.
+
+Let us know if you need any more help.
+
+Best regards,
+
+Customer Support Team

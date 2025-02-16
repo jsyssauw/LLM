@@ -1,0 +1,10 @@
+Ticket ID: ticket_1251
+Subject: Immediate Attention Required: Laptop Not Powering On
+Incident Type: Incident
+Customer Issue: Hello Customer Support Team,
+
+I have recently bought a Dell XPS 13 9310 through your online platform. Regrettably, the laptop isn’t turning on. I would greatly appreciate it if you could provide a prompt solution to address this issue.
+
+Thanks and regards,
+<name>
+Customer Service answer: Hello <name>, please attempt to reset the laptop by unplugging all devices and pressing the power button for 30 seconds. If the problem continues, please reach out to our support at <tel_num> for additional help.

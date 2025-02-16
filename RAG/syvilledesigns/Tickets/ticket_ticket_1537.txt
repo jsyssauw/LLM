@@ -1,0 +1,17 @@
+Ticket ID: ticket_1537
+Subject: nan
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+vor kurzem habe ich ein beschädigtes Dell XPS 13 9310 aus Ihrem Online-Shop erhalten. Ich bitte Sie, mich bezüglich der notwendigen Schritte zur Rücksendung oder zum Austausch des defekten Artikels zu kontaktieren. Meine Kontonummer lautet <acc_num>. Sie können mich unter <tel_num> oder <email> für weitere Informationen erreichen.
+
+Vielen Dank,
+<name>
+Customer Service answer: Hallo <name>,
+
+ich bedauere, von den Schäden an Ihrem Dell XPS 13 9310 zu erfahren. Bitte besuchen Sie unsere Retourenseite und befolgen Sie die Anweisungen, um die Rücksendung oder den Austausch zu veranlassen. Sie können uns außerdem unter <tel_num> oder <email> kontaktieren, falls Sie Unterstützung benötigen.
+
+Vielen Dank für Ihr Verständnis.
+
+Mit besten Grüßen,
+Kundenservice

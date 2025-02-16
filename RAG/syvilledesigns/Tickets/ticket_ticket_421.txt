@@ -1,0 +1,5 @@
+Ticket ID: ticket_421
+Subject: Assistência Imediata Necessária: Problemas de Conexão ao Zoom
+Incident Type: Problem
+Customer Issue: Saudações, estou enfrentando problemas de conectividade com a versão 5.11.0 do Zoom durante chamadas de vídeo. Isso está impactando significativamente nossa eficácia de comunicação e reuniões importantes. Agradeceria seu suporte rápido sobre este assunto. Obrigado. Atenciosamente, <name> Conta: <acc_num>.
+Customer Service answer: Oi <name>, pedimos desculpas pelo transtorno com o Zoom. Por favor, verifique se seu software está atualizado, cheque sua conexão com a internet e tente reiniciar seu dispositivo. Se os problemas persistirem, entre em contato com nossa equipe de suporte para assistência adicional. Obrigado pela sua compreensão. Atenciosamente, Agente do Service Desk.

@@ -1,0 +1,17 @@
+Ticket ID: ticket_221
+Subject: Request for Printer Exchange
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Support,
+
+I am experiencing frequent paper jams with my Canon PIXMA MG3620 printer, making it nearly impossible to use effectively. Can we arrange an exchange for this unit? My purchase details: Order No. <acc_num>, under <name>. Please advise on the next steps. Thank you for your assistance.
+
+Sincerely,
+
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about your Canon PIXMA MG3620 printer. We apologize for the inconvenience with frequent paper jams. To assist you with an exchange, please ensure that the printer is within the warranty period and that you have the original packaging available. Forward a copy of your purchase receipt to our returns department, mentioning Order No. <acc_num>. Our team will coordinate the exchange process and contact you via <tel_num> for further instructions.
+
+Best regards,
+Tech Online Store Support

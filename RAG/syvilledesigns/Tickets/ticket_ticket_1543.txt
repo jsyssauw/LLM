@@ -1,0 +1,35 @@
+Ticket ID: ticket_1543
+Subject: Solicitud de intercambio por un Dell XPS 13 defectuoso
+Incident Type: Change
+Customer Issue: Estimado servicio de atención al cliente de Tech Online Store,
+
+Espero que este mensaje le encuentre bien. Estoy escribiendo para solicitar un intercambio de mi Dell XPS 13 9310 recientemente comprado. Desafortunadamente, la pantalla del dispositivo estaba defectuosa desde el primer momento, lo cual ha sido bastante decepcionante. Mi número de pedido es <order_num>, y fue entregado el <delivery_date>.
+
+Creo que soy elegible para un intercambio según la política de su tienda. Por favor, indíqueme cómo proceder con este proceso. Estoy ansioso por recibir un reemplazo que funcione correctamente.
+
+Gracias por su pronta atención a este asunto.
+
+Atentamente,
+
+<name>
+
+<email>
+
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto y por informarnos sobre este problema. Lamentamos la inconveniencia que has experimentado con tu Dell XPS 13 9310. Según tu número de pedido <order_num>, confirmamos que eres elegible para un intercambio según la política de nuestra tienda.
+
+Para proceder, sigue estos pasos:
+1. Devuelve el dispositivo defectuoso utilizando la etiqueta de envío prepaga incluida en tu paquete.
+2. Asegúrate de que todos los embalajes y componentes originales estén incluidos en el retorno.
+3. Una vez que recibamos y verifiquemos el artículo, procesaremos el intercambio y te enviaremos una nueva unidad Dell XPS 13 9310.
+
+Puedes rastrear tu devolución a través de tu cuenta en línea en nuestro sitio web. Nuestro objetivo es hacer que este proceso sea lo más fluido posible y te notificaremos una vez que el reemplazo esté en camino.
+
+Si necesitas más ayuda, no dudes en contactarnos directamente.
+
+Gracias por tu paciencia y comprensión.
+
+Atentamente,
+Servicio de Atención al Cliente de Tech Online Store

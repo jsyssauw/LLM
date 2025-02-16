@@ -1,0 +1,27 @@
+Ticket ID: ticket_1514
+Subject: Urgent: Microsoft Surface Pro 7 Issue
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Support,
+
+I am reaching out to express concern over a malfunction with my Microsoft Surface Pro 7. The device suddenly stopped registering touch input, rendering it largely unusable. Given the urgency of the matter, I would appreciate immediate technical assistance to resolve this issue. Kindly advise on the next steps or if I should return the unit for a replacement. Your prompt response will be highly valued.
+
+Thank you for your attention.
+
+Sincerely,
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting Tech Online Store Support. We're sorry to hear about the issue with your Microsoft Surface Pro 7. Please try the following steps to resolve the touch input problem:
+
+1. Restart your device.
+2. Ensure the latest updates are installed.
+3. Check touch settings in the control panel.
+4. Run the touch screen troubleshooter.
+
+If these steps do not resolve the issue, please contact us at our support line <tel_num> to arrange for a replacement. Ensure your proof of purchase is available for a smooth process.
+
+We are committed to resolving this quickly for you.
+
+Best regards,
+Tech Online Store Support

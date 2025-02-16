@@ -1,0 +1,18 @@
+Ticket ID: ticket_3826
+Subject: Critical Concern: Disconnections During Zoom 5.11.0 Calls
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team,<br><br> I am reaching out to highlight an urgent problem we are facing with your application. At present, we are encountering persistent disconnection issues during our video meetings on the Zoom 5.11.0 software version. This problem is greatly influencing our capacity to hold effective meetings, and it requires immediate attention.<br><br> Our organization heavily depends on video conferencing tools for our daily activities, and this connection issue threatens our workflow, causing significant disruptions for everyone involved. Several members of our team, including <name>, have reported random drop-offs during critical discussions, despite having stable internet connections and up-to-date hardware.<br><br> We would value any information or insights you could provide regarding this issue. If there is a patch or update available to rectify this matter, please guide us on the steps necessary for implementation as soon as possible. Alternatively, if there are other recommendations or solutions available, we remain open to suggestions to promptly address this dilemma.<br><br> For urgent assistance, you may reach me at <tel_num>. Thank you for your prompt attention and response to this issue.<br><br> Sincerely,<br><br><name><br>Software Development Department
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about the connection issues you're experiencing with Zoom 5.11.0. We recognize how critical uninterrupted video conferencing is for your daily operations, and we sincerely apologize for the hassle this predicament is causing.
+
+To tackle this, please ensure that all relevant team members are utilizing the latest version of Zoom, as updates frequently include key bug fixes. If you cannot access an update through your usual process, consider reinstalling the application via Zoom's official website to see if this solves the issue.
+
+It would also be wise to review Zoom's current service status or forums for any known problems with version 5.11.0 that may be influencing connectivity, as well as to examine your firewall settings to verify that Zoom has the necessary permissions.
+
+Should the issue continue, we recommend contacting Zoom's technical support directly for more tailored assistance specific to this software version. Our team is readily available to support you further if needed.
+
+Don't hesitate to reach out again if you have additional inquiries or need more help. 
+
+Best regards,
+Customer Support Team

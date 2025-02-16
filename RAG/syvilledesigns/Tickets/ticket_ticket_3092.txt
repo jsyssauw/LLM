@@ -1,0 +1,34 @@
+Ticket ID: ticket_3092
+Subject: Slow Charging Issue with MacBook Air M1
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. I am reaching out to bring to your attention an issue I have been experiencing recently with my MacBook Air M1. Despite using the official charger provided by your company, I am noticing that the battery charging process is slower than expected, especially during use. 
+
+This laptop, identified by serial number <serial_num>, and purchase through your store, has otherwise been functioning well until this particular issue arose. As a regular user, I depend heavily on the laptop for daily productivity and extended periods on a single full charge.
+
+I would appreciate your guidance on troubleshooting this issue. Could there be specific settings I need to check, or should I consider the charger or the battery as potentially faulty? Any steps on identifying or rectifying this would be incredibly useful.
+
+If further information or assistance is needed, please feel free to contact me anytime at <tel_num> or via email. Thank you for your attention to this matter, and I look forward to your prompt response.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the slow charging issue with your MacBook Air M1. We understand the importance of keeping your device in prime condition for daily productivity.
+
+To begin troubleshooting, please try the following steps:
+1. Ensure your MacBook and the charger are connected securely to a power source.
+2. Check if the charger or cable is damaged.
+3. Reset the System Management Controller (SMC), as it might help with power-related issues. Instructions can be found on Apple's support website.
+4. Ensure your macOS is updated to the latest version.
+
+If the problem persists, it may be worthwhile to test with an alternate compatible charger to rule out faults with the current one.
+
+Should these steps not resolve the issue, your battery may require further examination. Please visit an Apple Authorized Service Provider or contact us for further assistance.
+
+Feel free to get in touch if you need more help or wish to schedule a service appointment. 
+
+Best regards,
+Customer Support Team

@@ -1,0 +1,29 @@
+Ticket ID: ticket_3288
+Subject: Dificultades de inicio de sesión del consultor con el sistema HR
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte de IT Consulting,
+
+Espero que este mensaje les encuentre bien. Les escribo para informarles de un problema técnico que ocurrió cuando nuestro consultor, <name>, intentó acceder al sistema de HR como parte de un proceso de evaluación destinado a mejorar la eficiencia de nuestro equipo en el desarrollo de software. La capacidad de acceder al sistema de HR es crucial para que nuestro consultor evalúe y diseñe nuestras necesidades de desarrollo de software con precisión.
+
+Desafortunadamente, nuestro consultor enfrentó desafíos significativos al intentar iniciar sesión. El sistema constantemente devolvía un error, impidiendo cualquier paso adicional en nuestro proceso de evaluación. Este problema ha estancado considerablemente nuestro progreso, ya que evaluar nuestra estructura de IT existente es fundamental para determinar mejoras futuras.
+
+Apreciaríamos su pronta asistencia para resolver este problema de inicio de sesión. Es vital para nosotros recuperar el acceso para asegurar que nuestra evaluación pueda continuar de forma fluida y efectiva. Por favor, contáctenos al <tel_num> o responda a este correo electrónico a la mayor brevedad posible. Dependemos de su experiencia para resolver este asunto rápidamente.
+
+Gracias por su atención a este asunto urgente.
+
+Atentamente,
+
+<name>
+Número de cuenta: <acc_num>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por ponerse en contacto respecto a las dificultades de inicio de sesión con el sistema de HR. Entendemos la importancia de este acceso para el proceso de evaluación de su consultor.
+
+Para asistirle rápidamente, por favor asegúrese de que las credenciales de inicio de sesión que se están utilizando sean las correctas y que no haya restricciones de red o reglas de firewall que bloqueen el acceso al sistema de HR. Si el problema persiste, amablemente proporciónenos los mensajes de error específicos que están apareciendo.
+
+Estamos comprometidos a resolver este problema rápidamente. Nuestro equipo técnico investigará este asunto con prioridad. Por favor, háganos saber un momento conveniente para contactar a <name> al <tel_num> para más asistencia, en caso de que necesitemos más información.
+
+Agradecemos su paciencia y comprensión.
+
+Atentamente,
+Equipo de soporte de IT Consulting

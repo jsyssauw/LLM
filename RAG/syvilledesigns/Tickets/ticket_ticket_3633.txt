@@ -1,0 +1,15 @@
+Ticket ID: ticket_3633
+Subject: Urgent Assistance Required for Critical Software Failures
+Incident Type: Incident
+Customer Issue: Dear IT Consulting Firm Support, 
+
+Our client, <name>, has reported intermittent failures affecting server stability due to your IT Consulting Service. We kindly request immediate consultation to assess and resolve the ongoing issues. Please contact <name> at <tel_num>. 
+
+Thank you.
+Customer Service answer: Dear Customer,
+
+Thank you for reaching out. We understand the urgency of addressing the intermittent server failures affecting your client's system. Our team is currently reviewing the situation and will prioritize the resolution of these issues. An IT consultant will contact <name> at <tel_num> shortly to arrange a consultation and work towards a swift solution. Thank you for your patience.
+
+Best regards,
+
+IT Consulting Firm Support Team

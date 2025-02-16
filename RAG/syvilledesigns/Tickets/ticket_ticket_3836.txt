@@ -1,0 +1,25 @@
+Ticket ID: ticket_3836
+Subject: Dringende Hilfe erforderlich für nicht reagierenden Touchscreen
+Incident Type: Problem
+Customer Issue: Sehr geehrte/r Kunde/in des Tech Online Shops,
+
+ich kontaktiere Sie, um ein Problem zu melden, das ich mit meinem Microsoft Surface Pro 7 habe. In letzter Zeit reagiert der Touchscreen dieses Geräts nicht mehr, was die Benutzbarkeit erheblich beeinträchtigt. Ich kann wesentliche Aufgaben nicht erledigen, ohne dass diese Funktionordentlich funktioniert. Dieses Problem begann kürzlich und hat sich zunehmend verschlechtert, wodurch das Gerät nahezu unbrauchbar ist. Ich habe grundlegende Fehlersuchemethoden wie das Neustarten des Geräts und das Überprüfen, ob alle Updates installiert sind, versucht, aber nichts hat das Problem behoben.
+
+Angesichts der dringenden Natur dieses Problems wäre ich Ihnen sehr dankbar für eine schnelle Hilfe, um die Funktion wiederherzustellen. Meine Kontonummer ist <acc_num>, und Sie können mich unter <email_address> oder <tel_num> erreichen. Ich freue mich auf eine zügige Lösung in Bezug auf dieses Anliegen, da dieses Gerät für meine tägliche Arbeit unerlässlich ist. Vielen Dank für Ihre sofortige Aufmerksamkeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Betreff: Re: Dringende Hilfe erforderlich für nicht reagierenden Touchscreen
+
+Hallo <name>,
+
+vielen Dank, dass Sie den Kundenservice des Tech Online Shops kontaktiert haben. Es tut mir leid zu hören, dass Sie Probleme mit dem Touchscreen Ihres Microsoft Surface Pro 7 haben. Ich verstehe die Schwierigkeiten, die diese Situation mit sich bringt.
+
+Angesichts der Schritte, die Sie bereits unternommen haben, empfehlen wir Ihnen, einen Diagnosetermin mit unserem technischen Team zu vereinbaren, um das Problem genau zu identifizieren und zu beheben. Bitte stellen Sie sicher, dass Ihre Daten vor diesem Termin gesichert sind.
+
+Ich kann die Organisation dieses Termins für Sie priorisieren. Wir werden uns unter <email_address> oder <tel_num> mit Ihnen in Verbindung setzen, um einen passenden Zeitpunkt zu vereinbaren. Vielen Dank, dass Sie uns Ihre Kontonummer mitgeteilt haben; das wird uns helfen, schneller Unterstützung zu leisten.
+
+Bitte erwarten Sie in Kürze weitere Anweisungen von unserem Team. Wir sind bestrebt, die Funktionalität Ihres Geräts so schnell wie möglich wiederherzustellen.
+
+Mit freundlichen Grüßen,
+Kundenservice Tech Online Shop

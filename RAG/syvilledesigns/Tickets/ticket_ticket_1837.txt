@@ -1,0 +1,26 @@
+Ticket ID: ticket_1837
+Subject: Problemas con la impresora HP DeskJet 3755
+Incident Type: Incident
+Customer Issue: Hola, Soporte al Cliente,
+
+Escribo para expresar mi preocupación por mi impresora HP DeskJet 3755, que está fallando. Encuentra errores al imprimir de forma inalámbrica, lo que afecta a todos los dispositivos conectados en mi red doméstica. Esto ha interrumpido significativamente mi capacidad para gestionar tareas diarias. ¿Podrían ayudar a diagnosticar y resolver este problema? Cualquier ayuda sería apreciada.
+
+Saludos cordiales,
+
+<name> <acc_num>
+<tel_num>
+Customer Service answer: Asunto: Re: Problemas con la impresora HP DeskJet 3755
+
+Hola <name>,
+
+Gracias por ponerte en contacto respecto a tu problema con la impresora HP DeskJet 3755. Para abordar el problema de impresión inalámbrica, por favor intenta los siguientes pasos:
+
+1. Reinicia tu impresora y router para refrescar la conexión de red.
+2. Asegúrate de que el firmware de tu impresora esté actualizado a través del sitio web del fabricante.
+3. Confirma que todos los dispositivos estén conectados a la misma red.
+4. Reinstala los controladores de la impresora en tus dispositivos.
+
+Si el problema persiste, háznoslo saber para que podamos ayudarte más.
+
+Saludos cordiales,
+Soporte al Cliente

@@ -1,0 +1,10 @@
+Ticket ID: ticket_1495
+Subject: Invoice Query
+Incident Type: Request
+Customer Issue: Dear Customer Support, I have inquiries regarding charges on my invoice for IT consulting services specifically related to server administration. Could you please help clarify these charges at your earliest convenience? Thank you. Regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. Please provide your invoice number and specific details about the charges you need clarification on. We'll review and get back to you promptly.
+
+Best regards,
+Customer Support

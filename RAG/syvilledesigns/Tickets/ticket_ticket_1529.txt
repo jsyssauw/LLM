@@ -1,0 +1,20 @@
+Ticket ID: ticket_1529
+Subject: Asistencia necesaria con las extensiones de Chrome
+Incident Type: Request
+Customer Issue: Hola, necesito asistencia para configurar extensiones en Google Chrome 102.0 para mejorar mi experiencia de navegación. He estado tratando de optimizar mi navegador web, pero he encontrado algunos desafíos. ¿Puedes proporcionar instrucciones detalladas o soporte para ayudarme a resolver este problema? Es importante para mí mejorar mi eficiencia de navegación. Gracias por tu ayuda de antemano. Espero tu orientación experta. Saludos cordiales, <name>.
+Customer Service answer: Hola <name>,
+
+Gracias por ponerte en contacto. Para configurar extensiones en Google Chrome 102.0, sigue estos pasos:
+
+1. Abre Google Chrome y haz clic en los tres puntos en la esquina superior derecha para acceder al menú.
+2. Selecciona "Más herramientas" > "Extensiones."
+3. En la ventana de Extensiones, haz clic en "Abrir Chrome Web Store" en el panel izquierdo.
+4. Navega o busca las extensiones que deseas agregar.
+5. Haz clic en "Agregar a Chrome" junto a la extensión deseada y confirma seleccionando "Agregar extensión."
+6. Maneja las extensiones instaladas regresando al menú de Extensiones, donde puedes habilitarlas/deshabilitarlas o eliminarlas según sea necesario.
+
+Si necesitas más ayuda, no dudes en contactarnos.
+
+Saludos cordiales,
+[Tu Nombre]
+Agente del Servicio de Atención

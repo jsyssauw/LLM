@@ -1,0 +1,5 @@
+Ticket ID: ticket_1161
+Subject: Probleme mit Windows 11 Pro
+Incident Type: Request
+Customer Issue: Ich habe Schwierigkeiten bei der Installation von Windows 11 Pro.
+Customer Service answer: Wir entschuldigen uns für die Unannehmlichkeiten. Bitte senden Sie uns die Fehlermeldungen und die Systemanforderungen, damit wir Ihnen umgehend helfen können.

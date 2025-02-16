@@ -1,0 +1,18 @@
+Ticket ID: ticket_274
+Subject: Notification of Ongoing Network Disruptions
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team, 
+
+We have been experiencing intermittent network disruptions, potentially arising from misconfigurations in our Cisco Router ISR4331. Please investigate this issue and offer assistance on a solution at your earliest convenience. We appreciate your prompt help. 
+
+Best regards, 
+
+<name>
+Customer Service answer: Subject: Re: Notification of Ongoing Network Disruptions 
+
+Hello <name>, 
+
+Thank you for contacting us. We will review the configurations on your Cisco Router ISR4331 to identify any issues causing the network disruptions. Our support team will get in touch with you shortly to gather additional information and provide assistance with potential solutions. We appreciate your patience as we work towards a timely resolution. 
+
+Warmest regards, 
+Customer Support

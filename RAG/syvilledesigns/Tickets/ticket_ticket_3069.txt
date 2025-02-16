@@ -1,0 +1,46 @@
+Ticket ID: ticket_3069
+Subject: Upgrade Zoom Request
+Incident Type: Change
+Customer Issue: Dear Customer Support,
+
+I hope this email finds you well. My name is <name>, and I am reaching out regarding an upgrade request for the Zoom application that we currently have integrated within our IT infrastructure. We are using Zoom version 5.11.0, and to ensure enhanced security alongside the integration of new features, we are keen to upgrade to the latest version available.
+
+Given the current climate and the increase in usage of such platforms, it has become paramount to maintain the utmost security standards. Our users depend heavily on Zoom for daily operations and meetings, and ensuring we use the most secure and efficient version is crucial for our continuity. The recent updates from Zoom have reportedly addressed various security issues and introduced enhancements that we believe will significantly benefit our operations.
+
+Could you guide us through the upgrade process, and let us know the best way to proceed? If there are specific requirements or prerequisites needed for the upgrade, kindly detail these as well. Additionally, we would appreciate if the potential downtime, if any, during this upgrade can also be estimated, allowing us to schedule and prepare accordingly.
+
+Please feel free to contact me directly at <email_address> or by phone at <tel_num> if you require any additional information or have any questions.
+
+Thank you for your prompt attention to this request. We look forward to a seamless upgrade process with your support.
+
+Best regards,
+
+<name>
+<position>
+<company_name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the Zoom upgrade. We understand the importance of maintaining security and efficiency for your operations. Upgrading to the latest Zoom version will indeed provide the benefits you're aiming for.
+
+Here is a brief guide to assist you with the upgrade:
+
+1. **Check System Requirements**: Ensure all systems meet the requirements for the latest Zoom version. You can find these on the Zoom website.
+
+2. **Backup Data**: Before proceeding, please back up any important settings or configurations on your current Zoom account.
+
+3. **Download the Update**: Visit the Zoom website and download the latest version of the application suitable for your systems.
+
+4. **Install the Update**: Follow the installation instructions provided by Zoom. This should install smoothly without affecting existing configurations.
+
+5. **Test the Update**: Once installed, we recommend testing it on a few systems before a full-scale rollout to identify potential issues.
+
+Regarding potential downtime, the installation process generally takes a short period, typically around 15-30 minutes. However, scheduling outside of peak operational hours is advisable in case issues arise.
+
+If specific configurations or prerequisites are required, you will receive a prompt during the installation process. Please ensure administrative privileges are available when performing the update.
+
+Should you encounter any difficulties or require further assistance, feel free to contact us directly. We are here to ensure the transition is as seamless as possible.
+
+Best regards,
+
+Service Desk Agent
+<company_name> Support Team

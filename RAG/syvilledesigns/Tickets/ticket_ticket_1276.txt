@@ -1,0 +1,22 @@
+Ticket ID: ticket_1276
+Subject: Demande d'échange en raison de problèmes de connectivité
+Incident Type: Change
+Customer Issue: Cher support du magasin en ligne Tech,
+
+J'espère que ce message vous trouve bien. J'ai récemment acheté une imprimante Epson EcoTank ET-4760 dans votre magasin sous le numéro de compte <acc_num>. Malheureusement, j'ai rencontré des problèmes de compatibilité avec mon réseau sans fil, rendant impossible la connexion de l'imprimante. Ce problème a rendu l'imprimante inutilisable pour ma configuration actuelle.
+
+En tant que client fidèle, je demande respectueusement un échange contre un modèle d'imprimante compatible ou des conseils sur des solutions alternatives. Veuillez me faire savoir les prochaines étapes concernant le processus d'échange, ainsi que les instructions d'expédition.
+
+Merci de votre compréhension et de votre attention rapide à ma demande.
+
+Cordialement,
+
+<name>
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous nous excusons pour le désagrément causé par l'Epson EcoTank ET-4760. Nous allons traiter un échange pour un modèle compatible. Veuillez vous assurer que l'emballage d'origine et tous les accessoires sont inclus lors du retour de l'imprimante. Nous prendrons en charge les frais d'expédition pour l'échange. Notre équipe de support vous contactera sous peu au <tel_num> avec d'autres instructions et détails sur les alternatives compatibles. Votre satisfaction est importante pour nous.
+
+Cordialement,
+
+Support du magasin en ligne Tech

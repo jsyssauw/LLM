@@ -1,0 +1,16 @@
+Ticket ID: ticket_2818
+Subject: Dringend: AWS Serviceausfall
+Incident Type: Request
+Customer Issue: Sehr geehrtes IT-Services-Support-Team,
+
+ich kontaktiere Sie, um einen kritischen Serviceausfall zu melden, der unsere AWS-Infrastruktur betrifft, insbesondere die verwalteten Rechenressourcen über Ihren AWS-Management-Service. Diese Situation erfordert sofortige Untersuchung und schnelle Lösung, da sie unsere Betriebsabläufe erheblich beeinträchtigt. Bitte priorisieren Sie diese Anfrage und geben Sie so schnell wie möglich Updates.
+
+Vielen Dank,
+
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie uns über den AWS-Serviceausfall informiert haben, der Ihre Rechenressourcen betrifft. Wir verstehen die Dringlichkeit der Situation und haben Ihre Anfrage priorisiert. Unser Team untersucht bereits das Problem und wird daran arbeiten, es so schnell wie möglich zu lösen. Wir werden Ihnen frühzeitig Updates zum Fortschritt und Zeitrahmen der Lösung bereitstellen. In der Zwischenzeit lassen Sie uns bitte wissen, ob es zusätzliche Informationen gibt, die Sie bereitstellen können, oder ob es andere Möglichkeiten gibt, wie wir Ihnen helfen können.
+
+Mit freundlichen Grüßen,
+IT-Services-Support-Team

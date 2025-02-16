@@ -1,0 +1,10 @@
+Ticket ID: ticket_1056
+Subject: Solicitud para cambiar las credenciales de Microsoft Office 365
+Incident Type: Change
+Customer Issue: Estimado Servicio al Cliente, estoy escribiendo para solicitar un cambio en mis credenciales de inicio de sesión para Microsoft Office 365 ya que he perdido mi contraseña. Por favor, ayúdame a restablecerla lo antes posible. Gracias por tu ayuda. Atentamente, <name>.
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Por favor, usa la función "¿Olvidaste tu contraseña?" en la página de inicio de sesión de Microsoft Office 365 para restablecer tu contraseña. Si encuentras algún problema, háznoslo saber y te asistiremos más.
+
+Saludos cordiales,
+Servicio al Cliente

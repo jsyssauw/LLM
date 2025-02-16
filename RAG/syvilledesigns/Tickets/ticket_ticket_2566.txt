@@ -1,0 +1,32 @@
+Ticket ID: ticket_2566
+Subject: Urgente: Tiempo de inactividad de la red - Mal funcionamiento del router Cisco
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte de servicios de TI, 
+
+Les escribo para informarles sobre un problema crítico que afecta nuestra infraestructura de red. Nuestro cliente, <name>, ha reportado un tiempo de inactividad significativo de la red que parece estar vinculado a un mal funcionamiento del router Cisco modelo ISR4331. Este problema requiere atención urgente, ya que se encuentra en un área de alto tráfico crucial para nuestras operaciones.
+
+El router ha estado experimentando cortes intermitentes en los últimos días, pero hoy ha escalado, llevando a que todo el segmento de red se caiga. Los impactos de este tiempo de inactividad han sido severos, causando interrupciones en nuestras operaciones de transferencia de datos y afectando nuestra capacidad para atender a los clientes de manera efectiva. Se hicieron intentos para resolver el problema internamente, incluyendo reiniciar el router y comprobar si había conexiones sueltas. Sin embargo, estas medidas no han tenido éxito y la situación persiste.
+
+Dada la naturaleza crítica y la ubicación de este router, es imperativo que restauramos la funcionalidad completa lo antes posible. Agradecemos que prioricen este problema y envíen a un técnico especializado para diagnosticar y reparar el router. ¿Podrían por favor proporcionar un tiempo estimado de cuándo un técnico podría estar disponible? Además, si hay alguna solución temporal o sugerencias que podríamos emplear en el ínterin, eso ayudaría enormemente a minimizar las interrupciones en el negocio.
+
+Por favor, contáctenme a la brevedad posible al <tel_num> o a través de este correo electrónico para confirmar la recepción de este mensaje y comenzar a coordinar los esfuerzos de soporte. La estabilidad operativa de nuestro cliente es primordial y su pronta atención a este asunto es crucial.
+
+Gracias por su inmediata asistencia. 
+
+Saludos cordiales, 
+
+<name> 
+Gerente de Soporte, <Company Name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto al problema urgente con el router Cisco modelo ISR4331 que afecta su red. Entendemos la naturaleza crítica de este problema y le aseguramos que lo estamos priorizando.
+
+Se está enviando a un técnico especializado a su ubicación para diagnosticar y resolver el mal funcionamiento. Anticipamos su llegada dentro de las próximas horas. Mientras tanto, recomendamos continuar monitoreando la red para cualquier cambio y asegurarse de que cualquier dato asegurado esté respaldado, si es posible, para minimizar pérdidas potenciales.
+
+Nos mantendremos en contacto cercano y le actualizaremos con cualquier novedad. Por favor, espere una llamada de seguimiento al <tel_num> en breve para confirmación y coordinación.
+
+Gracias por su paciencia y cooperación.
+
+Saludos cordiales,
+[Su Nombre]
+Equipo de Soporte de Servicios de TI

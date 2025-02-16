@@ -1,0 +1,12 @@
+Ticket ID: ticket_2151
+Subject: MacBook Air M1 enfrentando problemas de superaquecimento durante uso prolongado
+Incident Type: Problem
+Customer Issue: Caro equipe de suporte da Tech Online Store, recentemente comprei um MacBook Air M1 e estou enfrentando problemas de superaquecimento durante longos períodos de uso. Além disso, notei picos significativos de consumo de energia que afetam a vida útil da bateria. Isso começou a acontecer algumas semanas após a minha compra. Por favor, me aconselhe se esse problema pode ser resolvido remotamente ou se preciso retornar o produto para inspeção. Aguardando sua assistência. Atenciosamente, <name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco. Para resolver os problemas de superaquecimento e consumo de energia do seu MacBook Air M1, por favor, certifique-se de que seu software esteja atualizado para a versão mais recente e tente redefinir o SMC (Controlador de Gerenciamento do Sistema). Se o problema persistir, faça um backup dos seus dados e visite um de nossos centros de serviço para uma inspeção completa.
+
+Estamos aqui para ajudar você mais, se necessário.
+
+Atenciosamente,
+Equipe de Suporte da Tech Online Store

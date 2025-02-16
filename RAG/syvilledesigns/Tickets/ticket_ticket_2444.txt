@@ -1,0 +1,36 @@
+Ticket ID: ticket_2444
+Subject: Immediate Help Needed for Printer Connection Issues
+Incident Type: Request
+Customer Issue: Hello Tech Online Store Support Team,
+
+I am reaching out to convey my unease regarding the connectivity problems I've been having with my Canon PIXMA MG3620 printer, particularly with its mobile printing capability. I have adhered to all the given guidelines, such as confirming that the printer is on the same wireless network as my mobile device and making sure that the Canon PRINT application is fully updated.
+
+Despite my best efforts, I am unable to successfully print directly from my smartphone. The device appears in the app; however, shortly after I initiate a print job, it ceases to function and shows an error message. I have also rebooted both the printer and my mobile device, yet the situation remains unchanged.
+
+Could you assist me by providing further troubleshooting advice or let me know if this is a recognized problem with a proposed fix? My account number is <acc_num> should you require access to the purchase information. Please feel free to contact me at <name>.<lastname>@email.com or via phone at <tel_num> for any support or additional questions.
+
+I appreciate your swift attention to this issue.
+
+Best regards,
+
+<name> <lastname>
+Customer Service answer: Hi,
+
+Thank you for contacting us about the connectivity problems with your Canon PIXMA MG3620 printer. We recognize the urgency in getting this resolved swiftly.
+
+Here are some extra troubleshooting suggestions you can attempt:
+1. Verify that your smartphone's operating system is the latest version available.
+2. Restore your printer’s network settings, and then connect it back to the Wi-Fi network.
+3. Disable any VPN services on your mobile device while you try to print.
+4. Clear the Canon PRINT app’s cache and data, then reconfigure your printer in the application.
+
+If these suggestions do not work, it might be useful to update your printer’s firmware to the latest version available on Canon's website.
+
+At present, there have been no reported issues with the Canon PIXMA MG3620 mobile printing feature. However, we will record your problem for further analysis.
+
+If the situation does not improve, please inform us, and we will provide additional assistance. Keep in mind to provide your account number for enhanced support, though it is advisable not to disclose personal details via email for your safety. Contact us using secure methods if required.
+
+Thank you for your understanding and cooperation.
+
+Best regards,
+Tech Online Store Support Team

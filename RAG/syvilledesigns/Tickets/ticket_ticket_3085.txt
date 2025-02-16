@@ -1,0 +1,37 @@
+Ticket ID: ticket_3085
+Subject: Request for urgent assistance with Dell XPS 13 issues
+Incident Type: Request
+Customer Issue: Dear Customer Support Team, 
+
+I hope this message finds you well. I am writing to request additional support for my Dell XPS 13 9310 lightweight laptop, which is currently experiencing several issues that I would appreciate your help in resolving. As this is an essential device for both my personal and professional tasks, your prompt attention to this matter would be greatly appreciated.
+
+Firstly, I have encountered a persistent problem with the battery of my Dell XPS 13. It seems to drain much faster than expected, even when the laptop is used for basic tasks such as browsing the internet or word processing. This unexpected battery depletion is inconvenient and affects my ability to use the device efficiently, especially during travel or when access to a power source is limited.
+
+In addition to the battery issues, I am also experiencing a problem where the keyboard occasionally becomes unrecognized. During use, the keyboard intermittently stops responding to inputs, which disrupts my workflow and requires a restart of the device to regain functionality. This issue has proven to be a significant hindrance, and I am eager to find a solution.
+
+I have already attempted standard troubleshooting methods, including system updates and keyboard driver reinstalls, yet these problems persist. As my device is still under warranty, I would appreciate it if you could provide detailed instructions on the next steps. Alternatively, if a repair or replacement is necessary, please let me know how to proceed.
+
+Thank you for your attention to these matters. Please feel free to reach me at <email> or <tel_num> for further details or to discuss possible solutions. I look forward to your swift response and a resolution to these issues.
+
+Best regards, 
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issues with your Dell XPS 13 9310. We understand how important your device is for your personal and professional tasks, and we are here to help you.
+
+For the battery drain issue, please try adjusting the power settings to "Battery Saver" mode and check if any background applications are consuming excess power. If the problem persists despite these measures, we recommend having the battery assessed.
+
+Regarding the unresponsive keyboard issue, since you've already attempted driver reinstalls and updates without success, further diagnostics may be required.
+
+As your laptop is still under warranty, we will arrange for a technician to assess these issues in more detail. Please reply to this email with your preferred availability, and our team will assist in coordinating a suitable time.
+
+If a repair or replacement is deemed necessary, it will be handled within the warranty terms. We will keep you updated on the process.
+
+Should you have any questions or require immediate assistance, do not hesitate to contact us via your provided email or phone number.
+
+Thank you for your understanding and cooperation.
+
+Best regards,
+
+Customer Support Team

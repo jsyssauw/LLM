@@ -1,0 +1,5 @@
+Ticket ID: ticket_2204
+Subject: nan
+Incident Type: Incident
+Customer Issue: Router reagiert nicht, beeinträchtigt Geschäftstätigkeiten, möglicher Hardwarefehler.
+Customer Service answer: Wir überprüfen Ihr Routerproblem. Bitte überprüfen Sie die Kabel. Ein Techniker wird Sie bald kontaktieren.

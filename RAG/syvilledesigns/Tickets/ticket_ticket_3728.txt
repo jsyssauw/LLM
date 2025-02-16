@@ -1,0 +1,28 @@
+Ticket ID: ticket_3728
+Subject: Request for Detailed Billing Clarification
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to express my concern and seek clarification regarding some discrepancies I have found in my recent billing statement for my Microsoft Office 365 subscription. Upon reviewing the charges associated with account number <acc_num>, I have noticed several entries that I do not fully understand and need a detailed breakdown to ensure everything is accurate.
+
+In particular, it would be very helpful if you could provide me with an itemized list of all charges applied to my subscription this billing cycle. Additionally, I would like clarity on any taxes or fees that have been included, as these figures were not anticipated in the initial agreement.
+
+Thank you for your attention to this matter. I am keen to resolve this as soon as possible, so I would appreciate a prompt response. Should you need to contact me for further information, please feel free to reach out via email or phone at <tel_num>.
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your billing concerns. We understand the importance of clarity in your account charges and are here to assist you.
+
+We will provide you with an itemized breakdown of the charges on your Microsoft Office 365 subscription associated with account number <acc_num> as soon as possible. This will include a detailed list of charges along with any applicable taxes or fees for this billing cycle.
+
+Our team is reviewing your account, and we will ensure all details are clear and accurate. Expect a follow-up email with the information you requested shortly.
+
+We appreciate your patience and are committed to resolving this for you swiftly. Should you have any further questions, don't hesitate to contact us.
+
+Best regards,
+Tech Online Store Customer Support

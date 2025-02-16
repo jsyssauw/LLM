@@ -1,0 +1,5 @@
+Ticket ID: ticket_301
+Subject: Problemas de Rede
+Incident Type: Incident
+Customer Issue: Prezados Serviços de TI, Nossa rede está fora do ar devido a uma falha em nosso Roteador Cisco ISR4331. Estamos enfrentando desconexões frequentes e problemas de desempenho. Assistência imediata é necessária para restaurar a estabilidade da nossa rede. Por favor, advise sobre os próximos passos para resolver este problema rapidamente. Aguardamos seu apoio urgente. Obrigado, <name>.
+Customer Service answer: Caro <name>, Obrigado por entrar em contato. Recomendamos reiniciar primeiro o seu Roteador Cisco ISR4331. Se o problema persistir, entre em contato com nossa equipe de suporte técnico pelo telefone <tel_num> para realizar diagnósticos e fornecer assistência. Registre quaisquer mensagens de erro que aparecerem, pois isso pode ajudar a acelerar o processo de resolução. Estamos comprometidos em restaurar sua rede rapidamente. Atenciosamente, Serviços de TI.

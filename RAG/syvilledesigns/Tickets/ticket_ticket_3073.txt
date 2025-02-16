@@ -1,0 +1,5 @@
+Ticket ID: ticket_3073
+Subject: nan
+Incident Type: Incident
+Customer Issue: La aplicación se vuelve no receptiva mientras se exporta.
+Customer Service answer: Asegúrate de que la aplicación esté actualizada. Intenta la exportación una vez más. Si el problema persiste, contacta al soporte al cliente.

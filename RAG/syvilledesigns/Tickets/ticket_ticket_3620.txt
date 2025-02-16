@@ -1,0 +1,28 @@
+Ticket ID: ticket_3620
+Subject: Propuestas de mejoras para la gestión de múltiples cuentas en la nube de AWS
+Incident Type: Request
+Customer Issue: Estimado soporte de la firma de consultoría IT,
+
+Le escribo para proponer mejoras en la gestión de la infraestructura en la nube a través de múltiples cuentas de AWS, centrándome en mejorar la conformidad y la gestión de costos. Nuestro actual servicio de gestión de AWS carece de monitoreo unificado y verificaciones proactivas de conformidad, lo que plantea riesgos operativos.
+
+Para abordar estos problemas, sugiero implementar mejores análisis entre cuentas y herramientas automatizadas de gestión de costos. Estas mejoras podrían mejorar significativamente la eficiencia al asegurar la adherencia a las políticas y optimizar la facturación de recursos.
+
+Por favor, considere esta propuesta e infórmenos sobre cualquier discusión adicional necesaria para iniciar estas mejoras.
+
+Gracias.
+
+Atentamente,
+
+<name>
+
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por su propuesta respecto a las mejoras en la gestión de la infraestructura en la nube de AWS. Agradecemos sus sugerencias para mejorar la conformidad y la gestión de costos a través de múltiples cuentas. La implementación de análisis entre cuentas y herramientas automatizadas de gestión de costos parece prometedora para optimizar la eficiencia y la adherencia a las políticas.
+
+Revisaremos su propuesta internamente y nos pondremos en contacto con usted si necesitamos más discusiones para proceder con estas mejoras.
+
+Gracias por ponerse en contacto.
+
+Atentamente,
+Soporte de la firma de consultoría IT

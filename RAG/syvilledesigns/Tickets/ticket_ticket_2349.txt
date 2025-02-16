@@ -1,0 +1,12 @@
+Ticket ID: ticket_2349
+Subject: nan
+Incident Type: Request
+Customer Issue: Guten Tag Kundenservice, ich habe Probleme bei der Aktivierung meiner Windows 11 Pro Software. Ich habe die angegebene <acc_num> eingegeben, jedoch kann mein System nicht aktiviert werden. Konnte ich bitte Hilfe bei diesem Problem bekommen, damit mein System korrekt lizenziert werden kann? Vielen Dank, <name> <tel_num>
+Customer Service answer: Betreff: Hilfe zur Aktivierung von Windows 11 Pro
+
+Hallo <name>,
+
+Wir danken Ihnen für Ihre Kontaktaufnahme. Bitte prüfen Sie, ob der Aktivierungscode richtig eingegeben wurde und Ihr Gerät eine Internetverbindung hat. Sollte das Problem weiterhin bestehen, lassen Sie uns bitte den Fehlercode wissen, den Sie erhalten, damit wir Ihnen behilflich sein können.
+
+Freundliche Grüße,
+Kundenservice

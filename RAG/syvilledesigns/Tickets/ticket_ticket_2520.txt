@@ -1,0 +1,17 @@
+Ticket ID: ticket_2520
+Subject: Critical: Recurring Network Disruption Problem
+Incident Type: Incident
+Customer Issue: Hello Customer Support,
+
+We are facing constant network disruptions with our Cisco Router ISR4331 that are significantly hindering our office's connectivity. An immediate fix and troubleshooting assistance are urgently needed. Please help us resolve this problem.
+
+Thank you,
+<name>
+Customer Service answer: Subject: Re: Critical: Recurring Network Disruption Problem
+
+Dear <name>,
+
+Thank you for contacting us. We recognize how vital this problem is to your business operations. Please attempt to restart your Cisco Router ISR4331 and inspect for any loose connections or evident hardware problems. Verify that the firmware is current and that the configurations align with your network needs. Should the issue continue, we will refer this to our technical team for an in-depth analysis and additional support.
+
+Kind regards,
+Customer Support Team

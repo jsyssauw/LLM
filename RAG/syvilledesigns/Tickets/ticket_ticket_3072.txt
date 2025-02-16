@@ -1,0 +1,10 @@
+Ticket ID: ticket_3072
+Subject: nan
+Incident Type: Incident
+Customer Issue: Estimado <nombre>, un usuario ha informado sobre inconvenientes con la instalación de Windows 11 Pro. Te ruego que proporciones ayuda para solucionar este problema con rapidez. Saludos, <nombre>.
+Customer Service answer: Estimado [Nombre],
+
+Te pido que dirijas al usuario a nuestra guía de instalación de Windows 11 Pro aquí [inserta enlace], o pídele que se comunique con nosotros directamente para recibir asistencia adicional.
+
+Saludos cordiales,
+[Tu Nombre]

@@ -1,0 +1,28 @@
+Ticket ID: ticket_398
+Subject: Request for Additional Custom Fields in Jira
+Incident Type: Change
+Customer Issue: Dear Customer Support,
+
+We have been using Jira Software 8.20 for our project management needs and are interested in enhancing our workflow efficiency. To achieve this, we would like to request the implementation of additional custom fields within the software, which we believe will improve data capture and streamline our processes.
+
+Please advise on the feasibility of adding these custom fields and any additional information or steps needed to fulfill this request. We look forward to your support in making the necessary adjustments.
+
+Thank you and kind regards,
+
+<name>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. Adding custom fields in Jira Software 8.20 is feasible and can greatly enhance workflow efficiency. You can create and manage custom fields through Jira's administration settings. 
+
+Here are the basic steps: 
+1. Go to Jira Administration.
+2. Navigate to Issues > Custom Fields.
+3. Click on "Create custom field” and select the field type you need.
+4. Add relevant details and associate it with the appropriate screens.
+
+You may require administrative permissions to implement these changes. If you need further assistance or customization beyond standard capabilities, please let us know, and we can guide you further or connect you with our technical support team.
+
+Best regards,
+
+Customer Support Team

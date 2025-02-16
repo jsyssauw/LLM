@@ -1,0 +1,23 @@
+Ticket ID: ticket_2007
+Subject: Problemas de conectividad con la infraestructura del servidor
+Incident Type: Problem
+Customer Issue: Estimado equipo de soporte, 
+
+Me pongo en contacto para informar que hemos estado experimentando problemas de conectividad con nuestra infraestructura de servidor proporcionada por su Servicio de Consultoría de TI. Hemos intentado algunos pasos básicos de solución de problemas, pero el problema persiste. Solicitamos amablemente una sesión de solución de problemas detallada para resolver este problema, ya que está afectando nuestras operaciones. Por favor, háganos saber sus horarios disponibles para una sesión. 
+
+Gracias por su atención a este asunto.
+
+Atentamente, 
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con nosotros sobre los problemas de conectividad con su infraestructura de servidor. Entendemos la urgencia y estamos aquí para ayudarle. ¿Podría proporcionarnos más detalles específicos sobre los problemas que está enfrentando? Esta información nos ayudará a comenzar a diagnosticar el problema de inmediato.
+
+Nuestro equipo está disponible para una sesión de solución de problemas en su conveniencia. Por favor, sugiera algunos intervalos de tiempo que le funcionen y haremos nuestro mejor esfuerzo para acomodarlos. Si se necesita soporte inmediato, por favor contáctenos a nuestra línea directa al <tel_num>.
+
+Esperamos resolver este problema rápidamente para usted.
+
+Atentamente,
+
+El equipo de soporte

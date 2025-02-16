@@ -1,0 +1,16 @@
+Ticket ID: ticket_3696
+Subject: Urgent Billing Discrepancy for AWS Management Service
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team, I am writing to express my concern regarding a recent issue identified within my account related to the billing discrepancies for the AWS Management Service. Upon reviewing my billing statement for the past month associated with account number <acc_num>, there appear to be incorrect cost allocations that require your immediate attention and assistance. The charges listed do not align with the services I have used and, after assessing the detailed billing breakdown, it seems there were errors in the calculation or description aspects pertaining to my service utilization. I noticed atypical spikes in the costs that have not been previously encountered with the ongoing management services we have arranged. To provide a more comprehensive understanding of the situation, I am more than willing to share specific billing breakdowns and documentation related to my concerns. It will be appreciated if this matter could be investigated at your earliest convenience, ensuring that any errors are corrected promptly. Please let me know if any additional information is required from my side to expedite the resolution process. Looking forward to your prompt and positive response. Thank you for addressing this urgent concern sincerely. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the billing discrepancies for your AWS Management Service account. We understand your concerns and take billing issues very seriously.
+
+We will investigate this matter as a priority. Please send us the specific billing breakdowns and any relevant documentation you have mentioned, which can assist us in resolving the discrepancy swiftly.
+
+If we require any further information, we will contact you right away. Rest assured, we aim to resolve this issue promptly to ensure your satisfaction.
+
+Thank you for your patience and understanding.
+
+Best regards,
+Customer Support Team

@@ -1,0 +1,29 @@
+Ticket ID: ticket_1714
+Subject: Consulta sobre un problema de facturación
+Incident Type: Request
+Customer Issue: Estimado Servicio al Cliente,
+
+Espero que este mensaje lo encuentre bien. Estoy escribiendo para expresar mi preocupación acerca de un problema de facturación que he encontrado con una compra reciente en su tienda. El 12 de octubre de 2023, compré una suscripción para Adobe Photoshop 2024 usando mi número de cuenta <acc_num>. Sin embargo, he notado una discrepancia entre el monto cobrado y el precio oficial listado.
+
+El precio publicado en su sitio web en el momento de la compra era de $49.99, pero mi tarjeta fue cobrando $59.99. Estoy seguro de que esto es un error y apreciaría ayuda para resolver este sobrecargo. He adjuntado una copia de mi recibo de facturación para referencia.
+
+Por favor, hágame saber si necesita información adicional de mi parte para acelerar el proceso de revisión. Espero que tales problemas se traten con urgencia, y confío en que su empresa valora la satisfacción del cliente. Si debo contactar a otro departamento para una resolución más rápida, amablemente diríjame en consecuencia.
+
+Espero su pronta respuesta sobre este asunto. Gracias por su atención a este problema.
+
+Atentamente,
+
+<name>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con nosotros sobre el problema de facturación relacionado con la compra de su suscripción de Adobe Photoshop 2024. Lamentamos sinceramente la discrepancia que experimentó.
+
+Con base en los detalles que proporcionó, parece que hubo un error con el cargo. Agradecemos que nos haya enviado el recibo de facturación; esto acelerará nuestro proceso de revisión. Nuestro equipo de facturación está revisando este asunto y nuestro objetivo es resolverlo lo más rápido posible.
+
+No se necesita más información en este momento. Le actualizaremos pronto sobre el estado de su reembolso por el sobrecargo. Por favor, permítanos un par de días hábiles para rectificar esto.
+
+Su satisfacción es importante para nosotros, y apreciamos su paciencia y comprensión.
+
+Saludos cordiales,
+Equipo de Atención al Cliente

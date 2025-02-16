@@ -1,0 +1,16 @@
+Ticket ID: ticket_2146
+Subject: nan
+Incident Type: Incident
+Customer Issue: Bonjour cher service à la clientèle, 
+
+J'éprouve des difficultés avec la batterie de mon iPhone 13 Pro, que j'ai acquis dans votre magasin. Pourriez-vous m'indiquer comment résoudre ce souci ? Mon identifiant de compte est <acc_num>. 
+
+Merci beaucoup, 
+<name> 
+<tel_num>
+Customer Service answer: Bonjour <name>, 
+
+Je suis désolé d'apprendre que vous rencontrez des difficultés avec votre batterie. Veuillez suivre ces instructions : Mettez à jour votre iOS vers la version la plus récente, examinez les applications qui consomment beaucoup de batterie et recalibrez la batterie. Si le problème persiste, veuillez vous rendre dans notre magasin pour un diagnostic. 
+
+Cordialement, 
+Service à la clientèle

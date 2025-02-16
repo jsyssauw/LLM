@@ -1,0 +1,12 @@
+Ticket ID: ticket_3591
+Subject: nan
+Incident Type: Incident
+Customer Issue: Estimado servicio de atención al cliente, el usuario <name>, cuenta <acc_num>, no puede acceder a Jira Software 8.20 debido a fallos de inicio de sesión repetidos y errores del sistema imprevistos. Se requiere asistencia urgente para la resolución. Gracias.
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Nos disculpamos por los inconvenientes causados. Para asistirte rápidamente, asegúrate de que las cookies/cache del navegador estén limpias y verifica las credenciales de inicio de sesión. Si el problema persiste, por favor proporciona códigos de error o capturas de pantalla para ayudar a diagnosticar los errores del sistema. Estamos aquí para resolver esto con urgencia.
+
+Gracias por tu paciencia.
+
+Atentamente,
+Equipo de atención al cliente

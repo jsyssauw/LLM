@@ -1,0 +1,23 @@
+Ticket ID: ticket_2906
+Subject: IntelliJ IDEA 2024.1 Crash après mise à jour
+Incident Type: Incident
+Customer Issue: Cher service client, Je vous écris pour signaler un problème avec IntelliJ IDEA 2024.1, qui rencontre des plantages récurrents après la mise à jour récente. Ce problème affecte considérablement mes tâches de développement Java, car l'application devient non réactive et se ferme de manière inattendue. Je compte beaucoup sur IntelliJ IDEA pour mes projets, et ce problème cause des retards. Pourriez-vous s'il vous plaît enquêter sur cette affaire et fournir une solution ou une alternative dans les plus brefs délais ? Mon ID développeur est <dev_id>. Merci de votre attention rapide à cette question importante. Cordialement, <name>
+Customer Service answer: Sujet : RE : IntelliJ IDEA 2024.1 Crash après mise à jour
+
+Cher <name>,
+
+Merci de nous avoir contactés. Nous nous excusons pour les désagréments causés par les plantages dans IntelliJ IDEA 2024.1. Notre équipe est consciente du problème et il est actuellement examiné avec une priorité élevée.
+
+En attendant, veuillez essayer les étapes suivantes pour résoudre le problème :
+1. Videz le cache via Fichier > Invalider les caches / Redémarrer.
+2. Désactivez les plugins qui ne sont pas essentiels à votre projet actuel.
+3. Vérifiez les éventuelles mises à jour de patch ultérieures sur le site de JetBrains.
+
+Vous pourriez également envisager de revenir à la version stable précédente, si les étapes ci-dessus ne sont pas efficaces.
+
+Si le problème persiste, veuillez partager tout journal d'erreurs si disponible, ou fournir plus de détails sur les moments où les plantages se produisent. Ces informations nous aideront à diagnostiquer le problème de manière efficace.
+
+Nous vous remercions de votre patience et de votre compréhension. Veuillez nous faire savoir si les solutions fournies aident ou si une assistance supplémentaire est nécessaire.
+
+Cordialement,
+Équipe du service client

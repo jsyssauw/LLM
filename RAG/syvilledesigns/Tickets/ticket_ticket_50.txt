@@ -1,0 +1,12 @@
+Ticket ID: ticket_50
+Subject: Issue with Wireless Printing Setup
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am experiencing an issue with my HP DeskJet 3755. The wireless setup works, but color printing isn't functioning correctly. Kindly assist in resolving this problem.
+
+Thank you,
+<name>
+
+Contact Number: <tel_num>
+Customer Service answer: Dear <name>, please check if the color ink cartridges are installed correctly and have sufficient ink. Try running a printhead cleaning via your printer's software. If the issue persists, contact HP support for detailed troubleshooting.

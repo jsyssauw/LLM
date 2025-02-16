@@ -1,0 +1,27 @@
+Ticket ID: ticket_3328
+Subject: Hilfe benötigt bei der Druckereinrichtung
+Incident Type: Request
+Customer Issue: Sehr geehrtes Tech Online Store Support Team,
+
+ich schreibe, um Hilfe bei der Einrichtung und Fehlerbehebung der Wi-Fi-Konnektivität meines Canon PIXMA MG3620 Druckers zu bitten. Trotz der Befolgung der im Handbuch gegebenen Anweisungen kann ich den Drucker nicht mit meinem WLAN verbinden. Ihre Anleitung wäre sehr hilfreich, da ich den Drucker so schnell wie möglich betriebsbereit haben muss.
+
+Bitte lassen Sie mich wissen, ob Sie weitere Informationen benötigen oder ob es ein Verfahren zu befolgen gibt.
+
+Danke für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<name>
+<tel_num>
+<email>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich wegen der Wi-Fi-Einrichtung Ihres Canon PIXMA MG3620 Druckers an uns gewandt haben. Ich bin hier, um Ihnen zu helfen. Bitte stellen Sie sicher, dass Ihr WLAN-Router eingeschaltet ist, und positionieren Sie den Drucker ohne Hindernisse in Reichweite. Falls möglich, starten Sie sowohl Ihren Router als auch den Drucker neu. Überprüfen Sie als Nächstes, ob Ihr Drucker im "Drahtlos"-Modus ist, und versuchen Sie erneut, den Wi-Fi-Einrichtungsprozess zu befolgen:
+
+1. Drücken Sie die Wi-Fi-Taste am Drucker, bis die AN-Anzeige blinkt.
+2. Gehen Sie zu den Wi-Fi-Einstellungen Ihres Geräts und fügen Sie den Drucker hinzu, indem Sie sein Netzwerk auswählen.
+3. Verwenden Sie die "Standard"- oder "Einfache"-Methode, wie sie in Ihrer Druckeranwendung oder im Handbuch angegeben ist.
+
+Wenn Sie weiterhin Probleme haben, antworten Sie bitte mit eventuellen Fehlermeldungen. Wir sind hier, um zu helfen.
+
+Mit besten Grüßen,
+Tech Online Store Support Team

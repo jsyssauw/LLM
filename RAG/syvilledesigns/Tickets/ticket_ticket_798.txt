@@ -1,0 +1,10 @@
+Ticket ID: ticket_798
+Subject: Issues with AWS Deployment Instances
+Incident Type: Problem
+Customer Issue: Dear customer support, we are experiencing issues with the AWS Management Service deployment where server instances are not starting correctly. This is severely impacting our service availability. Please provide assistance to resolve this issue promptly. Thank you.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the AWS deployment issues. We understand the impact this has on your service availability and are here to help. Please ensure you've checked the instance configurations and security groups for any discrepancies. If the error persists, kindly provide any error messages you're encountering or instance IDs, and we will escalate this to our technical team immediately to ensure a swift resolution.
+
+Best regards,
+Customer Support

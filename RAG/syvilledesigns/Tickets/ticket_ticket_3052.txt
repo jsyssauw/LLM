@@ -1,0 +1,38 @@
+Ticket ID: ticket_3052
+Subject: Frequent Crashes on MacBook Air
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I am writing to report a performance issue I am experiencing with my MacBook Air M1. Over the past few weeks, I've encountered frequent crashes whenever I try to run multiple applications simultaneously. This has become a significant inconvenience, especially when I rely on the device for my daily tasks.
+
+I purchased the MacBook Air M1 from your store earlier this year, and it has received regular updates. Nonetheless, the issue continues to persist, with crashes occurring at unpredictable intervals. Ensuring smooth operation without interruptions is crucial for my work, and I hope to find an expedient solution.
+
+Could you please advise on steps I can take to resolve this problem? Also, if there's a possibility of a hardware or software defect, could you guide me through the process of diagnosis or repair? I am prepared to provide any additional information or take the required steps to facilitate the resolution.
+
+I look forward to your prompt response and a remedy to this issue. Thank you for your assistance and support.
+
+Best regards,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this issue to our attention. We apologize for the inconvenience you've been experiencing with your MacBook Air M1. Here are a few steps you can take to diagnose and potentially resolve the issue:
+
+1. **Update macOS**: Ensure your system is running the latest version of macOS, as this can resolve known bugs and performance issues.
+
+2. **Check for Software Conflicts**: Boot your Mac into Safe Mode to see if the crashes persist. If the issue is resolved in Safe Mode, this may indicate a software conflict.
+
+3. **Check System Resources**: Monitor your system's activity using the "Activity Monitor" application. This will show you if any particular application is consuming excessive resources.
+
+4. **Reset SMC and NVRAM**: Resetting the SMC (System Management Controller) and NVRAM can resolve several performance issues. Instructions are available on the Apple Support website.
+
+5. **Hardware Diagnostics**: Run Apple's built-in diagnostics by restarting your Mac and holding down the "D" key. This process will check for any hardware issues. 
+
+If the problem persists after these checks, it may be a hardware or software defect. Given that your MacBook Air is still within a reasonable timeframe from purchase, we might need to look into repair options. Please contact our technical support line directly at <tel_num> to provide your account details <acc_num> for further assistance or authorization for a service appointment if necessary.
+
+We appreciate your patience and look forward to helping resolve this quickly.
+
+Best regards,
+Customer Support Team

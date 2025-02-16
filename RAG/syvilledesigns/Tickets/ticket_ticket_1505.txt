@@ -1,0 +1,16 @@
+Ticket ID: ticket_1505
+Subject: Consulta sobre Configuração de Impressão Sem Fio para Epson EcoTank ET-4760
+Incident Type: Request
+Customer Issue: Prezado Suporte ao Cliente,
+
+Estou buscando sua assistência para configurar a funcionalidade de impressão sem fio na minha impressora Epson EcoTank ET-4760. Recentemente adquiri este produto e gostaria de garantir que ele esteja configurado corretamente para funcionar com vários dispositivos via Wi-Fi. Você poderia me fornecer instruções detalhadas passo a passo ou me direcionar a um recurso que possa ajudar? Além disso, qualquer dica para solucionar problemas comuns de conectividade seria apreciada. Obrigado pelo seu apoio.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Prezado <name>,
+
+Para configurar a impressão sem fio para sua Epson EcoTank ET-4760, siga estas etapas: Conecte sua impressora ao Wi-Fi através do display da impressora, selecionando Configuração de Wi-Fi. Baixe e instale os drivers da impressora no site da Epson em cada dispositivo. Adicione a impressora nas configurações de impressora do seu dispositivo. Para problemas de conectividade, certifique-se de que seu roteador e a impressora estão próximos, verifique a estabilidade da rede e reinicie ambos os dispositivos, se necessário. Visite a página de suporte da Epson para mais recursos.
+
+Atenciosamente,
+Suporte ao Cliente

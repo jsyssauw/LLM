@@ -1,0 +1,24 @@
+Ticket ID: ticket_468
+Subject: Problema de conectividad del teclado Surface Pro 7
+Incident Type: Problem
+Customer Issue: Estimado soporte al cliente de la tienda en línea de tecnología,
+
+Estoy experimentando problemas de conectividad con el teclado desmontable de mi Microsoft Surface Pro 7. Se desconecta con frecuencia mientras está conectado a mi configuración de Windows 10, lo que causa interrupciones significativas en mi trabajo. He intentado solucionar el problema utilizando métodos estándar, pero sin éxito a largo plazo. Agradecería si pudieran brindarme orientación sobre cómo resolver este problema técnico o informarme sobre las opciones de reparación disponibles. Mi Surface Pro 7 fue comprado bajo el número de cuenta <acc_num>. No duden en contactarme al <tel_num> para más ayuda.
+
+Gracias.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con respecto a los problemas de conectividad con el teclado de tu Surface Pro 7. Te recomendamos intentar los siguientes pasos para una posible solución:
+
+1. Asegúrate de que tu Surface Pro 7 tenga las últimas actualizaciones de Windows instaladas.
+2. Desconecta el teclado, limpia los conectores magnéticos con un paño suave y seco, y vuelve a conectar.
+3. Reinicia tu dispositivo para actualizar la conexión.
+4. Verifica y actualiza cualquier controlador específico del teclado.
+
+Si estas soluciones no resuelven el problema, te sugerimos visitar una tienda cercana para una inspección técnica. También puedes consultar nuestro portal de servicio con los detalles de tu cuenta <acc_num> para las opciones de reparación disponibles. No dudes en llamarnos al <tel_num> si necesitas más asistencia.
+
+Atentamente,
+Soporte al cliente de la tienda en línea de tecnología

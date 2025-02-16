@@ -1,0 +1,28 @@
+Ticket ID: ticket_1766
+Subject: Solicitação de Campos Personalizados Adicionais no Jira
+Incident Type: Change
+Customer Issue: Caro Suporte ao Cliente,
+
+Temos utilizado o Jira Software 8.20 para nossos fins de gerenciamento de projetos e estamos ansiosos para melhorar nossa eficiência de fluxo de trabalho. Para isso, gostaríamos de solicitar a incorporação de campos personalizados adicionais no software, pois acreditamos que essas alterações aumentariam a captura de dados e agilizariam nossas operações.
+
+Por favor, informe-nos sobre a viabilidade da integração desses campos personalizados e forneça qualquer informação suplementar ou etapas essenciais para a execução deste pedido. Aguardamos ansiosamente sua assistência na implementação dessas modificações necessárias.
+
+Obrigado e melhores cumprimentos,
+
+<name>
+<acc_num>
+Customer Service answer: Caro <name>,
+
+Obrigado pela sua consulta. A adição de campos personalizados no Jira Software 8.20 é, de fato, possível e pode aumentar significativamente a eficiência do fluxo de trabalho. Você pode criar e gerenciar campos personalizados por meio das configurações de administração do Jira.
+
+Aqui estão os passos principais a seguir:
+1. Acesse a Administração do Jira.
+2. Vá para Problemas > Campos Personalizados.
+3. Clique em "Criar campo personalizado" e escolha o tipo de campo desejado.
+4. Preencha as informações relevantes e vincule-a às telas adequadas.
+
+Por favor, note que permissões administrativas podem ser necessárias para fazer essas mudanças. Caso você precise de mais orientações ou personalizações específicas além das opções padrão, não hesite em entrar em contato, e ficaremos felizes em ajudá-lo ou conectá-lo com nossa equipe de suporte técnico.
+
+Melhores cumprimentos,
+
+Equipe de Suporte ao Cliente

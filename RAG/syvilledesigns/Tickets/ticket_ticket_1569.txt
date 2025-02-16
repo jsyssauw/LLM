@@ -1,0 +1,9 @@
+Ticket ID: ticket_1569
+Subject: Stromproblem mit Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Support-Team des Tech Online Stores, ich habe Stromprobleme mit meinem Dell XPS 13 9310. Obwohl der Laptop vollständig aufgeladen ist, lässt er sich nicht einschalten. Bitte beraten Sie mich, wie ich weiter verfahren soll. Vielen Dank, <name>.
+Customer Service answer: Sehr geehrte(r) <name>,
+Versuchen Sie diese Schritte: 1. Trennen Sie alle Peripheriegeräte. 2. Halten Sie die Einschalttaste 15-20 Sekunden lang gedrückt. 3. Schließen Sie das Ladegerät an und versuchen Sie, es einzuschalten. Wenn das Problem weiterhin besteht, kontaktieren Sie uns bitte.
+
+Mit freundlichen Grüßen,
+Team Tech Online Store Support

@@ -1,0 +1,14 @@
+Ticket ID: ticket_1085
+Subject: Issue with Accessing Billing Portal for Invoice Request
+Incident Type: Request
+Customer Issue: Dear Customer Support, I am having trouble accessing the billing portal to retrieve the invoice for my recent Microsoft Office 365 purchase. Could you please assist me in resolving this issue by providing an alternative way to obtain the invoice? Thank you.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We're sorry to hear about the trouble accessing the billing portal. To assist you further, please check if you're using the correct login credentials and clear your browser cache. 
+
+If the issue persists, kindly provide your order number or account details such as the last four digits, and I will send the invoice directly to your registered email address. 
+
+Thank you for your patience.
+
+Best regards,
+Customer Support Team

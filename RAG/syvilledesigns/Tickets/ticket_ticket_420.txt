@@ -1,0 +1,10 @@
+Ticket ID: ticket_420
+Subject: Demande de renseignement sur un problème de facturation d'IntelliJ IDEA
+Incident Type: Request
+Customer Issue: Cher support client, je vous contacte pour me renseigner sur le processus de facturation de ma licence IntelliJ IDEA 2024.1. Je n'ai pas reçu de confirmation de paiement. Mon numéro de commande est <order_num>. Pourriez-vous m'aider avec ce problème ? Merci, <name>.
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous nous excusons pour l'inconvénient concernant votre licence IntelliJ IDEA 2024.1. Pour vous aider avec votre demande de facturation, veuillez vous assurer que le paiement a bien été effectué. Parfois, les confirmations de paiement peuvent être retardées en raison des délais de traitement. Si votre paiement a été traité et que vous n'avez toujours pas reçu de confirmation, veuillez nous le faire savoir. Nous sommes ici pour vous aider davantage.
+
+Cordialement,
+Équipe de support client

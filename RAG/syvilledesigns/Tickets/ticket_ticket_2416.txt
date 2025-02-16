@@ -1,0 +1,5 @@
+Ticket ID: ticket_2416
+Subject: nan
+Incident Type: Incident
+Customer Issue: O software fica sem resposta ao exportar.
+Customer Service answer: Certifique-se de que o software está atualizado. Tente exportar mais uma vez. Se o problema persistir, entre em contato com o suporte.

@@ -1,0 +1,10 @@
+Ticket ID: ticket_1436
+Subject: Immediate Assistance Needed: Defective Battery Problem in New MacBook Air M1
+Incident Type: Problem
+Customer Issue: Hello Support Team, I am facing a defective battery problem with my newly acquired MacBook Air M1. Kindly assist me in navigating the steps to obtain a replacement. My account number is <acc_num>. Thank you, <name>
+Customer Service answer: Hello <name>,
+
+We apologize for the trouble you’re facing. Please visit your closest Apple Store or an authorized service provider along with your receipt. Alternatively, you can reach out to Apple Support directly for details on replacement procedures.
+
+Best regards,
+Support Team

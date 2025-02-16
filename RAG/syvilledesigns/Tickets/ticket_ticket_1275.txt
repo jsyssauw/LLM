@@ -1,0 +1,25 @@
+Ticket ID: ticket_1275
+Subject: Assistência Necessária Para Problema de Timeout do Jira
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte de Serviços de TI,
+
+Estou escrevendo para solicitar assistência com um problema recorrente que estamos enfrentando na versão 8.20 do Jira Software. Ocorrências frequentes de timeout acontecem ao gerenciar tarefas no backlog dentro do nosso projeto. Este bug interrompe significativamente nosso fluxo de trabalho e os cronogramas do projeto. Tentamos uma solução básica de problemas sem sucesso. Poderia investigar e fornecer uma solução rápida? Se necessário, posso fornecer detalhes adicionais ou arquivos de log.
+
+Obrigado pela sua atenção urgente a este assunto.
+
+Atenciosamente,
+
+<name>
+Gerente de Projeto
+<company_name>
+<tel_num>
+<email>
+Customer Service answer: Assunto: Re: Assistência Necessária Para Problema de Timeout do Jira
+
+Caro <name>,
+
+Obrigado por entrar em contato sobre o problema de timeout do Jira. Entendemos como isso pode impactar seu fluxo de trabalho e os cronogramas do projeto. Nossa equipe irá investigar este assunto prontamente. Por favor, compartilhe quaisquer detalhes adicionais ou arquivos de log que possam nos ajudar a diagnosticar o problema de forma mais eficiente. Estamos comprometidos em encontrar uma resolução rápida para minimizar a interrupção nas atividades da sua equipe.
+
+Atenciosamente,
+
+Equipe de Suporte de Serviços de TI

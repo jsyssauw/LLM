@@ -1,0 +1,30 @@
+Ticket ID: ticket_1626
+Subject: Asistencia requerida para la actualización del teclado Surface Pro 7
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte de Tech Online Store,
+
+Me estoy poniendo en contacto para recibir asistencia con la actualización del teclado desmontable para mi Microsoft Surface Pro 7, que actualmente funciona con Windows 10. Recientemente, he encontrado algunos problemas de compatibilidad y necesito orientación para asegurar un proceso de actualización fluido.
+
+¿Podrían por favor proporcionar instrucciones paso a paso o consejos de solución de problemas para abordar posibles obstáculos? Además, infórmenme si hay controladores específicos o actualizaciones requeridas para un funcionamiento óptimo. Agradecería mucho su pronta ayuda para resolver este asunto.
+
+Gracias por su atención a esta solicitud.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con respecto a la actualización del teclado de tu Microsoft Surface Pro 7. Para asegurar un proceso fluido:
+
+1. Visita la Microsoft Store o el sitio web oficial para confirmar la compatibilidad con tu dispositivo.
+2. Actualiza tu Windows 10 a la última versión a través de Configuración > Actualización y seguridad > Actualización de Windows.
+3. Asegúrate de que tus controladores estén actualizados revisando el Administrador de dispositivos > Teclados. Haz clic derecho y selecciona "Actualizar controlador".
+4. Retira el teclado antiguo y conecta el nuevo. Debería ser detectado automáticamente.
+5. Reinicia tu Surface Pro para aplicar los cambios.
+
+Si encuentras algún problema, consulta la página de soporte de Surface para obtener consejos de solución de problemas. Asegúrate de que se hayan aplicado todas las actualizaciones de software/firmware para un rendimiento óptimo.
+
+Si tienes más preguntas, no dudes en responder.
+
+Atentamente,
+Equipo de soporte de Tech Online Store

@@ -1,0 +1,16 @@
+Ticket ID: ticket_3287
+Subject: nan
+Incident Type: Incident
+Customer Issue: Liebes Kundenserviceteam,
+
+ich habe eine Verzögerung beim Versand meiner aktuellen Bestellung eines Lenovo IdeaPad 5 festgestellt. Könnten Sie bitte Unterstützung bieten?
+
+Danke, 
+<name>
+<acc_num>
+Customer Service answer: Liebes <name>,
+
+wir bedauern die Unannehmlichkeiten, die durch die Verzögerung entstanden sind. Wir werden Ihre Bestellung prüfen und Ihnen so bald wie möglich weitere Informationen zukommen lassen. Vielen Dank für Ihr Verständnis.
+
+Herzliche Grüße,
+Kundenservice

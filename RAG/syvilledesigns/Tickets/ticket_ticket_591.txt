@@ -1,0 +1,32 @@
+Ticket ID: ticket_591
+Subject: Probleme mit der Konnektivität während Zoom-Videoanrufen
+Incident Type: Incident
+Customer Issue: Hallo Kundenservice,
+
+Ich hoffe, es geht Ihnen gut. Ich erlebe anhaltende Konnektivitätsprobleme während Videoanrufen mit Zoom Version 5.11.0. Diese Störungen treten in verschiedenen Netzwerkumgebungen auf. Ich bitte um Ihre Unterstützung bei der Diagnosierung und Behebung dieses Problems, da es unsere Kommunikation und Produktivität erheblich beeinträchtigt. Bitte lassen Sie mich wissen, ob es Schritte zur Fehlersuche gibt, die ich befolgen sollte, oder ob Patches verfügbar sind.
+
+Vielen Dank für Ihre schnelle Aufmerksamkeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<name>
+
+Kontaktinformationen:
+Telefon: <tel_num>
+
+Kundennummer: <acc_num>
+Customer Service answer: Hallo,
+
+Vielen Dank, dass Sie sich gemeldet haben. Wir empfehlen die folgenden Schritte zur Fehlersuche bei Ihren Zoom-Konnektivitätsproblemen:
+
+1. Stellen Sie sicher, dass Ihre Zoom-Version auf die neueste Version aktualisiert ist.
+2. Überprüfen Sie Ihre Internetgeschwindigkeit und wechseln Sie, wenn möglich, die Netzwerke, um einen Vergleich zu ziehen.
+3. Überprüfen Sie, ob Ihre Firewall oder Ihr Antivirus Zoom blockiert.
+4. Versuchen Sie, eine kabelgebundene Verbindung anstelle von WLAN zu verwenden, falls verfügbar.
+5. Reduzieren Sie die Anzahl der Geräte, die dasselbe Netzwerk verwenden.
+
+Wenn das Problem weiterhin besteht, senden Sie bitte einen Screenshot von etwaigen Fehlermeldungen, die Sie erhalten, und bestätigen Sie, dass Ihr System die Mindestanforderungen von Zoom erfüllt. Unser Team steht bereit, Ihnen weiter zu helfen, sobald wir diese Informationen erhalten.
+
+Mit freundlichen Grüßen,
+
+Kundenserviceteam

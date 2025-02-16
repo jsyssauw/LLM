@@ -1,0 +1,9 @@
+Ticket ID: ticket_594
+Subject: HP DeskJet 3755 Issue
+Incident Type: Problem
+Customer Issue: Dear Customer Support, I received an HP DeskJet 3755, and it's showing a paper jam error during initial setup. Please assist. Regards, <name>, Account: <acc_num>
+Customer Service answer: Dear <name>,
+Sorry to hear about the issue with your HP DeskJet 3755. Please check for any visible obstructions, gently remove any jammed paper, and restart the printer. 
+
+Regards,
+Customer Support

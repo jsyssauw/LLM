@@ -1,0 +1,17 @@
+Ticket ID: ticket_1974
+Subject: Problème urgent de temps d'arrêt du serveur
+Incident Type: Problem
+Customer Issue: Cher cabinet de conseil en informatique,
+
+Nous rencontrons des temps d'arrêt récurrents du serveur qui affectent gravement nos opérations commerciales. Comme notre entreprise repose fortement sur votre service de conseil en informatique, ce problème nécessite une attention et une résolution immédiates. Chaque instance de temps d'arrêt entraîne une perturbation significative et une perte potentielle pour nos opérations. Nous vous demandons de procéder à une analyse urgente et de nous fournir un plan détaillé pour rectifier ce problème dès que possible afin de minimiser l'impact. Votre réponse rapide serait grandement appréciée pour garantir la continuité des activités.
+
+Merci de votre attention à cette affaire urgente.
+
+Cordialement,
+<name>
+Customer Service answer: Cher <name>,
+
+Nous reconnaissons l'urgence du problème de temps d'arrêt récurrent du serveur qui affecte vos opérations. Notre équipe accorde la priorité à une analyse immédiate et travaillera en étroite collaboration avec vous pour résoudre ce problème rapidement. Veuillez vous attendre à une première mise à jour de notre part dans les prochaines heures, suivie d'un plan d'action détaillé pour garantir une remediation rapide et prévenir les perturbations futures. Merci de porter cela à notre attention. Nous sommes déterminés à restaurer vos opérations commerciales avec un minimum de retard.
+
+Cordialement,
+L'équipe de support du cabinet de conseil en informatique

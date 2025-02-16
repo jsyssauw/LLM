@@ -1,0 +1,17 @@
+Ticket ID: ticket_1352
+Subject: Anfrage zur Aktualisierung von Jira
+Incident Type: Change
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um eine Aktualisierung auf Jira Software Version 8.20 zu beantragen, um neue Confluence-Integrationen für ein verbessertes Projektmanagement zu nutzen. Die zusätzlichen Funktionen sind entscheidend für die Steigerung der Produktivität unseres Teams.
+
+Vielen Dank für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank für Ihre Anfrage zur Aktualisierung auf Jira Software Version 8.20. Wir werden Ihre Anfrage prüfen und den Aktualisierungsprozess so schnell wie möglich einleiten. Sie werden benachrichtigt, sobald die Aktualisierung abgeschlossen ist.
+
+Mit freundlichen Grüßen,
+Kundenservice

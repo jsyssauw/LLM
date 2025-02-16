@@ -1,0 +1,31 @@
+Ticket ID: ticket_391
+Subject: Urgent: Incident technique avec le routeur Cisco
+Incident Type: Incident
+Customer Issue: Cher équipe de support client,
+
+J'espère que ce message vous trouve en bonne santé. Je vous écris pour signaler un incident technique de haute priorité impliquant l'un de nos dispositifs Cisco Router ISR4331. L'appareil ne fournit actuellement pas d'accès Internet, ce qui affecte considérablement nos opérations commerciales. Ce problème nécessite une attention immédiate de votre équipe de support technique pour minimiser les temps d'arrêt et les pertes commerciales potentielles.
+
+Les détails de l'incident sont les suivants :
+- Modèle de l'appareil : Cisco Router ISR4331
+- Problème identifié : Pas de connectivité Internet
+- Impact : Perturbation de l'ensemble du réseau de bureau
+- Gravité : Élevée
+
+Nous vous serions reconnaissants si votre équipe de support technique pouvait évaluer la situation et nous fournir une solution potentielle dans les meilleurs délais. Veuillez nous conseiller sur les prochaines étapes, et si des informations supplémentaires sont nécessaires, je suis disponible à votre convenance pour les fournir.
+
+Merci pour votre attention immédiate à cette affaire urgente. Nous attendons votre réponse rapide.
+
+Cordialement,
+
+<name>
+Numéro de compte : <acc_num>
+Numéro de téléphone : <tel_num>
+Email : <email>
+Customer Service answer: Cher <name>,
+
+Merci d'avoir porté ce problème urgent à notre attention. Nous comprenons l'impact que cela a sur vos opérations et sommes là pour aider. Notre équipe de support technique examine actuellement le problème avec votre Cisco Router ISR4331 et fournira une solution dès que possible.
+
+Pour toute autre assistance ou mise à jour, n'hésitez pas à nous contacter au <tel_num>. Votre référence de compte est <acc_num>. Soyez assuré que nous priorisons cette situation et visons à la résoudre rapidement.
+
+Cordialement,
+Équipe de support client

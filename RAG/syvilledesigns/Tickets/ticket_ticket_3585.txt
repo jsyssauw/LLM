@@ -1,0 +1,16 @@
+Ticket ID: ticket_3585
+Subject: Asistencia urgente necesaria
+Incident Type: Incident
+Customer Issue: Hola equipo de soporte de servicios de TI,
+
+Actualmente estamos enfrentando una situación con los tiempos de carga retrasados en el frontend de nuestra aplicación JavaScript React. Esto necesita ser abordado de inmediato para evitar cualquier posible tiempo de inactividad. El servicio afectado es su Servicio de Desarrollo de Aplicaciones JavaScript React. Apreciaríamos si pudiera resolver este asunto a la mayor brevedad posible. Muchas gracias por su rápida atención a esta preocupación.
+
+Atentamente,
+
+<name>
+Customer Service answer: Hola <name>,
+
+Gracias por contactarnos. Reconocemos la urgencia respecto al problema que está experimentando su aplicación JavaScript React con los tiempos de carga del frontend lentos. Nuestro equipo está trabajando diligentemente en diagnosticar y solucionar el problema lo más rápido posible. Lo mantendremos informado sobre nuestro progreso y nos esforzaremos por restaurar la funcionalidad óptima pronto. Si requiere más ayuda o tiene alguna pregunta, no dude en ponerse en contacto.
+
+Saludos cordiales,
+Equipo de soporte de servicios de TI

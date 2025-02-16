@@ -1,0 +1,26 @@
+Ticket ID: ticket_2985
+Subject: Probleme mit unserem IT-Beratungsservice
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um mein Anliegen bezüglich der kürzlichen Serverausfälle auszudrücken, die wir erlebt haben, obwohl wir Ihren IT-Beratungsservice in Anspruch genommen haben, um eine optimale Verfügbarkeit zu gewährleisten. Wir hatten Ihren Service speziell gewählt, um solche Probleme zu vermeiden, und uns wurde eine kontinuierliche Serverleistung zugesichert. Leider hat die jüngste Störung unsere Abläufe erheblich beeinträchtigt. Wir bitten Sie freundlich um eine dringende Überprüfung der Situation, um zukünftige Vorkommen anzugehen und zu verhindern.
+
+Mit freundlichen Grüßen,
+
+<name>
+
+<acc_num>
+<tel_num>
+Customer Service answer: Sehr geehrte(r) <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben, um uns auf dieses Problem aufmerksam zu machen. Wir entschuldigen uns aufrichtig für die Unannehmlichkeiten, die durch die kürzlichen Serverausfälle verursacht wurden. Unser Team hat sich verpflichtet, einen zuverlässigen Service zu bieten, und es tut uns leid, dass wir Ihre Erwartungen dieses Mal nicht erfüllt haben.
+
+Wir führen derzeit eine gründliche Untersuchung durch, um die Ursache der Störung zu ermitteln und sicherzustellen, dass geeignete Maßnahmen ergriffen werden, um zukünftige Vorkommen zu verhindern. Sie werden so schnell wie möglich über unseren Fortschritt informiert.
+
+Bitte seien Sie versichert, dass die Wiederherstellung einer optimalen Serverleistung unsere oberste Priorität hat. Sollten Sie weitere Fragen haben oder sofortige Unterstützung benötigen, zögern Sie bitte nicht, uns unter <tel_num> zu kontaktieren.
+
+Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+
+Kundenserviceteam

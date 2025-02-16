@@ -1,0 +1,25 @@
+Ticket ID: ticket_893
+Subject: Assistência Necessária para Configuração da Impressora Canon
+Incident Type: Request
+Customer Issue: Olá Suporte da Loja Online Tech,
+
+Estou tendo dificuldade em configurar a conectividade sem fio para a minha impressora Canon PIXMA MG3620. Apesar de seguir as instruções fornecidas, ela não consegue se conectar à minha rede doméstica. Você poderia me oferecer orientações para resolver esse problema? Além disso, qualquer passo de solução de problemas ou recursos que você puder fornecer seriam muito apreciados.
+
+Obrigado pela sua assistência.
+
+Atenciosamente,
+<name>
+Customer Service answer: Olá <name>,
+
+Sinto muito por saber que você está tendo problemas ao configurar sua Canon PIXMA MG3620. Aqui estão algumas sugestões para ajudar a resolver o problema:
+
+1. Certifique-se de que sua impressora e o roteador estão dentro do alcance e não há obstruções.
+2. Verifique se o indicador de Wi-Fi na impressora está piscando em azul. Se não, pressione e segure o botão Wi-Fi até que ele pisque e depois pressione o botão WPS no seu roteador.
+3. Confirme se o firmware da sua impressora está atualizado visitando o site oficial da Canon.
+4. Reinicie sua impressora e o roteador Wi-Fi.
+5. Se ainda assim não funcionar, tente configurá-la através do aplicativo Canon PRINT no seu smartphone ou tablet.
+
+Se esses passos não funcionarem, sinta-se à vontade para entrar em contato para mais assistência.
+
+Atenciosamente,
+Suporte da Loja Online Tech

@@ -1,0 +1,21 @@
+Ticket ID: ticket_2854
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I am writing to report an urgent issue I am experiencing with Visual Studio Code (version 1.70). After the recent update, I have encountered a serious problem while trying to debug extensions. The application consistently freezes and crashes during the debugging process, significantly hindering my workflow. Prior to the update, I never faced such interruptions, which makes me suspect it might be linked to the recent changes. I have attempted standard troubleshooting methods, including reinstalling the extensions and clearing any cached data, but the issue persists. This problem is affecting my productivity, especially since I depend on this IDE for my daily development tasks. I kindly request urgent assistance in resolving this issue, as it is critical to resume my tasks without further disruptions. If needed, I can provide any necessary logs or additional information to aid in the diagnosis of this issue. Thank you in advance for your prompt attention to this matter. I look forward to your swift response. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this issue to our attention. We understand the urgency and inconvenience you're facing with Visual Studio Code after the update.
+
+To address the freezing and crashing issue during debugging, here are a few additional steps you can attempt:
+
+1. **Update Visual Studio Code**: Ensure you have the latest version as new updates may resolve known bugs.
+2. **Disable Extensions**: Temporarily disable extensions in Visual Studio Code to identify if a specific one is causing the problem.
+3. **Check for Known Issues**: Visit the Visual Studio Code GitHub repository or community forums to see if other users are encountering similar issues post-update.
+4. **Revert to Previous Version**: Consider rolling back to an earlier version of Visual Studio Code, before the update, if possible, to restore stability.
+
+As you offered, providing logs and additional information would be beneficial if the issue persists. Please share these with us, and we will escalate it to our technical team for a more detailed analysis.
+
+We are committed to resolving this issue swiftly so you can continue your development work uninterrupted. Thank you for your patience and cooperation.
+
+Best regards,
+Customer Support Team

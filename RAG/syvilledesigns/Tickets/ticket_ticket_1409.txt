@@ -1,0 +1,16 @@
+Ticket ID: ticket_1409
+Subject: Solicitação Urgente de Suporte de Faturamento para AWS
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente,
+
+Espero que esta mensagem o encontre bem. Estou escrevendo a respeito de uma cobrança inesperada em nossa assinatura de Gerenciamento AWS, especificamente relacionada ao Serviço de Otimização de Custos. Nosso número de conta é <acc_num>. Você poderia, por favor, acelerar esta consulta? Sua rápida assistência seria muito apreciada.
+
+Obrigado,
+<name>
+Número de Contato: <tel_num>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato conosco. Entendemos a urgência em relação à cobrança inesperada em sua assinatura de Gerenciamento AWS relacionada ao Serviço de Otimização de Custos. Estamos atualmente investigando o problema com seu número de conta <acc_num>. Vamos acelerar sua consulta e temos como objetivo fornecer uma resolução o mais rápido possível. Caso precisemos de mais informações, entraremos em contato com você pelo <tel_num>. Sua paciência e compreensão são muito apreciadas.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

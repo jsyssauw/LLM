@@ -1,0 +1,29 @@
+Ticket ID: ticket_2965
+Subject: Consultant Login Difficulties with HR System
+Incident Type: Incident
+Customer Issue: Dear IT Consulting Support Team,
+
+I hope this message finds you well. I am writing to inform you of a technical issue that occurred when our consultant, <name>, attempted to access the HR system as part of an evaluation process intended to enhance our team's efficiency in software development. The ability to access the HR system is crucial for our consultant to assess and strategize our software development needs accurately.
+
+Unfortunately, our consultant faced significant challenges while trying to log in. The system consistently returned an error, preventing any further steps in our evaluation process. This issue has stalled our progress considerably, as evaluating our existing IT structure is pivotal to determining future improvements.
+
+We would appreciate your prompt assistance in resolving this logging problem. It is vital for us to regain access to ensure our assessment can continue smoothly and effectively. Please contact us at <tel_num> or respond to this email at your earliest convenience. We rely on your expertise to resolve this matter swiftly.
+
+Thank you for your attention to this urgent issue.
+
+Sincerely,
+
+<name> 
+Account Number: <acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the login difficulties with the HR system. We understand the importance of this access for your consultant's evaluation process. 
+
+To assist you promptly, please ensure that the login credentials being used are correct and that there are no network restrictions or firewall rules blocking access to the HR system. If the issue persists, kindly provide us with any specific error messages that are appearing.
+
+We are committed to resolving this issue swiftly. Our technical team will investigate this matter with priority. Please let us know a convenient time to contact <name> at <tel_num> for further assistance, should we need more information.
+
+We appreciate your patience and understanding.
+
+Best regards,
+IT Consulting Support Team

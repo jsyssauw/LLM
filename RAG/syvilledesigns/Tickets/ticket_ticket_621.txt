@@ -1,0 +1,10 @@
+Ticket ID: ticket_621
+Subject: Exchange Request: Canon PIXMA MG3620 Printer Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support team, I recently purchased a Canon PIXMA MG3620 printer from your online store. Upon setup, I discovered incorrect wireless configuration settings. I would like to request an exchange for this item. Please advise on the procedure. Thank you, <name>. My order reference is <order_ref_num>.
+Customer Service answer: Dear <name>, 
+
+Thank you for contacting us about your Canon PIXMA MG3620 printer issue. We apologize for the inconvenience. To process an exchange, please return the printer using the original packaging, including all accessories. Visit our returns portal on our website and enter your order reference <order_ref_num> to initiate the return. Once processed, we will ship a replacement to you. If you have further questions, please feel free to reach out. 
+
+Best regards, 
+Customer Support Team

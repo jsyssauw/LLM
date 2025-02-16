@@ -1,0 +1,31 @@
+Ticket ID: ticket_3417
+Subject: Assistance Required: Issue with Adobe Photoshop 2024 Installation
+Incident Type: Incident
+Customer Issue: Dear Customer Support, 
+
+I am writing to request assistance regarding an issue I am experiencing with the installation of Adobe Photoshop 2024. I purchased the software for my <acc_num> and attempted to install it on my computer, but unfortunately, I am encountering an error message that states 'installation incomplete'. This has persisted despite several efforts on my part to resolve the issue. 
+
+I have checked the system requirements and confirmed that my system meets the necessary specifications. Furthermore, I followed all the steps outlined in the installation guide provided. I also attempted a clean installation by uninstalling prior versions, but the issue remains unresolved.
+
+Could you please provide guidance on how to fix this issue? If there are additional steps or troubleshooting procedures I should follow, kindly let me know. I am eager to use the product and would appreciate your prompt assistance in facilitating a successful installation. 
+
+Thank you for your support. Please reach me at <tel_num> for any further information you may need.
+
+Kind regards, 
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the installation issue with Adobe Photoshop 2024. I understand how important it is to have the software functioning correctly. To resolve the 'installation incomplete' error, please try the following steps:
+
+1. Ensure that your internet connection is stable during the entire installation process.
+2. Disable any antivirus or firewall temporarily that might block the installation.
+3. Use Adobe's Creative Cloud Cleaner Tool to ensure all previous installations of Photoshop are completely removed before retrying.
+4. Try installing the software in Administrator Mode.
+5. Clear the temporary files of your system which might interfere with the installation process.
+
+If these steps don’t resolve the issue, please reply to this email or call Adobe's dedicated support line at the number provided in your purchase documentation.
+
+We hope this will help, and you will be able to enjoy Photoshop 2024 soon. Let us know if you need further assistance.
+
+Best regards,
+Customer Support Team

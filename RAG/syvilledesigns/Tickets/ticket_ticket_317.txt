@@ -1,0 +1,28 @@
+Ticket ID: ticket_317
+Subject: Crítico: Problemas com o Sistema de Bilhetagem
+Incident Type: Incident
+Customer Issue: Caro time de Suporte de TI,
+
+Estou entrando em contato para alertá-los sobre um problema urgente que estamos enfrentando atualmente com nosso sistema de bilhetagem vinculado aos nossos Serviços de Consultoria de TI. Nossa organização, operando sob o número da conta <acc_num>, tem suportado erros contínuos que obstruem nossas funções diárias. Esta falha prejudica significativamente nossa capacidade de lidar prontamente com consultas e resoluções de clientes, o que está impactando negativamente nossos prazos de entrega de serviços.
+
+Os problemas parecem ter começado há aproximadamente uma semana e, apesar de diversas tentativas de solução interna de nossa equipe, não conseguimos corrigir esses erros sozinhos. Os problemas notáveis incluem quedas frequentes do sistema, envios duplicados de tickets e desalinhamento inadequado de dados, todos os quais levaram a um aumento na insatisfação entre nossos clientes. Portanto, precisamos urgentemente de assistência técnica para resolver essas questões sem demora.
+
+Solicito respeitosamente que sua equipe dê prioridade a este assunto, pois cada dia que passa amplifica nossos desafios operacionais. Por favor, informe-me se precisar de informações imediatas ou de logs específicos; podemos rapidamente fornecer esses dados para apoiar o processo de diagnóstico. Estou disponível no <tel_num> durante o horário comercial.
+
+Obrigado pelo seu compromisso e atenção oportuna.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Agradecemos por trazer as preocupações em relação ao seu sistema de bilhetagem ao nosso conhecimento. Reconhecemos a urgência e as repercussões que isso tem em suas operações. Nossa equipe de suporte técnico dará prioridade à sua solicitação e trabalhará diligentemente para resolver os problemas de quedas, duplicatas de tickets e desalinhamento de dados sem demora.
+
+Pedimos gentilmente que você envie quaisquer logs específicos ou detalhes pertinentes que possam ajudar a diagnosticar efetivamente o problema. Manteremos você informado sobre nosso progresso e nos esforçaremos para resolver esses erros rapidamente, a fim de reduzir qualquer interrupção em seus serviços.
+
+Você pode esperar um acompanhamento de nossa parte em breve. Caso precise de assistência imediata ou tenha dúvidas adicionais, não hesite em entrar em contato.
+
+Obrigado pela sua compreensão e colaboração.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente dos Serviços de TI

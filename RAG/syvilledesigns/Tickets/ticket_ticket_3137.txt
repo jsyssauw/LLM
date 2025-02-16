@@ -1,0 +1,30 @@
+Ticket ID: ticket_3137
+Subject: Incohérences de facturation
+Incident Type: Incident
+Customer Issue: Cher équipe du support client,
+
+J'espère que ce message vous trouve en bonne santé. Je vous écris pour exprimer mon inquiétude concernant certaines incohérences de facturation que j'ai récemment constatées avec mon abonnement au service de gestion AWS, associé au numéro de compte <acc_num>. Ces incohérences concernent des frais inattendus qui apparaissaient sur ma dernière facture datée [Insert Date Here], spécifiquement notés comme survenant le [List Specific Dates if applicable].
+
+Après avoir examiné mon utilisation du service, j'ai constaté que les charges facturées ne correspondent pas à l'activité et aux services utilisés selon l'entente que j'ai signée au début de notre relation de service. J'apprécierais si vous pouviez fournir une répartition détaillée et des éclaircissements sur ces frais afin d'aider à résoudre ce qui semble être un malentendu ou une erreur.
+
+Par exemple, des frais plus élevés ont été notés pour le transfert de données qui ne s'alignent pas avec notre utilisation moyenne des données, ainsi que des frais de service supplémentaires qui ont été appliqués sous des fonctionnalités de compte inattendues. Étant donné que de telles inexactitudes peuvent avoir un impact significatif sur notre budget compte tenu de la nature étendue des services auxquels nous souscrivons, une résolution rapide de ces incohérences serait extrêmement utile.
+
+Pourriez-vous s'il vous plaît confirmer la nature de ces frais ou les ajuster s'il y a eu une négligence ? De plus, j'apprécierais des conseils sur la façon d'éviter des incohérences continues à l'avenir. En cas de besoin de documentation ou de preuves supplémentaires de ma part, veuillez me le faire savoir, et je vous aiderai dans les plus brefs délais.
+
+Merci pour votre attention rapide à ce sujet. J'attends votre réponse rapide, éclaircissant les frais et assurant des processus de facturation précis à l'avenir. Vous pouvez me joindre à tout moment au <tel_num>.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés au sujet des incohérences de facturation concernant votre abonnement au service de gestion AWS. Nous nous excusons pour la détresse que cela a pu causer, et nous sommes ici pour vous aider à résoudre ce problème rapidement.
+
+Nous allons examiner votre compte, en particulier les frais récents sur votre facture datée [Insert Date Here]. Notre équipe fournira une répartition détaillée de ces frais, en mettant l'accent sur le transfert de données et les frais de service supplémentaires, pour éclaircir tout malentendu.
+
+Pour éviter de futures incohérences, nous visons à garantir des processus de facturation clairs et précis. En attendant, n'hésitez pas à fournir toute documentation supplémentaire que vous pourriez avoir, bien qu'elle ne soit pas immédiatement requise.
+
+Nous apprécions votre patience et votre compréhension. Vous pouvez vous attendre à un suivi de notre part bientôt. Si vous avez d'autres questions, n'hésitez pas à nous contacter.
+
+Cordialement,
+Équipe du support client

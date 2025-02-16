@@ -1,0 +1,26 @@
+Ticket ID: ticket_875
+Subject: Assistance Required for Setup of HP DeskJet 3755
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I recently purchased an HP DeskJet 3755 from your online store and facing challenges with its setup. As this wireless model is critical for my workflow, I require your guidance in configuring it properly. Please provide detailed instructions or schedule a session with a technician at your earliest convenience. My customer ID is <cust_id>. Contact me at <email> or <tel_num> for further follow-up.
+
+Thank you,
+
+<name>
+Customer Service answer: Subject: Re: Assistance Required for Setup of HP DeskJet 3755
+
+Dear <name>,
+
+Thank you for contacting us regarding the setup of your HP DeskJet 3755. We’re here to help. Please follow these brief instructions to get started:
+
+1. Power on the printer.
+2. Connect it to your Wi-Fi network using the printer's settings menu.
+3. Download and install the HP Smart app on your device to complete the setup.
+
+For detailed instructions, kindly refer to the user manual or our website's support section. If you prefer a session with a technician, let us know a convenient time, and we will arrange it promptly. 
+
+Feel free to reach out at <email> or <tel_num> if you need further assistance.
+
+Best regards,
+Customer Support Team

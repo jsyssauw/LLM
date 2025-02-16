@@ -1,0 +1,17 @@
+Ticket ID: ticket_3055
+Subject: Problema Urgente de Tiempo de Inactividad del Servidor
+Incident Type: Problem
+Customer Issue: Estimado Soporte de la Firma de Consultoría de TI,
+
+Estamos experimentando tiempos de inactividad recurrentes del servidor que están afectando gravemente nuestras operaciones comerciales. Debido a que nuestro negocio depende en gran medida de su Servicio de Consultoría de TI, este problema requiere atención y resolución inmediatas. Cada instancia de tiempo de inactividad causa una interrupción significativa y una posible pérdida para nuestras operaciones. Le solicitamos amablemente un análisis urgente y un plan detallado para rectificar este problema lo antes posible, para minimizar el impacto. Su pronta respuesta sería muy apreciada para garantizar la continuidad del negocio.
+
+Gracias por su atención a este asunto urgente.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Reconocemos la urgencia del problema recurrente de tiempo de inactividad del servidor que afecta sus operaciones. Nuestro equipo está priorizando un análisis inmediato y trabajará en estrecha colaboración con usted para abordar y resolver esto con prontitud. Espere una actualización inicial de estado de nuestra parte en las próximas horas, seguida de un plan de acción detallado para asegurar una rápida remediación y prevenir futuras interrupciones. Gracias por traer esto a nuestra atención. Estamos comprometidos a restaurar las operaciones de su negocio con la mínima demora.
+
+Atentamente,
+Equipo de Soporte de la Firma de Consultoría de TI

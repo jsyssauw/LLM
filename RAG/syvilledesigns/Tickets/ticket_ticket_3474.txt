@@ -1,0 +1,17 @@
+Ticket ID: ticket_3474
+Subject: nan
+Incident Type: Problem
+Customer Issue: Hello,
+
+I'm encountering issues with my Microsoft Surface Pro 7, where the touchscreen occasionally becomes unresponsive. I would like assistance in diagnosing the problem, and I'm interested in learning about possible repair or replacement options. Please let me know how we can proceed. My account number is <acc_num>. Thank you.
+
+Best regards,
+<name>
+Customer Service answer: Hello,
+
+Thank you for reaching out about the touchscreen issue with your Microsoft Surface Pro 7. To begin diagnosing the problem, please ensure that your device is running the latest software updates. If the issue persists, we recommend performing a device restart and checking for any external factors affecting the touchscreen functionality. 
+
+For repairs or replacement options, please contact our support center at <tel_num> or visit our service center with your account information. We look forward to assisting you further. 
+
+Best regards,
+[Your Service Desk]

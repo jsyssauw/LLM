@@ -1,0 +1,17 @@
+Ticket ID: ticket_1428
+Subject: Problema ao Mudar o Status no Projeto de Software Jira
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte ao Cliente,
+
+Não consigo mudar o status do problema no meu projeto Jira Software 8.20. Parece que é necessária uma alteração na configuração de visualização administrativa. Por favor, me ajudem a resolver esse problema assim que possível.
+
+Obrigado,
+<name>
+Número da Conta: <acc_num>
+Telefone: <tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Para mudar o status do problema no Jira, você pode precisar de permissões específicas. Por favor, certifique-se de que você tem a permissão 'Transitar Problemas' para o projeto. Se você ainda tiver problemas, entre em contato com seu Administrador Jira para revisar suas configurações.
+
+Atenciosamente,
+Time de Suporte ao Cliente

@@ -1,0 +1,5 @@
+Ticket ID: ticket_1095
+Subject: Inquiry about printer return process
+Incident Type: Request
+Customer Issue: Hello, I am having wireless connectivity issues with my HP DeskJet 3755 printer and would like to return it. Could you please guide me through the return process? I appreciate your assistance. Thank you. Sincerely, <name>
+Customer Service answer: Hello <name>, I'm sorry to hear about the issues with your printer. To initiate a return, please locate your purchase receipt or order confirmation email. Next, visit our website's return section and fill out the return request form. Ensure the printer is securely packaged before shipping it back. If you need further assistance, feel free to contact our support team. Thank you for reaching out. Best regards, [Your Name] Service Desk Team

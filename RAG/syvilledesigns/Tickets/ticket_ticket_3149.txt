@@ -1,0 +1,16 @@
+Ticket ID: ticket_3149
+Subject: Urgent: Server Downtime
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I am experiencing a server downtime issue with your AWS Management Service. My account number is <acc_num>. Please advise on troubleshooting steps and an estimated timeline for resolution. This is critical for our business operations.
+
+Thank you,
+<name>
+Contact: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We're aware of the server downtime issue and our team is working to resolve it urgently. We apologize for the inconvenience. Please expect an update within the next hour. For immediate assistance, contact our support team at <tel_num>.
+
+Best regards,
+Customer Support Team

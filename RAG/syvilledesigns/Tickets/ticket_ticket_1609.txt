@@ -1,0 +1,24 @@
+Ticket ID: ticket_1609
+Subject: Assistance Required for Persistent Paper Jam Issues with Canon Printer
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to report persistent paper jam issues with my Canon PIXMA MG3620 printer. The problem occurs during light checkout documentation printing. I have ensured that the paper is not overloaded, and I have also checked for any visible obstructions. Despite these efforts, the issue persists. Could you please provide me with further assistance or suggest any additional troubleshooting steps? My printer's serial number is <acc_num>.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding your Canon PIXMA MG3620. I understand how frustrating persistent paper jams can be. Here are a few additional troubleshooting steps you might not have tried:
+
+1. Check for any small, hidden debris inside the printer.
+2. Ensure the paper type and size settings align with the paper you’re using.
+3. Try using a different batch/brand of paper.
+
+If the issue persists, you might need to contact Canon Support directly for further assistance or servicing.
+
+Best regards,
+Customer Support

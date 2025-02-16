@@ -1,0 +1,22 @@
+Ticket ID: ticket_3948
+Subject: Request to Address Billing Statement Discrepancies
+Incident Type: Request
+Customer Issue: Hello Customer Support,
+
+I hope this message finds you well. I am writing to request a review of my billing statement regarding my Microsoft Office 365 subscription. I noticed some discrepancies in the latest charge to account number <acc_num>. It appears that there are additional fees that were not previously disclosed. Kindly assist in clarifying this issue and ensure any unauthorized charges are reversed. Additionally, please confirm the current subscription terms and breakdown of costs. You can reach me directly at <tel_num>. 
+
+Thank you for your prompt assistance.
+
+Best regards,
+
+<name>
+Customer Service answer: Subject: Re: Request to Address Billing Statement Discrepancies
+
+Hello <name>,
+
+Thank you for reaching out and bringing this to our attention. We will promptly review your billing statement concerning your Microsoft Office 365 subscription. Our team will investigate the additional fees on account number <acc_num> and confirm your current subscription terms and cost breakdown. Any unauthorized charges, if found, will be reversed. We will contact you shortly with an update. 
+
+For further assistance, please feel free to reach out to us. 
+
+Best regards,
+Customer Support

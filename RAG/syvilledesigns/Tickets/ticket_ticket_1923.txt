@@ -1,0 +1,18 @@
+Ticket ID: ticket_1923
+Subject: Consulta sobre a compra do Microsoft Surface Pro 7
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou interessado em comprar o Microsoft Surface Pro 7 na sua loja. Você poderia, por favor, me fornecer detalhes sobre as opções de garantia disponíveis e os métodos de entrega? Além disso, apreciaria qualquer informação sobre os tempos de entrega esperados para a minha área. Aguardo sua pronta resposta com as informações necessárias para a compra.
+
+Obrigado.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado pelo seu interesse no Microsoft Surface Pro 7. Nossa loja oferece uma garantia padrão de um ano, com planos de garantia estendida opcionais disponíveis. Em relação à entrega, oferecemos opções de envio expresso e padrão. Os tempos de entrega dependem da sua localização, mas normalmente variam de 3 a 7 dias úteis para o expresso e de 5 a 10 dias úteis para o padrão. Para uma estimativa precisa, forneça seu código postal. Se precisar de mais assistência ou desejar prosseguir com a sua compra, por favor, nos avise.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

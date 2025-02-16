@@ -1,0 +1,18 @@
+Ticket ID: ticket_1882
+Subject: Jira-Filter Hilfe benötigt
+Incident Type: Request
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+Ich hoffe, diese Nachricht erreicht Sie wohl. Ich kontaktiere Sie, um Unterstützung bei der Konfiguration von Filtern in Jira Software Version 8.20 zu suchen, um unser Projekt-Tracking und das Management in unseren Agile-Teams zu verbessern. Wir haben Schwierigkeiten, unseren Workflow zu optimieren, und ich glaube, dass eine Verbesserung der Filterkonfiguration unsere Überwachungs- und Berichterstattungsfähigkeiten erheblich verbessern würde. Könnten Sie bitte detaillierte Anleitungen oder Ressourcen bereitstellen, die uns bei der Optimierung der Jira-Filter unterstützen könnten? Jegliche Vorlagen oder Beispiele für häufig verwendete Filter in Agile-Projekt-Frameworks wären ebenfalls sehr willkommen. Vielen Dank im Voraus für Ihre Unterstützung und Fachkenntnisse. Ich freue mich auf Ihre zeitnahe Antwort.
+
+Mit freundlichen Grüßen,
+
+<name>
+Unternehmen: <company_name>
+Telefon: <tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+Vielen Dank für Ihre Anfrage. Um Filter in Jira Software Version 8.20 für ein verbessertes Projekt-Tracking und Management zu konfigurieren, können Sie im Menü "Filter" in der Kopfzeile beginnen und "Erweiterte Issuesuche" auswählen. Verwenden Sie JQL (Jira Query Language), um Ihre Filter anzupassen. Häufige Filter umfassen "Issues, die bald fällig sind", "Offene Bugs" und "Sprints in Bearbeitung". Für Agile-Teams sollten Sie sich auf das Epic-Tracking und den Abschluss von Sprints konzentrieren. Dokumentationen und Videotutorials auf der Atlassian-Website bieten eine Schritt-für-Schritt-Anleitung. Wenn Sie spezifische Vorlagen benötigen, lassen Sie es uns wissen.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

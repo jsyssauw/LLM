@@ -1,0 +1,21 @@
+Ticket ID: ticket_199
+Subject: Urgent Cisco Router Issue
+Incident Type: Incident
+Customer Issue: Dear IT Services Customer Support,
+
+We are reporting a high-priority incident involving a faulty Cisco Router ISR4331. This issue is causing significant network outages and requires your immediate attention and support. The router in question is crucial to our operations, and its malfunction is impacting our daily functions. Please assign someone to this at the earliest convenience to mitigate downtime impacts.
+
+Thank you for your prompt response.
+
+Best Regards,
+<name>, Network Admin
+<acc_num>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the urgent issue with the Cisco Router ISR4331. We understand the severity of the situation and have prioritized your request. Our technical team is being dispatched immediately to investigate and resolve the network outage.
+
+You will receive updates on the progress and an estimated time for the resolution shortly. Thank you for your patience and cooperation.
+
+Best Regards,
+IT Services Customer Support

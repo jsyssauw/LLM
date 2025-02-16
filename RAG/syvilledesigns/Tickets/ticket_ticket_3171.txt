@@ -1,0 +1,14 @@
+Ticket ID: ticket_3171
+Subject: Crítico: Interrupção dos Serviços Durante a Manutenção Planejada
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte de Serviços de TI, Estou entrando em contato com preocupações relacionadas a uma interrupção notada durante a manutenção planejada dos servidores AWS, o que afetou significativamente nossos serviços em nuvem e projetos de infraestrutura. Confiamos muito no Serviço de Gerenciamento AWS, e essa interrupção infelizmente impediu nossas operações, criando um efeito dominó em nossas iniciativas tecnológicas. Dada a importância deste serviço para nossas tarefas diárias, o retorno atrasado às atividades habituais resultou em desafios consideráveis em nossos cronogramas de desenvolvimento e na entrega de projetos para clientes. Em particular, isso obstruiu nossa capacidade de lançar e gerenciar recursos de forma eficiente, o que é vital para fornecer um serviço ideal aos nossos clientes. Portanto, imploro que sua equipe priorize a resolução dessa questão para diminuir quaisquer novos atrasos. Além disso, uma comunicação clara sobre os prazos esperados para a resolução seria extremamente útil. Obter informações sobre as causas específicas dessa interrupção e quaisquer passos preventivos tomados para evitar incidentes futuros também beneficiaria muito nossa equipe. Solicito gentilmente sua atenção imediata para acelerar a restauração da capacidade operacional total. Se precisar de informações adicionais, sinta-se à vontade para entrar em contato comigo pelo <tel_num>. Agradeço sua rápida atenção a esta situação e aguardo sua pronta resposta. Atenciosamente, <name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre a interrupção da AWS durante a manutenção planejada. Pedimos desculpas pelo inconveniente e reconhecemos seu impacto em suas operações. Nossa equipe está atualmente colaborando com a AWS para resolver o problema o mais rápido possível.
+
+Manteremos você informado sobre prazos e medidas preventivas assim que tivermos mais informações disponíveis. Por favor, tenha a certeza de que esta situação é uma prioridade significativa para nós, e nosso objetivo é restaurar o serviço completo prontamente.
+
+Agradecemos sua paciência e compreensão. Caso necessite de mais assistência, não hesite em nos contatar novamente.
+
+Atenciosamente,
+Equipe de Suporte de Serviços de TI
