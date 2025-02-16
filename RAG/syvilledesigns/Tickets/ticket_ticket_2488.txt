@@ -1,0 +1,17 @@
+Ticket ID: ticket_2488
+Subject: Urgent Support Needed for Jira Bug
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. We are currently facing a critical issue with Jira Software 8.20 regarding ticket assignments not saving properly. This is causing significant disruption to our workflow and requires urgent technical support to resolve. Could you please prioritize this issue and provide a swift resolution? Your immediate assistance will be greatly appreciated. Thank you for your attention to this urgent matter.
+
+Sincerely,
+
+<name>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand the urgency of the issue you're facing with Jira Software 8.20 concerning ticket assignment problems. Our technical team is prioritizing your case and is working to provide a swift resolution. We appreciate your patience and will keep you updated on the progress. If there's anything else we can assist you with, please don't hesitate to contact us.
+
+Best regards,
+Customer Support Team

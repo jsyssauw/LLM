@@ -1,0 +1,20 @@
+Ticket ID: ticket_3524
+Subject: Hilfe bei der Bereitstellung eines neuen Mikrodienstes benötigt
+Incident Type: Request
+Customer Issue: Sehr geehrtes IT-Service-Support-Team,
+
+ich benötige Unterstützung bei der Bereitstellung eines neuen Mikrodienstes auf der AWS-Cloud-Infrastruktur unter Verwendung der AWS-Vollstapelumgebung. Das betroffene Produkt ist der AWS Management Service. Bitte beraten Sie mich zu den besten Praktiken und stellen Sie einen geführten Prozess für eine reibungslose Bereitstellung bereit. Ich schätze Ihre schnelle Unterstützung in dieser Angelegenheit.
+
+Vielen Dank,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank für Ihre Anfrage. Um einen neuen Mikrodienst auf AWS bereitzustellen, befolgen Sie bitte diese Schritte:
+1. Richten Sie Ihre DevOps-Umgebung mit AWS CloudFormation ein.
+2. Nutzen Sie AWS CodePipeline für CI/CD.
+3. Bereitstellen Ihres Mikrodienstes mit AWS ECS oder AWS Lambda.
+4. Überwachen Sie die Leistung über CloudWatch.
+Für detaillierte Best Practices siehe die AWS-Dokumentation.
+
+Mit freundlichen Grüßen,
+IT-Service-Support-Team

@@ -1,0 +1,25 @@
+Ticket ID: ticket_2892
+Subject: Urgent Billing Issue
+Incident Type: Incident
+Customer Issue: Dear IT Services Support,
+
+I am writing to bring to your attention an urgent issue related to the AWS billing under account number <acc_num>. Our most recent invoice shows an incorrect amount. We have discovered a discrepancy that urgently requires adjustment to prevent any potential disruption of service. The affected product is the AWS Management Service, which is crucial for our operations.
+
+Could you please look into this matter at the earliest opportunity and advise on the necessary steps to correct this billing error? Additionally, please confirm that our service will not be interrupted while this issue is addressed. You can contact me at <tel_num> if further details are needed.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the billing issue with your AWS account number <acc_num>. We understand the urgency and importance of resolving this matter promptly.
+
+Our billing team will investigate the discrepancy with the AWS Management Service. Please be assured that your service will not be interrupted during this process. We aim to address and correct the billing error as quickly as possible.
+
+If we require any further information, we will reach out to you at the provided contact number, <tel_num>.
+
+Thank you for your patience and cooperation.
+
+Best regards,
+IT Services Support Team

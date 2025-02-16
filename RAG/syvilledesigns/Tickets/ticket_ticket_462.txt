@@ -1,0 +1,15 @@
+Ticket ID: ticket_462
+Subject: Urgent Cloud Infrastructure Issue
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+We are experiencing a critical issue with our cloud infrastructure managed through your AWS Management Service, resulting in unscheduled downtime of our production servers. This requires immediate attention to avoid further impact on our operations. Kindly prioritize and advise on the next steps.
+
+Thank you,
+<name>.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We are treating your issue with utmost priority. Our team is currently investigating the cause of the unscheduled downtime in your AWS Managed Service. We will update you shortly with our findings and recommended steps. Your patience and cooperation are appreciated.
+
+Best regards,
+Service Desk Team

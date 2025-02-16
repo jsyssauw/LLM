@@ -1,0 +1,17 @@
+Ticket ID: ticket_2826
+Subject: W dringende Anfrage eines Kunden: Batteriedefekt bei Dell XPS 13 9310 Modell - Sofortige Unterstützung erforderlich
+Incident Type: Problem
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich habe ein Problem mit dem Akku meines Dell XPS 13 9310. Dieses Problem tritt trotz regelmäßiger Pflege weiterhin auf.
+
+Könnten Sie mir bitte so schnell wie möglich bei der Behebung dieses Problems helfen?
+
+Vielen Dank,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+wir bedauern die Unannehmlichkeiten, die Ihnen entstanden sind. Bitte versuchen Sie, Ihr BIOS sowie die Treiber für die Batterie zu aktualisieren. Sollte das Problem bestehen bleiben, empfehlen wir, unseren technischen Support unter [Support-Nummer] zu kontaktieren oder die [Support-Website] aufzusuchen.
+
+Vielen Dank,
+Ihr Kundenserviceteam

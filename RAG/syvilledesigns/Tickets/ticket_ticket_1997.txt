@@ -1,0 +1,22 @@
+Ticket ID: ticket_1997
+Subject: Asistencia Urgente Requerida para Problemas de Conectividad con el Router Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente,
+
+Estoy experimentando problemas de conectividad con nuestro router Cisco ISR4331, lo cual está afectando el rendimiento de nuestra red empresarial y las comunicaciones seguras. Este ha sido un problema urgente, que afecta las operaciones diarias. ¿Podrían proporcionar asistencia urgente para resolver este asunto lo antes posible? Su experiencia y acción rápida en esta situación serían muy apreciadas.
+
+Gracias de antemano por su cooperación.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a los problemas de conectividad con su router Cisco ISR4331. Entendemos la urgencia de esta situación y su impacto en sus operaciones. Por favor, asegúrese primero de que todas las conexiones y configuraciones estén correctamente configuradas según el manual del router. Si el problema persiste, le sugerimos reiniciar el dispositivo y verificar si ha habido cambios recientes en la red o configuraciones de firewall que puedan afectar la conectividad.
+
+Si el problema continúa, le pedimos que reúna detalles como mensajes de error, el entorno de red y cualquier modificación reciente. Esto ayudará a nuestro equipo técnico a proporcionar una solución más eficiente.
+
+Por favor, háganos saber su disponibilidad para asistencia adicional en la solución de problemas.
+
+Atentamente,
+Soporte al Cliente

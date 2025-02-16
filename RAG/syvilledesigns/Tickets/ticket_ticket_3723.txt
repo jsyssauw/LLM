@@ -1,0 +1,17 @@
+Ticket ID: ticket_3723
+Subject: Problème d'arrêt inattendu avec la télévision Samsung QLED
+Incident Type: Incident
+Customer Issue: Cher support client du Tech Online Store, je vous écris pour signaler un problème avec ma télévision Samsung QLED QN90A, qui s'arrête de manière inattendue lors des mises à jour du firmware. Ce problème interfère avec ma télévision normale, interrompant les diffusions et causant des désagréments. Il semble s'agir d'un problème récurrent que j'ai observé en particulier lorsque j'essaie de mettre à jour le firmware de la télévision. J'apprécierais que vous puissiez m'aider à résoudre ce problème ou me conseiller sur les étapes de dépannage que je peux effectuer. Merci de me faire savoir si vous avez besoin d'informations supplémentaires ou de détails spécifiques concernant ce problème. Merci pour votre soutien et votre réponse rapide. Cordialement, <name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant votre problème avec la télévision Samsung QLED QN90A. Nous vous recommandons d'essayer les étapes de dépannage suivantes : 
+
+1. Assurez-vous que votre télévision est connectée à une source d'alimentation stable.
+2. Vérifiez la fiabilité de votre connexion internet pendant les mises à jour.
+3. Redémarrez votre télévision et votre routeur.
+4. Débranchez la télévision pendant quelques minutes, puis rebranchez-la.
+
+Si ces étapes ne résolvent pas le problème, nous vous suggérons de visiter votre centre de service Samsung le plus proche ou de contacter le support Samsung pour obtenir une assistance supplémentaire. Faites-nous savoir si vous avez besoin d'aide supplémentaire.
+
+Cordialement,
+Support client du Tech Online Store

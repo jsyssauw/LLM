@@ -1,0 +1,19 @@
+Ticket ID: ticket_2610
+Subject: Demande d'évaluation des pannes de serveur fréquentes
+Incident Type: Problem
+Customer Issue: Cher support client de la société de conseil informatique,
+
+Le serveur de notre entreprise connaît des pannes fréquentes, ce qui affecte considérablement la vitesse et les performances du réseau. Nous avons besoin d'urgence d'une évaluation experte et de solutions pour prévenir les interruptions continues. Veuillez nous faire savoir quand votre équipe peut examiner notre système et suggérer des améliorations.
+
+Merci.
+
+<name>
+<company_name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant les problèmes de serveur chez <company_name>. Nous comprenons l'urgence et sommes prêts à vous aider avec une évaluation experte. Notre équipe peut planifier un examen de votre système à votre convenance pour identifier la cause des pannes et recommander des solutions. Veuillez nous faire savoir vos disponibilités pour l'évaluation.
+
+Nous sommes impatients de vous aider à résoudre ces problèmes rapidement.
+
+Cordialement,
+Équipe de support client

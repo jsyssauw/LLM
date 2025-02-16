@@ -1,0 +1,27 @@
+Ticket ID: ticket_449
+Subject: Suporte Urgente para Problema de Laptop
+Incident Type: Request
+Customer Issue: Caro Suporte da Tech Online Store,
+
+Estou escrevendo para solicitar urgentemente assistência referente a uma séria falha de hardware com meu laptop Dell XPS 13 9310. Este dispositivo de alto desempenho é crítico para meu trabalho diário e, atualmente, está inutilizável devido a esse problema.
+
+Preciso de ajuda imediata para que o problema seja diagnosticado e resolvido. Por favor, informe os próximos passos para um reparo ou substituição. Meu número de conta é <acc_num>. Estou disponível em <tel_num>, caso você precise de mais detalhes. Agradeço sua rápida atenção a este assunto urgente.
+
+Obrigado.
+
+Atenciosamente,
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato com o Suporte da Tech Online Store. Entendo a urgência da sua situação com o Dell XPS 13 9310 e peço desculpas por qualquer inconveniente que esta falha possa estar causando.
+
+Para prosseguir, por favor, reinicie o dispositivo e verifique se há mensagens de erro visíveis ou sons incomuns. Se o problema persistir, gentilmente leve seu laptop ao nosso centro de serviço mais próximo ou aproveite nosso serviço de diagnóstico remoto. Nossa equipe avaliará a falha de hardware e irá aconselhar sobre o reparo ou substituição com base na avaliação deles.
+
+Registrei seus dados de conta e contato para garantir que minimizemos atrasos e comuniquemos de forma eficiente. Caso você encontre qualquer problema ou precise de mais instruções, fique à vontade para entrar em contato por telefone quando for conveniente.
+
+Fique tranquilo, estamos comprometidos em resolver isso rapidamente para que você possa retornar às suas atividades de trabalho regulares.
+
+Obrigado pela sua paciência e compreensão.
+
+Atenciosamente,
+Equipe de Suporte da Tech Online Store

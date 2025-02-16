@@ -1,0 +1,5 @@
+Ticket ID: ticket_2208
+Subject: Inquérito sobre Discrepância de Faturamento na AWS
+Incident Type: Incident
+Customer Issue: Olá Suporte ao Cliente, estou escrevendo para perguntar sobre uma discrepância de faturamento na minha conta do AWS Management Service. Você poderia ajudar com uma análise de otimização de custos para minhas faturas recentes? Meu número da conta é <acc_num>. Por favor, entre em contato comigo pelo <tel_num>. Obrigado, <name>.
+Customer Service answer: Olá <name>, obrigado por entrar em contato sobre suas preocupações de faturamento da AWS. Vamos revisar sua conta e realizar uma análise de otimização de custos. Por favor, aguarde um retorno em breve. Para assistência imediata, ligue para nossa linha de suporte. Sua paciência é apreciada.

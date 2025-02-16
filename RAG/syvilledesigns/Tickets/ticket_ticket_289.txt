@@ -1,0 +1,30 @@
+Ticket ID: ticket_289
+Subject: Request for Keyboard Replacement
+Incident Type: Change
+Customer Issue: Dear Customer Support, 
+
+I hope this message finds you well. I am writing to express my concern regarding a recent purchase made from your Tech Online Store. I ordered a Logitech MX Keys keyboard, which has unfortunately become unresponsive. Given the prominence of your store in providing quality tech products, I am quite surprised by this occurrence. 
+
+The keyboard was ordered under my account number <acc_num> and was delivered on <date_of_delivery>. Despite trying various troubleshooting steps recommended for such devices, including checking the connections, replacing batteries, and updating drivers, the issue still persists. I believe the product might have been defective from the onset. 
+
+In alignment with your customer satisfaction policy, I would kindly request a replacement for the non-functional product. I understand that issues may occasionally arise with technology products, and I'm confident your company holds customer service in high regard and will address this concern swiftly. 
+
+Could you please guide me through the necessary steps or documentation needed for the processing of this replacement? Also, if needed, my contact information is as follows: phone number <tel_num>; email <email_address>. 
+
+Thank you for your prompt attention to this matter. I am looking forward to resolving this issue in a timely manner and receiving a replacement that meets the high standards expected of such a reputable product. 
+
+Sincerely, 
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us and bringing this to our attention. We apologize for any inconvenience caused by the unresponsive keyboard. Our priority is to resolve this for you as efficiently as possible.
+
+To begin the replacement process, please reply with a copy of your purchase receipt or order confirmation. Once we receive this, we will process your request swiftly and arrange for the defective keyboard to be returned. You will receive a new Logitech MX Keys keyboard once this process is complete.
+
+We appreciate your patience and understanding. If you have further questions or need assistance, feel free to contact us at your preferred time.
+
+Thank you for choosing our store. We are committed to providing the quality service you expect and deserve.
+
+Best regards,
+Customer Support Team

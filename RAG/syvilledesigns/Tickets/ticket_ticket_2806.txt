@@ -1,0 +1,16 @@
+Ticket ID: ticket_2806
+Subject: nan
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I recently bought an HP DeskJet 3755 printer from your store, but it keeps experiencing paper jam issues. I have tried troubleshooting without success. Could you please arrange an exchange for this defective unit? My account number is <acc_num>. Your prompt assistance would be highly appreciated.
+
+Thank you,
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We apologize for the inconvenience with your HP DeskJet 3755 printer. We are happy to arrange an exchange for the defective unit. Please visit our nearest store or contact our support team with your account number <acc_num> for further assistance. Your prompt resolution is our priority.
+
+Best regards,
+Tech Online Store Customer Support

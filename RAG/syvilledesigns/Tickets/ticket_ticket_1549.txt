@@ -1,0 +1,24 @@
+Ticket ID: ticket_1549
+Subject: Assistance Required: Surface Pro 7 Keyboard Issue
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I am writing to request assistance with my Microsoft Surface Pro 7, as the detachable keyboard is not functioning correctly, preventing the device from entering tablet mode. I have tried troubleshooting the issue following the manual instructions; however, nothing seems to resolve it. Could you please guide me on any additional steps I need to take, or should I proceed with technical support intervention? Your prompt assistance in resolving this matter would be greatly appreciated.
+
+Thank you in advance.
+
+Sincerely,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. I'm sorry to hear about the issue with your Surface Pro 7 keyboard. Please try the following steps:
+
+1. Ensure that the Surface Pro is fully updated via Windows Update.
+2. Perform a two-button reset: Press and hold the power button and the volume-up button for 15 seconds, then release.
+3. Check the keyboard connection pins for debris and ensure a secure connection.
+4. Test the keyboard with another compatible Surface device if possible.
+
+If the problem persists, it may be best to contact our technical support team to explore repair or replacement options. We’re here to help.
+
+Best regards,
+Customer Service Team

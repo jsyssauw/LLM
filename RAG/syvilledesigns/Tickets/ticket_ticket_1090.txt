@@ -1,0 +1,27 @@
+Ticket ID: ticket_1090
+Subject: Problema de rendimiento con Dell XPS 13
+Incident Type: Incident
+Customer Issue: Estimado cliente del soporte técnico de la tienda en línea,
+
+Me pongo en contacto para informar un problema de rendimiento con mi ultrabook Dell XPS 13 9310 adquirido recientemente. Desde que lo compré, he notado que su rendimiento es significativamente más lento de lo esperado para una máquina de este calibre y rango de precio. Los programas tardan mucho en cargar, y la capacidad de respuesta general del sistema es lenta, incluso al realizar tareas básicas.
+
+Ya he intentado algunos pasos básicos de solución de problemas, como reiniciar el dispositivo, verificar si hay actualizaciones y ejecutar un análisis de virus para asegurarme de que no haya malware afectando el rendimiento. A pesar de estos esfuerzos, el problema persiste.
+
+Como mi período de garantía aún está activo, agradecería su orientación sobre los próximos pasos que debería tomar para resolver este problema. Si es necesario, estoy dispuesto a enviar mi dispositivo para un chequeo diagnóstico completo o reparación. Además, por favor hágame saber si este es un problema conocido con este modelo y si hay soluciones específicas recomendadas.
+
+Gracias por su pronta atención a este asunto. Espero su rápida respuesta.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactar al soporte técnico de la tienda en línea. Lamento escuchar sobre los problemas de rendimiento con su Dell XPS 13 9310. Dado que ya ha probado algunos pasos básicos de solución de problemas, recomiendo verificar si el problema de rendimiento del sistema está relacionado con el software o el hardware iniciando el portátil en Modo Seguro. Esto puede ayudar a determinar si algún proceso en segundo plano está causando retrasos.
+
+Si el problema persiste, comuníquese con nuestro equipo de soporte para organizar un chequeo diagnóstico bajo su garantía activa. También podría ayudar visitar el sitio web de soporte de Dell para verificar si este problema se ha registrado como un problema conocido y si hay actualizaciones de controladores o firmware que podrían solucionarlo.
+
+Si se requiere reparación, podemos ayudar con la logística para asegurarnos de que su dispositivo sea reacondicionado rápidamente. Tenga la seguridad de que revisaremos este asunto con prontitud para resolver sus inquietudes.
+
+Atentamente,
+
+Equipo de Soporte al Cliente

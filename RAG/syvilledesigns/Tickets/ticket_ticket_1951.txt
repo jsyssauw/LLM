@@ -1,0 +1,9 @@
+Ticket ID: ticket_1951
+Subject: Fallos frecuentes en macOS con Adobe Photoshop 2024
+Incident Type: Problem
+Customer Issue: Hola Servicio al Cliente, estoy experimentando fallos frecuentes en macOS al intentar aplicar efectos de capa en Adobe Photoshop 2024. Este problema está obstaculizando gravemente mi trabajo de diseño. ¿Podrían por favor ofrecer asistencia para resolver este asunto con prontitud? Gracias, <name>. Contacto: <tel_num>.
+Customer Service answer: Hola <name>,
+Lamentamos los inconvenientes. Para resolver los fallos, asegúrese de tener instaladas las últimas actualizaciones para tanto macOS como Adobe Photoshop 2024. Si el problema persiste, intente restablecer las preferencias de Photoshop o reinstalar la aplicación. Contáctenos si necesita más ayuda.
+
+Atentamente,
+Servicio al Cliente

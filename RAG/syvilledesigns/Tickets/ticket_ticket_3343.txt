@@ -1,0 +1,25 @@
+Ticket ID: ticket_3343
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado servicio de atención al cliente,
+
+Espero que este mensaje le encuentre bien. Estoy escribiendo para llamar la atención sobre una discrepancia que noté en mi reciente facturación por la suscripción a Microsoft Office 365 asociada con mi número de cuenta <acc_num>. El monto cobrado no coincide con la tarifa de suscripción acordada, y no puedo localizar un estado de factura detallado para entender los cargos adicionales aplicados.
+
+¿Podría proporcionarme un estado de factura completo que detalle todos los cargos relacionados con este período de facturación? Si es posible, también apreciaría cualquier desglose o explicaciones para los cargos adicionales que se han aplicado.
+
+Creo que tener esta información ayudará a aclarar cualquier malentendido y garantizará la precisión en la facturación futura. Gracias por su atención a este asunto. Espero tener noticias suyas pronto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Entendemos su preocupación respecto a la discrepancia en la facturación de su suscripción a Microsoft Office 365. Actualmente estamos revisando su cuenta con el número <acc_num> para identificar el problema.
+
+Por favor, espere la entrega de un estado de factura completo por correo electrónico en breve. Esto incluirá un desglose de todos los cargos por este período de facturación, junto con explicaciones para cualquier cargo adicional aplicado.
+
+Agradecemos su paciencia y estamos comprometidos a resolver este asunto rápidamente para garantizar una facturación precisa en el futuro.
+
+Atentamente,
+
+Equipo de atención al cliente

@@ -1,0 +1,17 @@
+Ticket ID: ticket_3553
+Subject: Urgent: Received Damaged MacBook Air M1 Delivery Issue
+Incident Type: Incident
+Customer Issue: Hello Customer Support,
+
+I recently purchased a MacBook Air M1 from your online store, but unfortunately received a MacBook with visible screen damage. This issue must have occurred during transit. I am seriously concerned and seek a resolution promptly. My order number is <acc_num>. Could you kindly assist with a replacement or a refund? Please let me know the next steps.
+
+Thank you,
+
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+I apologize for the inconvenience caused by the damaged MacBook Air M1. I have initiated a request for a replacement or refund. Please keep the original packaging for return. Our team will contact you shortly on <tel_num> to guide you through the process. We appreciate your patience and understanding in resolving this matter swiftly.
+
+Best regards,
+Customer Support Team

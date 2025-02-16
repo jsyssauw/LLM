@@ -1,0 +1,18 @@
+Ticket ID: ticket_2133
+Subject: nan
+Incident Type: Incident
+Customer Issue: Hello Customer Support,
+
+I hope this message reaches you well. I am getting in touch to report a problem I have been experiencing with my MacBook Air M1, which I bought from the Tech Online Store. While playing videos, the display occasionally flickers, creating considerable distraction and detrimentally impacting the overall viewing experience. The flickering seems to be random and occurs regardless of the video player chosen or the resolution settings applied. This issue started a few weeks ago and has been persisting since then.
+
+Would you be so kind as to advise on possible troubleshooting steps or repair alternatives for this issue? I anticipate your swift response.
+
+Sincerely,
+
+<name>
+Customer Service answer: Hello <name>,
+
+Thank you for getting in touch with us. The screen flickering on the MacBook Air M1 may stem from several different causes. First, please try restarting your device and ensure that your macOS version is the latest. If the issue still persists, consider resetting the NVRAM and SMC. You might also want to adjust the "Displays" settings in System Preferences. If these steps do not fix the problem, a professional assessment may be warranted. Please think about visiting an Apple Store or an authorized service center for further assistance. Let us know if you need any more help.
+
+Sincerely,
+Customer Support

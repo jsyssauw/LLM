@@ -1,0 +1,28 @@
+Ticket ID: ticket_1178
+Subject: Question Regarding Unforeseen Subscription Fees
+Incident Type: Request
+Customer Issue: Dear Customer Service,
+
+I trust this message finds you in good spirits. I am reaching out to seek clarification about some unforeseen charges on my account linked to the Microsoft Office 365 monthly subscription. I recently noticed extra fees applied that I did not expect or recognize. My account number is <acc_num>, and I have been a dedicated customer for quite a while now.
+
+Could you kindly provide a comprehensive breakdown of these charges? Moreover, if there have been any recent modifications to the subscription policy that could affect pricing, I would appreciate it if you could inform me. You may contact me via email or at <tel_num> for any further questions.
+
+Thank you for your help.
+
+Sincerely,
+
+<name>
+Customer Service answer: Dear <name>,
+
+We appreciate you contacting us regarding the unforeseen charges on your Microsoft Office 365 subscription. We fully understand your situation and are dedicated to assisting you.
+
+We will examine your account <acc_num> to furnish you with a detailed breakdown of the charges. It's possible that there has been a billing change or a new feature added to your plan, resulting in these additional fees.
+
+In addition, we will investigate if there have been any updates to our subscription policy that may have influenced the pricing.
+
+We will be in touch soon with our findings. In the meantime, please do not hesitate to contact us via email or telephone at <tel_num> if you have any further inquiries.
+
+Thank you for your continued loyalty.
+
+Best regards,
+Customer Support Team

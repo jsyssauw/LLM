@@ -1,0 +1,17 @@
+Ticket ID: ticket_3420
+Subject: Urgent : Problème de temps de démarrage lent sur MacBook Air M1
+Incident Type: Incident
+Customer Issue: Cher Support Client,
+
+J'ai récemment acheté un MacBook Air M1 la semaine dernière dans votre magasin. Malheureusement, je rencontre des temps de démarrage très lents avec l'appareil.
+
+Veuillez m'aider à résoudre ce problème. Mon numéro de commande est <order_num>.
+
+Merci,
+<name>
+Customer Service answer: Cher <name>,
+
+Nous sommes désolés d'apprendre le problème avec votre MacBook Air M1. Essayez de réinitialiser le SMC et le PRAM. Si le problème persiste, veuillez visiter notre magasin ou contacter le support directement pour une assistance supplémentaire.
+
+Cordialement,
+Support Client

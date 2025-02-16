@@ -1,0 +1,11 @@
+Ticket ID: ticket_3663
+Subject: nan
+Incident Type: Problem
+Customer Issue: Bonjour <name>, Je souhaite attirer votre attention sur un souci concernant la batterie de mon MacBook Air M1. Je vous serais reconnaissant de bien vouloir régler ce problème dans les plus brefs délais. Mon numéro de compte est <acc_num>. Je vous remercie pour votre réactivité à cet égard.
+Customer Service answer: Bonjour [Client],
+
+Merci de nous avoir informés du problème relatif à la batterie de votre MacBook Air M1. Nous avons pris en compte votre signalement et nous nous attacherons à le résoudre dans les meilleurs délais. Veuillez attendre un suivi de notre part prochainement.
+
+Cordialement,
+[Votre Nom]
+Équipe d'assistance

@@ -1,0 +1,36 @@
+Ticket ID: ticket_816
+Subject: Urgent Connectivity Issues with Printer Setup
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am reaching out to report a connectivity issue with my HP DeskJet 3755 printer, purchased recently from your online store. Since I have set up the device, I have encountered persistent difficulties establishing a stable wireless connection, which has considerably impacted my daily tasks. 
+
+I have followed all instructions provided in the manual meticulously, including checking my Wi-Fi connection and ensuring the printer is within range of the router. Unfortunately, none of these solutions have resolved the issue. Each attempted print job fails to send, citing connectivity problems, directly affecting my productivity.
+
+Please prioritize this request, as I rely on this equipment for essential documents and urgent printing needs. Any guidance on troubleshooting or setting adjustments that I might have overlooked would be immensely appreciated. Additionally, if a firmware update or device replacement is necessary, I would welcome your immediate assistance.
+
+For your convenience in verifying the purchase, my order number is <ord_num>. You can reach me at <email@domain.com> or my phone number, <tel_num>. Looking forward to your prompt response.
+
+Thank you for your attention to this urgent matter.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the connectivity issues with your HP DeskJet 3755 printer. We apologize for the inconvenience caused and appreciate the detailed information you provided.
+
+Please try the following troubleshooting steps to address the wireless connection issue:
+
+1. Power Cycle: Turn off your printer, router, and computer. Wait for a couple of minutes, then power them back on.
+2. Wi-Fi Connection: Ensure the printer is properly connected to your Wi-Fi network. You can try reconnecting via the printer's control panel.
+3. Printer Status: Verify that the printer is set as the default device on your computer.
+4. Install HP Smart App: Use the HP Smart App to further diagnose and resolve connection issues.
+5. Firmware Update: Check for any available firmware updates for your printer model through the HP support website.
+
+If these steps do not resolve the issue, a replacement or further intervention may be necessary. I will escalate your case to our support team for immediate action. They will contact you soon using the details provided. Meanwhile, you can also attempt to reach us directly at <tel_num>.
+
+We are committed to ensuring your equipment functions optimally and will prioritize your request. Thank you for your patience and cooperation.
+
+Best regards,
+Tech Online Store Customer Support Team

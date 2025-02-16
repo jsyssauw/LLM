@@ -1,0 +1,20 @@
+Ticket ID: ticket_2950
+Subject: Frequent jamming issues with Epson EcoTank printer
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I am writing to express my frustration with the Epson EcoTank ET-4760 printer I purchased from your store. It frequently jams and fails to complete print jobs, causing significant disruptions. The persistent paper feed issues prevent me from achieving consistent results. I have attempted various troubleshooting methods, but the problem persists. I kindly request assistance in resolving these issues at your earliest convenience. Please advise on potential solutions or the possibility of a replacement. Thank you for your prompt attention.
+
+Best regards,
+
+<name>
+Customer Service answer: Subject: Re: Frequent jamming issues with Epson EcoTank printer
+
+Dear <name>,
+
+Thank you for reaching out and letting us know about the issues with your Epson EcoTank ET-4760 printer. We apologize for any inconvenience this has caused. We recommend first ensuring the paper is loaded correctly and using the appropriate paper type. You may also want to clean the paper feed rollers as described in the printer's manual. If the problem persists, please contact our support team directly at <tel_num> or visit our website for further assistance, including possible warranty options or replacement procedures.
+
+We are committed to resolving your issue promptly.
+
+Best regards,
+Tech Online Store Customer Support

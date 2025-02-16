@@ -1,0 +1,10 @@
+Ticket ID: ticket_3001
+Subject: Esclarecimento Necessário Sobre Cobrança de Fatura
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente,
+
+Notei uma cobrança rotulada como 'Licença do Jira Software 8.20' na minha fatura recente. Você poderia esclarecer o que essa cobrança implica? Eu não solicitei licenças adicionais. Obrigado.
+
+Atenciosamente,
+<name>
+Customer Service answer: Caro <name>, a cobrança pela 'Licença do Jira Software 8.20' pode ser um erro ou uma renovação. Por favor, revise os detalhes da sua assinatura ou entre em contato conosco para mais assistência para resolver este problema. Obrigado!

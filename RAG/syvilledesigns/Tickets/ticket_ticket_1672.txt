@@ -1,0 +1,25 @@
+Ticket ID: ticket_1672
+Subject: Beratungsanfrage: Serverleistung
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um eine Beratung zur Optimierung der Serverleistung und zur Entwicklung effizienter Backup-Strategien anzufordern. Unser Ziel ist es, die derzeitigen sporadischen Ausfallzeiten, die unsere Operationen beeinträchtigen, zu beheben. Ihr IT-Beratungsdienst wurde uns wärmstens empfohlen, und wir würden Ihre Expertise zur Lösung dieser Angelegenheit zu schätzen wissen.
+
+Bitte lassen Sie uns wissen, wie wir fortfahren können, einschließlich der Planung einer Beratung zu einem für Sie passenden Zeitpunkt. Sie können mich unter <tel_num> oder per E-Mail erreichen, um weitere Details zu besprechen.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich der Serverleistung und Backup-Strategien an uns gewandt haben. Wir freuen uns über Ihr Interesse an unseren IT-Beratungsdiensten.
+
+Um fortzufahren, schlage ich vor, ein erstes Beratungsgespräch zu vereinbaren, um Ihre spezifischen Bedürfnisse besser zu verstehen und eine geeignete Lösung für Ihre Operationen zu entwickeln. Könnten Sie uns bitte Ihre verfügbaren Daten und Zeiten für dieses Erstgespräch mitteilen? Alternativ können wir uns auch nach Ihren Wünschen richten.
+
+Zögern Sie nicht, uns unter <tel_num> zu kontaktieren oder auf diese E-Mail zu antworten, um weitere Details zu besprechen und den Prozess zu beschleunigen.
+
+Wir freuen uns darauf, Ihnen zu helfen.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

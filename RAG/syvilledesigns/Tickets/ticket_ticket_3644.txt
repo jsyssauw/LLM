@@ -1,0 +1,18 @@
+Ticket ID: ticket_3644
+Subject: Assistance Needed for License Change in Office 365
+Incident Type: Change
+Customer Issue: Dear Customer Support,
+
+I am writing to request assistance with changing the license for Excel in Microsoft Office 365. Our customer, <name>, reported activation issues for the affected product, which is causing significant inconvenience. Could you please help resolve this issue at the earliest? Please contact me at <tel_num> or email me for any further information required.
+
+Thank you,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us regarding the license change in Microsoft Office 365 for Excel. We apologize for the inconvenience this has caused. To assist you efficiently, please ensure that the current license is not expired and that all recent updates have been applied. If the issue persists, feel free to reach out to our technical support team directly for step-by-step guidance. 
+
+You can contact us at the provided email or through your registered phone number <tel_num>. We are here to help and will prioritize resolving this matter swiftly.
+
+Best regards,
+Customer Support Team

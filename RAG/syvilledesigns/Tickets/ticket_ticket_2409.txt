@@ -1,0 +1,16 @@
+Ticket ID: ticket_2409
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear customer support, I am experiencing unexpected shutdowns and frequent battery drain issues with my MacBook Air M1 purchased from Tech Online Store. Please assist in diagnosing these problems. The device often shuts down during normal use, and the battery depletes rapidly. My account number is <acc_num>. I look forward to your prompt assistance and guidance on resolving these issues. Best regards, <name>, <tel_num>.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. I'm sorry to hear about the issues with your MacBook Air M1. To address the unexpected shutdowns and battery drain, try the following steps:
+
+1. Update macOS to the latest version to ensure all recent bug fixes are applied.
+2. Reset the System Management Controller (SMC) and PRAM/NVRAM.
+3. Check for any resource-intensive applications running in the background.
+
+If these steps don't resolve the issue, please contact an Apple Authorized Service Provider. We recommend backing up any important data before a service visit. Let us know if you need further help!
+
+Best regards,
+Customer Support Team

@@ -1,0 +1,16 @@
+Ticket ID: ticket_3925
+Subject: Problema de creación de tickets en Jira Software 8.20
+Incident Type: Incident
+Customer Issue: Estimado soporte al cliente,
+
+Estoy experimentando problemas con el proceso de creación de tickets en Jira Software 8.20. Cada vez que intento enviar un nuevo ticket, aparece un mensaje de error que impide completar la acción. ¿Podría ayudarme a resolver este problema? Su ayuda sería muy apreciada.
+
+Gracias,
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto. Este problema puede deberse a un conflicto de caché del navegador o a un requisito de actualización del software. Por favor, intente borrar la caché de su navegador o actualizar Jira Software. Si el problema persiste, proporcione los detalles del mensaje de error para que podamos ayudarle más.
+
+Atentamente,
+Equipo de Service Desk

@@ -1,0 +1,33 @@
+Ticket ID: ticket_521
+Subject: Wi-Fi Connection Instability Using TP-Link EAP245 in Congestion
+Incident Type: Incident
+Customer Issue: Hello Customer Support Team,
+
+I hope this message finds you well. I am writing to inform you about an issue we are experiencing with the TP-Link EAP245 access points under high congestion areas. While using this model, users report unstable Wi-Fi connections, which is causing disruptions, notably during peak usage times.
+
+Our network setup usually maintains high performance; however, in busy environments such as conference rooms or open-plan offices, maintaining a stable connection becomes challenging. The inconsistency negatively impacts productivity and overall user satisfaction.
+
+Could you please provide guidance on potential solutions or optimizations to better handle high-density environments? We are eager to resolve this issue promptly to ensure seamless network connectivity for users.
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+Account: <acc_num>
+Phone: <tel_num>
+Customer Service answer: Hello <name>,
+
+Thank you for reaching out to us regarding the instability with your TP-Link EAP245 in high congestion areas. To improve Wi-Fi performance in dense environments, please consider the following solutions:
+
+1. Enable band steering to allow devices to use the 5GHz band more efficiently.
+2. Adjust the channel width, possibly reducing it to 20MHz to lower interference.
+3. Increase the number of APs to distribute the load more evenly.
+4. Use load balancing to manage the number of clients per access point.
+5. Update the firmware of your devices to the latest version for optimal performance.
+6. Implement QoS settings to prioritize critical traffic.
+
+If the issue persists, please let us know for further assistance.
+
+Best regards,
+Customer Support Team

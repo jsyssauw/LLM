@@ -1,0 +1,5 @@
+Ticket ID: ticket_535
+Subject: Problème de Surface Pro 7
+Incident Type: Incident
+Customer Issue: Cher service client,<br><br>Je vous écris pour signaler un problème avec ma Microsoft Surface Pro 7. L'écran tactile tombe intermittemment en panne, devenant non réactif pendant l'utilisation. Veuillez me conseiller sur la manière de procéder à une réparation ou un remplacement.<br><br>Merci,<br><name><br><acc_num><br><tel_num>
+Customer Service answer: Cher <name>,<br><br>Merci de nous avoir contactés. Pour résoudre le problème d'écran tactile de votre Surface Pro 7, veuillez visiter la page officielle de Service et Réparation des appareils Microsoft à support.microsoft.com. Suivez les instructions pour le dépannage ou pour organiser une réparation/un remplacement.<br><br>Cordialement,<br>Service client

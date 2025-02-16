@@ -1,0 +1,15 @@
+Ticket ID: ticket_3487
+Subject: Problem mit der Ticket-Erstellung
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich wende mich an Sie, um zu berichten, dass <name> Probleme hat, wenn versucht wird, Tickets in Jira Software 8.20 zu erstellen. Wir vermuten, dass dies an falschen Benutzerberechtigungen liegt. Könnten Sie bitte helfen, dieses Problem zu lösen?
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Um das Problem mit der Ticket-Erstellung in Jira Software 8.20 zu beheben, empfehlen wir, die Benutzerberechtigungen in den Site-Administrations-Einstellungen zu überprüfen und zu aktualisieren. Stellen Sie sicher, dass <name> die notwendigen Berechtigungen hat, um Tickets zu erstellen. Wenn das Problem weiterhin besteht, geben Sie bitte mehr Details an oder kontaktieren Sie uns für weitere Unterstützung.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

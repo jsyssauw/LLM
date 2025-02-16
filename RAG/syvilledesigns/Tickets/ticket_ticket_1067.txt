@@ -1,0 +1,32 @@
+Ticket ID: ticket_1067
+Subject: Power Button Issue on Dell XPS
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to report an issue with my laptop that I purchased from your store. The device in question is a Dell XPS 13 9310. I am having trouble with the power button not responding, which is preventing the device from starting up altogether.
+
+I have attempted some basic troubleshooting steps such as plugging the laptop into a power source to ensure the battery is not dead, but unfortunately, none of these methods have successfully resolved the issue. This laptop is crucial for my daily operations and I would appreciate your prompt assistance in resolving this matter.
+
+Could you please advise on the next steps? Should I take the device to a local technician affiliated with your company, or would it be possible to send it back to your center for further inspection? I have tried reaching out through your helpline at <tel_num> but was unable to reach an operator. My account number is <acc_num> and I hope this can help expedite the process.
+
+Thank you for your attention to this matter. I look forward to your swift response to ensure minimal disruption to my work. Please let me know if any additional information is required.
+
+Sincerely,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issue with your Dell XPS 13 9310. I understand how crucial your laptop is for your operations, and I’m here to help you.
+
+Since you’ve already tried basic troubleshooting, the next recommended step is to have it inspected further. You can either take it to one of our authorized local technicians or send it back to our service center. 
+
+To proceed with the latter, I will arrange a repair request using your provided account number <acc_num>. Please ensure the device is securely packaged to avoid damage during transit. Our team will send you a shipping label and instructions shortly.
+
+We apologize for the inconvenience you experienced with our helpline. If you need more immediate assistance, please feel free to reply to this email.
+
+Should you require any additional information or assistance, do not hesitate to reach out. Our goal is to minimize any disruption to your work.
+
+Best regards,
+
+<Your Name>
+<Customer Support Team>

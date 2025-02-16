@@ -1,0 +1,10 @@
+Ticket ID: ticket_794
+Subject: nan
+Incident Type: Request
+Customer Issue: Sehr geehrter Online-Shop-Kunde, ich möchte ein defektes Ladegerät melden, das mit meinem Lenovo IdeaPad 5 geliefert wurde. Nach einer Woche Nutzung hat das Ladegerät nicht mehr funktioniert. Bitte unterstützen Sie mich bei der Bereitstellung eines Ersatzgeräts. Kontonummer: <acc_num>. Freundliche Grüße, <name>.
+Customer Service answer: Sehr geehrte/r <name>,
+
+Vielen Dank für Ihre Kontaktaufnahme. Es tut uns leid zu erfahren, dass Ihr Ladegerät nicht funktioniert. Ihre Anfrage für ein Ersatzladegerät für das Lenovo IdeaPad 5 wurde in die Wege geleitet. Sie werden in Kürze weitere Informationen erhalten. 
+
+Mit freundlichen Grüßen,
+Kundendienstteam

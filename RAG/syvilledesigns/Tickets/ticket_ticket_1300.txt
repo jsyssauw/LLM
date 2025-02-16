@@ -1,0 +1,43 @@
+Ticket ID: ticket_1300
+Subject: Problèmes de performance de Chrome
+Incident Type: Incident
+Customer Issue: Cher service client,
+
+Je vous écris pour signaler plusieurs problèmes de performance que j'ai rencontrés avec Google Chrome version 102.0 sur mon système Windows 10. Tout d'abord, je constate un temps de réponse globalement lent lors du chargement des sites Web ou de l'ouverture de plusieurs onglets. Ce délai affecte considérablement ma productivité, car il faut plus de temps pour que les pages se chargent complètement et deviennent interactives.
+
+De plus, j'ai rencontré des plantages occasionnels où le navigateur se ferme soudainement sans avertir. Ces incidents surviennent généralement lors de sessions avec de nombreux onglets ouverts ou lors de l'utilisation d'applications nécessitant beaucoup de ressources. De tels problèmes de fiabilité sont préoccupants et perturbent mon travail.
+
+J'ai tenté des étapes de dépannage de base, y compris vider le cache, désactiver les extensions inutiles et m'assurer que tous les logiciels sont à jour, mais le problème persiste. Je demande gentiment des conseils sur d'autres techniques de dépannage ou sur les correctifs logiciels qui pourraient résoudre ces problèmes.
+
+Pourriez-vous également confirmer s'il s'agit d'un problème connu que d'autres utilisateurs ont signalé, ou s'il y a des mises à jour prévues qui pourraient résoudre ces problèmes bientôt ?
+
+J'apprécie votre attention rapide à cette affaire et j'attends votre réponse utile.
+
+Merci.
+
+Cordialement,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés au sujet des problèmes de performance avec Google Chrome version 102.0. Nous comprenons à quel point cela peut être frustrant, surtout lorsque cela impacte la productivité.
+
+Pour résoudre le temps de réponse lent et les plantages, veuillez envisager les étapes supplémentaires suivantes :
+
+1. **Accélération matérielle :** Essayez de désactiver l'accélération matérielle dans les paramètres de Chrome sous "Avancé" et voyez si cela améliore la performance.
+2. **Démarrage propre :** Exécutez Chrome en mode incognito, car cela désactive toutes les extensions par défaut. Si la performance s'améliore, identifiez et supprimez les extensions problématiques.
+3. **Réinitialisation du profil :** Envisagez de créer un nouveau profil Chrome pour voir si votre profil actuel est corrompu.
+
+Ces étapes peuvent aider à atténuer le problème ; cependant, si le problème persiste, il pourrait être lié à la version spécifique de Chrome. Nous recommandons de mettre à jour vers la dernière version de Chrome si possible, car les versions plus récentes incluent souvent des corrections de bogues et des améliorations de performance.
+
+Il y a eu des rapports d'autres utilisateurs rencontrant des problèmes similaires, principalement lors de l'exécution de nombreux onglets ou d'applications lourdes en ressources. Google aborde souvent ces préoccupations dans les mises à jour à venir.
+
+Veuillez rester attentif aux mises à jour ultérieures dans les paramètres du navigateur Chrome, ou visitez la page de support officielle de Chrome pour des annonces de mise à jour et des correctifs.
+
+Si vous avez besoin de plus d'assistance, n'hésitez pas à nous contacter, et nous ferons de notre mieux pour vous aider.
+
+Cordialement,
+
+Équipe du service client

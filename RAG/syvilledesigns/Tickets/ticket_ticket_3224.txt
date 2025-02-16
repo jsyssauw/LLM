@@ -1,0 +1,19 @@
+Ticket ID: ticket_3224
+Subject: Urgent: Cloud Service Disruption Requires Immediate Attention
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+My name is <name> and I'm experiencing a serious issue with the AWS Management Service. Our AWS instances have suddenly stopped working, thereby causing severe disruption to our cloud services. This issue is urgent and requires immediate resolution as it is impacting our operations.
+
+It is crucial for the problem to be fixed immediately to prevent further operational damages. Please prioritize this concern and provide the necessary guidance or support as soon as possible to restore our services. You may contact me at <tel_num> for additional information.
+
+Thank you for your prompt attention.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand the urgency of the situation with your AWS Management Service. Our team is currently investigating the issue and working diligently to resolve it as quickly as possible. We will prioritize your case and keep you informed of any updates. We appreciate your patience and cooperation. Should you need further assistance in the meantime, feel free to contact us at any moment. 
+
+Best regards,
+Customer Support Team

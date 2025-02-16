@@ -1,0 +1,18 @@
+Ticket ID: ticket_3221
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Les escribo para llamar su atención sobre un problema con mi reciente facturación de la suscripción a Microsoft Office 365. He notado que me han cobrado de más en el último ciclo de facturación mensual. Mi número de cuenta es <acc_num>. ¿Podrían investigar este asunto y ayudar a rectificar los cargos? Por favor, comuníquense conmigo a <email> o <tel_num> para cualquier información adicional.
+
+Gracias por su asistencia.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Pedimos disculpas por los inconvenientes con tu facturación. Revisaremos tu cuenta <acc_num> y abordaremos el problema del cobro excesivo de inmediato. Nuestro equipo se pondrá en contacto contigo a través de <email> o <tel_num> si se necesita más información. Por favor, espera una resolución próximamente.
+
+Atentamente,
+Servicio de Atención al Cliente

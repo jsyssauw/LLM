@@ -1,0 +1,5 @@
+Ticket ID: ticket_1805
+Subject: nan
+Incident Type: Incident
+Customer Issue: Hello Customer Support, I wish to initiate the return of a faulty Lenovo IdeaPad 5. Could you please assist me with the return procedure? Thank you, <name>
+Customer Service answer: Hello [Name], To return your Lenovo IdeaPad 5, kindly head over to our returns page, complete the form, and adhere to the directions given. Thank you!

@@ -1,0 +1,25 @@
+Ticket ID: ticket_1486
+Subject: Assistance requise pour la configuration du MacBook Air M1
+Incident Type: Request
+Customer Issue: Bonjour Service Client,
+
+Je m'appelle <name>, et je vous contacte pour obtenir de l'aide concernant l'achat d'un MacBook Air M1 sur votre Tech Online Store. Je suis confus quant aux configurations disponibles et apprécierais beaucoup quelques conseils. J'essaie de comprendre les différences dans les options de stockage et les configurations de mémoire. Si possible, quelqu'un pourrait-il m'aider dans ce processus ou me diriger vers une ressource qui pourrait m'aider ? Vous pouvez me contacter au <tel_num> ou par cette email. Merci pour votre assistance.
+
+Cordialement,
+<name>
+Customer Service answer: Objet : Re : Assistance requise pour la configuration du MacBook Air M1
+
+Bonjour,
+
+Merci de nous avoir contactés pour obtenir de l'aide concernant les configurations du MacBook Air M1. Lors du choix de votre appareil, considérons deux options principales : le stockage et la mémoire.
+
+1. Options de stockage : Varie typiquement de 256 Go à 2 To SSD, répondant à différents besoins de stockage de fichiers et d'applications.
+  
+2. Configurations de mémoire : Proposées en options de 8 Go ou 16 Go de RAM, avec plus de RAM facilitant la gestion de plusieurs applications simultanément.
+
+Pour des comparaisons détaillées, vous pouvez consulter les spécifications du produit sur notre Tech Online Store ou contacter directement notre équipe de vente au <acc_num> pour des conseils personnalisés. N'hésitez pas à répondre à cet email pour toute autre question ou à nous appeler.
+
+Nous sommes là pour vous aider à obtenir la meilleure configuration pour vos besoins.
+
+Cordialement,
+L'équipe du service client

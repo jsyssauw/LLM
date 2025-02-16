@@ -1,0 +1,5 @@
+Ticket ID: ticket_244
+Subject: nan
+Incident Type: Incident
+Customer Issue: Router not responding, impacting business activities, possible hardware issue.
+Customer Service answer: We are looking into your router issue. Please check cables. A technician will contact you soon.

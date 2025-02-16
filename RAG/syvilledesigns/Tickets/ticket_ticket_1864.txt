@@ -1,0 +1,27 @@
+Ticket ID: ticket_1864
+Subject: Asistencia Urgente Requerida: MacBook Air M1 No Enciende
+Incident Type: Problem
+Customer Issue: Estimado Soporte al Cliente de Tech Online Store,
+
+Espero que este mensaje lo encuentre bien. Estoy escribiendo para reportar un problema que estoy enfrentando con mi MacBook Air M1 comprado bajo el número de cuenta <acc_num>. A pesar de estar completamente cargado, el dispositivo se niega a encenderse, dejándome incapaz de acceder a trabajo y comunicaciones esenciales. Este asunto es urgente y requiere atención inmediata.
+
+Por favor, aconseje sobre los pasos de solución de problemas que puedo seguir antes de enviar el dispositivo de vuelta para reparaciones o reemplazo. Compré esta laptop por su fiabilidad y ahora necesito su rápida asistencia para abordar este problema. Espero su pronta respuesta. Gracias por su atención urgente a este asunto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos y expresar su preocupación por su MacBook Air M1. Entiendo la urgencia de la situación y estoy aquí para ayudarlo.
+
+Por favor, intente los siguientes pasos de solución de problemas para ver si resuelven el problema:
+1. Mantenga presionado el botón de encendido durante 10 segundos, luego suéltelo e intente encender el dispositivo.
+2. Conecte el cargador y verifique si se enciende la luz del conector MagSafe. Si no, pruebe con una fuente de energía o cable diferente.
+3. Realice un reinicio del SMC (Controlador de Gestión del Sistema): Con el dispositivo apagado, mantenga presionadas las teclas Shift-Control-Opción en el lado izquierdo del teclado incorporado, luego mantenga presionado el botón de encendido simultáneamente. Mantenga todas las teclas y el botón de encendido durante 10 segundos, luego suéltelos y presione el botón de encendido nuevamente.
+
+Si estos pasos no funcionan, puede ser necesario inspeccionar el dispositivo para reparaciones o reemplazo. Por favor, mantenga su número de cuenta <acc_num> a mano y contacte nuestra línea de soporte al <tel_num> para más asistencia.
+
+Estamos comprometidos a resolver este problema lo más rápido posible y apreciamos su paciencia y comprensión.
+
+Atentamente,
+Soporte al Cliente de Tech Online Store

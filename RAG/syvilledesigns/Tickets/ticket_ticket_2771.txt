@@ -1,0 +1,15 @@
+Ticket ID: ticket_2771
+Subject: Consulta de compatibilidad
+Incident Type: Request
+Customer Issue: Estimado servicio de atención al cliente,
+
+Recientemente compré un MacBook Air M1 en su tienda. Necesito saber si este modelo es compatible con mi configuración de monitor inalámbrico externo. Por favor, proporcione la información necesaria a la mayor brevedad posible.
+
+Gracias,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por su consulta. El MacBook Air M1 admite monitores externos, aunque la compatibilidad con una configuración inalámbrica depende del monitor específico y del método de conexión. Por favor, verifique la compatibilidad del monitor con macOS y sus capacidades inalámbricas para confirmarlo.
+
+Atentamente,
+Servicio de atención al cliente

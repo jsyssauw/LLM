@@ -1,0 +1,17 @@
+Ticket ID: ticket_2977
+Subject: Problemas identificados con la impresora HP DeskJet 3755 - Se requiere ayuda urgente
+Incident Type: Request
+Customer Issue: Estimado equipo de atención al cliente,
+
+Estoy enfrentando dificultades con mi impresora HP DeskJet 3755. El aparato no está operando correctamente y necesito ayuda de forma urgente para solucionar este problema lo más pronto posible.
+
+Agradecido,
+<name>
+Número de cuenta: <acc_num>
+Número de teléfono: <tel_num>
+Customer Service answer: Estimado <name>,
+
+Lamentamos los problemas ocasionados. Te recomendamos reiniciar tanto la impresora como tu ordenador, chequear todas las conexiones de los cables y asegurarte de que los drivers estén actualizados. Si los inconvenientes continúan, no dudes en llamarnos al <tel_num> para recibir más asistencia.
+
+Cordialmente,
+Atención al Cliente

@@ -1,0 +1,27 @@
+Ticket ID: ticket_1042
+Subject: Billing Discrepancy
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I am writing to address a billing discrepancy I've encountered concerning the recent renewal of my Microsoft Office 365 subscription. The renewal appears on my billing statement dated the 6th of October, 2023. Upon reviewing the charges, I noticed a difference in the amount billed compared to the agreed pricing at the time of subscription. Initially, my contract indicated an annual renewal fee of $69.99, but this latest charge is $89.99.
+
+For clarity, my account number is <acc_num>, and the affected product is Microsoft Office 365. I would appreciate it if you could investigate this matter at your earliest convenience to correct any possible errors. I am eager to continue utilizing this service without interruptions and ensure all billing aligns with my original agreement.
+
+Please don't hesitate to contact me at <email> or <tel_num> should further information be required. Thank you for your prompt attention to this matter. I look forward to your swift resolution.
+
+Kind regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about the billing discrepancy with your Microsoft Office 365 subscription. We apologize for any inconvenience this may have caused.
+
+We have received your request and will review your account details to investigate the difference between the billed amount and your original contract agreement. Rest assured, we will work to resolve this matter promptly.
+
+You will be contacted shortly once we have completed our investigation. If we require any additional information, we will contact you directly via <email> or <tel_num>.
+
+Thank you for your patience and for being a valued customer.
+
+Best regards,
+
+Customer Support Team

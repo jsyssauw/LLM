@@ -1,0 +1,16 @@
+Ticket ID: ticket_3314
+Subject: nan
+Incident Type: Incident
+Customer Issue: Estimado Servicio al Cliente, estoy experimentando dificultades con el Router Cisco ISR4331. Desafortunadamente, no está proporcionando acceso a internet y los clientes no pueden conectarse o navegar por la web. Esto está causando una interrupción significativa en nuestras operaciones diarias, ya que dependemos en gran medida de una conectividad a internet estable. ¿Podrían investigar este problema y proporcionar una solución rápida? Su pronta asistencia para resolver este asunto crítico sería muy apreciada. Si se requiere más información o acción de nuestra parte, por favor háganoslo saber. Gracias por su atención a este asunto urgente. Saludos, <name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse sobre los problemas con su Router Cisco ISR4331. Entendemos la importancia de una conectividad a internet estable para sus operaciones y estamos aquí para ayudar.
+
+Por favor, comience realizando un reinicio básico del router, asegurándose de que todas las conexiones estén seguras. Si los problemas persisten, verifique los registros del router en busca de mensajes de error y verifique que la configuración no haya cambiado inesperadamente.
+
+Si continúa experimentando problemas, le recomendamos comunicarse con nuestro equipo de soporte técnico al <support_tel_num> o a través de nuestro portal de soporte, donde podemos ofrecer más diagnósticos y ayudar a resolver este asunto de manera rápida.
+
+Agradecemos su paciencia y estamos comprometidos a resolver este problema rápidamente. Por favor, háganos saber si hay más información que necesitamos o más acciones que debamos tomar de su parte.
+
+Atentamente,
+Equipo de Soporte al Cliente

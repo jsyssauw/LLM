@@ -1,0 +1,26 @@
+Ticket ID: ticket_2525
+Subject: Urgent: Immediate Assistance Required for Router Issue
+Incident Type: Incident
+Customer Issue: Dear IT Support Team,
+
+Our Cisco Router ISR4331 is currently experiencing frequent connection drops, significantly impacting our business operations. We require immediate technical investigation to restore network stability and avoid further disruptions. The issue has been persistent for the past week and affects various critical systems within our organization. We rely heavily on this router for maintaining seamless communication and data transfer. Thus, a prompt resolution is essential. Please assist us by arranging for a technician or providing guidance on the next steps. Our priority is to ensure minimal downtime.
+
+Thank you for your attention to this urgent matter. We look forward to your swift response.
+
+Sincerely,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issue with your Cisco Router ISR4331. We understand the critical nature of this problem and the impact it has on your business operations. Our team is committed to providing you with a prompt resolution.
+
+We have escalated this case to our network specialists, and a technician will be assigned to investigate the issue as a priority. In the meantime, please ensure the following preliminary checks have been completed:
+1. Verify that all cables are securely connected and undamaged.
+2. Confirm that the router firmware is up to date.
+3. Try rebooting the router, if it has not been done recently.
+
+Our team will contact you shortly to coordinate onsite assistance if needed or provide further remote troubleshooting guidance.
+
+We appreciate your patience and understanding as we work to resolve this issue as quickly as possible.
+
+Best regards,
+Service Desk Team

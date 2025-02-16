@@ -1,0 +1,25 @@
+Ticket ID: ticket_1826
+Subject: Rapport de problème de plantage de Zoom
+Incident Type: Problem
+Customer Issue: Bonjour support technique de la boutique en ligne,
+
+Je rencontre des problèmes avec Zoom version 5.11.0, où le logiciel plante pendant les appels, perturbant la vidéoconférence et le partage d'écran. Cela impacte gravement mon travail.
+
+Veuillez conseiller une solution.
+
+Cordialement,
+<name>
+Customer Service answer: Bonjour <name>,
+
+Merci de nous avoir contactés. Nous vous recommandons d'essayer les étapes suivantes : 
+
+1. Assurez-vous d'utiliser la dernière version de Zoom en vérifiant les mises à jour.
+2. Redémarrez votre appareil pour éliminer les problèmes temporaires.
+3. Vérifiez la stabilité de votre connexion Internet.
+4. Mettez à jour le système d'exploitation et les pilotes de votre appareil.
+5. Si le problème persiste, envisagez de réinstaller Zoom.
+
+Si ces étapes ne résolvent pas le problème, veuillez nous recontacter pour obtenir une aide supplémentaire.
+
+Cordialement,
+Support de la boutique en ligne

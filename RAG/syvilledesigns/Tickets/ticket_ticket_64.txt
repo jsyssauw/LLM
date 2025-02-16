@@ -1,0 +1,33 @@
+Ticket ID: ticket_64
+Subject: nan
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Les escribo para llamar su urgente atención sobre un problema continuo que estamos enfrentando con nuestros servidores orientados al cliente. Nuestra organización, <name> Company, está experimentando problemas significativos de inactividad, lo que afecta directamente nuestras operaciones y nuestra capacidad para ofrecer servicios a nuestros clientes. Dado que este problema está relacionado con su Servicio de Consultoría de TI, necesitamos apoyo inmediato de su equipo para restaurar la funcionalidad completa.
+
+Nuestra evaluación indica que el problema está más allá de nuestro control y experiencia directa, por lo que su intervención es crucial. Es imperativo que el problema sea diagnosticado y resuelto con prontitud para minimizar el impacto en la continuidad del negocio y la satisfacción del cliente. Agradeceríamos que pudieran escalar esto al equipo técnico relevante con urgencia y coordinar una resolución inmediata.
+
+Por favor, prioricen este asunto y háganos saber los pasos que debemos seguir de nuestra parte para una resolución eficiente. Mientras tanto, amablemente proporciónenos un cronograma estimado de cuándo podemos esperar la reconciliación total de los servicios.
+
+Gracias por su atención urgente a este asunto crítico.
+
+Saludos cordiales,
+
+<name>
+<tel_num>
+<email>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos sobre el problema con sus servidores orientados al cliente. Entendemos la urgencia y el impacto que esto puede tener en sus operaciones y servicios al cliente.
+
+Hemos escalado su caso a nuestro equipo técnico, y están priorizando una investigación inmediata sobre el tiempo de inactividad del servidor que su organización, <name> Company, está experimentando. Nuestro equipo diagnosticará el problema rápidamente y trabajará para encontrar una resolución lo más pronto posible.
+
+Para una colaboración eficiente, por favor asegúrese de que toda la información y el acceso necesarios estén disponibles para nuestros especialistas técnicos. Esto acelerará nuestro proceso de solución de problemas.
+
+Nos contactaremos con usted en breve con un cronograma para la resolución y cualquier otra instrucción necesaria de su parte para facilitar el proceso.
+
+Gracias por su paciencia y cooperación.
+
+Saludos cordiales,
+
+Equipo de Soporte al Cliente

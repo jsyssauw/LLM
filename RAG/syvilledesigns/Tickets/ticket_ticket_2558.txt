@@ -1,0 +1,15 @@
+Ticket ID: ticket_2558
+Subject: Installing Windows 11
+Incident Type: Incident
+Customer Issue: Hello Customer Support Team,
+
+I am seeking help as I am facing difficulties with the installation of Windows 11 Pro. I would appreciate any assistance you could provide in order to resolve this matter. My account number is <acc_num>. You can reach me either through email or at my phone number, <tel_num>.
+
+Thank you,
+<name>
+Customer Service answer: Hello <name>,
+
+We appreciate your inquiry. To aid you with your Windows 11 Pro installation, please confirm that your device meets the minimum specifications and is currently updated. Should you still encounter problems, please contact us with any error messages or reach out via email or phone so we can offer further assistance.
+
+Kind regards,
+Customer Support Team

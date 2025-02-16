@@ -1,0 +1,26 @@
+Ticket ID: ticket_3778
+Subject: Issues with HP DeskJet 3755 Printer
+Incident Type: Incident
+Customer Issue: Hello Customer Support,
+
+I am writing to express concern about my HP DeskJet 3755 printer, which is malfunctioning. It encounters errors when printing wirelessly, affecting all connected devices in my home network. This has significantly disrupted my ability to manage daily tasks. Could you please assist in diagnosing and resolving this issue? Any help would be appreciated. 
+
+Best regards,
+
+<name> <acc_num>
+<tel_num>
+Customer Service answer: Subject: Re: Issues with HP DeskJet 3755 Printer
+
+Hello <name>,
+
+Thank you for reaching out regarding your HP DeskJet 3755 printer issue. To address the wireless printing problem, please try the following steps:
+
+1. Restart your printer and router to refresh the network connection.
+2. Ensure your printer’s firmware is up to date via the manufacturer’s website.
+3. Confirm that all devices are connected to the same network.
+4. Reinstall the printer drivers on your devices.
+
+If the problem persists, please let us know so we can further assist you. 
+
+Best regards,
+Customer Support

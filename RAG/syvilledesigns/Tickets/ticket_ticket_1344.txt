@@ -1,0 +1,8 @@
+Ticket ID: ticket_1344
+Subject: Immediate Hardware Diagnostics for Dell XPS 13 9310
+Incident Type: Request
+Customer Issue: Hello, I am experiencing screen flickering on my Dell XPS 13 9310. Could you please arrange immediate hardware diagnostics and repair for this issue? My account number is <acc_num>. Thank you for your prompt assistance. Sincerely, <name>
+Customer Service answer: Hello <name>,
+We have arranged a hardware diagnostics appointment for your Dell XPS 13 9310. A technician will contact you shortly. Thank you for your patience. 
+Sincerely, 
+<Your Company Name> Service Team

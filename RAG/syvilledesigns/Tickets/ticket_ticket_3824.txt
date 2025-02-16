@@ -1,0 +1,31 @@
+Ticket ID: ticket_3824
+Subject: Discrepancia en el estado de cuenta de AWS
+Incident Type: Incident
+Customer Issue: Estimado servicio de atención al cliente de IT Services,
+
+Espero que este mensaje lo encuentre bien. Me estoy comunicando sobre una discrepancia de facturación que noté en mi factura mensual reciente de AWS Management Service. Al revisar la factura, encontré que hay cargos inesperados que suman una cantidad significativa, los cuales no fueron anticipados de acuerdo a nuestros términos de servicio acordados.
+
+La factura en cuestión, vinculada al número de cuenta <acc_num>, fue emitida para el período de facturación de septiembre. Dado que no hemos realizado cambios sustanciales en nuestro uso de servicios o nivel, estos cargos misteriosos son bastante preocupantes, requiriendo una investigación urgente para remediar la situación de inmediato.
+
+¿Podría por favor investigar este asunto lo más pronto posible? Si es necesario, estoy más que dispuesto a proporcionar cualquier información adicional pertinente para avanzar en la resolución de este problema. Puede comunicarse conmigo al <tel_num>.
+
+Gracias por su atención inmediata a este asunto. Espero su pronta respuesta.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Asunto: Re: Discrepancia en el estado de cuenta de AWS
+
+Estimado/a <name>,
+
+Gracias por comunicarse y por señalar esta discrepancia en la facturación. Entendemos su preocupación con respecto a los cargos inesperados en su factura de AWS para septiembre.
+
+Para abordar este problema rápidamente, nuestro equipo de facturación iniciará una revisión detallada de su cuenta <acc_num> y los cargos facturados. Nuestro objetivo es identificar cualquier discrepancia y asegurar una pronta resolución. Puede que nos pongamos en contacto para más aclaraciones o información adicional si es necesario.
+
+Tenga la seguridad de que estamos priorizando este asunto y se le mantendrá informado sobre nuestras conclusiones lo antes posible.
+
+Gracias por su paciencia y cooperación.
+
+Saludos cordiales,
+
+Equipo de Atención al Cliente de IT Services

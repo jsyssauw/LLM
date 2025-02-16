@@ -1,0 +1,10 @@
+Ticket ID: ticket_1748
+Subject: nan
+Incident Type: Request
+Customer Issue: Cher service client,<br><br>J'ai récemment acheté un Dell XPS 13 9310 chez Tech Online Store et j'ai remarqué un léger défaut d'écran lors du déballage. Je voudrais demander un retour ou un échange pour ce produit. Merci de me faire savoir la prochaine étape.<br><br>Merci,<br><name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contacté. Nous sommes désolés d'apprendre le défaut d'écran de votre Dell XPS 13 9310. Veuillez contacter le service des retours de Tech Online Store, fournir votre numéro de commande, et ils vous guideront tout au long du processus de retour ou d'échange.
+
+Cordialement,
+Service client

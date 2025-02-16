@@ -1,0 +1,10 @@
+Ticket ID: ticket_2178
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado Servicio de Atención al Cliente, soy <name> y me pongo en contacto para solicitar el Servicio de Gestión de AWS para optimizar nuestros costos en la nube y mejorar el rendimiento de la infraestructura. El producto afectado es el Servicio de Gestión de AWS. Por favor, aconsejen sobre los próximos pasos y proporcionen cualquier detalle necesario para proceder. Gracias, <name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto respecto al Servicio de Gestión de AWS. Para proceder con la optimización de tus costos en la nube y mejorar el rendimiento de la infraestructura, recomendamos programar una consulta con nuestro especialista de AWS. Ellos evaluarán tu configuración actual y adaptarán una solución a tus necesidades. Por favor, háznos saber tu disponibilidad y organizaremos los próximos pasos en consecuencia. Si tienes más consultas o necesitas información adicional, no dudes en contactarnos.
+
+Saludos cordiales,
+Servicio de Atención al Cliente

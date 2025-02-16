@@ -1,0 +1,14 @@
+Ticket ID: ticket_2706
+Subject: nan
+Incident Type: Problem
+Customer Issue: Caro Time de Suporte ao Cliente, Estou escrevendo para chamar sua atenção sobre os problemas recorrentes que estamos enfrentando com nosso deployment na nuvem AWS, que é gerenciado através do seu Serviço de Gerenciamento da AWS. Essas interrupções têm ocorrido com frequência crescente e levaram a interrupções significativas no serviço para nossas operações. O tempo de inatividade está afetando nossos processos de negócios e causando inconvenientes aos nossos clientes. Temos utilizado seus Serviços de TI há algum tempo e não esperávamos tais problemas recorrentes, dada a sua reputação de confiabilidade. A natureza das interrupções parece estar relacionada a erros de configuração e alocação insuficiente de recursos durante os períodos de pico. Tentamos resolver os problemas usando os procedimentos padrão fornecidos em sua documentação, sem sucesso. Infelizmente, nossas tentativas de resolver essa questão sem suporte externo não foram frutíferas. Dada a urgência da nossa situação e o impacto na eficiência dos nossos negócios, solicitamos gentilmente que você priorize nosso caso e nos forneça uma resolução rápida. Por favor, nos aconselhe sobre os próximos passos para abordar esses problemas de deployment prontamente. Obrigado pela sua atenção imediata às nossas necessidades urgentes. Atenciosamente, <name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre os problemas com o seu deployment na nuvem AWS. Pedimos sinceras desculpas pelo inconveniente que isso causou às suas operações. Entendemos a urgência e o impacto em seu negócio.
+
+Nossa equipe técnica está priorizando o seu caso para identificar e resolver os erros de configuração e os problemas de alocação de recursos. Entraremos em contato em breve com uma atualização e propostas de soluções. Enquanto isso, por favor, certifique-se de que todos os registros de sistema relevantes e os relatórios de erro estejam acessíveis para nossa equipe realizar uma análise completa.
+
+Agradecemos sua paciência e confiança em nossos serviços. Tenha certeza de que estamos comprometidos em resolver esses problemas rapidamente para restaurar seu serviço à confiabilidade esperada.
+
+Atenciosamente,
+Time de Suporte ao Cliente

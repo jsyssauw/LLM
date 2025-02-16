@@ -1,0 +1,25 @@
+Ticket ID: ticket_908
+Subject: Firmware-Update erforderlich
+Incident Type: Incident
+Customer Issue: Sehr geehrter IT-Dienstleistungs-Support,
+
+ich hoffe, diese Nachricht erreicht Sie wohl. Wir wurden informiert, dass unser Unternehmens-God-Admin-Router, Cisco ISR4331, ein Firmware-Update benötigt. Dieses Update ist aufgrund der neuesten Sicherheits-Patches, die angewendet werden müssen, um die Sicherheit und Effizienz unserer Netzwerkoperationen aufrechtzuhalten, von entscheidender Bedeutung. Könnten Sie uns bitte durch die Schritte führen, die für das Firmware-Update erforderlich sind, oder gegebenenfalls ein Wartungsfenster planen, um dies durchzuführen? Vielen Dank für Ihre schnelle Aufmerksamkeit.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich des Firmware-Updates für Ihren Cisco ISR4331-Router gemeldet haben. Um fortzufahren, folgen Sie bitte diesen Schritten:
+
+1. Laden Sie die neueste Firmware von der offiziellen Cisco-Website herunter, indem Sie Ihre Kontoinformationen verwenden.
+2. Greifen Sie über einen Webbrowser auf die Weboberfläche des Routers zu, indem Sie die IP-Adresse eingeben.
+3. Navigieren Sie im Menü zum Abschnitt 'Software-Upgrade'.
+4. Laden Sie die neue Firmware-Datei hoch und initiieren Sie den Upgrade-Prozess.
+5. Lassen Sie den Router nach Abschluss des Updates neu starten.
+
+Wenn Sie sich unsicher sind oder professionelle Unterstützung bevorzugen, lassen Sie uns bitte Ihre bevorzugten Zeiten wissen, und wir können ein Wartungsfenster für das Update einplanen.
+
+Zögern Sie nicht, sich mit Fragen oder wenn Sie weitere Unterstützung benötigen, an uns zu wenden.
+
+Mit freundlichen Grüßen,
+IT-Dienstleistungs-Support

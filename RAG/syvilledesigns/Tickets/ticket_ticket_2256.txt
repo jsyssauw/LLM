@@ -1,0 +1,35 @@
+Ticket ID: ticket_2256
+Subject: Issues with MacBook Air M1 purchased
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to express my concerns regarding the MacBook Air M1 that I recently purchased from your online store. Since receiving the device, I have been experiencing significant booting problems, which are especially concerning given the reputation and demand for this particular model. 
+
+The laptop often takes an unusually long time to start, sometimes several minutes, and occasionally it does not boot at all, displaying a blank screen instead. This issue disrupts my work routine, considering I rely on this MacBook for my daily professional needs.
+
+I have tried basic troubleshooting steps such as resetting the NVRAM and SMC, yet the problem persists. My device is a vital tool in my daily operations, and the inability to start it reliably is causing serious inconvenience. 
+
+Could you please guide me on how to proceed with either a replacement or any advanced troubleshooting steps that might resolve this issue? I would appreciate a prompt response to aid a quick resolution.
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+<email>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and sharing your concerns about the issues with your MacBook Air M1. I'm sorry to hear about the booting problems you are experiencing; I understand how this can affect your work routine.
+
+To begin resolving this issue, I recommend initiating an in-depth diagnosis at one of our authorized service centers. They have the tools to physically inspect and assess any hardware issues contributing to the problem. You may schedule an appointment or send in your device for a thorough examination.
+
+If your device is still under warranty, you may be entitled to a replacement or a free repair depending on the service center's evaluation. I suggest keeping a copy of your purchase confirmation or receipt handy.
+
+In the meantime, ensure you have a backup of your data, using Time Machine or an external drive, to prevent any data loss during technical procedures.
+
+We’re here to help with any further assistance you might need. Please let us know if you'd like any specific guidance in contacting the nearest service center, or if there are any updates on the issue. We aim to provide a swift resolution to restore your operations fully.
+
+Best regards,
+
+Customer Support Team

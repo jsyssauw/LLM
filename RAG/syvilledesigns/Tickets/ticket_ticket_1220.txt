@@ -1,0 +1,15 @@
+Ticket ID: ticket_1220
+Subject: Anfrage zur Einrichtungshilfe
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice, 
+
+ich benötige Hilfe bei der Einrichtung meines kürzlich gekauften Cisco Routers ISR4331 für sicheres, häufiges Verbindungsmonitoring. Bitte leiten Sie mich durch den Prozess. 
+
+Vielen Dank, 
+<name>
+Customer Service answer: Sehr geehrter <name>, 
+
+vielen Dank für Ihren Kauf. Für detaillierte Anweisungen zur Einrichtung des Cisco Routers ISR4331 verweisen wir auf das Benutzerhandbuch, das auf der offiziellen Website von Cisco verfügbar ist, oder kontaktieren Sie unser Technikteam unter <tel_num>. 
+
+Mit freundlichen Grüßen, 
+Kundenservice

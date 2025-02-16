@@ -1,0 +1,37 @@
+Ticket ID: ticket_805
+Subject: Hilfeanfrage: Audioprobleme bei Videoanrufen
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich hoffe, diese Nachricht erreicht Sie wohlauf. Ich schreibe, um Unterstützung bei einem technischen Problem zu suchen, das ich derzeit mit Zoom 5.11.0 habe, das ich kürzlich in Ihrem Geschäft gekauft habe. Während der Video-Konferenzen habe ich intermittierende Audio-Probleme festgestellt, die meine Fähigkeit, während der Meetings effektiv zu kommunizieren, negativ beeinträchtigen.
+
+Das Problem tritt sporadisch auf, wobei der Ton entweder völlig aussetzt oder äußerst schwer zu hören ist aufgrund von statischem Interferenzen. Dies hat meine Arbeit stark gestört und ich bin besorgt, eine Lösung zu finden. Ich würde es schätzen, wenn jemand aus dem technischen Support-Team mir Anleitung zur Fehlersuche bei diesem Problem geben könnte.
+
+Ich bin besonders an Schritt-für-Schritt-Anleitungen interessiert, die Sie zur Lösung häufiger Audio-Probleme mit dieser Version von Zoom bereitstellen können, sowie an bekannten Updates oder Patches, die möglicherweise diese intermittierenden Audioaussetzer beheben könnten.
+
+Vielen Dank im Voraus für Ihre Unterstützung und Anleitung. Ich freue mich auf Ihre zeitnahe Antwort, damit ich wieder nahtlose Kommunikation während meiner Video-Konferenzen genießen kann.
+
+Mit freundlichen Grüßen,
+
+<name>
+<tel_num>
+Customer Service answer: Sehr geehrte(r) <name>,
+
+vielen Dank, dass Sie uns bezüglich der Audio-Probleme, die Sie mit Zoom 5.11.0 haben, kontaktiert haben. Wir verstehen, wie wichtig nahtlose Kommunikation während Video-Konferenzen ist, und wir sind hier, um zu helfen.
+
+Um das Problem zu beheben, versuchen Sie bitte die folgenden Schritte:
+1. Stellen Sie sicher, dass Ihr Audiotreiber auf dem Computer auf dem neuesten Stand ist.
+2. Überprüfen Sie Ihre Internetverbindung auf Stabilität, da eine niedrige Bandbreite die Audioqualität beeinträchtigen kann.
+3. Gehen Sie in den Zoom-Einstellungen zu Audioeinstellungen und stellen Sie sicher, dass das richtige Mikrofon und der richtige Lautsprecher ausgewählt sind.
+4. Versuchen Sie, die Lautstärke anzupassen und das Mikrofon zu testen, um zu bestätigen, dass sie korrekt funktionieren.
+5. Deaktivieren Sie alle nicht verwendeten Audiogeräte in den Einstellungen Ihres Computers, um Interferenzen zu vermeiden.
+6. Schließen Sie alle anderen Anwendungen, die möglicherweise Ihr Mikrofon verwenden.
+7. Suchen Sie nach Zoom-Updates, die möglicherweise Fixes für bekannte Audio-Probleme enthalten.
+
+Wenn diese Schritte das Problem nicht lösen, kann es hilfreich sein, Zoom neu zu installieren oder den Support von Zoom für weitere Unterstützung bezüglich spezifischer Patches oder Updates zu kontaktieren.
+
+Wir hoffen, dass dies Ihnen hilft, Ihre Audio-Probleme zu lösen. Wenn Sie weiterhin Schwierigkeiten haben, lassen Sie es uns bitte wissen, und wir helfen Ihnen gerne weiter.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam
+<acc_num>

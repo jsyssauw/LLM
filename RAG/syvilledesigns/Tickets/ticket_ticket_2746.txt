@@ -1,0 +1,41 @@
+Ticket ID: ticket_2746
+Subject: Assistance Required for Samsung QLED Setup and HDR Optimization
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I recently purchased a Samsung QLED QN90A from your store, and I am in need of some assistance in setting up its smart TV functionality and optimizing the HDR settings for the best viewing experience.
+
+Upon unboxing the TV, I followed the initial setup instructions provided in the manual. The basic setup process was quite straightforward, and I have successfully connected the unit to my <internet_service_name> Wi-Fi network. However, as I proceed to explore the smart TV features, I've encountered some issues that are beyond my expertise.
+
+The main problem arises when I try to access some applications, which seem not to load or work correctly despite having a stable internet connection. I have already attempted to perform a factory reset and ensured that the firmware is updated to the latest version; unfortunately, these steps did not resolve my issues.
+
+Additionally, I am looking for guidance on how to optimize the HDR settings for this specific model to make the most of its renowned picture quality. Since this is my first time using a Smart TV with HDR capabilities, any help to enhance the feature would be greatly appreciated.
+
+Could you kindly advise on troubleshooting these smart TV functionality issues and offer recommendations for HDR setting adjustments? If a customer service technician could guide me through the process over the phone or suggest a possible appointment, I would be very grateful. My phone number is <tel_num>, and my preferred time for a call would be during evenings on weekdays.
+
+Thank you for your attention and support.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us. We're happy to assist you with your Samsung QLED QN90A setup and HDR optimization.
+
+For the issues with the applications not loading properly, please try the following steps:
+1. Ensure your TV's software is up to date. Navigate to Settings > Support > Software Update.
+2. Clear the cache for the specific apps by going to Settings > Apps > [App name] > Clear Cache.
+3. If the issue persists, try reinstalling the apps by deleting them and downloading them again from the app store.
+
+For optimizing HDR settings, follow these guidelines:
+1. Access the Settings menu on your TV and go to Picture > Expert Settings.
+2. Adjust the Backlight and Contrast to enhance brightness without losing detail.
+3. Set the Picture Mode to 'Movie' or 'Standard' for optimal HDR balance.
+4. Enable HDR+ Mode under the Picture Options for enhanced HDR effects.
+
+Regarding further assistance, we can arrange a call at your preferred time in the evenings. Our technician will reach out to the number you provided, <tel_num>, to guide you through any additional steps.
+
+Please confirm your availability, and we'll ensure prompt support.
+
+Best regards,
+Tech Online Store Customer Support

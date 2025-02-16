@@ -1,0 +1,23 @@
+Ticket ID: ticket_3945
+Subject: Urgent: Unable to manage tickets in Jira Software
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team, 
+
+I am writing to inform you about an issue we are currently experiencing with Jira Software 8.20. Our team is unable to create or manage tickets, which is having a significant impact on tracking and completing our current projects. This disruption is affecting productivity and we are in need of urgent assistance. 
+
+We would appreciate it if you could investigate this matter promptly and provide a solution at your earliest convenience. If you require further information, please feel free to contact me. Thank you for your assistance.
+
+Sincerely, 
+<name> 
+Contact: <tel_num> 
+Account Number: <acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the issue with Jira Software 8.20. We understand the urgency and impact this is having on your projects. Our team is investigating the problem and will work to resolve it as quickly as possible. 
+
+We will keep you updated on our progress. If additional information is needed, we will reach out to you using the contact details provided.
+
+Thank you for your patience.
+
+Best regards,
+Customer Support Team

@@ -1,0 +1,23 @@
+Ticket ID: ticket_990
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am reaching out to report a challenge we are experiencing with the Scrum board functionality in Jira Software version 8.20. This has become a significant hurdle as it hampers our ability to effectively track ongoing project tasks. This issue demands urgent attention since it may heavily influence our project milestones.
+
+I am contacting you in the hopes that your expertise can aid us in resolving this swiftly. If you require any further details, please feel free to call me at <tel_num>.
+
+I look forward to a prompt resolution.
+
+Thank you,
+
+<name>
+Project Manager, <company_name>
+Customer Service answer: Dear <name>,
+
+Thank you for bringing the issue with the Scrum board in Jira Software version 8.20 to our attention. We recognize the urgent nature of this matter and its potential impact on your project timelines. Our team is currently investigating the situation and has placed it on a priority list. Should we need more information, we will get in touch with you at the number you provided. Please feel free to contact us if you have additional insights or questions.
+
+We appreciate your understanding and are committed to resolving this issue as quickly as possible.
+
+Best regards,
+Customer Support

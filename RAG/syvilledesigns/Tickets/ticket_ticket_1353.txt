@@ -1,0 +1,5 @@
+Ticket ID: ticket_1353
+Subject: Error con la integración del canal de Slack
+Incident Type: Incident
+Customer Issue: El departamento de Recursos Humanos no puede acceder a las comunicaciones vitales en Slack 4.23.0.
+Customer Service answer: Gracias por ponerte en contacto. Asegúrate de que la configuración de la integración sea correcta. Si los problemas persisten, contacta con el soporte de Slack para obtener más asistencia.

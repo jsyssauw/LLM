@@ -1,0 +1,5 @@
+Ticket ID: ticket_3567
+Subject: Drucker kann sich nicht mit Wi-Fi verbinden
+Incident Type: Incident
+Customer Issue: Der HP DeskJet 3755 kann sich nicht verbinden.
+Customer Service answer: Stellen Sie sicher, dass Wi-Fi funktioniert und der Drucker in der Nähe des Routers ist. Starten Sie beide Geräte neu und versuchen Sie es erneut.

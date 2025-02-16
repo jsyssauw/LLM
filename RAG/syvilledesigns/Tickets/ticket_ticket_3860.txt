@@ -1,0 +1,27 @@
+Ticket ID: ticket_3860
+Subject: Demande de conseils en informatique
+Incident Type: Request
+Customer Issue: Cher service client,
+
+Je me permets de vous contacter pour m'informer sur vos services de conseils informatiques complets. Nous sommes intéressés par des détails et des prix, en particulier pour mettre en place un système de billetterie efficace au sein de notre entreprise. Pourriez-vous nous fournir des informations concernant les services que vous proposez à cet égard et tous les forfaits disponibles ? De plus, toute information sur la façon dont vos solutions peuvent améliorer nos opérations actuelles serait appréciée.
+
+Veuillez nous faire savoir le calendrier habituel pour la mise en œuvre et tout autre détail pertinent. Vous pouvez me contacter au <tel_num> ou répondre à cet e-mail à votre convenance.
+
+Merci,
+<name>
+Customer Service answer: Objet : Re : Demande de conseils en informatique
+
+Cher <name>,
+
+Merci de nous avoir contactés concernant nos services de conseils informatiques. Nous proposons une gamme de solutions adaptées pour améliorer les opérations de votre entreprise, y compris la mise en place d'un système de billetterie efficace. Nos services sont conçus pour rationaliser le flux de travail et améliorer les temps de réponse.
+
+Concernant les prix, nous proposons des forfaits flexibles pour répondre à différents besoins et budgets. Je peux vous envoyer une proposition détaillée incluant les options de tarification et les descriptions des services pour la mise en place du système de billetterie.
+
+Notre délai de mise en œuvre typique varie en fonction de la complexité du projet, mais prend généralement entre 4 et 6 semaines, de la consultation initiale à la mise en service.
+
+Je vous enverrai des informations détaillées et des idées sur la façon dont nos solutions peuvent améliorer vos opérations actuelles dans un e-mail séparé. Merci de me faire savoir s'il y a un moment convenable pour un appel afin de discuter plus en détail de vos besoins.
+
+N'hésitez pas à nous contacter à tout moment par cet e-mail ou par téléphone.
+
+Cordialement,
+Équipe du service client

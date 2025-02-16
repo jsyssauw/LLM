@@ -1,0 +1,17 @@
+Ticket ID: ticket_442
+Subject: Schwierigkeiten mit Flimmern des Dell XPS 13 9310 Bildschirms
+Incident Type: Request
+Customer Issue: Lieber Kundendienst,
+
+ich habe Schwierigkeiten mit dem Flackern meines Dell XPS 13 9310 Bildschirms. Könnten Sie mir bitte dabei helfen, dieses Problem zu beheben? Meine Kontonummer lautet <acc_num>.
+
+Vielen Dank,
+
+<name>
+<tel_num>
+Customer Service answer: Sehr geehrte/r <name>,
+
+es tut uns leid zu hören, dass Sie mit dem Bildschirmflackern konfrontiert sind. Wir empfehlen Ihnen, sowohl Ihren Grafiktreiber als auch das BIOS zu aktualisieren. Sollten die Probleme fortbestehen, setzen Sie sich bitte mit dem Dell-Support unter 1-800-624-9897 in Verbindung, um weitere Hilfe zu erhalten.
+
+Mit besten Grüßen,
+Kundendienst

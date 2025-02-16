@@ -1,0 +1,29 @@
+Ticket ID: ticket_1243
+Subject: Solicitud urgente de revisión de facturación
+Incident Type: Request
+Customer Issue: Estimado equipo de atención al cliente,
+
+Espero que este mensaje los encuentre bien. Estoy escribiendo para solicitar una revisión urgente de algunas discrepancias identificadas en nuestra reciente facturación de AWS bajo el Servicio de Gestión de AWS. Hemos notado cargos inesperados que no se alinean con nuestros patrones de uso y tarifas contratadas. Dada la naturaleza crítica de nuestras operaciones, es fundamental que abordemos estas discrepancias lo antes posible para prevenir interrupciones.
+
+¿Podrían proporcionarnos un desglose detallado de los cargos y resaltar cualquier desviación de nuestras tendencias de facturación habituales? También agradeceríamos obtener información sobre optimizaciones de costos que podríamos estar pasando por alto. Nuestro objetivo es asegurar que nuestra facturación se alinee con precisión con nuestro uso del servicio.
+
+Para su referencia, nuestro número de cuenta es <acc_num>. Por favor, utilicen esto para acceder a nuestra información de facturación. Además, si una conversación directa facilitaría este proceso, estoy disponible en <tel_num> para cualquier discusión necesaria.
+
+Gracias por su pronta atención a este asunto. Esperamos su valiosa asistencia para resolver estas discrepancias de manera rápida.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos con sus preocupaciones sobre la facturación de AWS. Entendemos la importancia de resolver estas discrepancias rápidamente para mantener operaciones ininterrumpidas.
+
+Comenzaremos una revisión inmediata de su cuenta, utilizando <acc_num> para acceder a la información de facturación relevante. Nuestro equipo de facturación proporcionará un desglose y análisis detallado de los cargos, incluyendo cualquier desviación de sus tendencias de facturación habituales. También identificaremos oportunidades de optimización de costos que puedan beneficiar sus operaciones.
+
+Si es necesario, uno de nuestros especialistas en facturación se pondrá en contacto directamente con usted al <tel_num> para asegurar un proceso de resolución fluido y eficiente.
+
+Agradecemos su paciencia y nos esforzaremos por resolver este asunto rápidamente.
+
+Saludos cordiales,
+
+Equipo de Atención al Cliente

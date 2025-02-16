@@ -1,0 +1,10 @@
+Ticket ID: ticket_2333
+Subject: nan
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice, vor kurzem habe ich im Online-Shop einen Canon PIXMA MG3620 Drucker erstanden. Leider weist er einige Funktionsstörungen auf. Ich bitte um Ihre Unterstützung, um dieses Problem so schnell wie möglich zu klären. Vielen Dank, <name>. Bestellnummer: <acc_num>
+Customer Service answer: Sehr geehrte/r [Name],
+
+Vielen Dank für Ihre Mitteilung. Es tut uns leid zu hören, dass Sie Schwierigkeiten mit Ihrem Canon PIXMA MG3620 Drucker haben. Bitte überprüfen Sie, ob er ordnungsgemäß eingerichtet ist, und versuchen Sie, ihn neu zu starten. Sollte das Problem weiterhin bestehen, informieren Sie uns bitte über weitere Details oder wenden Sie sich an unseren Kundenservice unter [support email/phone].
+
+Mit besten Grüßen,
+Ihr Kundenservice

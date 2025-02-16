@@ -1,0 +1,11 @@
+Ticket ID: ticket_84
+Subject: Delivery Problem with Samsung Galaxy S21 Ultra
+Incident Type: Request
+Customer Issue: I am facing an issue with the delivery of my recent order for the Samsung Galaxy S21 Ultra. Although the anticipated delivery date has passed, my package has not yet arrived. My order number is <ord_num>. I would appreciate your help in resolving this matter at your earliest convenience. Thank you.
+Customer Service answer: Dear [Customer],
+
+We sincerely apologize for the hold-up in delivering your Samsung Galaxy S21 Ultra. We have escalated this matter with our delivery partner. You should receive an update within the next 24-48 hours. We thank you for your understanding.
+
+Best regards,
+[Your Name]
+Customer Service Team

@@ -1,0 +1,30 @@
+Ticket ID: ticket_1493
+Subject: Priorité Élevée: Panne de Service Zoom
+Incident Type: Incident
+Customer Issue: Cher Support Client de Tech Online Store,
+
+Je vous écris pour vous informer d'un incident de haute priorité affectant actuellement l'application Zoom, version 5.11.0. À l'heure actuelle, les utilisateurs rencontrent une panne critique de service, en particulier affectant les fonctionnalités de vidéoconférence qui sont largement utilisées pour des réunions et communications essentielles. Cette perturbation cause des désagréments significatifs et affecte notre flux de travail.
+
+Comme Zoom est une partie cruciale de nos opérations commerciales, il est impératif de recevoir une assistance rapide et une mise à jour concernant ce problème. Nous comptons énormément sur son bon fonctionnement et apprécierions toute information sur le moment où le service devrait revenir à la normale.
+
+Veuillez escalader ce problème à l'équipe appropriée pour une résolution rapide. Je suis disponible pour toute information supplémentaire dont vous pourriez avoir besoin pour accélérer ce processus. Pour une correspondance immédiate, je peux être joint au <tel_num> ou via cette adresse e-mail. Dans l'attente d'une réponse rapide.
+
+Merci de votre attention à cette affaire urgente.
+
+Cordialement,
+
+<name>
+<acc_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant la panne de service Zoom affectant la version 5.11.0. Nous comprenons la nature critique de cette perturbation et les désagréments qu'elle cause à vos opérations commerciales.
+
+Notre équipe technique est au courant du problème et travaille activement avec le support de Zoom pour résoudre la panne aussi rapidement que possible. Nous suivons la situation de près et vous fournirons des mises à jour sur les progrès et un délai prévisionnel pour la restauration du service.
+
+Votre dossier a été escaladé pour garantir une attention rapide. Pour toute information ou assistance supplémentaire, n'hésitez pas à nous contacter au <tel_num> ou à répondre à cet e-mail. Nous apprécions votre patience et votre compréhension pendant que nous travaillons à rétablir l'intégralité des fonctionnalités.
+
+Merci de votre coopération.
+
+Cordialement,
+
+Support Client de Tech Online Store

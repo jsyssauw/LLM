@@ -1,0 +1,28 @@
+Ticket ID: ticket_3687
+Subject: Urgente: Errores en el Sistema de Tickets
+Incident Type: Incident
+Customer Issue: Estimado Servicio de Atención al Cliente de TI,
+
+Estoy escribiendo para atraer su atención inmediata sobre un problema significativo que estamos experimentando con el sistema de tickets relacionado con nuestro Servicio de Consultoría de TI. Nuestra empresa, gestionada bajo el número de cuenta <acc_num>, ha estado enfrentando errores persistentes que obstaculizan nuestras operaciones diarias. Este mal funcionamiento obstaculiza nuestra capacidad para responder rápidamente a las consultas y resoluciones de los clientes, lo que está afectando críticamente nuestros plazos de entrega de servicios.
+
+El problema parece haber comenzado hace aproximadamente una semana y, a pesar de numerosos intentos de solucionar el problema internamente, nuestro equipo no ha tenido éxito en resolver estos errores de manera independiente. Los síntomas específicos incluyen bloqueos frecuentes, duplicación de tickets y desalineación de datos incorrectos, que han llevado a una creciente insatisfacción de los clientes. Como tal, estamos en urgente necesidad de soporte técnico para abordar y rectificar estos problemas sin demora.
+
+Le ruego a su equipo que priorice nuestra solicitud, ya que cada día que pasa contribuye significativamente a nuestras preocupaciones operativas. Por favor, hágame saber si requiere más detalles inmediatos o registros específicos, que podemos proporcionar rápidamente para ayudar en el diagnóstico de este problema. Estoy disponible en <tel_num> durante toda la semana laboral.
+
+Gracias por su dedicación y pronta respuesta.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por traer los problemas con su sistema de tickets a nuestra atención. Entendemos la urgencia y el impacto que tiene en sus operaciones. Nuestro equipo de soporte técnico priorizará su solicitud y trabajará para abordar los problemas de bloqueos, duplicación de tickets y desalineación de datos lo antes posible.
+
+Por favor, envíenos cualquier registro específico o detalles adicionales para ayudar en el diagnóstico del problema de manera efectiva. Lo mantendremos actualizado sobre nuestro progreso y intentaremos resolver los errores rápidamente para minimizar la interrupción de sus servicios.
+
+Puede esperar un seguimiento de nuestra parte en breve. Si necesita asistencia inmediata o tiene más preguntas, no dude en comunicarse.
+
+Gracias por su paciencia y cooperación.
+
+Atentamente,
+Equipo de Servicio de Atención al Cliente de TI

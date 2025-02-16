@@ -1,0 +1,7 @@
+Ticket ID: ticket_1884
+Subject: Printer Connection and Duplex Issues
+Incident Type: Problem
+Customer Issue: Hi, I am experiencing issues with my Canon PIXMA MG3620. It fails to connect wirelessly and displays inconsistent duplex printing. Please provide a solution for these problems. Thank you, <name>.
+Customer Service answer: Hi <name>, 
+For the wireless connection, restart your router and printer, and reinstall the printer drivers. For duplex issues, ensure duplex printing is enabled in the printer settings. 
+Best, Support Team.

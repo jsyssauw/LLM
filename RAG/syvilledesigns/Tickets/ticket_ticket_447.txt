@@ -1,0 +1,21 @@
+Ticket ID: ticket_447
+Subject: Request to update Jira license
+Incident Type: Change
+Customer Issue: Dear Customer Support,
+
+I am writing to request an update for our Jira Software 8.20 license. Our current one is expiring soon and we need continued access to ensure smooth project management. Please assist in renewing the license at your earliest convenience. Our account number is <acc_num> and registered under <name>. 
+
+Thank you.
+
+Best regards,
+
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your Jira Software 8.20 license renewal. We will process your request and ensure the renewal is completed at the earliest. Please expect a confirmation once it's updated. 
+
+If you have further questions, feel free to contact us.
+
+Best regards,
+Customer Support Team

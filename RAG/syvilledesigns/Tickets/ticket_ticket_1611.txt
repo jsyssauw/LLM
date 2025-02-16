@@ -1,0 +1,28 @@
+Ticket ID: ticket_1611
+Subject: Unexpected Shutdown Issue with Dell XPS 13
+Incident Type: Problem
+Customer Issue: Dear Customer Support team, 
+
+I am writing to report an issue with my recently purchased Dell XPS 13 9310 ultrabook. Despite being fully charged, the device is experiencing unexpected shutdowns, which significantly impacts my work efficiency. This problem is becoming increasingly disruptive, and I hope to resolve it quickly. Can you please guide me through troubleshooting steps or facilitate a replacement if necessary? My order number is <acc_num>. I appreciate your prompt attention to this matter and look forward to your assistance. Thank you.
+
+Sincerely,
+<name>
+Contact: <tel_num>
+Customer Service answer: Subject: Re: Unexpected Shutdown Issue with Dell XPS 13
+
+Dear <name>,
+
+Thank you for reaching out regarding the issue with your Dell XPS 13 9310. We apologize for the inconvenience this is causing.
+
+To address the unexpected shutdowns, please try the following troubleshooting steps:
+1. Ensure all software and BIOS are up to date.
+2. Check for any overheating by ensuring the device vents are clear.
+3. Run the built-in diagnostic tool to identify any hardware issues: Restart your laptop and press F12 during boot, then select 'Diagnostics.'
+
+If the problem persists after these steps, we can discuss a replacement process under warranty. Please keep us updated on your progress, referencing your order number <acc_num>.
+
+Feel free to contact us at your convenience. We are committed to resolving this for you quickly.
+
+Best regards,
+Service Desk Agent
+

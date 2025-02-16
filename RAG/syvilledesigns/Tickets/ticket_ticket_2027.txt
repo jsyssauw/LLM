@@ -1,0 +1,5 @@
+Ticket ID: ticket_2027
+Subject: Connectivity issues with HP DeskJet 3755
+Incident Type: Problem
+Customer Issue: Hello, I am experiencing connectivity issues with my HP DeskJet 3755 printer. It is not connecting wirelessly to my devices. This happened after the last firmware update. Please assist me in resolving this issue. Thank you. Regards, <name>.
+Customer Service answer: Hello <name>, try restarting your printer and router. Ensure Wi-Fi is turned on and reconnect the printer using the HP Smart app. If the issue persists, reset network settings on the printer. Let us know if further assistance is needed.

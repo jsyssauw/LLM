@@ -1,0 +1,28 @@
+Ticket ID: ticket_3407
+Subject: Problèmes d'impression sans fil avec Canon PIXMA MG3620
+Incident Type: Incident
+Customer Issue: Bonjour,
+
+Je vous écris pour signaler un problème persistant avec mon imprimante Canon PIXMA MG3620, que j'ai achetée via votre Tech Online Store. Depuis quelques jours, j'ai du mal à maintenir une connexion sans fil stable entre cette imprimante et mes appareils mobiles. Ce problème a considérablement entravé ma capacité à imprimer des documents de manière pratique depuis mon smartphone ou ma tablette.
+
+Malgré le suivi du guide de dépannage du manuel de l'utilisateur et en m'assurant que tous les appareils sont connectés au même réseau Wi-Fi, le problème persiste. J'ai tenté de mettre à jour le firmware de l'imprimante via le site Web de Canon, mais cela n'a pas résolu le problème de connectivité. Cela me conduit à croire qu'il pourrait y avoir un problème technique plus profond avec la réception sans fil de l'imprimante. 
+
+Détails supplémentaires : Mon numéro de compte est <acc_num> et le numéro de série de l'imprimante est <serial_num>. J'ai également tenté d'utiliser différentes applications pour imprimer, comme Google Cloud Print et l'application Canon Print Inkjet/SELPHY, sans succès.
+
+Je demande à votre équipe de support technique de fournir des conseils ou d'organiser une inspection de service. Alternativement, s'il y a des étapes recommandées ou des logiciels que j'aurais pu négliger, veuillez me le faire savoir. Je suis joignable au <tel_num> ou via cet e-mail pour toute communication ultérieure. J'attends votre aide pour résoudre ce problème rapidement.
+
+Merci,
+
+<name>
+Customer Service answer: Bonjour <name>,
+
+Merci de nous avoir contactés. Je suis désolé d'apprendre les problèmes de connectivité sans fil avec votre imprimante Canon PIXMA MG3620. Étant donné les étapes que vous avez déjà suivies, il est clair que vous rencontrez un problème technique plus profond.
+
+J'ai transmis votre demande à notre équipe de support technique pour une enquête plus approfondie. Ils vous contacteront sous peu par l'e-mail ou le numéro de téléphone que vous avez fourni pour offrir une assistance supplémentaire ou organiser une inspection de service si nécessaire.
+
+En attendant, veuillez vous assurer qu'il n'y a pas de problèmes avec les paramètres de votre réseau, comme des conflits d'IP, et envisagez de redémarrer tous les appareils, y compris votre routeur. Ces actions sont connues pour résoudre parfois des problèmes de connectivité persistants.
+
+Nous apprécions votre patience et ferons de notre mieux pour résoudre cela rapidement.
+
+Cordialement,
+Équipe de support client

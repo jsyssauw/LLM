@@ -1,0 +1,5 @@
+Ticket ID: ticket_652
+Subject: Experienciando problemas de qualidade de vídeo em reuniões com o cliente Zoom
+Incident Type: Problem
+Customer Issue: Ajuda urgente necessária para problemas de vídeo no Zoom 5.11.0.
+Customer Service answer: Por favor, atualize o Zoom e ajuste as configurações de vídeo para melhorar a qualidade. Informe-nos se os problemas persistirem.

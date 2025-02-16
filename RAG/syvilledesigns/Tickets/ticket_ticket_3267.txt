@@ -1,0 +1,10 @@
+Ticket ID: ticket_3267
+Subject: Dringend: Dell XPS 13 Überhitzung und Batterieentleerung
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice, ich schreibe, um zu berichten, dass mein Dell XPS 13 9310 nach ein paar Stunden Nutzung überhitzt und die Batterie sich ungewöhnlich schnell entleert. Ich würde es begrüßen, wenn Sie mir so schnell wie möglich Unterstützung oder eine Lösung anbieten könnten. Ich freue mich auf Ihre umgehende Antwort. Vielen Dank, <name>
+Customer Service answer: Sehr geehrter <name>,
+
+Vielen Dank, dass Sie uns kontaktiert haben. Wir empfehlen, zunächst sicherzustellen, dass das BIOS und die Treiber Ihres Laptops über Dell SupportAssist aktualisiert sind. Überprüfen Sie, ob die Belüftung staubfrei ist, und verwenden Sie das Gerät auf einer harten, flachen Oberfläche, um eine ordnungsgemäße Luftzirkulation zu gewährleisten. Wenn das Problem weiterhin besteht, ziehen Sie in Betracht, einen Batterie-Diagnosetest mit dem Dell Power Manager durchzuführen. Sollten diese Schritte das Problem nicht lösen, geben Sie bitte weitere Einzelheiten an, damit wir bei einer Reparatur oder gegebenenfalls einem Austausch helfen können.
+
+Mit freundlichen Grüßen,
+Kundenservice

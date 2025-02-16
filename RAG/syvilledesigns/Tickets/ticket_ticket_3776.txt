@@ -1,0 +1,10 @@
+Ticket ID: ticket_3776
+Subject: Dringende Angelegenheit: Dell XPS 13 9310 lässt sich nach Update nicht starten
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Supportteam, mein Laptop Dell XPS 13 9310 geht nach dem neuesten Update nicht mehr an. Ich habe bereits versucht, das Problem eigenständig zu klären, jedoch ohne Erfolg. Wären Sie so freundlich, mir die nächsten Schritte zu erläutern? Mein Laptop ist für meine beruflichen Tätigkeiten von immenser Wichtigkeit. Mit besten Grüßen, <name>, Kontakt: <tel_num>
+Customer Service answer: Sehr geehrte/r <name>,
+
+Es tut mir leid zu erfahren, dass Sie Schwierigkeiten mit Ihrem Dell XPS 13 9310 haben. Bitte versuchen Sie einen Hard-Reset: Trennen Sie das Netzteil, halten Sie die Einschalttaste für 15-20 Sekunden gedrückt und schließen Sie es dann erneut an, um zu versuchen, das Gerät einzuschalten. Sollte dies nicht klappen, wenden Sie sich bitte an unseren technischen Support unter <support_number>.
+
+Mit besten Grüßen,
+Ihr Supportteam

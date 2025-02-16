@@ -1,0 +1,12 @@
+Ticket ID: ticket_2389
+Subject: Urgente: Problema con el sistema de tickets de TI
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente, Espero que este mensaje le encuentre bien. Le escribo para llamar la atención inmediata sobre un problema crítico que afecta nuestro sistema de tickets de TI, el cual es parte de su servicio de consultoría de TI. Este problema está causando una interrupción significativa en los flujos de trabajo de nuestros clientes y necesita una resolución urgente. El problema comenzó el 9 de octubre y ha empeorado progresivamente, lo que ha llevado a un aumento de frustraciones. ¿Podría por favor priorizar este problema y proporcionar un cronograma estimado para una solución? Su pronta atención para resolver este asunto sería muy apreciada. Gracias, <name>, Número de cuenta: <acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto. Estamos al tanto del problema que afecta su sistema de tickets de TI y entendemos su impacto crítico en sus flujos de trabajo. Nuestro equipo está priorizando este asunto y actualmente está investigando la causa raíz. Nuestro objetivo es proporcionar una solución lo más rápido posible y le mantendremos informado con un cronograma estimado para la solución en breve.
+
+Agradecemos su paciencia y comprensión.
+
+Atentamente,
+[Su equipo de soporte de TI]

@@ -1,0 +1,24 @@
+Ticket ID: ticket_3846
+Subject: AWS Performance Issues
+Incident Type: Incident
+Customer Issue: Dear IT Services Support Team,
+
+I am writing to report a critical issue concerning the AWS Management Service that our client, <name>, is currently facing. Our team has noticed significant performance issues, particularly an inability to deploy updated backend service changes due to extensive cloud instance lag. This issue is severely impacting operations and delaying important updates that are necessary for our client’s optimal functioning. We believe this might be linked to the AWS Management Service lagging, which needs immediate attention to identify and rectify the root cause.
+
+Kindly prioritize this matter and guide us on how to proceed with troubleshooting steps or if additional resources can be allocated from your side.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting IT Services Support. We understand the urgency of the AWS performance issues affecting your client, <name>. Our team is prioritizing this matter to quickly identify and address the root cause. 
+
+Please start by ensuring all necessary system updates and AWS configurations are up to date. We recommend stopping and restarting the affected AWS instances as a preliminary measure.
+
+Additionally, as we investigate further, having cloudwatch metrics and any error logs will be essential. Our team will reach out soon with specific instructions or further resources needed on your end.
+
+We are committed to resolving this swiftly and will keep you informed of progress. 
+
+Best regards,
+IT Services Support Team

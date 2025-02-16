@@ -1,0 +1,26 @@
+Ticket ID: ticket_2916
+Subject: Problema con la conectividad de la Canon PIXMA MG3620
+Incident Type: Problem
+Customer Issue: Estimado Soporte al Cliente de la Tienda Online de Tecnología,
+
+Estoy experimentando problemas de conectividad inalámbrica continuos con mi impresora Canon PIXMA MG3620. Estos problemas están impidiendo la impresión a doble cara y las operaciones de impresión móvil. Esta funcionalidad era una de las razones clave por las que compré este modelo, y su ausencia está afectando gravemente la usabilidad. ¿Podrían por favor asesorarme sobre posibles pasos de solución de problemas o soluciones? Cualquier asistencia para resolver este problema a través de recomendaciones de actualización o ajustes de configuraciones de red sería muy apreciada. Gracias por su pronta atención a este asunto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Asunto: Re: Problema con la conectividad de la Canon PIXMA MG3620
+
+Estimado <name>,
+
+Gracias por ponerte en contacto respecto a tu problema de conectividad con la Canon PIXMA MG3620. Aquí hay algunos pasos de solución de problemas para resolver tus problemas de impresión inalámbrica, a doble cara y móvil:
+
+1. **Reiniciar Dispositivos**: Apaga tu impresora y el enrutador inalámbrico durante unos minutos, luego enciéndelos nuevamente.
+2. **Red Wi-Fi**: Asegúrate de que tu impresora esté conectada a la red Wi-Fi correcta. Una red incorrecta puede causar problemas de conectividad.
+3. **Actualizar Firmware**: Verifica el sitio web oficial de Canon para ver si hay actualizaciones de firmware disponibles para tu modelo de impresora e instálalas si están disponibles.
+4. **Configuraciones de la Impresora**: Verifica los ajustes de impresión a doble cara y móvil dentro del menú de tu impresora y de la aplicación Canon PRINT Inkjet/SELPHY.
+5. **Reinstalar Controladores**: Desinstala los controladores actuales de la impresora de tu computadora y reinstala la versión más reciente desde el sitio web de Canon.
+
+Si estos pasos no resuelven el problema, por favor contáctanos para obtener más asistencia. ¡Estamos aquí para ayudar!
+
+Atentamente,
+Soporte al Cliente de la Tienda Online de Tecnología

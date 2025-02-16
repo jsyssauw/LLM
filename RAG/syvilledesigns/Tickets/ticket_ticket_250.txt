@@ -1,0 +1,37 @@
+Ticket ID: ticket_250
+Subject: Warranty Service Request
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to bring to your attention a concerning issue I have been experiencing with my Dell XPS 13 9310 laptop that I purchased from your store. Recently, the device display started flickering unexpectedly, and this issue has grown more frequent over the past few weeks, significantly affecting my productivity and user experience.
+
+Given that the flickering of the display seems to suggest a potential hardware malfunction, I am hoping to leverage the warranty service for assistance. I have tried basic troubleshooting steps such as updating the display drivers and ensuring all software on my device is up to date, but unfortunately, these steps have not resolved the issue.
+
+Furthermore, this laptop is still well within the warranty period offered by Dell and your store, since it was purchased less than six months ago. Therefore, I kindly request guidance on how to process this complaint through warranty service. I am particularly interested in knowing what steps I should undertake next, and whether I would need to send the laptop to your service center, or if there could be an alternative resolution.
+
+Moreover, please let me know if additional documentation is required from my end to expedite the claim or any information concerning my purchase details. My order number is <order_num>, and I bought this laptop on <purchase_date>. The laptop’s serial number is <serial_num>. Please contact me at your earliest convenience through my email or at <tel_num> should you need further information.
+
+Thank you in advance for your prompt assistance in this matter. I look forward to resolving this issue swiftly with your help.
+
+Warm regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issue with your Dell XPS 13 9310 laptop. We understand how important it is to have a fully functioning device and appreciate your patience in this matter.
+
+To proceed with the warranty service, please follow these steps:
+1. Verify that your proof of purchase is on hand as we might require it for the claim.
+2. Kindly back up your data as a precautionary measure.
+3. Our service team will arrange a courier to collect your laptop for inspection. You will receive an email shortly with detailed instructions and a shipping label.
+4. Include a printed copy of your original purchase receipt with the package.
+
+Regarding the potential solutions, after diagnosis, we may offer a repair, replacement, or alternative resolution, based on the assessment.
+
+Should you have any further questions or need to provide additional information, please contact us at this email or call us at <tel_num>.
+
+We aim to resolve this promptly and ensure your satisfaction.
+
+Best regards,
+
+Tech Online Store Customer Support Team

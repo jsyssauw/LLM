@@ -1,0 +1,15 @@
+Ticket ID: ticket_2443
+Subject: Urgent: Router Troubleshooting Needed ASAP
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support, 
+
+My Cisco Router ISR4331 is not powering on despite being properly plugged in. I need help with troubleshooting this issue as soon as possible. Please advise on the next steps to resolve this matter. My account number is <acc_num>. You can reach me at <tel_num> if further details are required.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting Customer Support. Please ensure that your router is connected to a working power outlet and verify that the power button is switched on. If the issue persists, try using a different power cable. Should you still experience problems, please contact us at <tel_num> for further assistance.
+
+Kind regards,
+Tech Online Store Support

@@ -1,0 +1,32 @@
+Ticket ID: ticket_641
+Subject: Problemas con la pantalla táctil y el teclado de Surface Pro 7
+Incident Type: Problem
+Customer Issue: Estimado Cliente del Servicio de Atención al Cliente de la Tienda en Línea de Tecnología,
+
+Espero que este mensaje le encuentre bien. Le escribo para llamar su atención sobre algunos problemas que he estado experimentando con mi Microsoft Surface Pro 7, que compré recientemente. Los principales problemas se refieren a la respuesta de la pantalla táctil y la conexión del teclado desmontable.
+
+Desde la compra, la funcionalidad de la pantalla táctil ha sido inconsistente, a menudo fallando en registrar mis entradas táctiles con precisión. Esta inconsistencia afecta significativamente la usabilidad del dispositivo, ya que confío principalmente en la función táctil para mis tareas diarias.
+
+Además, el teclado desmontable se desconecta frecuentemente del dispositivo en intervalos aleatorios. He intentado varios pasos de solución de problemas, incluyendo reiniciar el dispositivo, actualizar controladores e incluso volver a conectar el teclado varias veces al día. A pesar de estos esfuerzos, el problema persiste.
+
+Dadas las dificultades descritas anteriormente, solicito amablemente asistencia para resolver estos problemas. Confío en que pueda haber encontrado problemas similares y posiblemente tener soluciones o procesos en marcha para abordarlos de manera efectiva. Por favor, hágame saber cómo proceder o si es necesario un reemplazo.
+
+Gracias por su atención a este asunto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a los problemas con su Surface Pro 7. Nos disculpamos por los inconvenientes que está experimentando. Aquí hay algunos pasos para intentar:
+
+1. Pantalla Táctil: Asegúrese de que el software de su dispositivo esté actualizado. Vaya a 'Configuración' > 'Actualización y Seguridad' > 'Actualización de Windows' y verifique si hay actualizaciones. Por favor, también verifique si hay actualizaciones para el controlador de pantalla táctil en 'Administrador de Dispositivos'.
+
+2. Teclado: Asegúrese de que no haya escombros u obstrucciones en los pines de conexión. Si ha reiniciado y actualizado los controladores, intente desconectar y volver a conectar siguiendo los procedimientos correctos.
+
+Si los problemas persisten, le recomendamos visitar un centro de servicio local o contactar nuestra línea de soporte para más diagnósticos o discutir un posible reemplazo.
+
+Háganos saber si necesita más asistencia.
+
+Atentamente,
+Servicio de Atención al Cliente de la Tienda en Línea de Tecnología

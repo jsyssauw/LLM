@@ -1,0 +1,34 @@
+Ticket ID: ticket_488
+Subject: Problème d'impression recto verso avec le Canon PIXMA MG3620
+Incident Type: Problem
+Customer Issue: Bonjour,
+
+Je vous contacte pour signaler un problème avec mon Canon PIXMA MG3620 acheté chez Tech Online Store. Le principal problème que je rencontre est que l'imprimante n'initie pas l'impression recto verso, malgré le suivi diligent de toutes les étapes de dépannage fournies dans le manuel de l'utilisateur. J'ai effectué plusieurs tentatives de réinitialisation d'usine, espérant résoudre ce problème par moi-même, mais malheureusement, sans succès.
+
+L'imprimante, bien qu'étant relativement nouvelle, ne semble pas entrer en mode duplex même lorsque je sélectionne l'option d'impression recto verso. J'ai également veillé à ce que les pilotes de l'imprimante soient à jour et je les ai réinstallés par mesure de précaution. J'apprécierais que votre équipe puisse fournir des conseils supplémentaires ou suggérer d'autres étapes que j'aurais pu négliger pour résoudre ce problème efficacement. Si vous avez besoin de détails spécifiques afin de mieux m'aider, merci de me le faire savoir.
+
+Merci pour votre soutien rapide. J'attends avec impatience votre réponse dans les plus brefs délais.
+
+Cordialement,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Bonjour,
+
+Merci de nous avoir contactés concernant le problème d'impression recto verso de votre Canon PIXMA MG3620. Nous comprenons à quel point cela peut être frustrant, et nous sommes là pour vous aider.
+
+Puisque vous avez déjà mis à jour les pilotes et effectué une réinitialisation d'usine, essayons de vérifier quelques éléments supplémentaires :
+
+1. Vérifiez les paramètres de taille et de type de papier dans les paramètres de l'imprimante pour vous assurer qu'ils correspondent au papier chargé pour l'impression recto verso.
+2. Assurez-vous que l'option "duplex automatique" est activée dans vos paramètres d'impression.
+3. Si vous imprimez à partir d'un appareil en réseau, assurez-vous que le réseau est stable car des interruptions peuvent affecter la communication de l'imprimante.
+4. Vérifiez s'il existe des mises à jour de firmware via le site officiel de Canon qui pourraient concerner cette fonctionnalité.
+
+Si le problème persiste, il peut être utile de tester l'imprimante sur un autre appareil pour exclure des conflits logiciels. De plus, consulter le support direct de Canon pourrait fournir des solutions spécifiques.
+
+N'hésitez pas à nous contacter si vous avez besoin d'une assistance supplémentaire. Nous sommes là pour garantir le bon fonctionnement de votre imprimante.
+
+Meilleurs vœux,
+
+L'équipe du service d'assistance

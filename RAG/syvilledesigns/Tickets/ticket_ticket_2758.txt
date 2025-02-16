@@ -1,0 +1,10 @@
+Ticket ID: ticket_2758
+Subject: Rückerstattungsanfrage
+Incident Type: Incident
+Customer Issue: Sehr geehrter Tech Online Store, ich habe festgestellt, dass ich für meine Bestellung des MacBook Air M1 zu viel bezahlt habe. Bitte stellen Sie ein Ticket für eine Rückerstattung aus oder passen Sie die Rechnung entsprechend an. Mein Bestellkonto: <acc_num>. Mit freundlichen Grüßen, <name>. Meine Kontakt: <tel_num>.
+Customer Service answer: Sehr geehrter <name>,
+
+Vielen Dank für Ihre Nachricht. Wir haben Ihre Rückerstattungsanfrage für Ihre Bestellung des MacBook Air M1 erhalten. Unser Team prüft dies und wird Sie in Kürze unter <tel_num> kontaktieren. Ihre Anfrage wird bearbeitet.
+
+Mit freundlichen Grüßen,
+Tech Online Store

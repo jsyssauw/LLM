@@ -1,0 +1,5 @@
+Ticket ID: ticket_2994
+Subject: nan
+Incident Type: Change
+Customer Issue: "Dear Customer Service Team,\n\nI am reaching out to bring attention to a billing concern regarding my account. I recently acquired Norton Antivirus Plus and observed an overcharge on my latest invoice. My account number is <acc_num>. I would appreciate your assistance in addressing this issue.\n\nThank you,\n<name>"
+Customer Service answer: Dear <name>,\n\nWe appreciate you reaching out to us. We truly regret the difficulties caused by the billing problem. We are presently examining your account <acc_num> and will inform you shortly regarding the resolution. \n\nThank you for your understanding.\n\nBest wishes,\nThe Customer Support Team

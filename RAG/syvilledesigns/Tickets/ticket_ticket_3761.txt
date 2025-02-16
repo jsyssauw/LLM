@@ -1,0 +1,29 @@
+Ticket ID: ticket_3761
+Subject: Solicitud de optimización de instancias de AWS
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte de servicios de TI,
+
+Espero que este mensaje les encuentre bien. Me pongo en contacto para solicitar orientación y asistencia en la optimización de nuestras instancias de AWS para mejorar el rendimiento dentro de nuestra infraestructura de computación en la nube. Como cliente que utiliza su Servicio de Gestión de AWS, hemos notado algunas áreas donde se podría mejorar el rendimiento. Creemos que con intervención experta, esto podría llevar a una mayor eficiencia y rentabilidad.
+
+Considerando las demandas actuales de la empresa para una mayor productividad, estamos priorizando esta tarea de modificación a un nivel medio dentro de nuestros objetivos. Agradeceríamos sus ideas y sugerencias sobre las mejores prácticas, configuraciones o cualquier herramienta y servicio necesario que puedan ofrecer para lograr estos objetivos.
+
+Por favor, háganos saber un momento conveniente para una discusión detallada con nuestro equipo técnico. Estamos esperando su experiencia y atención rápida a este asunto. Para cualquier pregunta inmediata, no duden en ponerse en contacto por correo electrónico o llamando a <tel_num>.
+
+Gracias por su apoyo.
+
+Saludos,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con nosotros en relación con la optimización de sus instancias de AWS. Estamos deseando ayudarle a mejorar su infraestructura de computación en la nube para un mejor rendimiento y eficiencia de costes.
+
+Para iniciar esto, recomendamos programar una discusión con nuestro equipo técnico para explorar posibles soluciones personalizadas a sus necesidades específicas. Por favor, proporciónenos algunos horarios adecuados, y organizaremos una reunión en el momento que le convenga.
+
+Mientras tanto, sugerimos comenzar con nuestros recursos de optimización de AWS, que incluyen mejores prácticas y herramientas que pueden alinearse con sus objetivos. Estamos comprometidos a ayudarle de manera rápida y efectiva.
+
+Para cualquier consulta inmediata, no dude en ponerse en contacto con nosotros a esta dirección de correo electrónico o por el número de teléfono proporcionado.
+
+Esperamos colaborar con su equipo.
+
+Atentamente,
+Su equipo de soporte de TI

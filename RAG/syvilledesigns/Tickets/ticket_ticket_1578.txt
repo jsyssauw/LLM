@@ -1,0 +1,10 @@
+Ticket ID: ticket_1578
+Subject: Problème de l'écran tactile sur Surface Pro 7
+Incident Type: Problem
+Customer Issue: Bonjour, 
+
+J'ai rencontré une panne de l'écran tactile avec ma nouvelle Surface Pro 7 lors d'une présentation importante auprès d'un client, ce qui a causé des perturbations significatives. Une résolution rapide est nécessaire de toute urgence. Merci de vous occuper de ce problème dès que possible. Produit : Microsoft Surface Pro 7.
+
+Merci,
+<name>
+Customer Service answer: Bonjour <name>, je suis désolé d'apprendre le problème de l'écran tactile de votre Surface Pro 7. Veuillez vous assurer que votre appareil est à jour avec les derniers pilotes et les mises à jour de Windows. Si le problème persiste, contactez le support Microsoft ou envisagez de visiter un centre de service autorisé pour obtenir de l'aide supplémentaire. Merci.

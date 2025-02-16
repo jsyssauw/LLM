@@ -1,0 +1,10 @@
+Ticket ID: ticket_529
+Subject: Dringend: PyCharm 2024.2 Debugger stürzt ab
+Incident Type: Incident
+Customer Issue: PyCharm 2024.2 stürzt häufig während des Debuggens von Python-Projekten ab.
+Customer Service answer: Lieber <name>,
+
+Bitte aktualisieren Sie PyCharm und Ihre Java-Laufzeit. Kontaktieren Sie den Support, wenn das Problem weiterhin besteht.
+
+Mit freundlichen Grüßen,
+Support-Team

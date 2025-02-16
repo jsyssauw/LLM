@@ -1,0 +1,22 @@
+Ticket ID: ticket_3025
+Subject: Solicitud de Asistencia para la Gestión de AWS
+Incident Type: Request
+Customer Issue: Estimado Equipo de Soporte de Servicios de TI,
+
+Estoy escribiendo para solicitar su asistencia con la Gestión de AWS para optimizar los recursos en la nube de nuestra infraestructura. Hemos estado experimentando costos de implementación más altos de lo esperado y creemos que hay una oportunidad para gestionar y optimizar mejor estos recursos. Nuestra configuración actual parece ser ineficiente, lo que resulta en gastos innecesarios. Estamos buscando orientación experta sobre cómo ajustar nuestras estrategias para lograr ahorros de costos mientras mantenemos o mejoramos los niveles de rendimiento.
+
+Agradeceríamos que pudieran asignar a un consultor experimentado para evaluar nuestros patrones de uso actuales. Cualquier asistencia o consejo sobre las mejores prácticas, herramientas o estrategias para una gestión de AWS rentable sería muy apreciado. No duden en ponerse en contacto conmigo en <email> o <tel_num> para más detalles o para programar una consulta. Gracias por su atención a este asunto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con nosotros con respecto a la asistencia para la Gestión de AWS. Entendemos tus preocupaciones sobre la optimización de los recursos en la nube para gestionar los costos de implementación de manera eficiente.
+
+Asignaremos a un consultor experimentado para revisar tus patrones de uso actuales de AWS y ofrecer orientación sobre estrategias de ahorro de costos mientras mantenemos o mejoramos el rendimiento. Nuestro consultor proporcionará información sobre las mejores prácticas, herramientas y estrategias de configuración eficientes.
+
+Para proceder, por favor espera un seguimiento pronto para discutir más detalles y organizar una consulta. Mientras tanto, no dudes en contactarnos si tienes alguna pregunta.
+
+Saludos cordiales,
+Equipo de Soporte de Servicios de TI

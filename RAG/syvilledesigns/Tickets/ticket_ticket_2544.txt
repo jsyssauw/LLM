@@ -1,0 +1,48 @@
+Ticket ID: ticket_2544
+Subject: Assistance Required for Debugging Extensions Issue
+Incident Type: Request
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. I am writing to request assistance with a recurring issue I have encountered while attempting to debug extensions within the Visual Studio Code 1.70 environment. The process has proven to be unexpectedly challenging, impacting my productivity significantly. I understand that the debugging capabilities are meant to enhance the development process, but currently, I am unable to leverage these tools effectively due to persistent issues.
+
+Details of the Issue:
+- Software Version: Visual Studio Code 1.70
+- Nature of the Issue: Difficulty debugging extensions
+
+Despite trying multiple troubleshooting steps, such as restarting the IDE, updating extensions, and adjusting the launch configuration settings, the problem remains unresolved. It would be greatly beneficial for me to receive guidance tailored specifically to this version.
+
+Could you please provide insights into any known issues with this version, or perhaps suggest a more effective approach to resolve this problem? If needed, I can share additional details regarding the error messages or the nature of the extensions being used.
+
+Thank you for your attention to this matter. I look forward to your timely response so that I can resume my development tasks without further hindrance.
+
+Best regards,
+
+<name>
+
+<name> <acc_num>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the challenges you're facing with debugging extensions in Visual Studio Code 1.70.
+
+To address this, here are some tailored steps you can consider:
+
+1. **Known Issues**: Check Visual Studio Code's Release Notes and their GitHub repository for any known issues specifically related to version 1.70.
+
+2. **Insider Build**: Temporarily switch to the Insider Build of Visual Studio Code to see if the issue persists, as it might contain fixes not available in the stable version.
+
+3. **Extensions Update**: Ensure all installed extensions are updated to their latest versions, as incompatibility can sometimes cause issues.
+
+4. **Clear Cache**: Try clearing the cache by deleting ‘.vscode’ folder content related to the project and restarting VS Code.
+
+5. **Adjust Settings**: Double-check the launch configuration in `launch.json` for accuracy or reset to default if unsure.
+
+6. **Error Logs**: Enable verbose logging to identify specific errors or problematic plugins that can be addressed directly.
+
+If these steps do not resolve the issue, please share further details like specific error messages or screenshots, and we will assist you further.
+
+Looking forward to helping you resume your development activities smoothly.
+
+Best regards,
+
+Customer Support Team

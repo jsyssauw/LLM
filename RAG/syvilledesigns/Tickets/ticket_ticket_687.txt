@@ -1,0 +1,10 @@
+Ticket ID: ticket_687
+Subject: nan
+Incident Type: Request
+Customer Issue: Greetings Customer Support Team, I hope this message finds you well. I am contacting you to request a detailed invoice for our Jira Software 8.20 subscription for the duration of March to September 2023. Please consider this request as a priority, as we need this document for our financial records. If you need any additional information, do not hesitate to reach me at <tel_num> or respond to this email. I appreciate your swift attention to this issue and await your prompt reply. Best regards, <name>
+Customer Service answer: Hello <name>,
+
+Thank you for getting in touch with us. We have acknowledged your request for a detailed invoice pertaining to your Jira Software 8.20 subscription covering the period from March to September 2023. Our team will prioritize this request and will forward the invoice to you at the earliest opportunity. Should we require any further details, we will reach out to you at the number you supplied or via this email. Thank you for your patience.
+
+Warm regards,
+Customer Support Team

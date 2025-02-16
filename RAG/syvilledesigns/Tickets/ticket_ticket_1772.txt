@@ -1,0 +1,21 @@
+Ticket ID: ticket_1772
+Subject: Urgent Resolution Needed: VS Code Crashing
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I am writing to report a critical issue impacting my work efficiency. I have been experiencing frequent crashes of Visual Studio Code 1.70 while engaged in code debugging sessions. This persistent issue significantly hampers my productivity. Despite multiple attempts to troubleshoot, the problem recurrently persists. I would appreciate it if your technical team could investigate this matter urgently. As my workflow heavily depends on coding without interruptions, I need a swift and effective resolution.
+
+Thank you very much for your attention to this issue. Please let me know if you need any additional information from my side.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this issue to our attention. We understand how disruptive this can be and are here to help. Please ensure you have the latest version of Visual Studio Code and all extensions are up to date. If the issue persists, try disabling extensions to identify if one might be causing the crashes. Additionally, you might want to check the VS Code logs for any error messages that could provide more context.
+
+To assist further, it would be helpful to know the operating system you're using and any specific error messages or logs after a crash. Please feel free to send this information if needed. Our technical team will prioritize this and work towards a swift resolution.
+
+We appreciate your patience and cooperation.
+
+Best regards,
+Customer Support Team

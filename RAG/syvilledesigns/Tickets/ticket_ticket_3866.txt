@@ -1,0 +1,30 @@
+Ticket ID: ticket_3866
+Subject: Anfrage zum technischen Support
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kunde des Tech Online Stores, 
+
+ich schreibe, um Unterstützung bei einem Problem zu bitten, das ich mit meinem Microsoft Surface Pro 7 habe. Ich habe dieses Gerät in Ihrem Geschäft gekauft, und ich habe ein anhaltendes Problem, das ich nicht lösen kann. Der Touchscreen und die Tastatur reagieren nicht richtig, was erhebliche Unannehmlichkeiten in meiner täglichen Nutzung verursacht. Dieses Problem trat vor etwa einer Woche auf und scheint trotz meiner Versuche, das Gerät zu beheben, anhaltend zu sein. 
+
+Ich habe versucht, das Gerät neu zu starten, die Treiber zu aktualisieren und sogar das System auf die Werkseinstellungen zurückzusetzen, aber das Problem bleibt bestehen. Ich bin stark auf mein Surface Pro 7 sowohl für berufliche als auch für private Aktivitäten angewiesen, und die Fehlfunktionen von Touchscreen und Tastatur beeinträchtigen meine Produktivität erheblich. 
+
+Ich bitte höflich um Anleitung, wie ich weiter verfahren soll oder ob es spezielle Dienstleistungsoptionen für mein Gerät gibt. Wenn von meiner Seite weitere Informationen benötigt werden, zögern Sie bitte nicht, mich unter <email_address> oder <tel_num> zu kontaktieren. Ich wäre Ihnen sehr dankbar für Ihre schnelle Antwort zu diesem Anliegen.
+
+Vielen Dank für Ihre Aufmerksamkeit. 
+
+Mit freundlichen Grüßen, 
+
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie den Kundensupport des Tech Online Stores bezüglich Ihres Problems mit dem Microsoft Surface Pro 7 kontaktiert haben. Ich verstehe, wie wichtig es ist, dass Ihr Gerät einwandfrei funktioniert, und ich bin hier, um zu helfen.
+
+Bitte versuchen Sie die folgenden Schritte, falls Sie dies noch nicht getan haben:
+1. Stellen Sie sicher, dass alle Windows-Updates installiert sind.
+2. Führen Sie einen Zwei-Tasten-Neustart durch, indem Sie die Einschalttaste und die Lauter-Taste 15 Sekunden lang gedrückt halten.
+
+Falls das Problem weiterhin besteht, könnte es notwendig sein, das Gerät von einem Techniker inspizieren zu lassen. Wir bieten Reparaturdienste über unser Geschäft an. Bitte besuchen Sie unser Servicezentrum oder geben Sie uns Ihre Kaufdetails, und wir helfen Ihnen dabei, einen Reparaturtermin zu vereinbaren.
+
+Zögern Sie nicht, uns zu kontaktieren, wenn Sie weitere Unterstützung benötigen. Wir sind bestrebt, Ihr Problem umgehend zu lösen.
+
+Mit freundlichen Grüßen,
+Kundensupport des Tech Online Stores

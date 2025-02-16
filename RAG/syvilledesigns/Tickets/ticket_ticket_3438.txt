@@ -1,0 +1,19 @@
+Ticket ID: ticket_3438
+Subject: Benötige Unterstützung bei Installationsproblemen mit Ubuntu Linux 22.04 LTS
+Incident Type: Request
+Customer Issue: Sehr geehrter <name>,
+
+ich habe Schwierigkeiten bei der Installation von Ubuntu Linux 22.04 LTS auf meinem Computer. Es scheint, als würden einige Pakete fehlen oder können nicht ordnungsgemäß installiert werden. Wären Sie so freundlich, Unterstützung oder Anweisungen zur Behebung dieses Problems anzubieten?
+
+Vielen Dank,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+herzlichen Dank, dass Sie uns kontaktiert haben. Bitte befolgen Sie die nachstehenden Schritte:
+
+1. Vergewissern Sie sich, dass Ihr Installationsmedium intakt ist.
+2. Überprüfen Sie Ihre Internetverbindung während des Installationsvorgangs.
+3. Nutzen Sie die Option "Festplatte auf Fehler überprüfen", die beim Booten vom Installationsmedium zur Verfügung steht.
+
+Mit freundlichen Grüßen,
+[name]

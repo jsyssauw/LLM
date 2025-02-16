@@ -1,0 +1,16 @@
+Ticket ID: ticket_88
+Subject: Discrepância de Faturamento no Google Workspace
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte de TI,
+
+Estou escrevendo para relatar um valor de faturamento incorreto na minha assinatura do Google Workspace Business Standard sob a conta <acc_num>. Por favor, revise e ajuste a fatura. Aguardando sua pronta resposta.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Revisaremos os detalhes de faturamento da sua assinatura do Google Workspace Business Standard sob a conta <acc_num>. Nossa equipe investigará a discrepância e fará os ajustes necessários. Atualizaremos você o mais rápido possível com uma solução.
+
+Atenciosamente,
+Time de Suporte de TI

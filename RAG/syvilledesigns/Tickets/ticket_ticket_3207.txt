@@ -1,0 +1,20 @@
+Ticket ID: ticket_3207
+Subject: Anfrage für IT-Consulting-Dienstleistungen
+Incident Type: Request
+Customer Issue: Hallo,
+
+ich schreibe, um mich nach einer Beratung zu erkundigen, um unser aktuelles Ticketsystem zu verbessern und unsere Softwareentwicklungsprozesse zu optimieren. Wir glauben, dass der IT-Consulting-Service, der von Ihrem Unternehmen angeboten wird, erhebliche Verbesserungen bieten könnte. Können wir ein Treffen vereinbaren, um mögliche Strategien und Lösungen zu besprechen, die auf unsere Bedürfnisse zugeschnitten sind? Bitte lassen Sie uns die verfügbaren Zeiten für eine Beratung wissen. Sie können mich unter <tel_num> für weitere Gespräche erreichen. Wir freuen uns darauf, mit Ihrer Expertise unsere Abläufe zu optimieren.
+
+Danke,
+
+<name>
+Customer Service answer: Hallo <name>,
+
+vielen Dank, dass Sie sich bezüglich unserer IT-Consulting-Dienstleistungen an uns gewandt haben. Wir würden uns freuen, Ihnen bei der Verbesserung Ihres Ticketsystems und der Optimierung Ihrer Softwareentwicklungsprozesse zu helfen. Wir können sicher ein Treffen arrangieren, um personalisierte Strategien und Lösungen für Ihre Bedürfnisse zu besprechen. Ich werde unsere verfügbaren Zeiten für die Beratung prüfen und mich bald bei Ihnen melden. In der Zwischenzeit können Sie uns unter <tel_num> kontaktieren, wenn Sie sofortige Fragen haben oder weitere Klärungen benötigen.
+
+Freue mich auf die Zusammenarbeit mit Ihnen.
+
+Mit freundlichen Grüßen,
+
+<name>  
+Service Desk Team

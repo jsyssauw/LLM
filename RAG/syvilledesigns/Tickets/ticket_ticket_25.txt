@@ -1,0 +1,24 @@
+Ticket ID: ticket_25
+Subject: Billing Issue with AWS Management Service
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I am writing to bring to your attention an issue I have faced regarding incorrect billing charges. After utilizing the AWS Management Service for cloud infrastructure and service optimization, my account, <acc_num>, has been billed erroneously. The charges do not accurately reflect the usage reported and seem significantly higher than anticipated. 
+
+Kindly review my billing details and correct any discrepancies at your earliest convenience. Please let me know if you need any additional information to facilitate a rapid resolution. You can contact me at <email> or <tel_num> for further discussion.
+
+Thank you for your assistance in this matter.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for bringing this to our attention. We understand the concern regarding the discrepancy in billing charges for your AWS Management Service. Rest assured, we'll conduct a thorough review of the billing details associated with your account <acc_num>.
+
+Please allow us some time to investigate and rectify any issues. If further information is required, we will contact you using the details provided.
+
+We appreciate your patience and will strive for a swift resolution.
+
+Best regards,
+Customer Support Team

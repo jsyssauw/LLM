@@ -1,0 +1,10 @@
+Ticket ID: ticket_549
+Subject: Inquiry on IT Services
+Incident Type: Problem
+Customer Issue: Hello, I have some general questions regarding your software development process and would appreciate any advice on server administration. The affected product is your IT Consulting Service. I look forward to your guidance and thank you for your support. Regards, <name>.
+Customer Service answer: Hello <name>, 
+
+Thank you for reaching out with your inquiries. For our software development process, we follow a collaborative and agile approach, ensuring flexibility and client involvement at every stage. Regarding server administration, we recommend regular updates, consistent monitoring, and implementing robust security measures. If you need more detailed assistance, feel free to contact us again. We look forward to supporting you further.
+
+Best regards,
+Your IT Consulting Service Team

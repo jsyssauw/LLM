@@ -1,0 +1,23 @@
+Ticket ID: ticket_3384
+Subject: Problema de Cobrança Incorreta Detectado
+Incident Type: Problem
+Customer Issue: Caro Suporte ao Cliente de Serviços de TI,
+
+Espero que esta mensagem o encontre bem. Estou entrando em contato para expressar minha preocupação em relação a um cálculo de cobrança incorreto que foi detectado recentemente em minha conta. Notei discrepâncias que afetam meu saldo e cálculos de pagamento, especificamente para o AWS Management Service. Este problema está causando um desconforto significativo e pode levar a potenciais mal-entendidos financeiros.
+
+Meu número de conta é <acc_num>, registrado sob o nome <name>. Por favor, revise este problema assim que possível e advise sobre os passos que devemos seguir para resolver esta questão.
+
+Obrigado pela sua rápida atenção.
+
+Atenciosamente,
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por nos contatar com sua preocupação em relação à cobrança. Pedimos desculpas por qualquer inconveniente que isso possa ter causado. Encaminhei seu problema relacionado à discrepância na cobrança do AWS Management Service para o nosso departamento de faturamento para uma revisão detalhada.
+
+Investigarei cuidadosamente sua conta, <acc_num>, para identificar e corrigir quaisquer erros nos cálculos de saldo e pagamento. Assim que for resolvido, atualizaremos você sobre os passos tomados e quaisquer ajustes feitos em sua conta.
+
+Agradecemos sua paciência e trabalharemos rapidamente para resolver esta questão. Se você tiver outras preocupações ou precisar de assistência adicional, não hesite em nos avisar.
+
+Atenciosamente,
+Suporte ao Cliente de Serviços de TI

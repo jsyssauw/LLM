@@ -1,0 +1,33 @@
+Ticket ID: ticket_1007
+Subject: Solicitud de Consultoría en TI
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte al cliente de servicios de TI,
+
+Escribo para solicitar una evaluación y posible actualización de nuestra configuración actual de servidor para mejorar el rendimiento de nuestra infraestructura de TI existente. Hemos estado utilizando su Servicio de Consultoría en TI durante algún tiempo y hemos beneficiado enormemente de su experiencia. Sin embargo, a medida que evolucionan nuestras necesidades comerciales, se ha vuelto claro que podría ser necesario un enfoque más personalizado para satisfacer nuestras demandas actuales de manera efectiva.
+
+Recientemente, hemos notado que algunas de nuestras operaciones han estado experimentando problemas de latencia e ineficiencias, afectando negativamente nuestra productividad. Por lo tanto, creemos que un análisis integral realizado por sus servicios de consultoría especialmente adaptados podría proporcionarnos soluciones que sean tanto innovadoras como adecuadas a nuestro entorno operativo único.
+
+¿Podría programar una consulta a la brevedad posible para discutir posibles ajustes? Estamos ansiosos por colaborar estrechamente con su equipo para asegurar un resultado óptimo. Si se requieren pasos de preparación o documentación previamente, hágamelo saber.
+
+Esperamos su rápida respuesta.
+
+Gracias por su continuo apoyo.
+
+Atentamente,
+
+<name>  
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con nosotros y por su continua confianza en nuestros Servicios de Consultoría en TI. Entendemos la importancia de optimizar la configuración de su servidor para cumplir con los requisitos comerciales en evolución y abordar cualquier ineficiencia actual.
+
+Nos encantaría llevar a cabo una evaluación integral para proponer soluciones a medida para su infraestructura de TI. Voy a organizar una consulta con nuestros especialistas a la mayor brevedad posible. Por favor, háganos saber sus horarios disponibles para la programación.
+
+En preparación para la consulta, sería útil recopilar cualquier dato operativo relevante o documentación que pueda proporcionar información sobre su configuración existente y los desafíos específicos que está enfrentando.
+
+Esperamos trabajar estrechamente con usted para mejorar su rendimiento en TI.
+
+Atentamente,
+
+<name>  
+Equipo de Soporte al Cliente de Servicios de TI

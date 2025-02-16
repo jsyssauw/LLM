@@ -1,0 +1,10 @@
+Ticket ID: ticket_2857
+Subject: nan
+Incident Type: Incident
+Customer Issue: Hello Customer Support, one of our users, <name>, reports slow performance while using Microsoft Office 365 Excel application on a company laptop. Please investigate and provide a resolution. Thank you.
+Customer Service answer: Dear Customer,
+
+Thank you for reporting this issue. Please ensure the laptop is updated and check Excel add-ins. If the issue persists, provide system specs and we will investigate further.
+
+Best regards,
+Customer Support

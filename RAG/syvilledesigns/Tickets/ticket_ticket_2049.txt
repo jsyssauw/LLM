@@ -1,0 +1,17 @@
+Ticket ID: ticket_2049
+Subject: Assistance requise pour la configuration sans fil de l'imprimante HP DeskJet 3755
+Incident Type: Request
+Customer Issue: Cher service client,
+
+J'espère que vous allez bien. J'ai des difficultés à configurer mon imprimante HP DeskJet 3755 pour travailler avec plusieurs appareils à la maison. La fonction d'impression sans fil ne fonctionne pas comme prévu, et j'ai besoin d'instructions détaillées ou d'un support pour résoudre ce problème. Vos conseils seront grandement appréciés, car j'aimerais profiter pleinement de l'imprimante avec tous les appareils.
+
+Merci de votre attention à ce sujet.
+
+Cordialement,
+<name>, <tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Pour configurer votre HP DeskJet 3755 sans fil, veuillez vous assurer que votre imprimante, votre routeur et vos appareils sont allumés et connectés au même réseau Wi-Fi. Téléchargez l'application HP Smart sur chaque appareil pour le processus de configuration. Si le problème persiste, essayez de redémarrer votre routeur et vos appareils. Si vous avez besoin de plus d'aide, n'hésitez pas à nous recontacter.
+
+Cordialement,
+Service client

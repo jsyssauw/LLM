@@ -1,0 +1,29 @@
+Ticket ID: ticket_514
+Subject: AWS Management Service Billing Issue
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I am writing to alert you to a critical issue I have encountered with the AWS Management Service. While using the cost optimization features, I have noticed unexpected billing escalations which seem unaligned with the expected cost savings that the platform advertises. Since the purpose of these features is to help manage and reduce costs, these unforeseen charges are quite concerning.
+
+As a loyal subscriber with account number <acc_num>, I depend on these services for managing my operational costs effectively for my business needs. The irregularities started on <date>, and despite numerous adjustments and attempts to troubleshoot within the application, the problem persists.
+
+I would appreciate it if you could investigate the matter promptly and provide any insights into possible solutions or misconfigurations that might be causing the surge in billing. Moreover, guidance on aligning the cost functions correctly would be extremely beneficial to prevent similar occurrences in the future.
+
+Please contact me at your earliest convenience. I am available anytime at <tel_num> or via email.
+
+Thank you for your attention to this matter.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the billing issue with AWS Management Service. I understand your concern about the unexpected billing escalations despite using cost optimization features. I have forwarded your issue to our technical team, who will conduct a thorough investigation into these irregularities.
+
+We are committed to resolving this matter promptly. Our team will check for any misconfigurations or system errors that could have contributed to these charges and provide steps to align cost functions correctly, helping to avoid future occurrences.
+
+Please feel free to reach out if you need further assistance. We will contact you shortly at <tel_num> or your email to update you on the progress.
+
+Thank you for your patience and loyalty.
+
+Best regards,
+Service Desk Agent

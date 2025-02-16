@@ -1,0 +1,26 @@
+Ticket ID: ticket_3203
+Subject: Solicitud de cambios en la infraestructura de AWS
+Incident Type: Change
+Customer Issue: Estimado equipo de atención al cliente,
+
+Mi nombre es <name>, y estoy escribiendo para solicitar una revisión y posible modificación de nuestras infraestructuras de despliegue de AWS actuales gestionadas bajo el Servicio de Gestión de AWS. Debido al aumento de costos, estamos interesados en explorar opciones destinadas a optimizar nuestra configuración actual de computación en la nube, específicamente para una mejor eficiencia de costos.
+
+Si bien hemos utilizado varios servicios de manera efectiva, una auditoría reciente destacó áreas donde los ajustes podrían llevar a reducciones significativas de costos sin afectar el rendimiento. Estamos particularmente interesados en comprender mejor las opciones de segmentación y escalado que se pueden aplicar dentro de nuestro marco de AWS.
+
+¿Podría alguien de su equipo ayudarnos a realizar un análisis integral? También esperamos programar una consulta para discutir nuestra configuración actual y potenciales estrategias de ahorro de costos a la mayor brevedad posible.
+
+Gracias por su atención a este asunto. Espero su pronta respuesta.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarte con respecto a tu infraestructura de AWS. Entendemos la importancia de optimizar tu configuración de computación en la nube para la eficiencia de costos. Nuestro equipo estaría encantado de ayudarte a realizar un análisis integral de tu despliegue actual en AWS. Podemos ayudar a identificar áreas de mejora y discutir posibles estrategias de reducción de costos, incluidas las opciones de segmentación y escalado.
+
+Por favor, háznos saber tu disponibilidad para que podamos programar una consulta a la mayor brevedad posible y discutir tus requisitos en detalle.
+
+Esperamos poder ayudarte.
+
+Saludos cordiales,
+Equipo de Atención al Cliente

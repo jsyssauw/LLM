@@ -1,0 +1,46 @@
+Ticket ID: ticket_2308
+Subject: Solicitação de Atualização do Zoom
+Incident Type: Change
+Customer Issue: Caro Suporte ao Cliente,
+
+Espero que este e-mail o encontre bem. Meu nome é <name> e estou entrando em contato a respeito de um pedido de atualização para o aplicativo Zoom que atualmente temos integrado em nossa infraestrutura de TI. Estamos usando a versão 5.11.0 do Zoom e, para garantir segurança aprimorada juntamente com a integração de novos recursos, estamos interessados em atualizar para a versão mais recente disponível.
+
+Dada a situação atual e o aumento no uso de tais plataformas, tornou-se primordial manter os mais altos padrões de segurança. Nossos usuários dependem fortemente do Zoom para operações diárias e reuniões, e garantir que utilizemos a versão mais segura e eficiente é crucial para nossa continuidade. As atualizações recentes do Zoom relataram ter abordado várias questões de segurança e introduzido melhorias que acreditamos beneficiarão significativamente nossas operações.
+
+Você poderia nos guiar pelo processo de atualização e nos informar a melhor forma de proceder? Se houver requisitos ou pré-requisitos específicos necessários para a atualização, por favor, detalhe-os também. Além disso, apreciaríamos se o tempo de inatividade potencial, se houver, durante esta atualização também puder ser estimado, permitindo-nos agendar e nos preparar adequadamente.
+
+Sinta-se à vontade para entrar em contato comigo diretamente pelo <email_address> ou pelo telefone <tel_num> se precisar de informações adicionais ou tiver alguma dúvida.
+
+Obrigado pela sua pronta atenção a esta solicitação. Estamos ansiosos por um processo de atualização sem problemas com seu apoio.
+
+Atenciosamente,
+
+<name>
+<position>
+<company_name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre a atualização do Zoom. Entendemos a importância de manter a segurança e a eficiência de suas operações. Atualizar para a versão mais recente do Zoom fornecerá, de fato, os benefícios que você está buscando.
+
+Aqui está um breve guia para ajudá-lo com a atualização:
+
+1. **Verifique os Requisitos do Sistema**: Certifique-se de que todos os sistemas atendam aos requisitos para a versão mais recente do Zoom. Você pode encontrar essas informações no site do Zoom.
+
+2. **Faça o Backup dos Dados**: Antes de prosseguir, faça o backup de qualquer configuração ou definição importante em sua conta atual do Zoom.
+
+3. **Baixe a Atualização**: Visite o site do Zoom e faça o download da versão mais recente do aplicativo adequada para seus sistemas.
+
+4. **Instale a Atualização**: Siga as instruções de instalação fornecidas pelo Zoom. Isso deve ser instalado sem problemas e sem afetar as configurações existentes.
+
+5. **Teste a Atualização**: Uma vez instalado, recomendamos testá-lo em alguns sistemas antes de uma implementação em grande escala para identificar possíveis problemas.
+
+Quanto ao tempo de inatividade potencial, o processo de instalação geralmente leva um curto período, tipicamente em torno de 15-30 minutos. No entanto, é aconselhável agendar fora do horário de pico operacional caso surjam problemas.
+
+Se configurações ou pré-requisitos específicos forem necessários, você receberá um aviso durante o processo de instalação. Certifique-se de que os privilégios de administrador estejam disponíveis ao realizar a atualização.
+
+Caso encontre alguma dificuldade ou necessite de mais assistência, sinta-se à vontade para nos contatar diretamente. Estamos aqui para garantir que a transição seja o mais fluida possível.
+
+Atenciosamente,
+
+Agente do Service Desk
+Equipe de Suporte <company_name>

@@ -1,0 +1,19 @@
+Ticket ID: ticket_1350
+Subject: Solicitud de transferencia de licencia de IntelliJ IDEA
+Incident Type: Request
+Customer Issue: Hola, Soporte al Cliente,
+
+Solicitamos una transferencia de licencia para IntelliJ IDEA 2024.1 debido a cambios internos en nuestro departamento dentro de la empresa. Por favor, guíenos a través del proceso y proporcione cualquier documentación necesaria para la transferencia.
+
+Gracias,
+
+<name>
+<company_name>
+Customer Service answer: Asunto: Re: Solicitud de transferencia de licencia de IntelliJ IDEA
+
+Hola <name>,
+
+Gracias por contactarnos sobre la transferencia de licencia de IntelliJ IDEA. Para iniciar el proceso de transferencia debido a cambios internos en el departamento, por favor proporcione la clave de licencia actual y los detalles del nuevo usuario o departamento. Luego, le guiaremos a través de la documentación requerida y cualquier otro paso adicional necesario. Háganos saber si surgen problemas o si necesita asistencia adicional.
+
+Atentamente,
+Soporte al Cliente

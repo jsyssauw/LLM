@@ -1,0 +1,19 @@
+Ticket ID: ticket_966
+Subject: Laptop Overheating Issue During Video Calls Help
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I'm experiencing a problem with my Dell XPS 13 9310 laptop. It overheats during video calls, despite updated drivers and no background tasks. This overheating affects performance significantly, making meetings difficult.
+
+Please advise on any solutions or next steps.
+
+Thank you,
+<name>
+
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Ensure your laptop's vents are unobstructed. Use a cooling pad for better airflow. Update BIOS and check for Dell's thermal management settings in Dell Power Manager. If the problem persists, contact Dell Support for a hardware check.
+
+Best regards,
+Customer Support

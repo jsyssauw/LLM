@@ -1,0 +1,10 @@
+Ticket ID: ticket_3540
+Subject: Zoom Screen Sharing Assistance
+Incident Type: Request
+Customer Issue: Hello, I need help with setting up the screen sharing feature in the Zoom application (version 5.11.0). I'm also unable to connect to video webinars from my laptop. Could you please provide guidance or troubleshooting steps to resolve these issues? Thank you. <name>, <tel_num>, <acc_num>.
+Customer Service answer: Hello, 
+
+To set up screen sharing in Zoom (version 5.11.0), ensure you have allowed screen sharing permissions in your device settings. In Zoom, go to Settings > Share Screen and adjust settings as needed. For connecting to video webinars, check if your internet connection is stable and ensure your Zoom app is updated. Try restarting the application or reinstalling if the issue persists. If the problems continue, please reach out with any error messages you receive. 
+
+Best regards,  
+Customer Support Team

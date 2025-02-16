@@ -1,0 +1,15 @@
+Ticket ID: ticket_3660
+Subject: Request to Enable Scrum Board in Jira Software
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+We are currently using Jira Software version 8.20 and require the Scrum board features enabled for enhanced project management. Could you assist us with this request at your earliest convenience? Thank you for your support.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. To enable the Scrum board features in Jira Software version 8.20, please ensure that the "Scrum" option is enabled in your project settings. Go to Project Settings, navigate to Features, and enable Scrum if it's not already active. If you face any issues, don’t hesitate to get in touch for further assistance.
+
+Best regards,
+Service Desk Agent

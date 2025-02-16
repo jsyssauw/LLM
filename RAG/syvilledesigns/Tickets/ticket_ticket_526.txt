@@ -1,0 +1,21 @@
+Ticket ID: ticket_526
+Subject: Solicitação para Iniciar Devolução da Impressora Epson EcoTank ET-4760
+Incident Type: Incident
+Customer Issue: Prezado Atendimento ao Cliente,
+
+Espero que este e-mail o encontre bem. Estou escrevendo para informar sobre um pedido de devolução enviado por <name>, referente à impressora Epson EcoTank ET-4760, que foi comprada sob o número da conta <acc_num>. O cliente teve problemas de qualidade de impressão que não foram resolvidos através dos esforços de solução de problemas fornecidos em seu site. Eles estão buscando devolver o produto para obter um reembolso ou uma substituição.
+
+Por favor, informe sobre os passos necessários para processar essa devolução, incluindo qualquer documentação necessária de <name>.
+
+O contato principal é em <tel_num>, e eles apreciariam assistência rápida com esta questão. Obrigado pela sua atenção a este assunto.
+
+Atenciosamente,
+<name>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato conosco sobre a devolução da impressora Epson EcoTank ET-4760. Pedimos desculpas pelo inconveniente causado. Para processar a devolução para um reembolso ou substituição, por favor, certifique-se de que a impressora esteja embalada com segurança com todos os acessórios originais. Inclua uma cópia do recibo de compra e mencione o número da conta <acc_num>.
+
+Entre em contato conosco pelo <tel_num> para receber um rótulo de devolução pré-pago e agendar uma coleta, se necessário. Assim que recebermos e inspecionarmos o produto, processaremos sua solicitação rapidamente. Se precisar de mais assistência, sinta-se à vontade para entrar em contato.
+
+Atenciosamente,
+Atendimento ao Cliente

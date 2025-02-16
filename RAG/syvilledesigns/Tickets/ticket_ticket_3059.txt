@@ -1,0 +1,15 @@
+Ticket ID: ticket_3059
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I am reaching out to report a problem with my Lenovo IdeaPad 5. The battery life does not appear to meet expectations. My account number is <acc_num>. Could you please advise me on the next steps for a replacement or repair? You can contact me at <tel_num>. I appreciate your help.
+
+Best wishes,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for getting in touch with us. I'm sorry to learn about the problem with the battery on your Lenovo IdeaPad 5. Could you please provide the purchase date and let us know if you have undertaken any troubleshooting steps? Our team will check your warranty status and assist you through the process of replacement or repair.
+
+Best regards,
+Customer Support

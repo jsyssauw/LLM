@@ -1,0 +1,21 @@
+Ticket ID: ticket_74
+Subject: nan
+Incident Type: Incident
+Customer Issue: Sehr geehrter Tech Online Store Support,
+
+ich habe Probleme beim Zugriff auf Google Drive in meinem Google Workspace Business Standard-Konto. Jedes Mal, wenn ich versuche, mich anzumelden, erhalte ich eine unerwartete Fehlermeldung. Dieses Problem trat plötzlich auf und unterbricht meinen Arbeitsfluss. Ich bitte um Ihre Unterstützung, um dieses Problem so schnell wie möglich zu lösen. Meine Kontodaten sind wie folgt: Name: <name>, Telefonnummer: <tel_num>, Kontonummer: <acc_num>. Bitte lassen Sie mich wissen, ob Sie weitere Informationen benötigen.
+
+Vielen Dank für Ihre schnelle Bearbeitung dieses Anliegens.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie den Support von Tech Online Store kontaktiert haben. Wir entschuldigen uns für die Unannehmlichkeiten, die Sie mit Google Drive in Ihrem Google Workspace Business Standard-Konto erfahren.
+
+Bitte stellen Sie sicher, dass Ihre Internetverbindung stabil ist, und versuchen Sie, auf Google Drive in einem Inkognito-Browserfenster zuzugreifen. Wenn das Problem weiterhin besteht, leeren Sie den Cache Ihres Browsers oder versuchen Sie, einen anderen Browser zu verwenden.
+
+Falls das Problem weiterhin besteht, antworten Sie bitte mit den Fehlermeldungen/-codes, die Sie erhalten. Wir werden es umgehend prüfen.
+
+Mit besten Grüßen,
+Tech Online Store Support

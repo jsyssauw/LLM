@@ -1,0 +1,21 @@
+Ticket ID: ticket_62
+Subject: Solicitud Urgente para Modificación de Ticket de Jira
+Incident Type: Change
+Customer Issue: Estimado Soporte al Cliente,
+
+Espero que este mensaje le encuentre bien. Me estoy poniendo en contacto con una solicitud urgente para modificar la configuración de categorización del ticket en nuestro Jira Software 8.20 para mejorar la gestión del proyecto. Esta modificación tiene alta prioridad y mejorará significativamente el flujo de trabajo de nuestro equipo. Por favor, advise sobre cómo pueden asistirme para agilizar este proceso.
+
+Gracias por su atención inmediata.
+
+Atentamente,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a la solicitud urgente para modificar la configuración de categorización del ticket en su Jira Software 8.20. Entendemos la prioridad de mejorar el flujo de trabajo de su equipo. Nuestro equipo está listo para asistirle con esta modificación. Por favor, proporcione detalles adicionales o requisitos específicos, si los hay, para agilizar el proceso de manera efectiva. Una vez que tengamos esta información, podemos proceder con los pasos necesarios para implementar los cambios deseados.
+
+No dude en ponerse en contacto si tiene alguna pregunta o necesita más asistencia.
+
+Atentamente,
+Equipo de Soporte al Cliente

@@ -1,0 +1,17 @@
+Ticket ID: ticket_179
+Subject: Asistencia con la configuración de la impresora
+Incident Type: Change
+Customer Issue: Hola servicio al cliente, necesito ayuda para cambiar la configuración de mi impresora Canon PIXMA MG3620 para impresión inalámbrica. Por favor, proporcione instrucciones paso a paso para la configuración. Espero su pronta respuesta. Gracias, <name>, cuenta <acc_num>.
+Customer Service answer: Hola <name>,
+
+Para configurar su Canon PIXMA MG3620 para impresión inalámbrica, siga estos pasos:
+1. Encienda la impresora y presione el botón "Wi-Fi" hasta que la luz de encendido parpadee.
+2. Presione el botón "Color" y luego el botón "Wi-Fi" una vez más.
+3. Asegúrese de que la luz LED junto al botón Wi-Fi esté parpadeando.
+4. Instale la aplicación de Canon en su computadora.
+5. Siga las instrucciones de la aplicación para conectar la impresora a su red Wi-Fi.
+
+No dude en comunicarse si tiene más preguntas.
+
+Atentamente,
+Servicio al Cliente

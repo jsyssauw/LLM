@@ -1,0 +1,26 @@
+Ticket ID: ticket_490
+Subject: Issue with HP DeskJet 3755 Connection
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team,
+
+I am experiencing issues connecting my HP DeskJet 3755 to my Wi-Fi network, which is preventing any remote printing tasks. Could you please provide some guidance or troubleshooting steps to resolve this issue at your earliest convenience?
+
+Thank you,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+To resolve your HP DeskJet 3755 Wi-Fi connection issue, please try the following steps:
+
+1. Ensure your printer is turned on and Wi-Fi light is blinking. 
+2. Press the Wireless and Cancel buttons together and release them to reset wireless. 
+3. Open your printer software on your computer and select 'Restore Network Settings.'
+4. Connect to the printer Wi-Fi (DIRECT-xx-HP DeskJet 3755) and enter the password '12345678'.
+5. Follow on-screen instructions to reconnect to your home Wi-Fi.
+
+If these steps don’t help, please contact us again.
+
+Best regards,
+Service Desk Team

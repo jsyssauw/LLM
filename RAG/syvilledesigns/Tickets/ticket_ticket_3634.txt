@@ -1,0 +1,18 @@
+Ticket ID: ticket_3634
+Subject: Dringend: AWS Management Service Ausfallproblem
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich schreibe, um Sie über ein Problem mit Ihrem AWS Management Service zu informieren, das kürzlich ungeplante Ausfallzeiten hatte. Diese Unterbrechung hat den Zugriff auf virtuelle Server für Kunden erheblich beeinträchtigt. Wir benötigen sofortige Hilfe, um das Problem zu lösen und sicherzustellen, dass keine weiteren Unterbrechungen auftreten. Bitte priorisieren Sie die Wiederherstellung der Funktionalität und halten Sie uns über Ihren Fortschritt auf dem Laufenden. Wir sind stark auf Ihren Service angewiesen, und solche Vorfälle beeinträchtigen unsere Operationen erheblich. Schnelles Handeln wäre sehr willkommen. Kontaktieren Sie mich unter <tel_num> für weitere Diskussionen.
+
+Vielen Dank,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Wir entschuldigen uns für die Unannehmlichkeiten, die durch die ungeplanten Ausfallzeiten unseres AWS Management Service entstanden sind. Wir verstehen die kritischen Auswirkungen auf Ihre Abläufe und arbeiten derzeit daran, das Problem zu beheben. Seien Sie versichert, unser Team hat die Wiederherstellung der vollständigen Servicefunktionalität priorisiert. Wir werden Sie über unseren Fortschritt und die ergriffenen Maßnahmen auf dem Laufenden halten. Für weitere Diskussionen rechnen Sie bitte in Kürze mit einem direkten Anruf.
+
+Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+Service Desk Team

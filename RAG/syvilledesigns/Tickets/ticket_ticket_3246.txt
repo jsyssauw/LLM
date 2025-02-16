@@ -1,0 +1,18 @@
+Ticket ID: ticket_3246
+Subject: Urgent: Users unable to access Microsoft Office emails
+Incident Type: Incident
+Customer Issue: Dear IT Services Support Team,
+
+We are experiencing significant issues with Microsoft Office 365 across multiple accounts in our organization. Users are unable to access their emails, which is impacting our daily operations. This problem has been reported by several departments and is urgent. We have verified that this issue is not due to any local network problems on our end. Can you please investigate and resolve this matter as soon as possible? Please contact <name> at <tel_num> if more information is needed. Your prompt assistance will be greatly appreciated.
+
+Thank you,
+<name>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us regarding the access issues with Microsoft Office 365 emails affecting multiple accounts. We understand the urgency of this matter and are currently investigating the root cause. Our team is collaborating with Microsoft to restore email access as quickly as possible. We will keep you updated on the progress and notify you as soon as the issue is resolved. 
+
+If additional information is needed, I will reach out to <name> at <tel_num>. Your patience and cooperation during this time are greatly appreciated.
+
+Best regards,
+IT Services Support Team

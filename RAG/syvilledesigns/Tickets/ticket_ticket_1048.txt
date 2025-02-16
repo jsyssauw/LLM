@@ -1,0 +1,32 @@
+Ticket ID: ticket_1048
+Subject: nan
+Incident Type: Problem
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Me estoy comunicando urgentemente para abordar un problema crítico relacionado con nuestra infraestructura de AWS gestionada bajo su Servicio de Gestión de AWS. Hemos encontrado una interrupción significativa que está afectando a múltiples clientes, exigiendo acciones inmediatas de recuperación y un análisis exhaustivo para prevenir cualquier recurrencia. Esta situación ha afectado gravemente las operaciones comerciales, lo que ha llevado a pérdidas de ingresos potenciales y la insatisfacción de los clientes, que necesita ser abordada con la mayor prioridad.
+
+Estamos buscando su experiencia e intervención inmediata para restablecer nuestros servicios de AWS rápidamente. También se requiere un análisis detallado de la causa raíz para comprender el problema subyacente que causó esta interrupción. Nuestros clientes dependen en gran medida de la disponibilidad continua del servicio, y ante tal tiempo de inactividad, debemos asegurarles soluciones fiables y medidas preventivas.
+
+Por favor, priorice este problema y proporcione actualizaciones regulares sobre su progreso. Comuníquese con nuestro líder técnico, <name>, al <tel_num> o por correo electrónico según sea necesario. Contamos con su apoyo para mitigar esta interrupción de manera rápida y apreciamos su atención inmediata a este asunto.
+
+Gracias por su cooperación y comprensión.
+
+Atentamente,
+
+<name>
+<position>
+<company>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a la interrupción de la infraestructura de AWS. Entendemos la urgencia y el impacto que esto tiene en su negocio y en sus clientes.
+
+Nuestro equipo técnico ya está investigando el problema para iniciar la recuperación inmediata. Tenga la seguridad de que estamos priorizando la restauración de sus servicios de AWS. Adicionalmente, realizaremos un análisis exhaustivo de la causa raíz para identificar el problema e implementar medidas para prevenir futuras ocurrencias.
+
+Le proporcionaremos actualizaciones regulares sobre nuestro progreso, y nuestro equipo estará en comunicación directa con su líder técnico, <name>, para asegurar una resolución rápida.
+
+Gracias por su paciencia y comprensión. Estamos comprometidos a resolver este problema de manera rápida.
+
+Atentamente,
+
+Equipo de soporte al cliente

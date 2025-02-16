@@ -1,0 +1,17 @@
+Ticket ID: ticket_1440
+Subject: Immediate Attention Needed: Display Flickering Problem with Dell XPS 13 9310
+Incident Type: Request
+Customer Issue: Dear Customer Support Team,
+
+I am dealing with a flickering display problem on my Dell XPS 13 9310 laptop. Kindly help me with a resolution or assist me in going through the troubleshooting steps.
+
+Thank you,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+We apologize for the inconvenience. Please download and install the latest display drivers from Dell's official website. If the problem continues, don't hesitate to contact Dell support at 1-800-999-3355 with your information for additional help.
+
+Best regards,
+Customer Support Team

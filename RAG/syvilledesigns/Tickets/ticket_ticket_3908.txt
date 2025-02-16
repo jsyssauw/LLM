@@ -1,0 +1,17 @@
+Ticket ID: ticket_3908
+Subject: Urgente: Problema de entrega de MacBook Air M1 dañado recibido
+Incident Type: Incident
+Customer Issue: Hola Atención al Cliente,
+
+Recientemente compré un MacBook Air M1 en su tienda en línea, pero desafortunadamente recibí un MacBook con daños visibles en la pantalla. Este problema debe haber ocurrido durante el tránsito. Estoy seriamente preocupado y busco una solución de inmediato. Mi número de pedido es <acc_num>. ¿Podrían ayudarme con un reemplazo o un reembolso? Por favor, hágamelo saber los próximos pasos.
+
+Gracias,
+
+<name>
+<tel_num>
+Customer Service answer: Estimado/a <name>,
+
+Lamento la inconveniencia causada por el MacBook Air M1 dañado. He iniciado una solicitud para un reemplazo o reembolso. Por favor, mantenga el empaque original para la devolución. Nuestro equipo se comunicará con usted en breve al <tel_num> para guiarlo/a a través del proceso. Agradecemos su paciencia y comprensión para resolver este asunto rápidamente.
+
+Atentamente,
+Equipo de Atención al Cliente

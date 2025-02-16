@@ -1,0 +1,35 @@
+Ticket ID: ticket_3681
+Subject: Ajuda Urgente Necessária Relativamente à Compra Recente
+Incident Type: Problem
+Customer Issue: Olá, Equipe de Suporte da Tech Online Store,
+
+Estou entrando em contato para expressar minha decepção e solicitar suporte imediato em relação a uma aquisição recente de sua loja. No [purchase date], comprei um Microsoft Surface Pro 7. Infelizmente, o dispositivo tem apresentado um problema persistente: ele não liga de forma consistente. Esta falha afetou severamente meu trabalho e produtividade, pois dependo deste dispositivo para atividades diárias, e um funcionamento confiável é essencial.
+
+Apesar de seguir todos os métodos de solução de problemas sugeridos no manual e em seu site, o problema permanece sem solução. À luz dessa situação, peço respeitosamente uma substituição completa da unidade defeituosa ou um serviço de reparo urgente para consertar o problema. Abaixo estão os detalhes da minha compra:
+
+- Produto: Microsoft Surface Pro 7  
+- Número do Pedido: [order_number]  
+- Data da Compra: [purchase_date]
+
+Também anexei cópias do meu recibo e documentos de garantia para acelerar o processo. Você poderia, por favor, me informar os passos que precisamos seguir para resolver essa questão rapidamente?
+
+Sua atenção rápida a este assunto será muito valorizada, pois está causando considerável interrupção à minha vida cotidiana. Aguardo ansiosamente sua resposta rápida. Você pode me contatar por e-mail ou telefone em <tel_num> durante o horário comercial.
+
+Obrigado.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Olá <name>,
+
+Obrigado por entrar em contato conosco e compartilhar os detalhes sobre o desafio que você está enfrentando com seu Microsoft Surface Pro 7. Pedimos sinceras desculpas pelo inconveniente que isso causou.
+
+Para ajudá-lo sem demora, daremos início ao procedimento para uma substituição ou reparo. Certifique-se de que seu recibo e documentação de garantia estejam incluídos, pois isso ajudará a acelerar o processo.
+
+Nossa equipe entrará em contato com você em breve usando o número de telefone ou e-mail que você forneceu para orientá-lo sobre os próximos passos. Nosso objetivo é resolver isso rapidamente e mitigar quaisquer interrupções adicionais em suas atividades diárias.
+
+Agradecemos sua paciência e compreensão.
+
+Atenciosamente,
+
+Suporte ao Cliente da Tech Online Store

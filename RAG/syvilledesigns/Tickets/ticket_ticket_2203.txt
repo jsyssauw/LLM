@@ -1,0 +1,30 @@
+Ticket ID: ticket_2203
+Subject: Incidente de Alta Prioridad: Falla del Router Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente,
+
+Estoy escribiendo para reportar un incidente de alta prioridad que involucra nuestro Router Cisco ISR4331. Desde esta mañana, el router ha dejado de responder, lo que está afectando gravemente nuestra conectividad de red y el tiempo de actividad en general. Nuestro equipo ha realizado un diagnóstico preliminar, incluyendo reiniciar el dispositivo y verificar la conectividad, pero el problema persiste. Este router es un componente crítico de nuestra infraestructura, y este tiempo de inactividad está impactando significativamente nuestras operaciones comerciales.
+
+¿Podría, por favor, priorizar este ticket y proporcionar orientación sobre cómo proceder con pasos de solución de problemas urgentes o reemplazos si es necesario? Para obtener más detalles técnicos, no dude en contactarme directamente.
+
+Espero su pronta respuesta para resolver este problema crítico lo antes posible.
+
+Gracias,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con nosotros respecto al problema con su Router Cisco ISR4331. Entendemos la urgencia y priorizaremos este incidente. Basado en los detalles proporcionados, por favor realice los siguientes pasos de solución de problemas: 
+
+1. Verifique si hay problemas de hardware visibles o conexiones sueltas.
+2. Asegúrese de que el firmware esté actualizado.
+3. Revise los registros de errores para mensajes de error específicos.
+
+Si el problema persiste después de estos pasos, recomendamos organizar un reemplazo urgente.
+
+Por favor, proporcione registros de errores más detallados a su conveniencia. Alternativamente, no dude en llamarnos directamente para obtener más asistencia.
+
+Atentamente,  
+Equipo de Soporte al Cliente

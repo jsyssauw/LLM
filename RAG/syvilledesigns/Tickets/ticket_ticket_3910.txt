@@ -1,0 +1,5 @@
+Ticket ID: ticket_3910
+Subject: Urgente: Assistência ao Cliente Requerida—Problema com Atraso na Entrega da Minha Compra do MacBook Air M1
+Incident Type: Problem
+Customer Issue: Caro Atendimento ao Cliente, notei recentemente que houve um atraso na entrega do meu MacBook Air M1. Poderiam me ajudar?
+Customer Service answer: Caro Cliente, estamos analisando sua situação de atraso na entrega. Por favor, aguarde uma atualização em breve. Agradecemos sua compreensão!

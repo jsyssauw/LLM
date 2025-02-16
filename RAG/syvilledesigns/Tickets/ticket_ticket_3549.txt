@@ -1,0 +1,14 @@
+Ticket ID: ticket_3549
+Subject: Request for Payment Adjustment
+Incident Type: Request
+Customer Issue: Dear Customer Support team, I hope this message finds you well. I am writing to request a payment adjustment for the recent billing of our Google Workspace Business Standard subscription. We noticed a discrepancy with this month’s billing cycle and believe there may have been an error. Our account number is <acc_num>, and I kindly request you to review and correct the charges applied. For further clarification, I can be reached at <tel_num>. Thank you for your prompt attention to this matter. Best regards, <name>.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the discrepancy with your Google Workspace Business Standard subscription billing. We understand your concern and are here to assist you.
+
+We have received your account number and will promptly review your billing cycle to identify and correct any errors. As soon as we have completed this review, we will update you with our findings and any necessary adjustments.
+
+Should you need any immediate confirmation or further assistance, please feel free to call us back. We appreciate your patience and understanding in resolving this matter.
+
+Best regards,
+Customer Support Team

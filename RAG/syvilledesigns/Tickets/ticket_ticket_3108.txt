@@ -1,0 +1,17 @@
+Ticket ID: ticket_3108
+Subject: Unexpected Shutdown Issue with Samsung QLED TV
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support, I am writing to report an issue with my Samsung QLED QN90A TV, which unexpectedly shuts down during firmware updates. This problem interferes with my normal TV viewing, interrupting broadcasts and causing inconvenience. It seems to be a recurring issue that I've observed particularly when attempting to update the TV's firmware. I would appreciate it if you could provide assistance on how to resolve this issue or advise on any troubleshooting steps I can perform. Please let me know if you need additional information or specific details regarding this problem. Thank you for your support and prompt response. Sincerely, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your Samsung QLED QN90A TV issue. We recommend trying the following troubleshooting steps: 
+
+1. Ensure your TV is connected to a stable power source.
+2. Check for a reliable internet connection during updates.
+3. Restart your TV and router.
+4. Unplug the TV for a few minutes, then reconnect.
+
+If these steps do not resolve the problem, we suggest visiting your nearest Samsung service center or contact Samsung support for further assistance. Let us know if you require additional help.
+
+Best Regards,
+Tech Online Store Customer Support

@@ -1,0 +1,10 @@
+Ticket ID: ticket_1994
+Subject: Malfunctioning LG OLED C1 Display Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I am experiencing intermittent image loss with my recently purchased LG OLED C1 display. This issue has been occurring consistently, causing significant inconvenience. Please advise on a solution or a potential replacement. Looking forward to your prompt response on resolving this matter. Thank you. Regards, <name>.
+Customer Service answer: Dear <name>, 
+
+Thank you for reaching out. We apologize for the inconvenience caused by the display issue with your LG OLED C1. Please try the following troubleshooting steps: ensure all cables are securely connected, update the display's firmware, or reset the display to factory settings. If the problem persists, please let us know, and we can assist with initiating a replacement process. 
+
+Best regards, 
+Customer Support

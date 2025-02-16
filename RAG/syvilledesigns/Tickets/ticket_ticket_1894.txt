@@ -1,0 +1,30 @@
+Ticket ID: ticket_1894
+Subject: Request for Change in User Permissions Setup
+Incident Type: Change
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. We are encountering an issue with the user permissions setup within our Jira Software instance, specifically with version 8.20. This situation is affecting our project management workflow significantly. We have recently received a request from one of our key users, <name>, who brought to our attention that certain permissions for project roles need adjustments to enhance team collaboration and access control.
+
+Could you please assist in examining the current permission settings? Additionally, we would appreciate your guidance on the best practices to implement changes without disrupting our ongoing projects. If possible, a timeline for resolving these issues would be greatly helpful. 
+
+Looking forward to your prompt response.
+
+Regards,
+
+<name>
+<name> Software Development Company
+<email_address>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the user permissions setup issue in your Jira Software version 8.20. We understand the importance of streamlined workflow in your project management.
+
+We will begin by examining your current permission settings to identify the necessary adjustments needed for your project roles. To ensure the process is seamless and minimally disruptive, we will also provide you with best practices for implementing these changes.
+
+For an effective resolution, we aim to complete this review and provide substantive feedback within the next five business days. Please let us know if there are any specific timelines or project deadlines we should be aware of to prioritize the resolution accordingly.
+
+Feel free to contact us if you have further questions or additional details to provide.
+
+Best regards,
+
+Customer Support Team

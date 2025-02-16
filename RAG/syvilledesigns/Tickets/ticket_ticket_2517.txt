@@ -1,0 +1,17 @@
+Ticket ID: ticket_2517
+Subject: nan
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich habe Schwierigkeiten mit der Aktivierung meiner Windows 11 Pro-Software. Trotz der Befolgung der bereitgestellten Schritte konnte ich die Aktivierung nicht erfolgreich abschließen. Meine Kontonummer ist <acc_num>. Wären Sie so freundlich, mir schnellstmöglich bei der Lösung dieses Problems zu helfen? Sie können mich unter <tel_num> erreichen.
+
+Ich danke Ihnen im Voraus für Ihre Unterstützung.
+
+Mit besten Grüßen,
+<name>
+Customer Service answer: Sehr geehrte(r) <name>,
+
+vielen Dank für Ihre Nachricht. Wir möchten uns für die Unannehmlichkeiten entschuldigen, die Ihnen bei der Aktivierung von Windows 11 Pro entstanden sind. Bitte überprüfen Sie, ob Ihr Gerät mit dem Internet verbunden ist, und versuchen Sie erneut, die Aktivierung zu reparieren (Einstellungen > Update & Sicherheit > Aktivierung > Problembehandlung). Sollten die Probleme weiterhin bestehen, kontaktieren Sie uns bitte unter <our_tel_num> für zusätzliche Unterstützung.
+
+Mit freundlichen Grüßen,
+Kundenservice

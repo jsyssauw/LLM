@@ -1,0 +1,21 @@
+Ticket ID: ticket_3671
+Subject: Solicitud de Administración Adicional de Servidores
+Incident Type: Request
+Customer Issue: Hola, Soporte al Cliente,
+
+Espero que este mensaje te encuentre bien. Actualmente estamos en una asociación para soluciones de TI en curso y requerimos apoyo adicional en la administración de servidores. Nuestras operaciones en expansión requieren una supervisión mejorada de nuestros sistemas de servidores para mantener la eficiencia y la seguridad. Por favor, háganos saber las opciones disponibles y cualquier costo asociado o cambios en nuestro acuerdo actual. Esperamos continuar nuestra asociación productiva.
+
+Gracias por su atención a esta solicitud.
+
+Atentamente,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Hola,
+
+Gracias por ponerte en contacto. Nos complace asistir con tu solicitud de apoyo adicional en la administración de servidores. Ofrecemos varias opciones personalizadas para mejorar la supervisión, la eficiencia y la seguridad de tus sistemas de servidores. Haré que nuestro especialista en soluciones se comunique contigo con opciones detalladas, costos asociados y cualquier enmienda en tu acuerdo actual. Esperamos continuar nuestra exitosa asociación.
+
+Atentamente,
+
+Soporte al Cliente.

@@ -1,0 +1,21 @@
+Ticket ID: ticket_2124
+Subject: Problema de conectividad de Oracle Database 19c
+Incident Type: Problem
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Actualmente estamos experimentando problemas de conectividad con Oracle Database 19c. Nuestra aplicación empresarial no puede establecer una conexión estable con el servidor. Se requiere asistencia inmediata para resolver este problema, ya que está impactando significativamente nuestras operaciones.
+
+Gracias por su atención urgente a este tema.
+
+Sinceramente,
+<name>
+Customer Service answer: Asunto: Re: Problema de conectividad de Oracle Database 19c
+
+Estimado <name>,
+
+Gracias por contactarnos. Entendemos la urgencia de resolver el problema de conectividad con su Oracle Database 19c. Por favor, comience verificando la configuración de su red y asegúrese de que el servidor de base de datos esté en funcionamiento. Verifique su firewall y la configuración de seguridad que pueda bloquear el acceso. Reiniciar tanto la base de datos como su servidor de aplicaciones puede ayudar.
+
+Si el problema persiste, proporcione cualquier registro de errores que pueda ofrecer más detalles para una solución de problemas más profunda. Nuestro equipo está listo para ayudar más si es necesario.
+
+Saludos cordiales,
+Equipo de Service Desk

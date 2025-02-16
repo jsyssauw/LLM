@@ -1,0 +1,10 @@
+Ticket ID: ticket_3047
+Subject: Solicitação de Troca: Problema com a Impressora Canon PIXMA MG3620
+Incident Type: Incident
+Customer Issue: Caro time de Suporte ao Cliente, recentemente comprei uma impressora Canon PIXMA MG3620 em sua loja online. Ao configurá-la, descubri que as configurações de rede sem fio estavam incorretas. Gostaria de solicitar uma troca deste item. Por favor, informe o procedimento. Obrigado, <name>. Minha referência de pedido é <order_ref_num>.
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre o problema com sua impressora Canon PIXMA MG3620. Pedimos desculpas pelo inconveniente. Para processar uma troca, por favor, devolva a impressora usando a embalagem original, incluindo todos os acessórios. Visite nosso portal de devoluções em nosso site e insira sua referência de pedido <order_ref_num> para iniciar a devolução. Assim que processada, enviaremos uma substituição para você. Se você tiver mais perguntas, não hesite em entrar em contato.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

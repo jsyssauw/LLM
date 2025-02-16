@@ -1,0 +1,39 @@
+Ticket ID: ticket_1109
+Subject: Wireless connection issues with Canon printer
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to seek assistance with an issue I am experiencing with my Canon PIXMA MG3620 printer, which I purchased from your store. Recently, I have encountered ongoing problems with its wireless connection that have rendered the device unable to print from any of my mobile devices.
+
+Initially, the printer worked without any issues, seamlessly printing documents via a wireless connection from both my smartphone and tablet. However, over the past week, it has repeatedly failed to connect to my wireless network. Regardless of multiple reset attempts and troubleshooting efforts using the Canon guidelines, the problem persists, making the printer virtually unusable for my needs.
+
+When I try to initiate a print job, the devices are unable to communicate with the printer, showing varying error messages such as 'Printer not available' or 'Cannot connect to printer'. I have verified that my wireless network is operational and that my mobile devices can connect to other wireless services without any problem.
+
+Could you please provide guidance on resolving this issue? If necessary, I am willing to bring the printer to one of your physical locations or to send it in for a more thorough diagnostic to determine the cause of the connectivity issues. Your assistance in restoring the printer's functionality would be greatly appreciated.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+
+<name>
+
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand the inconvenience caused by the wireless connection issue with your Canon PIXMA MG3620 printer.
+
+Please try the following steps:
+1. Ensure your printer's firmware is up to date.
+2. Confirm that the printer is within range of your wireless router.
+3. Restart both your wireless router and the printer.
+4. Verify that your mobile devices are connected to the same network as the printer.
+5. Try reinstalling the Canon print app on your mobile devices and re-adding the printer to your devices' list.
+
+If these steps don't resolve the issue, we recommend bringing the printer to our store for assessment or contacting Canon support for further guidance.
+
+Should you need to send the printer to us, we'll provide instructions for a diagnostic check.
+
+Please let us know how you wish to proceed.
+
+Best regards,
+Tech Online Store Customer Support

@@ -1,0 +1,28 @@
+Ticket ID: ticket_2859
+Subject: Assistance requise pour l'efficacité des coûts AWS
+Incident Type: Request
+Customer Issue: Cher support client des services informatiques,
+
+J'espère que ce message vous trouve bien. Je vous contacte pour demander de l'aide afin d'optimiser notre utilisation d'AWS afin de réduire les coûts opérationnels et d'améliorer les performances de notre infrastructure cloud. Nous avons utilisé le service de gestion AWS, mais nous avons constaté une augmentation de nos dépenses mensuelles et certains goulets d'étranglement de performance qui affectent notre flux de travail.
+
+Notre entreprise, <name> Inc., est un client de longue date de vos services, et nous avons confiance en l'expertise que votre équipe offre en gestion cloud. Nous apprécierions votre aide pour évaluer notre architecture AWS actuelle, identifier les inefficacités et mettre en œuvre les meilleures pratiques pour des opérations cloud rentables.
+
+Veuillez nous faire savoir si nous pouvons programmer un appel de consultation à votre convenance. Vous pouvez me joindre au <tel_num> ou répondre à cet e-mail avec vos disponibilités.
+
+Merci de votre attention à cette affaire. Nous sommes impatients de travailler avec vous pour améliorer notre performance cloud.
+
+Cordialement,
+
+<name>
+Numéro de compte : <acc_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés au sujet de l'optimisation de votre utilisation d'AWS. Nous comprenons l'importance de l'efficacité des coûts et d'une performance cloud sans faille. Nous serions heureux de vous aider à évaluer votre architecture AWS et à identifier les domaines potentiels d'amélioration.
+
+Veuillez nous faire savoir vos horaires préférés pour un appel de consultation, et nous ferons de notre mieux pour nous adapter. Vous pouvez nous joindre à cet e-mail ou nous contacter directement au <tel_num>.
+
+Dans l'attente de vous aider, <name> Inc., à améliorer vos opérations cloud.
+
+Cordialement,
+
+L'équipe de support client des services informatiques

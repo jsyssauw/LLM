@@ -1,0 +1,37 @@
+Ticket ID: ticket_1827
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado Servicio de Atención al Cliente de Tech Online Store,
+
+Espero que este mensaje te encuentre bien. Me estoy comunicando respecto a un problema que estoy experimentando con mi Dell XPS 13 9310 adquirido recientemente. Originalmente compré este dispositivo para ayudar con mi trabajo, particularmente tareas como la edición de video, que requieren un rendimiento robusto. Sin embargo, he notado que la laptop se sobrecalienta significativamente al manejar tareas tan intensivas.
+
+El problema de sobrecalentamiento se manifiesta principalmente al usar software de edición de video y otras aplicaciones que demandan mucho rendimiento. Los ventiladores del dispositivo se vuelven extremadamente ruidosos, y la parte inferior de la laptop está bastante caliente al tacto. Este sobrecalentamiento persiste a pesar de mis intentos de mitigarlo trabajando en un ambiente fresco, manteniendo la laptop sobre una superficie dura y plana para una ventilación óptima, y actualizando todos los controladores y software a las últimas versiones.
+
+Este problema me preocupa, no solo porque afecta el rendimiento y la usabilidad de mi laptop, sino también porque me preocupa el posible daño a largo plazo a los componentes debido al calor excesivo. Soy consciente de que la serie Dell XPS 13 es conocida por su diseño compacto, lo que a veces puede causar limitaciones térmicas, pero no anticipé encontrarme con un sobrecalentamiento tan severo.
+
+Agradecería enormemente si pudieran ofrecer orientación sobre cómo abordar este problema. ¿Recomendarían algún paso específico para la solución de problemas, o debería considerar llevar la laptop a servicio? Por favor, háganme saber cómo podría proceder para prevenir más ocurrencias de sobrecalentamiento.
+
+Gracias por su asistencia. Espero con ansias sus recomendaciones sobre este asunto.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarte con el Servicio de Atención al Cliente de Tech Online Store. Lamento escuchar los problemas de sobrecalentamiento con tu Dell XPS 13 9310. Aquí hay algunos pasos que puedes considerar para abordar este problema:
+
+1. **Ajustar la Configuración de Energía:** Asegúrate de que la configuración de energía esté establecida para equilibrar rendimiento y refrigeración. Puedes navegar a Configuración > Sistema > Energía y suspensión > Configuraciones de energía adicionales y seleccionar "Equilibrado."
+
+2. **Verificar Procesos de Fondo:** Asegúrate de que no se estén ejecutando aplicaciones innecesarias en segundo plano que podrían contribuir al sobrecalentamiento.
+
+3. **Software de Gestión Térmica:** Instala o actualiza cualquier software recomendado por el fabricante que ayude a gestionar la salida térmica de tu dispositivo.
+
+4. **Considerar Almohadillas de Refrigeración:** Una almohadilla de refrigeración externa puede ayudar a reducir el calor proporcionando un flujo de aire adicional.
+
+5. **Revisar la Temperatura de la Habitación y Ventilación:** A pesar de que mencionaste trabajar en un ambiente fresco, asegúrate de que haya un flujo de aire adecuado alrededor de la laptop en todo momento.
+
+Si el problema persiste, podría ser conveniente que revisen tu laptop por posibles problemas de hardware. Por favor, háganos saber si deseas asistencia para programar una cita de servicio.
+
+Agradecemos tu paciencia y esperamos que estas soluciones mejoren tu experiencia. Si necesitas más ayuda, no dudes en contactarnos nuevamente.
+
+Atentamente,
+Servicio de Atención al Cliente de Tech Online Store

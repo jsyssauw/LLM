@@ -1,0 +1,25 @@
+Ticket ID: ticket_3546
+Subject: Problemas de conectividad con el router Cisco
+Incident Type: Problem
+Customer Issue: Estimado servicio de atención al cliente,
+
+Estoy experimentando problemas de conectividad esporádicos con mi router Cisco ISR4331, que compré recientemente. La conexión se cae inesperadamente y sospecho que puede haber un problema de configuración. Agradecería cualquier orientación o apoyo que puedan proporcionar para resolver este problema. Por favor asistan a la mayor brevedad posible.
+
+Gracias,
+
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarte con respecto a los problemas de conectividad con tu router Cisco ISR4331. Para poder ayudarte mejor, por favor intenta los siguientes pasos:
+
+1. Asegúrate de que todos los cables estén bien conectados.
+2. Reinicia el router y cualquier dispositivo conectado.
+3. Verifica el firmware actual y actualiza si es necesario.
+4. Verifica todas las configuraciones en la interfaz del router. Presta especial atención a los ajustes de DHCP, NAT y enrutamiento.
+5. Restablece el router a los ajustes de fábrica si el problema persiste y reconfigura el dispositivo desde cero.
+
+Si estos pasos no resuelven el problema, por favor contacta a nuestro equipo de soporte para obtener más ayuda.
+
+Saludos cordiales,
+Agente de mesa de servicio

@@ -1,0 +1,23 @@
+Ticket ID: ticket_1663
+Subject: Häufige Verbindungsprobleme mit Zoom
+Incident Type: Incident
+Customer Issue: Sehr geehrte IT-Services-Kundenbetreuung,
+
+ich schreibe, um mein Anliegen über Verbindungsprobleme während meiner Zoom-Videokonferenzen auszudrücken. Ich habe erhebliche Verzögerungen und häufige Verbindungsverluste erlebt, was sich negativ auf meine Produktivität auswirkt. Das Problem tritt bei der Zoom-Version 5.11.0 auf. Trotz Fehlersuche und Überprüfung meiner Internetverbindung scheint das Problem weiterhin zu bestehen. Während der Anrufe ist es schwierig, effektiv zu kommunizieren, was frustrierend den Fluss wichtiger Besprechungen stört. Dies hat es erheblich problematisch gemacht, eine effiziente Kommunikation mit Kunden und Kollegen aufrechtzuerhalten. Ich glaube, dass dieses Problem möglicherweise nicht nur mir betrifft, da auch andere Teammitglieder, die dieselbe Version verwenden, ähnliche Herausforderungen haben. Ich würde es sehr schätzen, wenn Ihr Team diese Angelegenheit gründlich untersuchen und mir Ratschläge zu möglichen Lösungen oder Updates geben könnte, die diese Probleme mindern könnten. Ihre zeitnahe Antwort wird sehr geschätzt, da es für meine Arbeitsroutine von entscheidender Bedeutung ist, stabilen und zuverlässigen Zugang zu Zoom zu haben. Vielen Dank für Ihre umgehende Aufmerksamkeit zu diesem Thema.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns bezüglich der Verbindungsprobleme mit Zoom kontaktiert haben. Wir verstehen, wie wichtig eine stabile Videokonferenz für Ihre Produktivität ist. Uns sind Probleme mit der Version 5.11.0 bekannt und wir untersuchen das Problem.
+
+Bitte beachten Sie in der Zwischenzeit die folgenden Schritte:
+1. Stellen Sie sicher, dass Ihr Zoom-Client auf die neueste Version aktualisiert ist.
+2. Starten Sie Ihr Gerät sowie Ihr Modem/Router neu.
+3. Überprüfen Sie, ob im Hintergrund bandbreitenintensive Anwendungen laufen, und schließen Sie diese.
+4. Wenn möglich, wechseln Sie zu einer kabelgebundenen Verbindung für mehr Stabilität.
+
+Wir halten Sie über unsere Erkenntnisse und offizielle Updates von Zoom auf dem Laufenden, die diese Probleme adressieren könnten. Wir schätzen Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+IT Services Kundenbetreuung

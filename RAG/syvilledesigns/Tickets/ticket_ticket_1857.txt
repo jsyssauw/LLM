@@ -1,0 +1,23 @@
+Ticket ID: ticket_1857
+Subject: Conexão Sem Fio Defeituosa da Canon PIXMA MG3620
+Incident Type: Incident
+Customer Issue: Caro Suporte da Loja Online de Tecnologia,
+
+Recentemente comprei uma impressora Canon PIXMA MG3620 na sua loja, mas, infelizmente, encontrei um problema com sua conexão sem fio. A impressora frequentemente desconecta do Wi-Fi, tornando impossível o uso. Tentei várias etapas de solução de problemas, mas sem sucesso. Você poderia me ajudar a processar a troca ou unidade de substituição?
+
+Meu número de conta é <acc_num>. Você pode me contatar pelo <tel_num> se mais informações forem necessárias.
+
+Obrigado pela sua assistência.
+
+Atenciosamente,
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Lamentamos saber sobre os problemas com sua impressora Canon PIXMA MG3620. Dadas as etapas de solução de problemas que você já realizou, recomendamos facilitar uma troca ou substituição. Iniciamos o processo em seu nome. Por favor, aguarde um e-mail com mais instruções em breve.
+
+Se alguma informação adicional for necessária, entraremos em contato pelo <tel_num>.
+
+Obrigado pela sua paciência e compreensão.
+
+Atenciosamente,
+Suporte da Loja Online de Tecnologia

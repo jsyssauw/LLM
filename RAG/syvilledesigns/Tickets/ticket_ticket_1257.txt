@@ -1,0 +1,5 @@
+Ticket ID: ticket_1257
+Subject: Problem mit dem MacBook Air
+Incident Type: Problem
+Customer Issue: Der Bildschirm flackert gelegentlich.
+Customer Service answer: Bitte aktualisieren Sie Ihr macOS und deaktivieren Sie alle Energiesparoptionen.

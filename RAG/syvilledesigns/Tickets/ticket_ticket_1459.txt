@@ -1,0 +1,28 @@
+Ticket ID: ticket_1459
+Subject: Intermittent Wi-Fi Issues
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am experiencing intermittent Wi-Fi connectivity issues with my Dell XPS 13 9310, significantly affecting my online work efficiency. The connection drops unexpectedly, disrupting ongoing tasks. It's been consistent regardless of the network used. I'm seeking assistance in resolving this issue as soon as possible since it hampers productivity. Could you please guide me through potential troubleshooting steps or recommend a repair service if necessary? I would appreciate your prompt attention to this matter. Thank you for your support.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the Wi-Fi connectivity issues with your Dell XPS 13 9310. We understand how disruptive this can be to your work, and we're here to help.
+
+To begin troubleshooting, please try the following steps:
+
+1. Update Network Drivers: Ensure that your Wi-Fi drivers are up-to-date by checking Dell's support website or using the device manager in Windows.
+2. Check Power Management Settings: Go to the Device Manager, find your Wi-Fi adapter under Network Adapters, and ensure that the power management settings are not set to turn off the device to save power.
+3. Change Wi-Fi Channel: If you have access to your router settings, try changing the Wi-Fi channel to a less crowded one.
+4. Forget and Reconnect to Networks: Forget your known networks and connect again to see if the connection stabilizes.
+5. Reset Network Settings: As a last resort, consider performing a network reset.
+
+If issues persist, please consider contacting a local Dell service center for further assistance.
+
+We are here if you need further support.
+
+Best regards,
+Customer Support Team

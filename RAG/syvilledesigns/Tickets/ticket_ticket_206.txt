@@ -1,0 +1,17 @@
+Ticket ID: ticket_206
+Subject: Request to Upgrade Jira
+Incident Type: Change
+Customer Issue: Dear Customer Support,
+
+I am writing to request an upgrade to Jira Software version 8.20 to leverage new Confluence integrations for improved project management. The additional features are essential for enhancing our team's productivity.
+
+Thank you for your assistance.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for your request to upgrade to Jira Software version 8.20. We will review your request and begin the upgrade process as soon as possible. You will be notified once the upgrade is complete.
+
+Best regards,
+Customer Support

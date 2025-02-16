@@ -1,0 +1,10 @@
+Ticket ID: ticket_1215
+Subject: Demande de retour ou d'échange
+Incident Type: Request
+Customer Issue: Bonjour Service Client, J'espère que ce message vous trouve en bonne santé. Je vous écris pour demander un retour ou un échange en raison d'un problème que je rencontre avec l'imprimante Canon PIXMA MG3620 achetée dans votre boutique en ligne Tech. Malheureusement, l'imprimante provoque des bourrages papier chaque fois que j'essaie d'imprimer en recto verso. J'ai essayé de dépanner l'appareil en suivant les instructions du manuel, mais le problème persiste. Comme ce problème rend difficile l'utilisation de l'imprimante pour son usage prévu, je demande gentiment des conseils sur la façon de procéder pour un retour ou un échange de ce produit. J'attends avec impatience votre assistance rapide pour résoudre ce problème. Merci pour votre attention à ce sujet. Cordialement, <name>.
+Customer Service answer: Bonjour <name>,
+
+Merci de nous avoir contactés. Nous sommes désolés d'apprendre que vous avez des problèmes avec votre Canon PIXMA MG3620. Veuillez vous assurer d'avoir votre numéro de commande et les informations d'achat à portée de main. Vous pouvez initier un retour ou un échange en visitant notre site web de Boutique en ligne Tech et en naviguant vers la section 'Retours et Échanges'. Si vous avez besoin de plus d'assistance ou de conseils supplémentaires sur le processus, n'hésitez pas à répondre à cet e-mail ou à appeler notre service client au <tel_num>. Nous apprécions votre patience et votre compréhension.
+
+Cordialement,
+Équipe du Service Client

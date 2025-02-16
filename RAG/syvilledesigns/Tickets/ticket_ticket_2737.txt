@@ -1,0 +1,24 @@
+Ticket ID: ticket_2737
+Subject: Dringende Hilfe für AWS-Dienst benötigt
+Incident Type: Request
+Customer Issue: Sehr geehrter IT-Services-Support,
+
+ich wende mich an Sie, um sofortige Hilfe bei einem Problem mit dem AWS-Management-Service zu beantragen. Kürzlich hatten wir unerwartete Serverlaufzeiten, die zu höheren Kosten geführt haben. Wir benötigen dringend Unterstützung, um unsere Servernutzung zu optimieren und dieses Problem umgehend zu beheben. Bitte teilen Sie uns den besten Kurs und alle Schritte zur Fehlersuche mit, die wir unternehmen können.
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Um Ihre AWS-Servernutzung zu optimieren und die Kostenüberschreitung zu beheben, empfehle ich die folgenden Schritte:
+
+1. Überprüfen Sie die Nutzungsmuster in der AWS-Managementkonsole.
+2. Nutzen Sie den AWS Trusted Advisor für Vorschläge zur Kostenoptimierung.
+3. Implementieren Sie Auto Scaling, um die Serverkapazität dynamisch anzupassen.
+4. Erwägen Sie reservierte oder Spot-Instanzen zur Kosteneinsparung.
+
+Für weitere Unterstützung wenden Sie sich bitte direkt an den AWS-Support.
+
+Mit freundlichen Grüßen,
+IT-Services-Support

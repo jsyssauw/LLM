@@ -1,0 +1,10 @@
+Ticket ID: ticket_840
+Subject: Dringend: Laptop-Stromproblem
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich habe vor kurzem einen Dell XPS 13 9310 in Ihrem Online-Shop gekauft. Leider lässt er sich nicht einschalten. Bitte geben Sie eine dringende Lösung an, um dieses Problem schnell zu beheben.
+
+Danke,
+<name>
+Customer Service answer: Sehr geehrter <name>, bitte versuchen Sie, das Laptop zurückzusetzen, indem Sie alle Peripheriegeräte trennen und die Ein / Aus- Taste 30 Sekunden lang gedrückt halten. Wenn das Problem weiterhin besteht, kontaktieren Sie bitte unseren Support unter <tel_num> für weitere Unterstützung.

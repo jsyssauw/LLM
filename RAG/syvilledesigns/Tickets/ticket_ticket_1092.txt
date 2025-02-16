@@ -1,0 +1,15 @@
+Ticket ID: ticket_1092
+Subject: Solicitud para actualizar los detalles de pago para el pedido de Epson EcoTank ET-4760
+Incident Type: Change
+Customer Issue: Hola Soporte al Cliente,
+
+Espero que este correo te encuentre bien. Estoy escribiendo para solicitar una actualización de mis detalles de pago para mi pedido reciente del Epson EcoTank ET-4760. Por favor, actualiza tu sistema de facturación con la nueva información de pago vinculada al número de cuenta <acc_num>. Si necesitas más información, no dudes en contactarme al <tel_num> o enviarme un correo electrónico. Gracias por tu asistencia.
+
+Saludos,
+<name>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por ponerte en contacto. Estamos felices de ayudarte a actualizar tus detalles de pago para el pedido del Epson EcoTank ET-4760. Por motivos de seguridad, por favor accede o visita tu cuenta en nuestro sitio web y actualiza tu información de facturación allí. Alternativamente, puedes contactar a nuestro servicio al cliente directamente al <support_tel> para asistencia personalizada. Si tienes más preguntas, no dudes en responder a este correo.
+
+Atentamente,
+Equipo de Atención al Cliente

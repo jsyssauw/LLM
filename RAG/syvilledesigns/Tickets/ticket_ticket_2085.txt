@@ -1,0 +1,36 @@
+Ticket ID: ticket_2085
+Subject: Resolución de interrupciones de servicio solicitada para problemas en curso
+Incident Type: Change
+Customer Issue: Estimado Cliente del Soporte de Servicios de TI,
+
+Escribo para expresar nuestra preocupación respecto a una reciente interrupción de servicio que afectó severamente nuestras operaciones regulares. Esto fue específicamente relacionado con el Servicio de Consultoría de TI proporcionado por su equipo. La interrupción impactó significativamente nuestro flujo de trabajo, causando retrasos y potencial pérdida de ingresos.
+
+Para prevenir problemas similares en el futuro, estamos buscando su experiencia en desarrollar e implementar soluciones integrales de TI. Considerando la naturaleza crítica de nuestras operaciones, es imperativo que aseguremos el máximo tiempo de actividad y confiabilidad de todos los servicios relacionados con TI.
+
+Apreciamos el apoyo inmediato y las medidas preventivas que su empresa puede ofrecer. Sería muy beneficioso discutir posibles soluciones que puedan mejorar la resiliencia de nuestro sistema y reducir la vulnerabilidad a interrupciones inesperadas.
+
+Además, por favor háganos saber si hay servicios de mantenimiento o mejoras que deban programarse para optimizar el rendimiento y la confiabilidad de nuestra infraestructura existente. Amablemente, proporciónenos una propuesta detallada a la mayor brevedad posible.
+
+Gracias por su atención a este asunto crítico. Esperamos su pronta acción y asociación para resolver eficazmente estos problemas.
+
+Atentamente,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por comunicarse con nosotros respecto a la reciente interrupción de servicio que afecta su Servicio de Consultoría de TI. Lamentamos sinceramente cualquier interrupción que haya causado en sus operaciones.
+
+Entendemos la importancia de asegurar el máximo tiempo de actividad y confiabilidad. Nuestro equipo está comprometido a analizar este problema a fondo para prevenir futuras ocurrencias y establecerá un plan para soluciones integrales de TI. También evaluaremos su infraestructura actual para proponer las actualizaciones o servicios de mantenimiento necesarios para optimizar el rendimiento y la confiabilidad.
+
+Para abordar esto con prontitud, programemos una reunión para discutir soluciones específicas y estrategias adaptadas a sus necesidades. Prepararemos una propuesta detallada que describa los pasos que podemos tomar para mejorar la resiliencia de su sistema.
+
+Agradecemos su confianza en nosotros y estamos dedicados a trabajar en estrecha colaboración con usted para resolver rápidamente estos problemas. Por favor, espere nuestra propuesta en breve.
+
+Gracias por su paciencia y comprensión.
+
+Atentamente,
+
+Equipo de Soporte al Cliente  
+Servicios de TI

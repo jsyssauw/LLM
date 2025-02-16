@@ -1,0 +1,33 @@
+Ticket ID: ticket_2077
+Subject: Assistance Required for Scrum Board Setup
+Incident Type: Request
+Customer Issue: Dear Customer Support Team, 
+
+I hope this message finds you well. I am writing to request assistance with setting up Scrum boards in Jira Software 8.20. We are aiming to enhance our project management efficiency and believe that utilizing Scrum boards would significantly benefit our workflow. 
+
+Currently, we've encountered some challenges in configuring the boards to align with our project requirements and ensure seamless integration with the existing processes. Since we are relatively new to using Jira Software, we would appreciate step-by-step guidance on how to optimize the settings and features tailored to meet the project’s needs. 
+
+Could you please provide us with detailed instructions or any available resources such as guides or tutorials that could assist us in this setup process? If possible, we would also like to schedule a call with one of your support specialists for personalized advice. 
+
+Thank you for your attention and support in this matter. We look forward to your prompt response. 
+
+Best regards, 
+
+<name> 
+<tel_num> 
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the Scrum board setup in Jira Software 8.20. We are glad to assist you in optimizing your project management workflow.
+
+To get you started, here are some resources:
+1. Jira Software documentation: This comprehensive guide provides step-by-step instructions to create and configure Scrum boards.
+2. Atlassian Community: A platform to find tutorials and connect with experts for various setup tips.
+
+For personalized guidance, we can schedule a call with one of our specialists. Please let us know your preferred date and time, and we will arrange it accordingly.
+
+We are here to ensure a smooth setup and enhance your team's efficiency. Please feel free to reach out with any further questions.
+
+Warm regards,
+
+Customer Support Team

@@ -1,0 +1,30 @@
+Ticket ID: ticket_3946
+Subject: Consulta de Facturación
+Incident Type: Request
+Customer Issue: Estimado equipo de atención al cliente,
+
+Estoy escribiendo para expresar mis preocupaciones respecto a la información de facturación de Jira Software 8.20 bajo mi cuenta <acc_num>. He notado varias instancias poco claras en el procesamiento de pagos en mis facturas recientes. Específicamente, hay un cargo mensual alto recurrente que no puedo explicar. Agradecería si pudieran proporcionar un desglose detallado de los cargos en mi estado de cuenta.
+
+Las facturas indican diferentes montos cada mes y esta inconsistencia ha levantado preocupaciones de mi parte. Sería útil entender los cálculos detrás de estos cargos y si reflejan todos los servicios utilizados bajo el plan actual.
+
+Además, si hay características adicionales o mejoras en el servicio incluidas en las tarifas mensuales, ¿podrían aclarar cuáles son? Cualquier información o aclaración adicional sobre este asunto sería muy apreciada.
+
+Adicionalmente, he intentado contactar su línea de soporte al <tel_num> pero aún no he recibido una explicación o respuesta satisfactoria. Por favor, aborden este problema a la mayor brevedad para prevenir cualquier interrupción en el servicio.
+
+Gracias por su atención y pronta resolución de este asunto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarte con nosotros sobre tu consulta de facturación respecto a Jira Software 8.20 bajo la cuenta <acc_num>. Comprendemos tus preocupaciones sobre los cargos altos recurrentes y las inconsistencias en tus facturas mensuales.
+
+Para ayudarte, proporcionaremos un desglose detallado de los cargos indicados en tu estado de cuenta y aclararemos cualquier característica adicional o mejora en el servicio que pueda estar contribuyendo a las tarifas mensuales. Por favor, permítenos un tiempo para revisar los detalles de tu cuenta y las facturas recientes.
+
+Lamentamos la incomodidad que experimentaste al intentar ponerte en contacto con nuestro equipo de soporte al <tel_num>. Ten la seguridad de que estamos priorizando este asunto y te proporcionaremos una respuesta más clara y completa en breve.
+
+Gracias por tu paciencia y comprensión. Nos pondremos en contacto contigo lo antes posible para resolver este asunto y asegurar que tus servicios continúen sin interrupciones.
+
+Atentamente,
+Equipo de Atención al Cliente

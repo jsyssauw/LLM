@@ -1,0 +1,19 @@
+Ticket ID: ticket_2765
+Subject: Fallos en el Despliegue y Solicitud de Optimización de Costos
+Incident Type: Problem
+Customer Issue: Estimado Soporte al Cliente,
+
+Nuestro cliente <name> está experimentando fallos en el despliegue con su Servicio de Gestión de AWS. También les gustaría explorar opciones para la optimización de costos de su configuración e infraestructura de AWS existentes. El número de cuenta del cliente es <acc_num>. Por favor, asista con este asunto a la mayor brevedad posible. Puede contactarme al <tel_num>.
+
+Gracias.
+
+Atentamente,
+<name>
+Customer Service answer: Asunto: Re: Fallos en el Despliegue y Solicitud de Optimización de Costos
+
+Estimado <name>,
+
+Gracias por contactarnos respecto a los problemas que su cliente está enfrentando. Para los fallos en el despliegue con el Servicio de Gestión de AWS, por favor asegúrese de que todas las configuraciones y permisos estén configurados correctamente. Podemos guiarle a través de un proceso de resolución de problemas detallado si es necesario. Para la optimización de costos, podemos realizar un análisis de la configuración de AWS de su cliente para identificar oportunidades de ahorro. Por favor, proporcione más detalles sobre sus patrones de uso. Me pondré en contacto con usted pronto para discutir los próximos pasos.
+
+Atentamente,
+Equipo de Soporte al Cliente

@@ -1,0 +1,24 @@
+Ticket ID: ticket_100
+Subject: Dringendes Update für Jira Software 8.20 erforderlich
+Incident Type: Change
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um dringend ein Update für unser kundenorientiertes Projektmanagement-Tool, Jira Software 8.20, anzufordern. Unser Team hat mit einem Ausfall zu kämpfen, der unsere Serviceverfügbarkeit und die Teamkoordination erheblich beeinträchtigt. Wie Sie sich vorstellen können, hat diese Störung Auswirkungen auf unsere wichtigen Projektlieferungen. Wir bitten Sie freundlich um Ihr sofortiges Eingreifen, um das Problem zu lösen. Bitte informieren Sie uns über alle Schritte, die wir unternehmen sollten, um Ihnen zu helfen, diesen Prozess zu beschleunigen.
+
+Ich freue mich auf Ihre schnelle Antwort.
+
+Vielen Dank,
+
+<name>
+Projektmanager
+<company_name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich des Problems mit Jira Software 8.20 an uns gewandt haben. Wir verstehen die Dringlichkeit und die Auswirkungen auf Ihre Abläufe. Unser technisches Team schaut sich dieses Problem bereits an und hat es priorisiert, um die volle Funktionalität so schnell wie möglich wiederherzustellen.
+
+In der Zwischenzeit bitten wir Sie sicherzustellen, dass alle Teammitglieder ihre lokalen Installationen mit den neuesten Patches aktualisiert haben und alle Browser-Caches oder Cookies löschen, die den Service stören könnten. Wir werden Sie über unseren Fortschritt auf dem Laufenden halten und Sie umgehend benachrichtigen, sobald das Problem behoben ist.
+
+Wir schätzen Ihre Geduld und Zusammenarbeit. Wenn Sie weitere Informationen oder Updates haben, können Sie uns gerne direkt kontaktieren.
+
+Mit freundlichen Grüßen,
+Service Desk Team

@@ -1,0 +1,30 @@
+Ticket ID: ticket_3165
+Subject: Zoom plante pendant les webinaires
+Incident Type: Incident
+Customer Issue: Cher équipe de support client,
+
+Je vous écris pour attirer votre attention sur un problème persistant avec l'application de vidéoconférence, Zoom, en particulier la version 5.11.0. Pendant les webinaires, l'application plante fréquemment, causant des interruptions importantes dans des présentations critiques pour nos utilisateurs. Cela est devenu de plus en plus frustrant et commence à impacter notre productivité globale et la satisfaction de nos utilisateurs.
+
+Nous comptons beaucoup sur Zoom pour une communication et un engagement sans faille pendant ces sessions. Il est crucial pour nos opérations que ce problème soit résolu dans les plus brefs délais. Veuillez conseiller sur toutes solutions possibles ou mises à jour qui pourraient aider à atténuer ce problème.
+
+Merci pour votre attention immédiate à cette affaire.
+
+Cordialement,
+
+<name>
+
+<acc_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous nous excusons pour les désagréments que vous rencontrez avec Zoom 5.11.0. Veuillez essayer les étapes de dépannage suivantes pour résoudre le problème :
+
+1. Assurez-vous que votre appareil répond aux exigences système de Zoom.
+2. Vérifiez s'il existe des mises à jour disponibles pour l'application Zoom et installez-les.
+3. Redémarrez votre appareil pour effacer tout problème temporaire.
+4. Fermez les applications inutilisées pour libérer des ressources système pendant les webinaires Zoom.
+5. Mettez à jour le système d'exploitation et les pilotes de votre appareil.
+
+Si le problème persiste, veuillez fournir tout message d'erreur pour une assistance supplémentaire.
+
+Cordialement,
+Équipe de support client

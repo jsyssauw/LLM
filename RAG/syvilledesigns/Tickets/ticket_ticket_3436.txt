@@ -1,0 +1,8 @@
+Ticket ID: ticket_3436
+Subject: Issue with HP DeskJet 3755 Wireless Function
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store customer support, I cannot connect my HP DeskJet 3755 to mobile devices using the wireless function. Please assist me in resolving this issue. Thank you! Regards, <name>
+Customer Service answer: Dear <name>, Ensure your HP DeskJet 3755 is on, Wi-Fi is enabled, and connected to the same network as your mobile device. For detailed steps, visit the HP support website. Thank you! 
+
+Best regards, 
+Tech Online Store Customer Support

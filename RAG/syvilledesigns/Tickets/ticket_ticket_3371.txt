@@ -1,0 +1,29 @@
+Ticket ID: ticket_3371
+Subject: Urgente: Laptop Dell XPS 13 9310 No Enciende
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Me pongo en contacto para informar un problema crítico con la laptop Dell XPS 13 9310 que se compró recientemente en su tienda en línea Tech. No está encendiendo, y esto está causando una interrupción significativa ya que el dispositivo es urgentemente necesario para proyectos en curso. La laptop es una parte crucial de nuestras operaciones diarias, y solicitamos atención inmediata a este asunto.
+
+La compra se realizó bajo el número de cuenta <acc_num>, y el pedido fue entregado en la fecha esperada. Sin embargo, este problema se encontró directamente fuera de la caja. Agradeceríamos que pudieran proporcionar orientación sobre los próximos pasos o organizar un reemplazo o reparación a la brevedad.
+
+Gracias por su pronta asistencia.
+
+Atentamente,
+
+<name>
+<name@example.com>
+<tel_num>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por contactarnos con respecto al problema con su laptop Dell XPS 13 9310. Nos disculpamos por los inconvenientes que esto ha causado, especialmente dada la función crítica que desempeña en sus operaciones.
+
+Para abordar esto de inmediato, asegúrese de que la laptop esté conectada a una fuente de alimentación funcionando, ya que a veces el problema puede estar en el adaptador o en el tomacorriente. Si el problema persiste, aceleraremos el proceso de reparación o reemplazo de su laptop. Prepare cualquier documentación de compra o información de garantía para facilitar esto.
+
+Nuestro equipo se pondrá en contacto con usted pronto con más instrucciones, o puede comunicarse directamente con nosotros al <our_contact_number> para asistencia inmediata. Estamos comprometidos a resolver este problema de manera eficiente.
+
+Gracias por su comprensión y paciencia.
+
+Atentamente,
+Equipo de Soporte al Cliente
+Tienda en Línea Tech

@@ -1,0 +1,5 @@
+Ticket ID: ticket_2501
+Subject: Intermittent connectivity issues with Cisco Router ISR4331
+Incident Type: Incident
+Customer Issue: Router ISR4331 is experiencing connectivity issues, impacting network performance and user access. Need your support.
+Customer Service answer: Thank you for contacting us. We've logged your issue with the Cisco ISR4331 router and will have our team investigate promptly.

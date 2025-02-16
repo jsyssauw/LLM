@@ -1,0 +1,5 @@
+Ticket ID: ticket_427
+Subject: Integrationsanfrage
+Incident Type: Change
+Customer Issue: Bitte integrieren Sie die Verkaufs-App mit der Vorverkaufsdatenbank; als niedrige Priorität kennzeichnen.
+Customer Service answer: Vielen Dank für Ihre Anfrage. Wir werden mit der Integration der Verkaufs-App in die Vorverkaufsdatenbank mit niedriger Priorität fortfahren.

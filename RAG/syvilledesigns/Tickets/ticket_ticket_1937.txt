@@ -1,0 +1,12 @@
+Ticket ID: ticket_1937
+Subject: Repetitive Billing Inconsistencies
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I am writing to report recurring billing issues with AWS Management Service on my account <acc_num>. Despite previous communications, the invoices continue to indicate incorrect amounts. This has caused considerable inconvenience and requires immediate correction. An example is the recent invoice dated 15th October, which included services not utilized. Kindly review the account details and rectify this discrepancy at the earliest. I can be reached at <tel_num> for further discussion on this matter. Thank you, <name>.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the billing issues with your AWS Management Service account <acc_num>. We apologize for the inconvenience this has caused. Our team is currently reviewing your account to identify and rectify the inconsistencies, including the incorrect charges on the invoice dated 15th October. We will ensure that this issue is resolved promptly.
+
+For any further discussions, please feel free to reach out at <tel_num>. We appreciate your patience and understanding in this matter.
+
+Best regards,
+Customer Support Team

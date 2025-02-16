@@ -1,0 +1,18 @@
+Ticket ID: ticket_3746
+Subject: Urgent: AWS Management Service Downtime Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I am writing to inform you about an issue with your AWS Management Service, which recently experienced unscheduled downtime. This disruption has significantly impacted client virtual server access. We need immediate assistance to resolve the issue and ensure no further interruptions occur. Please prioritize restoring functionality and keeping us updated on your progress. We rely heavily on your service, and such incidents affect our operations critically. Quick action would be appreciated. Contact me at <tel_num> for further discussion.
+
+Thank you,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We apologize for the inconvenience caused by the unscheduled downtime of our AWS Management Service. We understand the critical impact on your operations and are currently working on resolving the issue. Rest assured, our team is prioritizing the restoration of full service functionality. We will keep you updated on our progress and actions taken. For further discussion, please expect a direct call shortly.
+
+Thank you for your patience and understanding.
+
+Best regards,
+Service Desk Team

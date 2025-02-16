@@ -1,0 +1,31 @@
+Ticket ID: ticket_1530
+Subject: Problema Urgente: O Colapso do Sistema de Tickets do Jira Software
+Incident Type: Problem
+Customer Issue: Prezado Time de Suporte ao Cliente,
+
+Estou escrevendo para expressar minha preocupação em relação a um problema significativo que estamos enfrentando com a versão 8.20 do Jira Software durante nossas importantes reuniões de scrum. Esse problema está causando uma interrupção substancial em nosso processo de gerenciamento de projetos, e precisamos de assistência urgente para resolvê-lo.
+
+Durante nossas recentes sessões de scrum, o sistema de tickets do Jira começou a travar inesperadamente, interrompendo nosso fluxo de trabalho e impedindo nossa capacidade de rastrear e gerenciar nossas tarefas de desenvolvimento de forma eficiente. Dado que essas reuniões são essenciais para planejar e monitorar nossos sprints, as interrupções recorrentes tornaram-se um grande obstáculo. Isso impacta a produtividade de nossa equipe e nos impede de fazer os ajustes necessários nos projetos a tempo.
+
+Confiamos muito no Jira como nossa principal ferramenta para organizar nosso backlog e monitorar o progresso dos sprints. A incapacidade de acessar o sistema durante reuniões de planejamento chave nos atrasa em termos de entregas e afeta negativamente nosso cronograma. Além disso, a equipe acha desafiador colaborar sem a ajuda das abrangentes funcionalidades de rastreamento do Jira que passamos a depender.
+
+Você poderia investigar essa questão com prioridade e fornecer qualquer solução ou alternativa disponível para mitigar a interrupção? Esperamos uma resolução oportuna e aguardamos sua rápida resposta. Nosso número de conta é <acc_num> se necessário para referência.
+
+Obrigado pela sua imediata atenção a este assunto.
+
+Atenciosamente,
+
+<name>
+<tel_num>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato sobre os problemas que você está enfrentando com a versão 8.20 do Jira Software. Pedimos desculpas pela interrupção que isso causou durante suas reuniões de scrum e entendemos quão crucial um fluxo de trabalho suave é para o seu gerenciamento de projetos.
+
+Para resolver isso, vamos investigar prontamente o problema de travamento. Por favor, compartilhe quaisquer mensagens de erro ou cenários específicos que precedam o travamento. Enquanto isso, tente reiniciar o servidor ou verificar por quaisquer atualizações recentes ou conflitos de plugins.
+
+Vamos acelerar este assunto. Detalhes da sua conta, <acc_num>, foram anotados para referência. Espere nossa rápida resposta com mais atualizações ou soluções.
+
+Agradecemos sua paciência e compreensão.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

@@ -1,0 +1,16 @@
+Ticket ID: ticket_504
+Subject: Atención Inmediata Necesaria: Problemas con la Gestión de Servidores
+Incident Type: Incident
+Customer Issue: Estimado Equipo de Soporte de Servicios de IT,
+
+Me pongo en contacto con ustedes para llamar su atención sobre un asunto serio relacionado con las dificultades en la gestión de servidores que requieren intervención urgente. Estas complicaciones están impactando nuestro Servicio de Consultoría de IT. Su pronta respuesta es vital para restablecer la funcionalidad necesaria para nuestras operaciones esenciales.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por su mensaje respecto a los problemas con la gestión de servidores. Reconocemos la urgencia de la situación y estamos tratando esto como una alta prioridad para minimizar cualquier interrupción en su Servicio de Consultoría de IT. Nuestro equipo está trabajando activamente en diagnosticar y abordar el problema. Por favor, manténganos informados sobre cualquier información o cambio adicional, y le mantendremos al tanto de nuestro progreso tan pronto como sea posible.
+
+Atentamente,
+El Equipo de Soporte de Servicios de IT

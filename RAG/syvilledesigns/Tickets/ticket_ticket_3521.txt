@@ -1,0 +1,10 @@
+Ticket ID: ticket_3521
+Subject: Repeated Screen Flickering Issue Reported
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I am writing to report repeated screen flickering issues with my recently purchased Microsoft Surface Pro 7. Despite trying several troubleshooting steps, the problem persists. Could you please guide me on how to proceed for repair or replacement? Your assistance in resolving this matter would be greatly appreciated. Thank you, <name> Email: <email> Phone: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We're sorry to hear about the screen flickering issue with your Microsoft Surface Pro 7. Please visit our service center website and book an appointment for a repair or replacement. If you need further assistance, don't hesitate to reply to this email.
+
+Best regards,
+Customer Support

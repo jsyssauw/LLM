@@ -1,0 +1,18 @@
+Ticket ID: ticket_2210
+Subject: Discrepancias de Facturación con la Suscripción
+Incident Type: Problem
+Customer Issue: Estimado Soporte al Cliente de Tech Online Store,<br><br>Estoy escribiendo para llamar su atención sobre una discrepancia de facturación relacionada con el cargo reciente por mi suscripción mensual Google Workspace Business Standard en mi cuenta con el número <acc_num>. Al revisar mi estado de cuenta del banco, noté que el monto cobrado por el último ciclo de facturación fue más alto que la tarifa mensual estándar. Me gustaría solicitar una verificación detallada de esta transacción.<br><br>Además, sospecho que puede haber habido un error, ya que no he realizado ningún cambio en mi plan de suscripción. Si ha habido cambios que puedan afectar el costo, por favor proporciónenme una explicación completa lo antes posible. Para su referencia, mi número de contacto es <tel_num>.<br><br>Gracias de antemano por su pronta respuesta y asistencia para resolver este asunto. Por favor, hágamelo saber si hay algún formulario o documento que necesite completar para facilitar la resolución de este problema.<br><br>Espero su respuesta.<br><br>Atentamente,<br><br><name>
+Customer Service answer: Asunto: Re: Discrepancias de Facturación con la Suscripción
+
+Estimado <name>,
+
+Gracias por comunicarse con nosotros sobre la discrepancia de facturación con su suscripción Google Workspace Business Standard asociada con el número de cuenta <acc_num>. Nos disculpamos por cualquier inconveniente que esto haya podido causar.
+
+Actualmente estamos revisando su cuenta para verificar los cargos en cuestión y asegurarnos de que no haya errores. Tenga la seguridad de que si se han realizado cambios que afectan el costo de su suscripción, le proporcionaremos una explicación detallada.
+
+Mientras tanto, no se requieren formularios ni documentos adicionales de su parte. Lo mantendremos informado tan pronto como finalicemos nuestra investigación sobre este asunto. Si necesita más ayuda o tiene alguna pregunta, no dude en contactarnos en su conveniencia.
+
+Gracias por su paciencia y comprensión.
+
+Atentamente,
+Soporte al Cliente de Tech Online Store

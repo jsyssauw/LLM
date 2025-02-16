@@ -1,0 +1,5 @@
+Ticket ID: ticket_3857
+Subject: nan
+Incident Type: Request
+Customer Issue: Problem with the battery on your MacBook Air M1.
+Customer Service answer: We appreciate your reaching out to us. Could you please share additional information regarding the battery problem you are facing?

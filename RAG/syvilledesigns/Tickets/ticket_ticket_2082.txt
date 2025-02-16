@@ -1,0 +1,15 @@
+Ticket ID: ticket_2082
+Subject: Dell XPS 13 Power Issue
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Support, I am experiencing power issues with my Dell XPS 13 9310. Despite being fully charged, the device refuses to turn on. Kindly assist me with resolving this problem at your earliest convenience. Thank you, <name>.
+Customer Service answer: Dear <name>, 
+
+Thank you for reaching out. To address the power issue with your Dell XPS 13 9310, please try the following steps: 
+1. Perform a hard reset by holding the power button for 15 seconds. 
+2. Ensure the power socket and charger are working. 
+3. Remove any external devices and try turning it on again. 
+
+If the issue persists, please contact our support team for further assistance. 
+
+Best regards, 
+Tech Online Store Support

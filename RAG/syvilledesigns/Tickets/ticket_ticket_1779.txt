@@ -1,0 +1,7 @@
+Ticket ID: ticket_1779
+Subject: Problem with Lenovo IdeaPad 5 Purchase
+Incident Type: Request
+Customer Issue: Hello Customer Support, I bought a Lenovo IdeaPad 5 from your store. Sadly, the ‘K’ key is not functioning properly. Could you help me with a replacement or repair? My order number is <acc_num>. Regards, <name>. Contact Information: <tel_num>
+Customer Service answer: Hello <name>, we regret the trouble you're experiencing with your IdeaPad 5. Please take the laptop to any of our locations for a replacement or repair. We will address this promptly. Don't forget to bring your order confirmation. Thank you. 
+
+Regards, Customer Support.

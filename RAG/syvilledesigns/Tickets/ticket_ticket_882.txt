@@ -1,0 +1,19 @@
+Ticket ID: ticket_882
+Subject: Frequent crashes of Adobe Photoshop 2024 on macOS
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to report frequent crashes I have been experiencing with Adobe Photoshop 2024 during graphic design tasks on my macOS system. This issue significantly affects my workflow and productivity.
+
+I would appreciate any assistance or guidance you can offer to resolve this problem promptly. My account details are <acc_num>.
+
+Thank you for your attention to this matter.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+I apologize for the inconvenience you're experiencing with Adobe Photoshop 2024. Please ensure your macOS and Photoshop are updated to the latest versions. Try resetting Photoshop preferences by holding Command + Option + Shift when starting the application. If the issue persists, please contact Adobe support directly for further assistance. Your account details are noted as <acc_num>.
+
+Best regards,
+Customer Support Team

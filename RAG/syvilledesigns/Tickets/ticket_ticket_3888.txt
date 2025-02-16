@@ -1,0 +1,19 @@
+Ticket ID: ticket_3888
+Subject: nan
+Incident Type: Change
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich hoffe, diese Nachricht erreicht Sie wohlbehalten. Ich schreibe, um eine Änderung im Vertriebsworkflow innerhalb des Jira Software 8.20-Systems bei <IT Consulting Firm> zu beantragen. Unser Ziel ist es, die Koordination des Pre-Sales-Prozesses zu verbessern. Eine Verbesserung dieses Workflows wird unsere Effizienz erheblich steigern. Ihre umgehende Unterstützung bei der Umsetzung dieser Änderungen würde sehr geschätzt.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie uns bezüglich der Änderungen im Vertriebsworkflow innerhalb des Jira Software 8.20-Systems bei <IT Consulting Firm> kontaktiert haben. Wir verstehen die Bedeutung der Verbesserung der Koordination im Pre-Sales-Prozess und sind hier, um Ihnen zu helfen.
+
+Um fortzufahren, bitten wir Sie, uns spezifische Einzelheiten zu den Änderungen, die Sie sich vorstellen, oder zu möglichen Schwierigkeiten, die Sie mit dem aktuellen Setup haben, mitzuteilen. Das wird uns helfen, die Lösung optimal auf Ihre Bedürfnisse abzustimmen und einen reibungsloseren Übergang zu gewährleisten.
+
+Wir freuen uns auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+Service Desk Team

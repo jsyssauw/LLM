@@ -1,0 +1,34 @@
+Ticket ID: ticket_135
+Subject: Request for exchange of faulty Dell XPS 13
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to inform you about an issue with a recently purchased Dell XPS 13 model 9310, under account number <acc_num>. The laptop has been experiencing frequent crashes and performance issues, which I suspect may be due to a hardware malfunction. Given these unresolved issues, I would like to request an exchange for the faulty device.
+
+Purchased two weeks ago, the laptop started showing signs of instability early on, disrupting my work with crashes occurring daily. I have attempted standard troubleshooting steps with no success. Therefore, I believe an exchange for a new unit is the best solution at this point.
+
+Please let me know the necessary steps for processing this exchange. Feel free to contact me at my number <tel_num>.
+
+Thank you for your attention to this matter.
+
+Sincerely,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and informing us about the issues with your Dell XPS 13 model 9310. We apologize for the inconvenience this has caused.
+
+To proceed with the exchange, please ensure the laptop is within our two-week return policy. Since you are reporting within this period, you're eligible for an exchange. Kindly follow these steps:
+
+1. Confirm your account details and the device's condition is intact with all original accessories.
+2. Send a return request email or use the returns portal on our website.
+3. Package the laptop securely and use the prepaid label sent to your email by our returns department.
+
+Once we receive the faulty unit, we will process the exchange and ship a replacement promptly.
+
+If you have any issues or need further assistance, please contact us via email or at <tel_num>.
+
+Thank you for your patience and understanding.
+
+Regards,
+Tech Online Store Customer Support

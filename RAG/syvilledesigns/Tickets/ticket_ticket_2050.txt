@@ -1,0 +1,32 @@
+Ticket ID: ticket_2050
+Subject: Erro de Cobrança na Compra Recente
+Incident Type: Problem
+Customer Issue: Caro Suporte ao Cliente da Tech Online Store, 
+
+Estou escrevendo para chamar a sua atenção para um erro de cobrança que encontrei após comprar algumas extensões na sua loja. Minha conta, registrada sob o nome <name> e número da conta <acc_num>, foi cobrada de forma incorreta pelas extensões do Google Chrome 102.0.
+
+Ao revisar meu extrato, notei uma discrepância envolvendo a compra mencionada, com uma cobrança adicional inesperada. O total cobrado não está alinhado com o custo exibido no checkout, levando a uma diferença significativa que estou ansioso para resolver. Suspeito que uma falha no sistema possa ter causado essa anomalia de cobrança.
+
+Considerando as circunstâncias, solicito gentilmente que você investigue este problema assim que possível e ajuste as cobranças de acordo. Por favor, me avise se forem necessários mais detalhes da minha parte. Estou esperando uma rápida resolução para evitar qualquer interrupção nos serviços.
+
+Para uma comunicação rápida, fique à vontade para me contatar pelo <tel_num> ou através deste endereço de e-mail.
+
+Obrigado por tratar deste assunto prontamente.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre a discrepância de cobrança pela sua compra recente das extensões do Google Chrome 102.0.
+
+Pedimos desculpas por qualquer inconveniente causado e agradecemos sua paciência enquanto investigamos este assunto. Nossa equipe irá analisar os detalhes da sua conta e da transação para identificar o problema e corrigir as cobranças, se necessário.
+
+Para acelerar a resolução, por favor, certifique-se de que nenhuma outra informação pessoal seja necessária. Fique tranquilo, nosso objetivo é resolver isso o mais rápido possível para evitar qualquer interrupção nos seus serviços.
+
+Manteremos você atualizado com nossas descobertas ou se mais informações forem necessárias. Sinta-se à vontade para entrar em contato conosco quando quiser, seja por este e-mail ou pelo seu número de telefone fornecido, <tel_num>.
+
+Obrigado pela sua compreensão e paciência.
+
+Atenciosamente,  
+Equipe de Suporte ao Cliente da Tech Online Store

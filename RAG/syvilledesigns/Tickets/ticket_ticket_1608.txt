@@ -1,0 +1,33 @@
+Ticket ID: ticket_1608
+Subject: Need Help: Problem with Display Flickering
+Incident Type: Problem
+Customer Issue: Hello Tech Online Store Customer Support,
+
+I am reaching out to notify you about an issue I am facing with my Dell XPS 13 laptop, model 9310, which I bought from your store a few months ago. Lately, I have observed that the display flickers unpredictably, especially when I frequently adjust the brightness levels during operation. This has caused considerable disruption in my work and has also placed strain on my eyes.
+
+I have tried several basic troubleshooting methods, like updating the device drivers and ensuring that the operating system is up to date; however, these efforts did not solve the problem. I also verified the physical connections, and everything seems intact.
+
+Considering the ongoing nature of this issue, I am requesting guidance on the appropriate next steps. Should I bring my laptop to one of your service locations for assessment, or is there a chance of receiving assistance remotely? Moreover, I would appreciate clarification on whether this problem is covered by the warranty associated with my purchase.
+
+Could you inform me about the documentation I need to provide and any additional instructions? I would like to resolve this matter as soon as possible to continue using the laptop efficiently for my work.
+
+Thank you for your help.
+
+Best regards,
+
+<name>
+<tel_num>
+<email_id>
+Customer Service answer: Hello <name>,
+
+Thank you for contacting us regarding the flickering display issue on your Dell XPS 13 laptop. We recognize the discomfort this situation is causing you and we are here to assist.
+
+As the problem remains unresolved after your troubleshooting attempts, we suggest you go to one of our service centers for a comprehensive review of your device. This will enable us to ascertain if the flickering is within the warranty coverage. Please ensure you bring along your purchase receipt, warranty papers, and a form of identification.
+
+If you would prefer remote support, please share your contact information, and one of our technicians will get in touch with you to provide further instructions.
+
+If there’s anything else we can do for you, don’t hesitate to reach out. Our goal is to address this issue promptly so you can carry on with your work unimpeded.
+
+Best wishes,
+
+Tech Online Store Customer Support

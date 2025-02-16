@@ -1,0 +1,10 @@
+Ticket ID: ticket_3009
+Subject: Access Issue with Jira Software
+Incident Type: Problem
+Customer Issue: User in HR unable to access Jira queue, impacting ticket handling. Please assist in resolving this issue with Jira Software 8.20 version.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand the inconvenience caused. Please check the user's permissions and ensure they are added to the correct group in Jira Software 8.20. If the issue persists, let us know so we can assist further.
+
+Best regards,
+Service Desk Team

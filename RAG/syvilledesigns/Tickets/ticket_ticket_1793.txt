@@ -1,0 +1,5 @@
+Ticket ID: ticket_1793
+Subject: Anfrage zur Rücksendung eines defekten Epson EcoTank ET-4760
+Incident Type: Incident
+Customer Issue: Hallo, ich muss meinen Epson EcoTank ET-4760 zurücksenden. Er hat häufig Papierstaus und zeigt Fehlermeldungen an. Bitte helfen Sie mir mit dem Rückgabeprozess.
+Customer Service answer: Hallo, bitte besuchen Sie unsere Rückgabeseite, füllen Sie das Formular aus und folgen Sie den Anweisungen zur Rücksendung Ihres Epson EcoTank ET-4760.

@@ -1,0 +1,21 @@
+Ticket ID: ticket_3038
+Subject: Atención Inmediata Requerida: Caídas en Visual Studio Code
+Incident Type: Incident
+Customer Issue: Estimado Equipo de Soporte al Cliente,
+
+Me pongo en contacto con usted para informar un problema significativo que afecta mi eficiencia laboral. He encontrado caídas frecuentes de Visual Studio Code 1.70 mientras depuro código. Este problema continuo interrumpe gravemente mi productividad. A pesar de varios intentos de solución, el problema sigue sin resolverse. Agradecería mucho si su equipo técnico pudiera abordar este problema con urgencia. Dado que mi flujo de trabajo depende de programar sin interrupciones, requiero una solución rápida y efectiva.
+
+Gracias por su atención a este asunto. Por favor, infórmeme si necesita más información de mi parte.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Agradecemos que se haya puesto en contacto con nosotros y que haya destacado este problema. Entendemos completamente lo frustrante que puede ser y estamos aquí para ayudarle. Por favor, verifique que tiene la versión más reciente de Visual Studio Code y que todas las extensiones están actualizadas. Si los problemas persisten, considere deshabilitar las extensiones para ver si alguna puede ser responsable de las caídas. Además, sería útil examinar los registros de VS Code en busca de mensajes de error que puedan aclarar la situación.
+
+Para proporcionar un mayor apoyo, sería beneficioso entender qué sistema operativo está utilizando y si hay mensajes de error específicos o registros que aparecen después de una caída. No dude en compartir esta información si es aplicable. Nuestro equipo técnico priorizará esto y se esforzará por una resolución rápida.
+
+Valoramos su paciencia y cooperación.
+
+Saludos cordiales,
+Equipo de Soporte al Cliente

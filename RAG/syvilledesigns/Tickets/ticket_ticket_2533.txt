@@ -1,0 +1,27 @@
+Ticket ID: ticket_2533
+Subject: Return Request for Canon PIXMA MG3620 Due to Issues
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to request a return for my recent purchase of a Canon PIXMA MG3620, account number <acc_num>. The printer frequently experiences paper jams during wireless printing, which is beyond the acceptable limit for regular use. I would appreciate it if you could guide me through the return process and any necessary steps to ensure a smooth transaction.
+
+Please let me know the available options for a replacement or refund at your earliest convenience. I look forward to your prompt assistance with resolving this issue.
+
+Kind regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us regarding your Canon PIXMA MG3620. We apologize for the inconvenience caused by the paper jams during wireless printing. To initiate the return process, please ensure that the printer is packed securely in its original packaging.
+
+You can choose between a replacement or a refund. Kindly provide us with the following:
+1. Proof of purchase.
+2. Photos of the printer and any issues, if possible.
+
+Once we receive this information, we will guide you through the next steps. You may return the product at a local store or we can arrange a pickup service for you.
+
+For a replacement, allow 7-10 business days for processing. Refunds will be processed within 5-7 business days after the return is completed.
+
+Please let us know how you would like to proceed. We are committed to resolving this issue promptly.
+
+Kind regards,
+Customer Support Team

@@ -1,0 +1,23 @@
+Ticket ID: ticket_1123
+Subject: Immediate Attention Needed: Zoom Screen Sharing Issue
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am writing to report a high-priority technical issue with Zoom version 5.11.0. The screen sharing feature is not working during video conferences, affecting our team’s productivity. We require an urgent resolution.
+
+Please address this matter at your earliest convenience.
+
+Thank you,
+
+<name>
+<company>
+Customer Service answer: Subject: Re: Immediate Attention Needed: Zoom Screen Sharing Issue
+
+Dear <name>,
+
+Thank you for reaching out. To address the screen sharing issue in Zoom version 5.11.0, please ensure the app is up-to-date. Check screen sharing permissions in Zoom settings and your operating system. Restarting Zoom or using a different internet connection may also help. If the problem persists, feel free to contact us with more details.
+
+We are committed to resolving this for your team promptly.
+
+Best regards,
+Customer Support

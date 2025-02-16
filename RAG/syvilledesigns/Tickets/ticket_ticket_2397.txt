@@ -1,0 +1,19 @@
+Ticket ID: ticket_2397
+Subject: Problema de sobrecalentamiento de la laptop durante las videollamadas
+Incident Type: Incident
+Customer Issue: Estimado soporte al cliente,
+
+Estoy experimentando un problema con mi laptop Dell XPS 13 9310. Se sobrecalienta durante las videollamadas, a pesar de tener los controladores actualizados y sin tareas en segundo plano. Este sobrecalentamiento afecta significativamente el rendimiento, dificultando las reuniones.
+
+Por favor, asesoren sobre posibles soluciones o los próximos pasos.
+
+Gracias,
+<name>
+
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Asegúrese de que las rejillas de ventilación de su laptop no estén obstruidas. Use un refrigerador para mejorar el flujo de aire. Actualice la BIOS y verifique la configuración de gestión térmica de Dell en Dell Power Manager. Si el problema persiste, contacte al soporte de Dell para una revisión de hardware.
+
+Saludos cordiales,
+Soporte al cliente

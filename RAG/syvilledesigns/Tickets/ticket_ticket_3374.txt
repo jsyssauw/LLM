@@ -1,0 +1,18 @@
+Ticket ID: ticket_3374
+Subject: Inquiry Regarding Invoice Discrepancy
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I am writing to inquire about certain charges on my recent invoice for Google Workspace Business Standard that I did not anticipate. I noticed amounts that were unexpected, and I would sincerely appreciate clarification regarding these charges. My account number is <acc_num>, and this matter arose in the last billing period. Please review the details and provide me with insight on any discrepancies. I would be grateful if you could address this issue promptly. If you need any further information, feel free to reach me at <tel_num>. Thank you for your assistance. Best regards, <name>.
+Customer Service answer: Subject: Re: Inquiry Regarding Invoice Discrepancy
+
+Dear <name>,
+
+Thank you for bringing your concerns regarding your latest invoice for Google Workspace Business Standard to our attention. I understand your concerns about the unexpected charges.
+
+I have referred your issue to our billing team for a comprehensive review. They will investigate your account number <acc_num> alongside the billing details to identify any discrepancies.
+
+We will update you as soon as we have the required clarifications. Should we require any further details, we will reach out to you at <tel_num>.
+
+Thank you for your patience and understanding throughout this process.
+
+Best regards,
+Customer Support Team

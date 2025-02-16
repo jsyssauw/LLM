@@ -1,0 +1,31 @@
+Ticket ID: ticket_1096
+Subject: Häufige Papierstaus bei HP Drucker
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kunde des Tech Online Stores,
+
+ich schreibe, um Ihre Aufmerksamkeit auf ein Problem zu lenken, das ich mit dem HP DeskJet 3755 Drucker habe, den ich vor kurzem in Ihrem Online-Shop gekauft habe. Das Gerät hat häufig Papierstaus bei drahtlosen Farbdrucken, insbesondere wenn ich meine bevorzugten Einstellungen verwende. Dieses anhaltende Problem hat meinen Arbeitsablauf erheblich gestört.
+
+Ich habe sichergestellt, dass alle empfohlenen Wartungsschritte befolgt wurden, wie z. B. das korrekte Laden des Papiers und die Verwendung des angegebenen Papiertyps, dennoch bleibt das Problem bestehen. Außerdem habe ich es mit mehreren Geräten getestet, um mögliche Verbindungsprobleme auszuschließen, aber das Problem besteht weiterhin.
+
+Könnten Sie bitte beraten, wie ich dieses Problem effektiv lösen kann, oder, falls möglich, wie ich über Ihren Garantieservice mit einer Reparatur oder einem Austausch fortfahren kann? Ihre Unterstützung bei der zeitnahen Lösung dieses Anliegens wäre sehr hilfreich.
+
+Vielen Dank für Ihre Aufmerksamkeit in dieser Angelegenheit. Ich freue mich auf Ihre Antwort.
+
+Mit freundlichen Grüßen,
+
+<name>
+
+<acc_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt und dieses Problem zur Kenntnis gebracht haben. Wir entschuldigen uns für die Unannehmlichkeiten, die Sie mit Ihrem HP DeskJet 3755 Drucker erleben.
+
+Um häufige Papierstaus zu beheben, stellen Sie bitte sicher, dass die Papierschublade nicht überladen ist und dass das verwendete Papier den im Benutzerhandbuch angegebenen Spezifikationen entspricht. Überprüfen Sie, ob eventuell kleine Papierstücke im Drucker stecken.
+Zusätzlich sollten Sie überprüfen, ob die Druckrollen sauber sind und keine Rückstände sie beeinträchtigen.
+
+Wenn die oben genannten Schritte das Problem nicht lösen, teilen Sie uns bitte Ihre Kaufdetails unter <acc_num> mit, damit wir Ihnen im Rahmen Ihrer Garantie bei der Reparatur oder dem Austausch helfen können. Wir sind verpflichtet, dieses Anliegen zeitnah zu klären.
+
+Zögern Sie nicht, uns zu kontaktieren, wenn Sie weitere Unterstützung benötigen.
+
+Mit freundlichen Grüßen,
+Kundensupport des Tech Online Store

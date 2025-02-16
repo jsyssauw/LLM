@@ -1,0 +1,32 @@
+Ticket ID: ticket_3121
+Subject: Ayuda Urgente Necesaria: Problemas de Sincronización
+Incident Type: Incident
+Customer Issue: Estimado Equipo de Soporte al Cliente,
+
+Confío en que este mensaje los encuentre en buen ánimo. Estoy escribiendo para abordar problemas de sincronización que están afectando tanto mis correos electrónicos como mi calendario dentro de mi cuenta de Google Workspace Business Standard (<acc_num>). Este dilema está obstaculizando significativamente mi productividad, y requiero urgentemente su asistencia técnica para resolverlo. Parece que la sincronización es lenta en ocasiones, lo que resulta en retrasos, y en ciertos momentos, no sincroniza eventos o correos electrónicos en particular.
+
+Por favor, recomienden un plan de acción rápido para rectificar estas interrupciones. Pueden contactarme al <tel_num>.
+
+Aprecio su atención inmediata a este asunto.
+
+Mis mejores deseos,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con nosotros sobre los problemas de sincronización con tu cuenta de Google Workspace (<acc_num>). Reconocemos lo vital que es tener acceso oportuno a tus correos electrónicos y eventos de calendario para tus operaciones.
+
+Para comenzar a resolver este problema, asegúrate de que:
+1. Tienes una conexión a internet confiable.
+2. Todas las actualizaciones recientes para Google Workspace y el sistema operativo de tu dispositivo están aplicadas.
+3. No hay aplicaciones o extensiones incompatibles que puedan estar afectando la sincronización.
+
+Si el problema persiste, por favor intenta lo siguiente:
+1. Reinicia tu dispositivo.
+2. Borra el caché de tu navegador si usas principalmente la versión web.
+3. Elimina y vuelve a agregar tu cuenta de Google Workspace en tu dispositivo.
+
+Si estas acciones no resuelven el problema, podemos proceder con una solución de problemas más avanzada desde la distancia. Por favor, infórmanos a la brevedad. Estamos dedicados a resolver esto rápidamente.
+
+Atentamente,
+Equipo de Soporte al Cliente

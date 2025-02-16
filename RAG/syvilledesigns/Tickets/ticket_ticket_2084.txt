@@ -1,0 +1,11 @@
+Ticket ID: ticket_2084
+Subject: AWS-Abrechnungsunterstützung benötigt
+Incident Type: Incident
+Customer Issue: Hallo, unser Kunde, <name>, hat nach der kürzlichen Einführung von unter dem AWS Management Service verwalteten Diensten Abrechnungsdifferenzen festgestellt. Wir benötigen Hilfe bei der Beseitigung dieser Inkonsistenzen so schnell wie möglich. Bitte überprüfen Sie die angefügten Details zu den Differenzen und setzen Sie sich für weitere Informationen mit uns in Verbindung. Bitte kontaktieren Sie unseren Account-Manager, <name>, unter <tel_num> oder beziehen Sie sich auf <acc_num>, wenn Sie dieses Problem ansprechen. Ihre zeitnahe Aufmerksamkeit für diese Angelegenheit wird sehr geschätzt. Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, <name>
+Customer Service answer: Hallo,
+
+vielen Dank, dass Sie sich wegen der Abrechnungsdifferenzen, die Ihr Kunde festgestellt hat, an uns gewendet haben. Wir werden die angefügten Details überprüfen und an der Beseitigung der Inkonsistenzen so schnell wie möglich arbeiten. Erwarten Sie in Kürze unsere Korrespondenz oder weitere Fragen. Bei dringenden Anliegen können Sie sich auf die angegebene Kontonummer beziehen.
+
+Mit freundlichen Grüßen,
+
+[Der Service Desk Ihres Unternehmens]

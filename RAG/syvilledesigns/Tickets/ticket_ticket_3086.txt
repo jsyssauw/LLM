@@ -1,0 +1,5 @@
+Ticket ID: ticket_3086
+Subject: nan
+Incident Type: Incident
+Customer Issue: Problems encountered during Kaspersky installation. Require help.
+Customer Service answer: Of course, I will need further information regarding the problem you are experiencing with the Kaspersky installation.

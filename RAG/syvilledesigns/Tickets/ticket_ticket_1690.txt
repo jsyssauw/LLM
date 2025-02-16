@@ -1,0 +1,30 @@
+Ticket ID: ticket_1690
+Subject: Alta Prioridade: Falha no Serviço do Zoom
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente da Tech Online Store,
+
+Estou escrevendo para informar sobre um incidente de alta prioridade que está afetando atualmente o aplicativo Zoom, versão 5.11.0. No momento, os usuários estão enfrentando uma falha crítica no serviço, particularmente impactando os recursos de videoconferência que são amplamente utilizados para reuniões essenciais e comunicações. Essa interrupção está causando grande inconveniente e afetando nosso fluxo de trabalho.
+
+Como o Zoom é uma parte crucial das nossas operações comerciais, é imperativo receber assistência rápida e uma atualização sobre este problema. Dependemos bastante do seu funcionamento confiável e apreciaríamos qualquer informação sobre quando o serviço deve retornar ao normal.
+
+Por favor, escalone este problema para a equipe apropriada para uma resolução rápida. Estou disponível para qualquer informação adicional que você possa precisar para acelerar este processo. Para correspondência imediata, posso ser contatado pelo <tel_num> ou através deste endereço de e-mail. Aguardando uma resposta rápida.
+
+Obrigado pela sua atenção a este assunto urgente.
+
+Atenciosamente,
+
+<name>
+<acc_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre a falha no serviço do Zoom que está impactando a versão 5.11.0. Entendemos a natureza crítica dessa interrupção e o inconveniente que está causando nas suas operações comerciais.
+
+Nossa equipe técnica está ciente do problema e está trabalhando ativamente com o suporte do Zoom para abordar e resolver a falha o mais rápido possível. Estamos monitorando a situação de perto e forneceremos atualizações sobre o progresso e um cronograma esperado para a restauração do serviço.
+
+Seu caso foi escalonado para garantir atenção rápida. Para qualquer informação adicional ou assistência, sinta-se à vontade para nos contatar pelo <tel_num> ou responder a este e-mail. Agradecemos sua paciência e compreensão enquanto trabalhamos para restaurar a plena funcionalidade.
+
+Obrigado pela sua cooperação.
+
+Atenciosamente,
+
+Suporte ao Cliente da Tech Online Store

@@ -1,0 +1,30 @@
+Ticket ID: ticket_2197
+Subject: Assistência Necessária para Upgrade do Teclado do Surface Pro 7
+Incident Type: Change
+Customer Issue: Caro Time de Suporte da Loja Online de Tecnologia,
+
+Estou entrando em contato para solicitar assistência na atualização do teclado destacável do meu Microsoft Surface Pro 7, que atualmente está rodando Windows 10. Recentemente, encontrei alguns problemas de compatibilidade e preciso de orientação para garantir um processo de atualização tranquilo.
+
+Você poderia, por favor, fornecer instruções passo a passo ou dicas de solução de problemas para resolver possíveis obstáculos? Além disso, me avise se houver drivers ou atualizações específicos necessários para funcionalidade ideal. Seu suporte rápido para resolver este assunto seria muito apreciado.
+
+Obrigado pela sua atenção a este pedido.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre a atualização do teclado do seu Microsoft Surface Pro 7. Para garantir um processo tranquilo:
+
+1. Visite a Microsoft Store ou o site oficial para confirmar a compatibilidade com o seu dispositivo.
+2. Atualize seu Windows 10 para a versão mais recente acessando Configurações > Atualização e Segurança > Windows Update.
+3. Certifique-se de que seus drivers estejam atualizados verificando o Gerenciador de Dispositivos > Teclados. Clique com o botão direito e selecione "Atualizar driver".
+4. Remova o teclado antigo e conecte o novo. Ele deve ser detectado automaticamente.
+5. Reinicie seu Surface Pro para aplicar as alterações.
+
+Se você encontrar algum problema, consulte a página de suporte do Surface para dicas de solução de problemas. Certifique-se de que todas as atualizações de software/firmware sejam aplicadas para um desempenho ideal.
+
+Caso tenha mais perguntas, sinta-se à vontade para responder.
+
+Atenciosamente,
+Equipe de Suporte da Loja Online de Tecnologia

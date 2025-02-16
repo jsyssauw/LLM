@@ -1,0 +1,15 @@
+Ticket ID: ticket_3820
+Subject: Dell XPS 13 9310 Display Issue
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support, 
+
+I am experiencing an issue with my Dell XPS 13 9310 ultrabook. The InfinityEdge display flickers randomly on boot. This issue is consistent and persistent. Could you please assist me in resolving this matter?
+
+Thank you, 
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. Please ensure your Dell XPS 13 9310's graphics drivers are up to date. If the issue persists, try resetting the display settings or contact Dell Support directly for further assistance. We're here to help if you need anything else.
+
+Best regards,
+Tech Online Store Customer Support

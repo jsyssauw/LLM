@@ -1,0 +1,18 @@
+Ticket ID: ticket_2002
+Subject: Se necesita soporte para la infraestructura de AWS
+Incident Type: Request
+Customer Issue: Hola,
+
+Espero que este mensaje te encuentre bien. Necesitamos ayuda con la configuración y optimización de nuestra infraestructura de AWS para lograr una mejor eficiencia de costos y gestión del rendimiento. Estamos utilizando su Servicio de Gestión de AWS y requerimos orientación experta. Por favor, aconseje sobre los siguientes pasos para facilitar este proceso. Gracias por su apoyo.
+
+Saludos cordiales,
+<name>
+<company_name>
+Customer Service answer: Hola,
+
+Gracias por ponerte en contacto. Para asistirte con la configuración y optimización de tu infraestructura de AWS, primero necesitaremos evaluar tu configuración actual. Por favor, comparte cualquier objetivo o requisito específico que tengas para la eficiencia de costos y la gestión del rendimiento. Una vez que tengamos esta información, podemos programar una consulta con nuestros expertos de AWS para proporcionar soluciones personalizadas y guiarte a través del proceso de optimización.
+
+No dudes en contactarnos a tu conveniencia para iniciar este proceso. Esperamos poder ayudarte.
+
+Saludos cordiales,
+Equipo de Soporte de AWS

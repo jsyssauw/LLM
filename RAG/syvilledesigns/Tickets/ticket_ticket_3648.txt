@@ -1,0 +1,5 @@
+Ticket ID: ticket_3648
+Subject: nan
+Incident Type: Request
+Customer Issue: Preciso de assistência urgente com problemas de implantação e otimização de custos da AWS.
+Customer Service answer: Certamente! Por favor, forneça detalhes sobre sua implantação da AWS e os problemas específicos para assistência direcionada com a otimização de custos.

@@ -1,0 +1,38 @@
+Ticket ID: ticket_3714
+Subject: Request for Product Return - Canon PIXMA MG3620
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I am writing to request a return for a product purchased from your Tech Online Store, which is currently experiencing connectivity issues. The item in question is the Canon PIXMA MG3620 printer, which I bought on <purchase_date> using my account number <acc_num>.
+
+Since setting up the printer, I've encountered repeated interruptions during wireless printing, which have hindered my ability to effectively complete printing tasks. Despite following all troubleshooting steps outlined in the manual and on your support website, the connectivity issues persist. I have attempted multiple solutions, including network resets and firmware updates, but the problem remains unresolved.
+
+Given this, I would appreciate it if you could authorize a return for this product, as it is within the warranty period. Please let me know the procedure I need to follow, including any necessary documents or information you require from my side. 
+
+Thank you for your attention to this matter. I look forward to your prompt response to arrange for the return and refund of the printer. If you need to contact me, please reach out at my registered phone number, <tel_num>.
+
+Best regards,
+
+<name>
+Customer Service answer: Subject: Re: Request for Product Return - Canon PIXMA MG3620
+
+Dear <name>,
+
+Thank you for reaching out to us. We apologize for the inconvenience you've experienced with your Canon PIXMA MG3620 printer. For us to process your return request, please follow these steps:
+
+1. Ensure the printer is packaged securely in its original packaging.
+2. Include a copy of your purchase receipt or order confirmation.
+3. Include any relevant correspondence related to troubleshooting.
+4. Visit our returns portal on our website to initiate the return process. You will need your order number and account details.
+5. A prepaid shipping label will be generated for you to attach to the package.
+
+Upon receipt of the printer, we will inspect it, and if your request meets the return criteria, we will process a refund to your original payment method.
+
+Should you require further assistance, do not hesitate to contact us via email or at the customer support hotline listed on our website. 
+
+We appreciate your patience and understanding.
+
+Best regards,
+
+Customer Support Team
+Tech Online Store

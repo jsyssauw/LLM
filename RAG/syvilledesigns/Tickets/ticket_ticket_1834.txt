@@ -1,0 +1,31 @@
+Ticket ID: ticket_1834
+Subject: Clarification Request on Annual Renewal Charges
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I am writing to request clarification on the annual renewal charges for Microsoft Office 365 that recently appeared on my account statement. My name is <name>, and my account number is <acc_num>. Upon reviewing my latest statement, I noticed an unexpected charge related to Microsoft Office 365 renewal that I do not recall authorizing or having prior notification about.
+
+I kindly request a detailed explanation of this charge including the renewal policy terms associated with Microsoft Office 365. If there have been any changes to the subscription terms or pricing, I would appreciate being provided with that information. Additionally, if this charge was an error, I would like to know the steps to adjust my statement accordingly.
+
+Please reach out to me directly at <tel_num> or respond to this email at your earliest convenience. Thank you for your attention to this matter and for providing clarity on this issue.
+
+Sincerely,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the unexpected Microsoft Office 365 renewal charge. We apologize for any confusion this may have caused.
+
+The recent charge on your account was for the annual renewal of your Microsoft Office 365 subscription. These renewals are typically processed automatically to ensure uninterrupted service. However, we understand it can be unexpected if not anticipated.
+
+To provide clarity on the charge, we will review the renewal policy terms for Office 365 and see if there have been any changes to your subscription terms or pricing that might not have been communicated clearly.
+
+If you did not intend to renew or if this charge was made in error, we can certainly assist in reversing it. Please let us know if you need us to take action on this.
+
+We will proceed with investigating this matter and will follow up soon with the necessary explanations or adjustments required. Meanwhile, feel free to reach out to us directly at <tel_num> or continue to communicate through this email.
+
+Thank you for your patience and understanding.
+
+Best regards,
+
+Tech Online Store Customer Support

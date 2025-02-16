@@ -1,0 +1,34 @@
+Ticket ID: ticket_380
+Subject: Problema con la impresión a doble cara de la Canon PIXMA MG3620
+Incident Type: Problem
+Customer Issue: Hola,
+
+Me estoy poniendo en contacto para informar sobre un problema con mi Canon PIXMA MG3620 comprada en la Tienda Online Tech. El principal problema que estoy encontrando es que la impresora no inicia la impresión a doble cara, a pesar de seguir diligentemente todos los pasos de solución de problemas proporcionados en el manual del usuario. He realizado múltiples intentos de restablecimiento de fábrica, con la esperanza de resolver este problema por mi cuenta, pero, lamentablemente, sin éxito.
+
+La impresora, a pesar de ser relativamente nueva, no parece entrar en el modo de impresión a doble cara incluso cuando selecciono la opción de impresión a doble cara. También me he asegurado de que los controladores de la impresora estén actualizados y los he reinstalado como medida de precaución. Agradecería que su equipo pudiera proporcionar más orientación o sugerir algún paso adicional que podría haber pasado por alto para abordar este problema de manera efectiva. Si necesita detalles específicos para poder asistirme mejor, por favor háganmelo saber.
+
+Gracias por su apoyo oportuno. Espero su respuesta a la brevedad posible.
+
+Saludos cordiales,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Hola,
+
+Gracias por ponerte en contacto con respecto al problema de la impresión a doble cara de tu Canon PIXMA MG3620. Entendemos lo frustrante que esto puede ser, y estamos aquí para ayudar.
+
+Dado que ya has actualizado los controladores y realizado un restablecimiento de fábrica, intentemos revisar un par de cosas adicionales:
+
+1. Verifica la configuración del tamaño y tipo de papel en la configuración de la impresora para asegurarte de que coincidan con el papel cargado para imprimir a doble cara.
+2. Asegúrate de que la opción de "impresión a doble cara automática" esté habilitada en la configuración de impresión.
+3. Si estás imprimiendo desde un dispositivo en red, asegúrate de que la red sea estable, ya que las interrupciones pueden afectar la comunicación con la impresora.
+4. Verifica si hay actualizaciones de firmware en el sitio web oficial de Canon que puedan abordar esta funcionalidad.
+
+Si el problema persiste, podría ser beneficioso probar la impresora en otro dispositivo para descartar conflictos de software. Además, consultar con el soporte directo de Canon podría proporcionar soluciones específicas.
+
+No dudes en ponerte en contacto si necesitas más ayuda. Estamos aquí para asegurarnos de que tu impresora funcione sin problemas.
+
+Mejores deseos,
+
+Equipo del Service Desk

@@ -1,0 +1,32 @@
+Ticket ID: ticket_2106
+Subject: Frequent Issues with Cisco Router ISR4331
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team,
+
+I am reaching out to report intermittent connection issues we are experiencing with our Cisco Router ISR4331, which has been affecting the reliability of our local area network within our office. These issues have been disrupting our day-to-day operations, creating inefficiencies and delays.
+
+Our office heavily relies on a stable network connection for activities such as file sharing, collaborative projects, and client communication.  However, the frequent connection drops are impacting our productivity significantly. We have performed preliminary diagnostics including rebooting the router multiple times and checking all physical connections, but the problem persists.
+
+We kindly request your assistance in diagnosing and resolving this issue promptly. We would appreciate guidance on any troubleshooting steps we might have overlooked or if a technical intervention is necessary. If you need any further information or logs from the router to assist in your diagnostics, please let us know.
+
+Thank you for your attention to this matter. We look forward to your swift resolution.
+
+Best regards,
+
+<name>
+<name> Solutions Team
+Contact: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us regarding the issues with your Cisco Router ISR4331. We understand the importance of a stable network for your operations and are here to assist you.
+
+Firstly, please ensure that the firmware is up to date, as outdated software can sometimes cause connectivity problems. If the firmware is current, consider resetting the router to factory settings as it might resolve any software glitches.
+
+Since you've already rebooted and checked physical connections, the next step could involve checking the router settings and logs to identify any unusual activity or errors. Enabling logging and analyzing the syslog may provide insights into the connection drops.
+
+If these steps do not resolve the issue, we can arrange for a technical specialist to assist further. Please provide any error logs or additional details you might have collected for a more comprehensive diagnosis.
+
+Feel free to contact us anytime if further information or assistance is needed. We are committed to restoring your network reliability swiftly.
+
+Best regards,
+Service Desk Team

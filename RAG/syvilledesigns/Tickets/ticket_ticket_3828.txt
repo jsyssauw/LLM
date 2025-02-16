@@ -1,0 +1,16 @@
+Ticket ID: ticket_3828
+Subject: Dringend: AWS-Dienstunterbrechung
+Incident Type: Request
+Customer Issue: Sehr geehrtes IT-Services-Supportteam,
+
+ich wende mich an Sie, um einen kritischen Ausfall des Dienstes zu melden, der unsere AWS-Infrastruktur betrifft und insbesondere die Rechenressourcen, die über Ihren AWS-Management-Service verwaltet werden. Diese Situation erfordert eine sofortige Untersuchung und zeitnahe Lösung, da sie unsere Abläufe erheblich behindert. Bitte priorisieren Sie diese Anfrage und geben Sie uns so bald wie möglich ein Update.
+
+Vielen Dank,
+
+<name>
+Customer Service answer: Sehr geehrte(r) <name>,
+
+vielen Dank, dass Sie uns über die AWS-Dienstunterbrechung informiert haben, die Ihre Rechenressourcen betrifft. Wir verstehen die Dringlichkeit der Situation und haben Ihre Anfrage priorisiert. Unser Team untersucht bereits das Problem und wird daran arbeiten, es so schnell wie möglich zu lösen. Wir werden so schnell wie möglich über den Fortschritt und den Zeitrahmen der Lösung informieren. In der Zwischenzeit lassen Sie uns bitte wissen, ob Sie weitere Informationen bereitstellen können oder ob es noch andere Möglichkeiten gibt, wie wir Ihnen helfen können.
+
+Mit freundlichen Grüßen,
+IT-Services-Supportteam

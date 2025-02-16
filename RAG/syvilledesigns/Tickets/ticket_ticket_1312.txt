@@ -1,0 +1,17 @@
+Ticket ID: ticket_1312
+Subject: Solicitud de intercambio por problema con la impresora
+Incident Type: Request
+Customer Issue: Estimado Servicio al Cliente,
+
+Escribo para solicitar un intercambio para mi Canon PIXMA MG3620. La impresora no se conecta de forma inalámbrica, a pesar de múltiples intentos de configuración de acuerdo con las instrucciones del manual. ¿Podrían guiarme a través del proceso de intercambio o sugerir alguna solución inmediata?
+
+Gracias por su asistencia.
+
+Saludos,
+<name>
+Customer Service answer: Estimado <name>,
+
+Para iniciar un intercambio para su Canon PIXMA MG3620, visite nuestra página de devoluciones en nuestro sitio web y siga las instrucciones que se encuentran bajo intercambios. Para solucionar problemas de inmediato, intente restablecer la configuración de red de su impresora y reinicie su enrutador. Contáctenos si necesita más asistencia.
+
+Atentamente,
+Servicio al Cliente

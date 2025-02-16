@@ -1,0 +1,16 @@
+Ticket ID: ticket_2489
+Subject: Problema Urgente de Implementación de AWS
+Incident Type: Problem
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Estamos experimentando un problema de alta prioridad con nuestra implementación de AWS, causando un tiempo de inactividad significativo. Esto afecta nuestro Servicio de Gestión de AWS. Requerimos su atención inmediata para restaurar los servidores. Por favor, aborde este asunto con urgencia.
+
+Gracias,
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Reconocemos el problema urgente con su implementación de AWS y su impacto en sus servicios. Nuestro equipo está priorizando su caso para restaurar sus servidores lo más rápido posible. Lo mantendremos informado sobre el progreso.
+
+Gracias por su paciencia,
+Equipo de Atención al Cliente

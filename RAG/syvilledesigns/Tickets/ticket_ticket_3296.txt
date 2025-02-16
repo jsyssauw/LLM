@@ -1,0 +1,28 @@
+Ticket ID: ticket_3296
+Subject: Assistance with TP-Link EAP245 Wi-Fi Issues
+Incident Type: Incident
+Customer Issue: Dear Customer Support, 
+
+I am writing to seek assistance regarding frequent Wi-Fi disconnections that I am experiencing with my TP-Link Access Point EAP245. The device has been intermittently disconnecting from the network, causing significant disruption to my work. I have attempted several troubleshooting steps, including power cycling the device and updating the firmware, but the issue persists. 
+
+Could you please provide guidance on any specific troubleshooting steps I might be missing, or suggest a possible resolution to this issue? My account number is <acc_num>, and I am reachable at <tel_num> if you need any further information. 
+
+Thank you for your attention to this matter. 
+
+Sincerely, 
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about the issues with your TP-Link EAP245. I understand how disruptive this can be. Since you have already tried power cycling and updating the firmware, here are a few additional steps you can try:
+
+1. Check for Interference: Ensure there are no other electronic devices causing interference. Moving the access point to a different location might help.
+2. Change Wireless Channels: Access the device settings and try changing the channel to avoid congestion.
+3. Check for Overheating: Ensure that the device has adequate ventilation.
+4. Examine Network Settings: Make sure network configurations are correct and no restrictions are set.
+
+If these steps don’t resolve the issue, we might need to explore potential hardware problems or configuration settings in more detail.
+
+Feel free to contact us directly at customer support using your account number <acc_num>, or if you prefer, I can reach you at <tel_num> for further assistance.
+
+Best regards,
+Customer Support Team

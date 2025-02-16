@@ -1,0 +1,15 @@
+Ticket ID: ticket_325
+Subject: Urgente: Problema de sobrecalentamiento del Dell XPS 13
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente,
+
+Estoy escribiendo para informar un problema significativo con mi portátil Dell XPS 13 9310. Se está sobrecalentando extensamente, lo que lleva a una importante degradación del rendimiento durante su uso. Por favor, aconsejen sobre posibles soluciones o los próximos pasos para abordar este problema.
+
+Gracias,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Por favor, asegúrese de que su Dell XPS 13 esté colocado sobre una superficie dura y plana para una ventilación adecuada y verifique si hay polvo en las rejillas de ventilación. Actualice el BIOS y el software de gestión térmica. Si el problema persiste, considere visitar un centro de servicio o contactar al Soporte de Dell.
+
+Atentamente,
+Soporte al Cliente

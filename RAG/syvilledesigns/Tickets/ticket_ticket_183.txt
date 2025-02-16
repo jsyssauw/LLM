@@ -1,0 +1,33 @@
+Ticket ID: ticket_183
+Subject: Bildschirmflimmerproblem bei MacBook Air M1
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kunde des Tech Online Stores,
+
+ich schreibe, um ein Problem zu melden, das ich mit meinem MacBook Air M1 habe. Bei längerer Nutzung, insbesondere bei schwachem Licht, flimmert der Bildschirm sporadisch. Dies ist zu einem großen Problem geworden, da es die Kontinuität meiner Arbeit beeinträchtigt und ablenkend ist.
+
+Ich bitte höflich um eine Anleitung, wie ich mit einer möglichen Reparatur oder einem Austausch verfahren kann. Meine Kontonummer ist <acc_num>. Könnten Sie auch bestätigen, ob dies ein bekanntes Problem ist und ob es Schritte zur Fehlerbehebung gibt, die ich versuchen kann, bevor ich das Gerät einsende?
+
+Vielen Dank für Ihre Unterstützung. Ich freue mich auf Ihre schnelle Antwort.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Lieber <name>,
+
+vielen Dank, dass Sie sich wegen des Bildschirmflimmerproblems bei Ihrem MacBook Air M1 an uns wenden. Wir verstehen, wie dies Ihre Arbeit stören kann, und sind hier, um Ihnen zu helfen.
+
+Zunächst empfehlen wir, die folgenden Schritte zur Fehlerbehebung auszuprobieren:
+1. Stellen Sie sicher, dass Ihr macOS auf die neueste Version aktualisiert ist.
+2. Setzen Sie den System Management Controller (SMC) zurück.
+3. Passen Sie die Bildschirmeinstellungen an, z. B. True Tone deaktivieren oder die Helligkeit reduzieren.
+
+Wenn das Problem weiterhin besteht, könnte es eine Reparatur oder einen Austausch erfordern. Bitte sichern Sie Ihre Daten und bringen Sie Ihr MacBook gerne in unseren Laden oder senden Sie es zur Bewertung ein.
+
+Obwohl es einige Berichte über dieses Problem gibt, sind nicht alle Geräte betroffen, daher ist eine individuelle Bewertung wichtig. Wir werden unser Bestes tun, um es umgehend zu lösen.
+
+Für weitere Unterstützung oder um einen Service zu arrangieren, rufen Sie bitte an oder antworten Sie auf diese E-Mail. Denken Sie daran, Ihre Kontonummer <acc_num> für eine zügige Bearbeitung zu erwähnen.
+
+Vielen Dank für Ihre Geduld.
+
+Mit freundlichen Grüßen,
+Kundensupport Tech Online Store

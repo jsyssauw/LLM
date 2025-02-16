@@ -1,0 +1,43 @@
+Ticket ID: ticket_2753
+Subject: Solicitud de Soluciones de Gestión de AWS Rentables
+Incident Type: Request
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Espero que este mensaje les encuentre bien. Mi nombre es <name>, y actualmente estoy supervisando las operaciones en la oficina de <name>. Hemos estado utilizando sus Servicios de Gestión de AWS durante el último año, y si bien el servicio ha sido satisfactorio, hemos encontrado algunos desafíos con respecto a los altos costos operativos asociados a él.
+
+A la luz de estas restricciones financieras, estamos buscando asesoramiento sobre la mejor manera de optimizar nuestros Servicios de Gestión de AWS existentes. Específicamente, estamos interesados en explorar soluciones rentables que puedan ayudar a agilizar nuestras operaciones sin comprometer el rendimiento o la fiabilidad. ¿Podrían amablemente proporcionarnos información o recomendaciones sobre las opciones disponibles o ajustes que podemos considerar?
+
+Entender los elementos detallados de nuestro uso de AWS e identificar posibles áreas de ahorro de costos podría beneficiar enormemente nuestra planificación financiera y estrategia operativa.
+
+Muchas gracias por su asistencia y por considerar nuestra solicitud. Espero tener noticias suyas pronto sobre posibles soluciones o para organizar una reunión con un consultor.
+
+Saludos cordiales,
+
+<name>
+Departamento de TI de <name>
+Contacto: <tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con nosotros respecto a sus preocupaciones sobre los costos de los Servicios de Gestión de AWS. Nos alegra saber que encuentra satisfactorios nuestros servicios, y estamos aquí para ayudarle a explorar opciones para hacerlos más rentables.
+
+Para abordar sus necesidades, recomendamos los siguientes pasos iniciales:
+
+1. **AWS Cost Explorer y Panel de Facturación**: Utilice estas herramientas para obtener información detallada sobre sus patrones de gasto e identificar los servicios que consumen más recursos.
+
+2. **Ajuste de tamaño**: Asegúrese de que los recursos que ha provisionado coincidan con su uso actual. A veces, reducir el tamaño o cambiar a familias de instancias más nuevas y menos costosas puede reducir significativamente los costos.
+
+3. **Instancias Reservadas y Planes de Ahorro**: Evalúe si comprometerse con instancias reservadas o participar en planes de ahorro podría beneficiarle para servicios que tienen un uso constante y predecible.
+
+4. **Auto Scaling**: Implemente autoescalado donde sea aplicable para asegurarse de que solo pague por lo que utiliza, escalando hacia abajo durante las horas pico y hacia abajo cuando no hay demanda.
+
+5. **Optimizar Transferencias de Datos**: Revise sus gastos de transferencia de datos para ver si hay estrategias más rentables que pueda aplicar, como almacenamiento en caché o desplegar contenido a través de Redes de Entrega de Contenido como Amazon CloudFront.
+
+6. **Consulta**: Podemos programar una reunión con uno de nuestros consultores de optimización en la nube que puede ofrecer información más personalizada sobre su uso actual.
+
+Por favor, háganos saber un momento conveniente para usted para discutir sus oportunidades más a fondo. Estamos comprometidos a ayudarle a encontrar las mejores soluciones para reducir sus costos sin sacrificar rendimiento o fiabilidad.
+
+Esperamos poder ayudarle más.
+
+Saludos cordiales,
+
+Equipo de Service Desk

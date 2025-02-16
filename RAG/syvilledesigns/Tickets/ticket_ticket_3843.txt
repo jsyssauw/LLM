@@ -1,0 +1,19 @@
+Ticket ID: ticket_3843
+Subject: Solicitação de Suporte para o Roteador Cisco ISR4331
+Incident Type: Change
+Customer Issue: Caro Time de Suporte de Serviços de TI,
+
+Espero que esta mensagem o encontre bem. Estou enfrentando desconexões frequentes com meu Roteador Cisco ISR4331. Para resolver esse problema e estabilizar seu desempenho, solicito gentilmente uma atualização de firmware ou qualquer conselho que você possa oferecer. Você poderia ajudar a resolver esse assunto na sua primeira conveniência? Estou disponível pelos meus dados de contato habituais.
+
+Obrigado pelo seu apoio.
+
+Atenciosamente,
+<name>
+Customer Service answer: Assunto: Re: Solicitação de Suporte para o Roteador Cisco ISR4331
+
+Caro <name>,
+
+Obrigado por entrar em contato conosco. Entendemos os problemas que você está enfrentando com seu Roteador Cisco ISR4331 devido a desconexões frequentes. Para resolver isso, recomendamos verificar a atualização de firmware mais recente para o seu dispositivo. Por favor, visite o site oficial da Cisco para baixar e instalar a versão de firmware mais recente. Se o problema persistir após a atualização, por favor, certifique-se de que todos os cabos estejam devidamente conectados e considere um reset de hardware para o roteador. Para assistência personalizada, entre em contato conosco com seus dados habituais.
+
+Atenciosamente,
+Time de Suporte de Serviços de TI

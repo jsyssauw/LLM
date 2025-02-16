@@ -1,0 +1,18 @@
+Ticket ID: ticket_383
+Subject: Demande d'assistance concernant des erreurs logicielles
+Incident Type: Incident
+Customer Issue: Cher Service Client,
+
+Je vous écris pour signaler que notre client, <name>, rencontre des erreurs logicielles intermittentes lors de l'utilisation de notre service de conseil en informatique. Nous demandons gentiment une consultation afin de traiter efficacement ces problèmes, en nous concentrant sur l'administration des serveurs et les stratégies de dépannage. Il est impératif de rétablir un service fiable rapidement. Merci de nous contacter dès que possible pour discuter des résolutions potentielles. Vous pouvez me joindre au <tel_num> pour toute information supplémentaire ou pour planifier une réunion.
+
+Merci pour votre soutien et votre compréhension.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant les erreurs logicielles rencontrées par votre client, <name>. Nous comprenons l'urgence de rétablir un service fiable grâce à une administration efficace des serveurs et un dépannage approprié. Notre équipe technique vous contactera sous peu pour discuter des résolutions potentielles. Si besoin, n'hésitez pas à nous joindre à tout moment ou à fournir d'autres horaires de contact. Nous nous engageons à résoudre ce problème rapidement pour vous et votre client.
+
+Cordialement,
+Équipe de Support Client

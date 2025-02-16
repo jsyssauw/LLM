@@ -1,0 +1,31 @@
+Ticket ID: ticket_570
+Subject: Solicitud Urgente: Restauración Inmediata del Router Cisco
+Incident Type: Incident
+Customer Issue: Estimado Equipo de Soporte al Cliente,
+
+Le escribo para informarle sobre un problema crítico que estamos encontrando con uno de nuestros dispositivos de red esenciales. Involucra nuestro Router Cisco ISR4331, que inesperadamente se desconectó esta mañana. Este incidente ha interrumpido significativamente la conectividad de nuestra red empresarial, afectando las operaciones diarias y la productividad. Tener una red estable y consistente es crucial para nuestros procesos de negocio, y una pérdida prolongada podría provocar pérdidas de ingresos sustanciales.
+
+Solicitamos urgentemente su atención inmediata para resolver este asunto. Dependemos en gran medida de su experiencia y acción rápida para restaurar la normalidad en nuestra operación de red. Nuestro departamento de TI ha realizado diagnósticos preliminares sin éxito en la resolución del problema, y parece requerir un nivel más alto de intervención técnica.
+
+Por favor, contacte a nuestro gerente de TI, <name>, al <tel_num> o por correo electrónico a <email> para coordinar más. Hemos asignado recursos para facilitar cualquier procedimiento de solución de problemas que pueda recomendar. Su pronta respuesta y apoyo en la resolución de este asunto serán muy apreciados.
+
+Gracias por su comprensión y atención inmediata a este asunto urgente.
+
+Atentamente,
+
+<name>
+Posición
+Departamento
+<acc_num>
+Empresa de <name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos con respecto al problema urgente con su Router Cisco ISR4331. Entendemos la naturaleza crítica de esta interrupción y el impacto que tiene en sus operaciones.
+
+Nuestro equipo técnico está listo para abordar esto y priorizar una resolución. Nos comunicaremos directamente con su gerente de TI, <name>, al <tel_num> para coordinar las acciones necesarias. Por favor, asegúrese de que cualquier informe diagnóstico relevante y los registros del sistema sean accesibles para agilizar el proceso de solución de problemas.
+
+Estamos comprometidos a restaurar su conectividad de red de manera oportuna. Gracias por su paciencia y cooperación.
+
+Atentamente,
+
+Equipo de Soporte al Cliente

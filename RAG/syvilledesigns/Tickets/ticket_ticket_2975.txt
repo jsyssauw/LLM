@@ -1,0 +1,33 @@
+Ticket ID: ticket_2975
+Subject: Help Needed: Screen Flickering Problem
+Incident Type: Problem
+Customer Issue: Hello Tech Online Store Customer Support,
+
+I am reaching out to communicate a problem I've encountered with my Dell XPS 13 laptop, model 9310, which I bought a few months back from your store. Lately, I have observed that the screen flickers erratically, especially when I frequently change the brightness levels during use. This has created considerable disruption to my work and has been straining to my eyesight.
+
+I have attempted several basic troubleshooting techniques, such as updating the device drivers and confirming that the operating system is current; however, these steps did not fix the issue. I've also inspected the physical connections, which all appear secure.
+
+Given that this problem persists, I am requesting guidance on what steps I should take next. Should I carry the laptop to one of your service locations for assessment, or is there an option for receiving assistance remotely? Additionally, I would like to know if this issue falls under the warranty coverage of my purchase.
+
+Could you kindly inform me of the necessary documentation I need to bring, along with any additional instructions? I would prefer to sort this matter out promptly so I can use the laptop efficiently for my work.
+
+Thank you for your support.
+
+Best regards,
+
+<name>
+<tel_num>
+<email_id>
+Customer Service answer: Hello <name>,
+
+Thank you for getting in touch with us about the screen flickering issue on your Dell XPS 13 laptop. We recognize the trouble this may have caused you and are ready to assist.
+
+Since the problem continues after your troubleshooting attempts, we recommend visiting one of our service locations for a comprehensive evaluation of your device. This will enable us to check whether the flickering is covered by your warranty. Please remember to bring your receipt of purchase, warranty information, and a valid identification.
+
+If you prefer obtaining support remotely instead, please share your contact information, and one of our technicians will get in touch with you to guide you through the process.
+
+If there’s anything else we can help you with, do not hesitate to reach out. We strive to resolve your issue swiftly, so you can keep working without interruptions.
+
+Kind regards,
+
+Tech Online Store Customer Support

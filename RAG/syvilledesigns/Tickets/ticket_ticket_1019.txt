@@ -1,0 +1,15 @@
+Ticket ID: ticket_1019
+Subject: Required Modifications for IT Ticket System Pipeline
+Incident Type: Change
+Customer Issue: Dear Customer Support,
+
+I am writing to request specific modifications to the IT ticket system that is currently utilized in our consulting service pipeline. Our client, <name>, has provided feedback indicating the need for changes to improve efficiency. Please contact me at <tel_num> to discuss the necessary adjustments.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the IT ticket system modifications. We appreciate the feedback from your client, <name>, and are keen to assist in enhancing the system's efficiency. I will contact you at the provided number, <tel_num>, to discuss the specific adjustments required. Please let us know a convenient time for the call. Looking forward to working together on this.
+
+Best regards,
+<Customer Support>

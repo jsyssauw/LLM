@@ -1,0 +1,11 @@
+Ticket ID: ticket_65
+Subject: Hilfe bei AWS-Abrechnungsfragen benötigt
+Incident Type: Incident
+Customer Issue: Hallo, unser Kunde, <name>, hat nach der kürzlichen Bereitstellung von durch den AWS Management Service verwalteten Diensten Abrechnungsunregelmäßigkeiten festgestellt. Wir benötigen Unterstützung bei der zeitnahen Behebung dieser Unstimmigkeiten. Bitte überprüfen Sie die angehängten Details zu den Unregelmäßigkeiten und kontaktieren Sie uns für weitere Informationen. Bitte wenden Sie sich an unseren Account Manager, <name>, unter <tel_num> oder beziehen Sie sich auf <acc_num>, wenn Sie dieses Problem ansprechen. Ihre schnelle Aufmerksamkeit für dieses Anliegen wird sehr geschätzt. Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, <name>
+Customer Service answer: Hallo,
+
+vielen Dank, dass Sie sich wegen der Abrechnungsunregelmäßigkeiten, die Ihr Kunde festgestellt hat, an uns gewandt haben. Wir werden die angehängten Details überprüfen und daran arbeiten, die Unstimmigkeiten so schnell wie möglich zu beheben. Erwarten Sie in Kürze unsere Korrespondenz oder weitere Fragen. Für sofortige Anliegen können Sie sich auf die angegebene Kontonummer beziehen.
+
+Mit freundlichen Grüßen,
+
+[Service Desk Ihres Unternehmens]

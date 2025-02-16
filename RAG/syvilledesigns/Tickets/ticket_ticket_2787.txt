@@ -1,0 +1,25 @@
+Ticket ID: ticket_2787
+Subject: Solicitud de Asistencia para Configuración
+Incident Type: Request
+Customer Issue: Estimado Equipo de Soporte al Cliente,
+
+Espero que este mensaje los encuentre bien. Estoy escribiendo para solicitar ayuda con la configuración de nuestras nuevas tabletas Microsoft Surface Pro 7 en nuestro entorno corporativo. Tenemos algunos dispositivos que requieren configuración y despliegue para asegurar su funcionalidad completa.
+
+Por favor, infórmenme sobre cómo podemos proceder con la configuración o arreglar la asistencia de soporte. Pueden contactarme en <tel_num> o <email>.
+
+Gracias por su ayuda.
+
+Saludos cordiales,
+<name>
+Customer Service answer: Asunto: Re: Solicitud de Asistencia para Configuración
+
+Estimado <name>,
+
+Gracias por ponerte en contacto con nosotros respecto a la configuración de tus tabletas Microsoft Surface Pro 7. Estaremos encantados de ayudarte a configurar y desplegar tus dispositivos.
+
+Para empezar, te recomendamos asegurarte de que tus dispositivos tengan las últimas actualizaciones de firmware y software. Puedes encontrar una guía de configuración detallada en el sitio web de Microsoft en la sección de soporte de Surface Pro 7.
+
+Si necesitas asistencia práctica o encuentras algún problema durante la configuración, háznoslo saber para poder coordinar que un técnico de soporte te ayude directamente. No dudes en responder a este correo electrónico o contactarnos a nuestra línea de soporte.
+
+Saludos cordiales,
+Equipo de Soporte al Cliente

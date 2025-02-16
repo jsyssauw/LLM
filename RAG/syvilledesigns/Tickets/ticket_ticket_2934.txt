@@ -1,0 +1,31 @@
+Ticket ID: ticket_2934
+Subject: Problemas de Conectividad con Slack 4.23.0
+Incident Type: Incident
+Customer Issue: Hola Equipo de Soporte al Cliente,
+
+Espero que este mensaje les encuentre bien. Estoy escribiendo para informar sobre problemas recurrentes de desconexión e inestabilidad durante las comunicaciones del equipo utilizando Slack versión 4.23.0. Nuestro equipo ha estado experimentando estos problemas con frecuencia, lo que está interrumpiendo nuestro flujo de trabajo y dificultando una colaboración efectiva. No podemos mantener conexiones estables durante conversaciones grupales y privadas críticas. ¿Podrían ayudar con los pasos de solución de problemas o posibles soluciones? Buscamos su orientación sobre cómo resolver mejor este problema y asegurar una comunicación fluida en el futuro.
+
+Gracias por su atención a este asunto.
+
+Atentamente,
+
+<name> 
+<acc_num>
+Customer Service answer: Hola,
+
+Gracias por ponerte en contacto sobre los problemas de conectividad con la versión 4.23.0 de Slack. Entendemos la interrupción que esto puede causar a tu flujo de trabajo. Aquí hay algunos pasos que puedes intentar para resolver el problema:
+
+1. Asegúrate de que tu Slack esté actualizado a la última versión, ya que las actualizaciones a menudo incluyen correcciones de errores.
+2. Verifica tu conexión a internet y prueba cambiar de red para ver si el problema persiste.
+3. Limpia la caché de la aplicación Slack para eliminar cualquier dato corrupto.
+4. Reinicia tu dispositivo y vuelve a abrir Slack para eliminar fallos menores.
+5. Desactiva temporalmente cualquier VPN o firewall para ver si están interfiriendo con la conexión.
+6. Revisa los requisitos del sistema de Slack para asegurarte de que tu dispositivo sea compatible con la aplicación.
+
+Si estos pasos no resuelven el problema, háznoslo saber. Escalaremos el asunto para un análisis más profundo.
+
+Gracias por tu paciencia y comprensión.
+
+Atentamente,
+
+Equipo de Soporte al Cliente

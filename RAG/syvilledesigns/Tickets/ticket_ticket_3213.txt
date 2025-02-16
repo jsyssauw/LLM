@@ -1,0 +1,40 @@
+Ticket ID: ticket_3213
+Subject: Solicitud de Servicio de Consultoría de TI
+Incident Type: Request
+Customer Issue: Estimado Soporte de Servicios de TI,
+
+Espero que este mensaje te encuentre bien. Mi nombre es <name>, y me comunico en nombre de mi organización. Estamos interesados en utilizar su Servicio de Consultoría de TI para mejorar nuestros procesos de recursos humanos utilizando soluciones innovadoras basadas en tecnología.
+
+Recientemente, hemos reconocido el potencial de modernizar nuestro departamento de recursos humanos para mejorar la eficiencia y la satisfacción de los empleados. Con su experiencia y trayectoria en Consultoría de TI, creemos que su equipo es el mejor indicado para ayudarnos a alcanzar nuestros objetivos.
+
+Estamos particularmente interesados en soluciones que puedan automatizar tareas rutinarias, proporcionar información basada en datos y, en última instancia, optimizar los procesos de reclutamiento y gestión de empleados. Esperamos una sesión de consultoría detallada para discutir nuestros requisitos específicos y cómo sus servicios podrían abordarlos.
+
+¿Podría por favor proporcionarnos horarios de consulta disponibles para las próximas semanas? Sería útil si también pudiera enviarnos algunos estudios de caso o referencias de proyectos similares que haya ejecutado con éxito en el pasado.
+
+Gracias de antemano por su ayuda. No duden en contactarme en <tel_num>.
+
+Saludos cordiales,
+<name>
+<position>
+<company>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse y expresar interés en nuestros Servicios de Consultoría de TI. Estamos emocionados por la oportunidad de asistir a su organización en la mejora de sus procesos de recursos humanos con soluciones tecnológicas de vanguardia.
+
+Estamos bien preparados para discutir cómo nuestros servicios pueden ayudar a automatizar tareas, proporcionar información valiosa y optimizar sus operaciones de recursos humanos. Estaría encantado de programar una sesión de consulta con nuestro equipo para profundizar en sus necesidades y objetivos específicos.
+
+A continuación, encontrará la disponibilidad para los horarios de consulta en las próximas semanas:
+- [Insertar Fechas/Horas]
+
+Además, organizaré el envío de estudios de caso y referencias de proyectos similares, que muestran nuestra experiencia y resultados exitosos en soluciones tecnológicas para recursos humanos.
+
+No dude en contactarnos en cualquier momento a este correo electrónico o a través del número de teléfono proporcionado para más consultas o para confirmar un horario.
+
+Esperamos colaborar con usted.
+
+Saludos cordiales,
+
+<Your Name>  
+<Service Desk Agent>  
+<Your Company>  
+<Contact Information>

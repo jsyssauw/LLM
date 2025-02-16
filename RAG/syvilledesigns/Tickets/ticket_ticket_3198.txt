@@ -1,0 +1,29 @@
+Ticket ID: ticket_3198
+Subject: Problema de facturación: Cobro excesivo en la suscripción mensual
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente, 
+
+Espero que este mensaje los encuentre bien. Les escribo respecto a una discrepancia en mi estado de cuenta de facturación para la suscripción a Google Workspace Business Standard asociada a mi cuenta, <acc_num>. Al revisar mis registros del mes anterior, noté que se me cobró más de la tarifa mensual acordada. 
+
+Específicamente, mi revisión de la factura muestra un cargo que excede la cantidad establecida en nuestro acuerdo de suscripción y el plan de nivel al que me inscribí inicialmente. Mi entendimiento es que el servicio de Google Workspace Business Standard tiene una tarifa mensual fija y no se realizaron cambios en mi plan que justificarían un aumento en el cargo. Por lo tanto, me estoy comunicando para obtener claridad sobre por qué aparecieron los costos adicionales y para buscar una resolución para corregir este problema de facturación. 
+
+¿Podrían investigar amablemente este asunto y proporcionar un reembolso por el monto cobrado en exceso? Además, un desglose detallado de mi factura actual podría ayudar a aclarar si hubo errores en el sistema que necesitan corregirse.
+
+Puedo ser contactado al <tel_num> para cualquier información adicional que se requiera. Gracias de antemano por su pronta asistencia en este asunto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactar con respecto a la discrepancia de facturación con su suscripción a Google Workspace Business Standard. Pedimos disculpas por cualquier inconveniente que esto haya podido causar.
+
+Investigaré rápidamente la discrepancia de cargos asociada a su cuenta, <acc_num>. Nuestro equipo revisará los detalles de su suscripción y la última factura para identificar cualquier discrepancia o error que pueda haber llevado a este cobro excesivo.
+
+Nos aseguraremos de que cualquier cargo incorrecto se ajuste y procese para un reembolso. Además, se proporcionará un desglose detallado de su factura actual para su revisión y confirmar que todo coincide con los términos acordados de su suscripción.
+
+Si necesitamos más información, nos pondremos en contacto con usted al número proporcionado, <tel_num>. Gracias por su paciencia y comprensión mientras resolvemos este problema.
+
+Atentamente,
+
+Equipo de soporte al cliente

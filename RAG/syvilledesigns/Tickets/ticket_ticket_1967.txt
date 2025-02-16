@@ -1,0 +1,5 @@
+Ticket ID: ticket_1967
+Subject: Bouchons de papier fréquents
+Incident Type: Incident
+Customer Issue: Résolution nécessaire pour l'impression sans fil.
+Customer Service answer: Essayez de repositionner le papier, de mettre à jour le firmware de l'imprimante et de vérifier les obstructions.

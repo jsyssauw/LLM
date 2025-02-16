@@ -1,0 +1,30 @@
+Ticket ID: ticket_612
+Subject: Assistance needed for MacBook Air M1 keyboard
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am experiencing a problem with my MacBook Air M1, where some of the keys on the keyboard are unresponsive. This issue started recently and has been quite inconvenient as it limits my ability to perform routine tasks.
+
+I attempted some basic troubleshooting steps such as rebooting the laptop and updating the operating system, but the problem persists. I rely heavily on my MacBook for work and personal activities, so resolving this issue is quite urgent for me.
+
+Could you please guide me on the next steps? Is there a way to repair the keyboard, or would I need to consider a replacement? Any assistance you can provide would be greatly appreciated.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Best regards,
+<name>
+
+Account Number: <acc_num>
+Phone: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting Tech Online Store Customer Support. I'm sorry to hear about the keyboard issue with your MacBook Air M1.
+
+To resolve this, we recommend trying to reset the System Management Controller (SMC) as an additional troubleshooting step. If the problem remains unsolved, your keyboard may require servicing.
+
+Please visit our nearest service center or contact us to arrange an inspection and repair. If your device is under warranty, the repair may be covered. Keep your account number <acc_num> and device serial number handy for assistance.
+
+Feel free to call us at <tel_num> for further support. We are here to help.
+
+Best regards,
+Tech Online Store Customer Support

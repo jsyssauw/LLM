@@ -1,0 +1,24 @@
+Ticket ID: ticket_768
+Subject: Urgent: Immediate Resolution Required for AWS Downtime
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to bring to your immediate attention a critical issue we are experiencing with our AWS infrastructure, managed through your AWS Management Service. Due to a severe disruption, our website is currently down, causing significant inconvenience and potential business losses. This issue has prompted our IT team to explore potential solutions and possible failover scenarios, but the expertise required to effectively manage and resolve this matter lies within your support services.
+
+Over the past few hours, it has become apparent that the underlying cause is complex, possibly tied to recent updates or misconfigurations. We require urgent intervention to diagnose and rectify this issue, ensuring that all systems are restored to full functionality. The AWS infrastructure is integral to our operations, and extended downtime is not sustainable.
+
+To clarify, our account number is <acc_num> and our most urgent concern is minimizing the downtime. We kindly request you prioritize this query, deploy the necessary resources, and provide a solution at the earliest possible convenience. Please do not hesitate to contact me directly at <tel_num> if additional information is needed.
+
+We look forward to your prompt response.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand the urgency and impact of the AWS disruption. Our technical team is swiftly mobilizing resources to diagnose and address the issue on priority. We are committed to minimizing downtime and restoring your website's full functionality as soon as possible.
+
+We appreciate your patience and cooperation. We will keep you updated on the progress. If any more details are required, our team will reach out to you using the provided contact information.
+
+Best regards,
+Customer Support Team

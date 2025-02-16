@@ -1,0 +1,5 @@
+Ticket ID: ticket_322
+Subject: Exchange Request
+Incident Type: Incident
+Customer Issue: The MacBook Air M1 doesn't turn on.
+Customer Service answer: Please try performing an SMC reset. If the issue persists, please contact support for further assistance.

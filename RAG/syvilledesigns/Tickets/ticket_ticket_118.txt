@@ -1,0 +1,29 @@
+Ticket ID: ticket_118
+Subject: Problèmes de batterie et de surchauffe du Surface Pro 7
+Incident Type: Incident
+Customer Issue: Cher service clientèle de la boutique en ligne Tech,
+
+J'espère que ce message vous trouve en bonne santé. Je vous contacte pour signaler un problème soudain avec mon Microsoft Surface Pro 7, rencontré ces derniers jours. L'appareil, qui est encore sous garantie, subit une décharge rapide de la batterie et une surchauffe lors d'une utilisation basique comme la navigation et le traitement de texte.
+
+Auparavant, la batterie durait de nombreuses heures avec une charge complète, mais maintenant elle peine à maintenir l'alimentation même pendant quelques heures. De plus, l'appareil devient étonnamment chaud au toucher après une courte utilisation. Ce changement de performance suscite ma préoccupation pour la longévité du produit.
+
+Je vous prie de bien vouloir m'aider à résoudre ce problème dès que possible. Quelles sont les étapes pour initier une demande de service, et suis-je éligible pour un remplacement ou une réparation sous garantie ?
+
+Merci de votre soutien.
+
+Cordialement,
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés au sujet des problèmes avec votre Microsoft Surface Pro 7. Je comprends votre préoccupation et je suis là pour vous aider.
+
+Puisque votre appareil subit une décharge rapide de la batterie et une surchauffe tandis qu'il est sous garantie, il est certainement éligible pour un service. Pour initier une demande de service, veuillez visiter notre site Web et naviguer vers la section 'Support' où vous trouverez l'option 'Garantie et Réparation'. Suivez les étapes guidées pour remplir un formulaire de demande de service. Ayez votre preuve d'achat et le numéro de série de l'appareil prêts, car cela peut être requis lors du processus.
+
+Une fois votre demande soumise, notre équipe technique évaluera les détails pour déterminer si une réparation ou un remplacement est nécessaire en fonction des conditions de garantie.
+
+Pour une assistance immédiate ou pour toute autre question, n'hésitez pas à contacter notre ligne d'assistance clientèle au <tel_num>.
+
+Nous sommes ici pour garantir que votre Surface Pro 7 soit restaurée à un état optimal.
+
+Cordialement,
+L'équipe de support clientèle de la boutique en ligne Tech

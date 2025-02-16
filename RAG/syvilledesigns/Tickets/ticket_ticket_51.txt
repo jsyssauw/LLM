@@ -1,0 +1,16 @@
+Ticket ID: ticket_51
+Subject: Überprüfung der Serverkonfiguration erforderlich
+Incident Type: Problem
+Customer Issue: Sehr geehrter IT-Service-Support,
+
+unser Kunde, <name>, hat Unterbrechungen bei seinen Kollaborationstools. Wir glauben, dass die Lösung möglicherweise in den Serverkonfigurationseinstellungen liegt. Wir bitten um eine gründliche Überprüfung der Konfiguration des IT- Beratungsdienstes, um dieses Problem umgehend zu lösen. Bitte beraten Sie uns über den besten Handlungsweg und stellen Sie alle notwendigen Anweisungen zur Verfügung.
+
+Danke,
+<name>
+<tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank für Ihre E-Mail. Wir werden die Serverkonfigurationseinstellungen für den IT-Beratungsdienst von <name> überprüfen. Bitte geben Sie zusätzliche Informationen zu den spezifischen Problemen an, die mit den Kollaborationstools aufgetreten sind. Stellen Sie in der Zwischenzeit sicher, dass alle Systeme mit den neuesten Patches aktualisiert sind. Wir werden Sie in Kürze mit weiteren Anweisungen kontaktieren.
+
+Mit freundlichen Grüßen,
+IT-Service-Support

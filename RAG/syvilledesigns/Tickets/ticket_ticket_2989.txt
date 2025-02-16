@@ -1,0 +1,22 @@
+Ticket ID: ticket_2989
+Subject: nan
+Incident Type: Change
+Customer Issue: Cher service client,
+
+J'espère que ce message vous trouve en bonne santé. Je vous écris pour demander une mise à niveau de nos licences Google Workspace pour l'équipe de vente afin d'améliorer leur productivité et leurs capacités de collaboration. Actuellement, nous utilisons l'édition Business Standard, et une transition vers un plan plus avancé serait très bénéfique pour notre équipe. Veuillez nous faire savoir les procédures et les coûts associés à cette mise à niveau.
+
+Merci pour votre assistance.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant la mise à niveau de vos licences Google Workspace. Pour passer de Business Standard à un plan plus avancé, vous pouvez envisager des options telles que Business Plus, Enterprise Standard ou Enterprise Plus. Ces plans offrent des fonctionnalités améliorées pour la collaboration et la productivité.
+
+Pour procéder à la mise à niveau, vous pouvez accéder à la console d'administration Google et naviguer vers 'Facturation' pour effectuer les modifications. Alternativement, nous pouvons vous aider dans le processus. Le coût variera en fonction du plan choisi et du nombre de licences nécessaires.
+
+Pour des informations tarifaires détaillées et une assistance supplémentaire, n'hésitez pas à nous contacter directement ou à consulter la page de tarification de Google Workspace.
+
+Cordialement,
+Équipe du service client

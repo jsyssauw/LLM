@@ -1,0 +1,5 @@
+Ticket ID: ticket_2796
+Subject: nan
+Incident Type: Request
+Customer Issue: Le client ne peut pas se connecter à Jira Software 8.20.
+Customer Service answer: Nous examinons votre problème de connexion. Veuillez essayer de réinitialiser votre mot de passe pendant que nous enquêtons.

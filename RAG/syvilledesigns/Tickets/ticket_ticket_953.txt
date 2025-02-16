@@ -1,0 +1,24 @@
+Ticket ID: ticket_953
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I am writing to inquire about the availability and pricing of the Microsoft Surface Pro 7 in your online store. I am specifically interested in the various configurations and any promotions that might be currently available.
+
+Could you please provide information regarding the different specifications, such as RAM, storage options, and whether there are any bundles or discounts offered? Additionally, I would appreciate it if you could let me know about the estimated delivery times for this product if it is in stock.
+
+Thank you for your assistance and prompt response. I look forward to your reply.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the Microsoft Surface Pro 7. We currently offer various configurations, including models with different RAM and storage options. 
+
+Please visit our online store for detailed pricing information and to see current promotions or bundles available. If the product is in stock, typical delivery times range from 3-5 business days, depending on your location.
+
+If you need further assistance or specific details, feel free to reply to this email.
+
+Best regards,
+Customer Support Team
