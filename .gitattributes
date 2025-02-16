@@ -1,2 +1,4 @@
 RAG/syvilledesigns/chroma_db/*.bin filter=lfs diff=lfs merge=lfs -text
 RAG/syvilledesigns/chroma_db/*.sqlite3 filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.sqlite3 filter=lfs diff=lfs merge=lfs -text
