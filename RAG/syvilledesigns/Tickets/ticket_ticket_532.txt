@@ -1,5 +1,0 @@
-Ticket ID: ticket_532
-Subject: Complicaciones en el envío del Samsung Galaxy Tab S7
-Incident Type: Problem
-Customer Issue: Estoy teniendo inconvenientes con el envío de mi solicitud del Samsung Galaxy Tab S7.
-Customer Service answer: Sentimos mucho saber esto. Por favor, facilite su número de pedido para brindarle una mejor asistencia.

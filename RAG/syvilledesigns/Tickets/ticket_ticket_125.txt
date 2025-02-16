@@ -1,5 +1,0 @@
-Ticket ID: ticket_125
-Subject: MacBook Air Batterieproblem
-Incident Type: Incident
-Customer Issue: Sehr geehrter Kundenservice, ich habe ein Problem mit der Batterie meines MacBook Air M1. Sie lädt nicht über 50 %, selbst nachdem ich es über Nacht eingesteckt gelassen habe. Bitte helfen Sie mir, dieses Problem umgehend zu lösen. Meine Kontonummer ist <acc_num>. Vielen Dank.
-Customer Service answer: Sehr geehrter <name>, vielen Dank, dass Sie uns kontaktiert haben. Bitte versuchen Sie, den SMC zurückzusetzen, indem Sie Ihr MacBook ausschalten und dann 10 Sekunden lang die Tasten Shift + Control + Option + Power gedrückt halten. Wenn das Problem weiterhin besteht, empfehlen wir Ihnen, ein autorisiertes Servicecenter aufzusuchen. Mit freundlichen Grüßen, Kundenservice

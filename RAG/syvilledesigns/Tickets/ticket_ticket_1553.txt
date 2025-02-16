@@ -1,5 +1,0 @@
-Ticket ID: ticket_1553
-Subject: Request for Enhancement and Fixes
-Incident Type: Request
-Customer Issue: Dear Customer Support, we're experiencing glitches and need enhancements with Slack 4.23.0. Please improve messaging and collaboration features to ensure extended functionalities. Your immediate attention will be appreciated. Regards,<name>
-Customer Service answer: Dear <name>, Thank you for reaching out. We're aware of the issues in Slack 4.23.0 and are actively working on them. Our team is focused on enhancing messaging and collaboration features for better functionality. Your feedback is valuable and will help us improve. We appreciate your patience and will update you as soon as we have new developments. Best regards, Customer Support.

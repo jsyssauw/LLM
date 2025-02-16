@@ -1,5 +1,0 @@
-Ticket ID: ticket_370
-Subject: Problem mit der drahtlosen Verbindung des HP DeskJet 3755
-Incident Type: Problem
-Customer Issue: Sehr geehrter Support des Tech Online Store, mein HP DeskJet 3755 verbindet sich nicht drahtlos mit meinem Laptop. Könnten Sie mir bitte helfen, dieses Problem zu lösen? Vielen Dank. Mit freundlichen Grüßen, <name>.
-Customer Service answer: Sehr geehrter <name>, bitte stellen Sie sicher, dass Ihr Drucker und Ihr Laptop im selben Wi-Fi-Netzwerk sind. Starten Sie beide Geräte neu und versuchen Sie erneut, eine Verbindung herzustellen. Kontaktieren Sie uns, wenn das Problem weiterhin besteht.

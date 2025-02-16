@@ -1,5 +1,0 @@
-Ticket ID: ticket_2398
-Subject: Sofortige Hilfe benötigt: AWS-Serviceunterbrechung
-Incident Type: Problem
-Customer Issue: Der Kunde hat eine Unterbrechung bei AWS und benötigt technische Unterstützung für eine schnelle Lösung.
-Customer Service answer: Hallo! Unser Team kümmert sich derzeit um die AWS-Unterbrechung und arbeitet fleißig an einer Lösung. Wir haben Ihr Anliegen priorisiert, um eine schnelle Behebung zu gewährleisten. Wir danken Ihnen für Ihr Verständnis.

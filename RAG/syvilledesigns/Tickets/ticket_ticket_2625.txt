@@ -1,5 +1,0 @@
-Ticket ID: ticket_2625
-Subject: Assistance requested for setup of HP DeskJet 3755
-Incident Type: Request
-Customer Issue: Dear Customer Support, I am facing difficulties with the wireless setup of my new HP DeskJet 3755 printer. Please guide me through the setup process. Thank you!
-Customer Service answer: Dear <name>, to set up your HP DeskJet 3755 wirelessly, first turn on the printer. Press and hold the Wireless and Cancel buttons until the Power button blinks. On your PC, go to 'Printers & Scanners' > 'Add a printer' and select your printer. Follow the on-screen instructions to complete the setup.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_1956
-Subject: Problème urgent de routeur Cisco ISR4331
-Incident Type: Incident
-Customer Issue: Perturbations de connectivité dues au routeur Cisco ISR4331 affectant plusieurs utilisateurs. Assistance immédiate requise.
-Customer Service answer: Merci de nous avoir contactés. Nous comprenons l'urgence concernant les perturbations de connectivité du routeur Cisco ISR4331. Notre équipe enquête et résoudra le problème rapidement. Nous vous tiendrons informé.

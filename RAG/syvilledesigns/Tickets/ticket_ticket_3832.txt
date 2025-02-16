@@ -1,5 +1,0 @@
-Ticket ID: ticket_3832
-Subject: Resposta imediata necessária: problema com o roteador Cisco ISR4331
-Incident Type: Problem
-Customer Issue: Nossa rede empresarial está fora do ar devido a uma falha no roteador Cisco ISR4331. Isso requer sua atenção urgente para restaurar a conectividade segura e de alto desempenho imediatamente. Por favor, resolva este problema na sua primeira oportunidade.
-Customer Service answer: Estamos cientes do problema com o roteador Cisco ISR4331. Nossa equipe está trabalhando para restaurar rapidamente a conectividade de alto desempenho da sua rede. Pedimos desculpas pelo inconveniente e agradecemos sua paciência.

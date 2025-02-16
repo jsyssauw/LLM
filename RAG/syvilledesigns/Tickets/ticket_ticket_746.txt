@@ -1,5 +1,0 @@
-Ticket ID: ticket_746
-Subject: Issue with Dell XPS 13 9310 Performance
-Incident Type: Incident
-Customer Issue: Hi, I've noticed performance issues with my Dell XPS 13 9310 after the latest update. Please assist.
-Customer Service answer: Hi, try restarting and ensuring all drivers are up to date. If issues persist, restore to a previous update. For further help, please contact Dell support.

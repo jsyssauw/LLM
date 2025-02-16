@@ -1,5 +1,0 @@
-Ticket ID: ticket_2024
-Subject: nan
-Incident Type: Incident
-Customer Issue: Liebes Kundenserviceteam, vor kurzem habe ich ein Lenovo IdeaPad 5 in Ihrem Onlineshop erworben, jedoch habe ich Schwierigkeiten mit dem Bildschirm. Bitte teilen Sie mir mit, wie ich gegebenenfalls bei der Fehlersuche vorgehen kann oder ob ein Austausch möglich ist. Vielen Dank. Beste Grüße, <name>.
-Customer Service answer: Sehr geehrte/r <name>, es tut mir leid, dass Sie Schwierigkeiten mit dem Bildschirm Ihres Lenovo IdeaPad 5 haben. Bitte versuchen Sie, im abgesicherten Modus zu starten und die Grafiktreiber zu aktualisieren. Sollte das Problem weiterhin bestehen, können wir eine Rücksendung oder einen Austausch in die Wege leiten. Bitte antworten Sie mit Ihrer Bestellnummer und den dazugehörigen Informationen. Mit besten Grüßen, Ihr Kundenserviceteam.

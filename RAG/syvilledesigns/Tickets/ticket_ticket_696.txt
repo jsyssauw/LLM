@@ -1,5 +1,0 @@
-Ticket ID: ticket_696
-Subject: Integration Request
-Incident Type: Change
-Customer Issue: Please integrate sales app with pre-sales database; label as low priority.
-Customer Service answer: Thank you for your request. We will proceed with integrating the sales app with the pre-sales database at low priority.

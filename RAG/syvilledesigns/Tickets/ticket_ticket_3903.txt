@@ -1,5 +1,0 @@
-Ticket ID: ticket_3903
-Subject: nan
-Incident Type: Incident
-Customer Issue: MacBook Air M1 défectueux signalé, demande de remplacement sous garantie.
-Customer Service answer: Merci pour votre email. Veuillez fournir votre preuve d'achat, numéro de série et coordonnées pour commencer le processus de remplacement sous garantie.

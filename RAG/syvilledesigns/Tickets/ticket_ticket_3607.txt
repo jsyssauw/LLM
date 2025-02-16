@@ -1,7 +1,0 @@
-Ticket ID: ticket_3607
-Subject: Solicitação de Mudança na Estratégia de TI
-Incident Type: Change
-Customer Issue: Nós enviamos uma solicitação para alinhar nossa infraestrutura de TI com os novos objetivos de negócios definidos.
-Customer Service answer: Assunto: Solicitação de Mudança na Estratégia de TI
-
-Obrigado pela sua solicitação sobre o alinhamento da estratégia de TI. Revisaremos sua submissão e responderemos com os próximos passos em breve.

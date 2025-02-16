@@ -1,5 +1,0 @@
-Ticket ID: ticket_894
-Subject: nan
-Incident Type: Request
-Customer Issue: Hello, I'm writing to address a billing discrepancy regarding my recent purchase of a Microsoft Surface Pro 7. Please review my case as soon as possible. My account number is <acc_num>. Thank you for your assistance. Regards, <name>.
-Customer Service answer: Hello, Thank you for reaching out regarding the billing discrepancy with your purchase of the Microsoft Surface Pro 7. We will review your case promptly. For further assistance and a quicker resolution, could you please provide any additional information or reference numbers associated with the transaction? Our team is here to assist you, and we will get back to you as soon as possible. Thank you for your patience. Regards, Customer Support Team.

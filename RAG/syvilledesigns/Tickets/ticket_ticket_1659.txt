@@ -1,5 +1,0 @@
-Ticket ID: ticket_1659
-Subject: Urgente: Problema de Inicialização do Dell XPS 13
-Incident Type: Incident
-Customer Issue: O usuário relata um problema persistente de inicialização no Dell XPS 13 9310. Necessita de suporte urgente de TI para resolução.
-Customer Service answer: Nossa equipe de tecnologia está trabalhando nisso. Aguarde um acompanhamento em breve para resolver seu problema.

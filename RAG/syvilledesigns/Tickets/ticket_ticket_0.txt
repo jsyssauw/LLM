@@ -1,5 +1,0 @@
-Ticket ID: ticket_0
-Subject: Problema crítico del servidor requiere atención inmediata
-Incident Type: Incident
-Customer Issue: Es necesaria una investigación inmediata sobre la interrupción en el servicio de gestión de AWS que está impactando funciones comerciales esenciales.
-Customer Service answer: Estamos investigando urgentemente el problema con el servicio de gestión de AWS. Proporcionaremos actualizaciones sobre nuestro progreso.

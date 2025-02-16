@@ -1,5 +1,0 @@
-Ticket ID: ticket_2825
-Subject: nan
-Incident Type: Request
-Customer Issue: Hello, I'm experiencing some difficulties with my Epson EcoTank ET-4760 printer. Would you be able to help me? Thank you, <name>
-Customer Service answer: Hello, I'm sorry to learn that! Would you mind sharing further information regarding the problem with your printer? Thank you!

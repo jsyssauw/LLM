@@ -1,8 +1,0 @@
-Ticket ID: ticket_105
-Subject: Billing Disputes
-Incident Type: Incident
-Customer Issue: Dear Customer Support, I noticed discrepancies in the charges after experiencing service throttling during peak hours on AWS Management Service. Could you please assist in clarifying and resolving this issue? Sincerely, <name>
-Customer Service answer: Dear <name>,
-Thank you for reaching out. We are sorry for the inconvenience regarding the billing discrepancies. Our team is investigating the issue and will get back to you shortly with a resolution.
-Best regards,
-Customer Support

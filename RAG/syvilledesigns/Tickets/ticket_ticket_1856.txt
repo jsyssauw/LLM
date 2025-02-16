@@ -1,5 +1,0 @@
-Ticket ID: ticket_1856
-Subject: Sofort: Probleme mit dem Zugriff auf das IT-Ticketing-System
-Incident Type: Incident
-Customer Issue: Ich benötige umgehende Hilfe!
-Customer Service answer: Bitte teilen Sie uns zusätzliche Informationen zum Zugriffsproblem mit, damit wir eine schnelle Lösung anbieten können.

@@ -1,8 +1,0 @@
-Ticket ID: ticket_1335
-Subject: nan
-Incident Type: Problem
-Customer Issue: El cliente enfrenta problemas de Wi-Fi con la HP DeskJet 3755. No puede imprimir de forma inalámbrica. Necesita asistencia para la solución de problemas.
-Customer Service answer: Estimado <name>, Para problemas de Wi-Fi con su HP DeskJet 3755, intente reiniciar su enrutador y su impresora. Conéctese nuevamente a Wi-Fi a través de la configuración.
-
-Atentamente,
-<Service Desk Agent>

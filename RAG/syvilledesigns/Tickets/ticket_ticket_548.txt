@@ -1,5 +1,0 @@
-Ticket ID: ticket_548
-Subject: Network Issues
-Incident Type: Incident
-Customer Issue: Dear IT Services, Our network has been down due to a malfunction in our Cisco Router ISR4331. We are encountering frequent disconnections and performance issues. Immediate assistance is required to restore our network's stability. Please advise on the next steps to resolve this problem promptly. Looking forward to your urgent support. Thank you, <name>.
-Customer Service answer: Dear <name>, Thank you for reaching out. We recommend rebooting your Cisco Router ISR4331 first. If the issue persists, please contact our technical support team at <tel_num> to run diagnostics and provide assistance. Record any error messages that appear, as these can help expedite the resolution process. We are committed to restoring your network promptly. Regards, IT Services.

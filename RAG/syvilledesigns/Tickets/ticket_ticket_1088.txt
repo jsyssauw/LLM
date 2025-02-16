@@ -1,5 +1,0 @@
-Ticket ID: ticket_1088
-Subject: nan
-Incident Type: Problem
-Customer Issue: Estimado cliente de Tech Online Store, Estoy experimentando un problema con el teclado desmontable del Microsoft Surface Pro 7. No se mantiene conectado de manera confiable mientras se utiliza. ¿Podría proporcionarme una solución o un reemplazo? Gracias, <name>, <tel_num>
-Customer Service answer: Estimado/a <name>,\n\nGracias por ponerte en contacto. Lamentamos saber sobre el problema con el teclado de tu Surface Pro 7. Por favor, confirma los detalles de tu compra y te guiaré a través del proceso de reemplazo. No dudes en llamarnos al <tel_num> para asistencia inmediata.\n\nSaludos cordiales,\nSoporte al Cliente de Tech Online Store

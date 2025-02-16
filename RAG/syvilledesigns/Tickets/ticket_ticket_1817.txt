@@ -1,5 +1,0 @@
-Ticket ID: ticket_1817
-Subject: Smart TV Screen Flicker
-Incident Type: Incident
-Customer Issue: Customer support needed for Samsung QLED QN90A flickering issue.
-Customer Service answer: Please restart your TV and update firmware. If issue persists, contact Samsung at <tel_num>.

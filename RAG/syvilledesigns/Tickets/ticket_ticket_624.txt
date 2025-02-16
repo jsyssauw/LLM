@@ -1,5 +1,0 @@
-Ticket ID: ticket_624
-Subject: Anfrage zur Verfügbarkeit und Rabatt von Dell XPS 13 9310
-Incident Type: Request
-Customer Issue: Hallo, ich möchte die Verfügbarkeit von Dell XPS 13 9310 Laptops wissen und anfragen, ob es Optionen für Mengenrabatte gibt. Bitte lassen Sie es mich wissen. Mit freundlichen Grüßen, <name>
-Customer Service answer: Hallo, vielen Dank für Ihre Anfrage. Die Dell XPS 13 9310 Laptops sind derzeit verfügbar. Für Optionen zu Mengenrabatten kontaktieren Sie bitte unsere Verkaufsabteilung unter <email> oder rufen Sie <tel_num> an. Sie helfen Ihnen gerne mit weiteren Details. Mit besten Grüßen, [Ihr Name] Kundenservice-Team.

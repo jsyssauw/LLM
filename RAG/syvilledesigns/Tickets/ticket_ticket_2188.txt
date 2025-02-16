@@ -1,5 +1,0 @@
-Ticket ID: ticket_2188
-Subject: Frequent crashes after update on Surface Pro 7
-Incident Type: Incident
-Customer Issue: Surface Pro 7 crashes and touchscreen issues
-Customer Service answer: Please reinstall the drivers. If issues persist, contact support for further assistance.

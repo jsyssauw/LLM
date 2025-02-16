@@ -1,5 +1,0 @@
-Ticket ID: ticket_164
-Subject: Assistance Needed
-Incident Type: Request
-Customer Issue: Hello, I am requesting help with configuring Zoom version 5.11.0 and enabling screen sharing for webinars. Please give me instructions on how to solve these issues at your earliest convenience. I appreciate it! <name>.
-Customer Service answer: Hello, Thank you for reaching out to us. To resolve issues concerning the setup of Zoom 5.11.0 and screen sharing, please ensure that you have the latest update and the correct permissions. Check your options in the 'Share Screen' area to allow webinars. If the issues persist, please connect with Zoom support for specialized assistance. Best regards, <name>.

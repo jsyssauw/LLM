@@ -1,5 +1,0 @@
-Ticket ID: ticket_3113
-Subject: Demande d'amélioration et de corrections
-Incident Type: Request
-Customer Issue: Cher service client, nous rencontrons des problèmes techniques et avons besoin d'améliorations avec Slack 4.23.0. Veuillez améliorer les fonctionnalités de messagerie et de collaboration pour garantir des fonctionnalités étendues. Votre attention immédiate sera appréciée. Cordialement,<name>
-Customer Service answer: Cher <name>, Merci de nous avoir contactés. Nous sommes conscients des problèmes dans Slack 4.23.0 et travaillons activement dessus. Notre équipe se concentre sur l'amélioration des fonctionnalités de messagerie et de collaboration pour une meilleure fonctionnalité. Vos retours sont précieux et nous aideront à nous améliorer. Nous apprécions votre patience et vous tiendrons informé dès que nous aurons de nouveaux développements. Cordialement, Service client.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_2006
-Subject: Sofortige Hilfe benötigt: Tonprobleme bei Videokonferenzen
-Incident Type: Incident
-Customer Issue: Hallo Support-Team, während eines wichtigen Zoom-Meetings (Version 5.11.0) hat der Ton unerwartet aufgehört zu funktionieren, was zu einer erheblichen Unterbrechung führte. Ich benötige dringend Hilfe, um dieses Kommunikationsproblem zu beheben. Vielen Dank. Beste Grüße, <name>
-Customer Service answer: Hallo <name>, vielen Dank für Ihre Nachricht. Bitte befolgen Sie diese Vorschläge: Überprüfen Sie, ob Ihre Audioeinstellungen in Zoom Version 5.11.0 korrekt eingerichtet sind, und überprüfen Sie, ob die Lautsprecher und das Mikrofon Ihres Geräts ordnungsgemäß funktionieren. Starten Sie Zoom neu, und wenn nötig, starten Sie auch Ihr Gerät neu. Bestätigen Sie, dass Ihre Zoom-Anwendung auf die neueste Version aktualisiert ist und dass Ihre Internetverbindung zuverlässig ist. Wenn das Problem weiterhin besteht, setzen Sie sich mit unserem Support-Team in Verbindung und geben Sie weitere Details an. Beste Grüße, Service Desk Team

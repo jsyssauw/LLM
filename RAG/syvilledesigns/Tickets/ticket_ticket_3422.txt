@@ -1,5 +1,0 @@
-Ticket ID: ticket_3422
-Subject: Problema: Reproducción HDR borrosa en TV Samsung QLED
-Incident Type: Problem
-Customer Issue: Estimado Soporte al Cliente, estoy experimentando visuales borrosas al reproducir contenido HDR en mi TV Samsung QLED QN90A. Por favor, aconseje sobre una solución o inicie un proceso de devolución. Gracias por su asistencia. Saludos, <name>.
-Customer Service answer: Estimado <name>, le sugiero probar estos pasos: 1) Asegúrese de que el firmware de su TV esté actualizado en Configuración > Soporte > Actualización de Software. 2) Ajuste la Configuración de Imagen para contenido HDR a través de Configuración > Imagen > Configuraciones Expertas. 3) Confirme que su fuente de contenido y los cables HDMI admitan HDR. Si los problemas persisten, comuníquese directamente con el Soporte de Samsung o inicie una devolución a través del minorista. Saludos cordiales, <service_desk_agent>.

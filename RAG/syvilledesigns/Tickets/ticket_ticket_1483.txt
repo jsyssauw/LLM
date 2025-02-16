@@ -1,5 +1,0 @@
-Ticket ID: ticket_1483
-Subject: Usuario enfrenta problemas con la mensajería de Slack
-Incident Type: Problem
-Customer Issue: Estimado equipo de soporte de servicios de TI, nuestro colega <name> no puede enviar mensajes en Slack versión 4.23.0. La comunicación en los departamentos de Pluto es crucial y este problema interrumpe nuestro flujo de trabajo. Le agradeceríamos que nos brindara asistencia o una solución a la mayor brevedad posible. Saludos cordiales, <name>.
-Customer Service answer: Estimado <name>, por favor, informe a su colega <name> que verifique su conexión a internet y asegúrese de que Slack esté actualizado. Si el problema persiste, pídales que borren la caché de la aplicación o reinstalen Slack. Si estos pasos no lo resuelven, infórmelo a nuestro equipo técnico para obtener más ayuda. Saludos cordiales, Soporte de TI.

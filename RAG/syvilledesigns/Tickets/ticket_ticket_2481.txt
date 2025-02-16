@@ -1,5 +1,0 @@
-Ticket ID: ticket_2481
-Subject: Demande d'assistance : Problème de scintillement de l'écran sur ordinateur portable
-Incident Type: Incident
-Customer Issue: Le client signale un scintillement de l'écran sur le Dell XPS 13 9310. Veuillez fournir une assistance de diagnostic pour résoudre le problème rapidement.
-Customer Service answer: Merci de nous avoir contactés. Veuillez vérifier s'il existe des mises à jour logicielles ou des mises à jour de pilotes sur le site Web de Dell. Si le problème persiste, essayez d'ajuster le taux de rafraîchissement dans les paramètres d'affichage. Faites-nous savoir si vous avez besoin de plus d'assistance.

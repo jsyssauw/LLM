@@ -1,5 +1,0 @@
-Ticket ID: ticket_572
-Subject: Request for help in fixing Zoom issues
-Incident Type: Problem
-Customer Issue: There are issues with the stability of Zoom calls.
-Customer Service answer: We are presently looking into your Zoom issue, <name>. We will give you an update soon.

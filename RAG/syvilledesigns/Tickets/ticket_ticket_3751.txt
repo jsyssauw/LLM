@@ -1,5 +1,0 @@
-Ticket ID: ticket_3751
-Subject: Ajuda Imediata Necessária: Dificuldades com o Zoom
-Incident Type: Request
-Customer Issue: Caro Time de Suporte, Solicito gentilmente sua ajuda para configurar e solucionar problemas relacionados às nossas reuniões executivas na versão 5.11.0 do Zoom. Este assunto é de extrema importância. Obrigado, <name>.
-Customer Service answer: Caro <name>, Agradecemos por entrar em contato conosco. Para resolver suas dificuldades com a versão 5.11.0 do Zoom, certifique-se de que seu software esteja atualizado e verifique sua conexão com a Internet. Para assistência na configuração, visite a página de suporte do Zoom ou consulte o guia. Se você continuar a encontrar problemas, envie-nos informações adicionais e forneceremos mais assistência. Atenciosamente, Suporte ao Cliente.

@@ -1,5 +1,0 @@
-Ticket ID: ticket_1043
-Subject: Bildschirmflimmern Problem
-Incident Type: Incident
-Customer Issue: Hallo Team, ich habe Bildschirmflimmern auf meinem Microsoft Surface Pro 7, wenn ich es im Tablet-Modus verwende. Bitte geben Sie Ratschläge, wie ich dieses Problem lösen kann. Danke, <name>
-Customer Service answer: Hallo <name>, versuchen Sie, die Grafikkartentreiber und Windows zu aktualisieren. Wenn das Flimmern weiterhin besteht, ziehen Sie einen Hard-Reset in Betracht oder wenden Sie sich zur weiteren Unterstützung an den Microsoft-Support.

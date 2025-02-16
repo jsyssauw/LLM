@@ -1,5 +1,0 @@
-Ticket ID: ticket_1246
-Subject: Bildschirmflackerproblem
-Incident Type: Incident
-Customer Issue: Sehr geehrter Kundenservice, ich habe Probleme mit flackerndem Bildschirm bei meinem 13-Zoll MacBook Air M1. Ich benötige Unterstützung, um dieses Problem umgehend zu lösen. Vielen Dank, <name>.
-Customer Service answer: Sehr geehrte/r <name>, es tut mir leid zu hören, dass es ein Bildschirmflackern gibt. Bitte versuchen Sie, im sicheren Modus neu zu starten oder macOS zu aktualisieren. Wenn das Problem weiterhin besteht, wenden Sie sich bitte an den Apple Support für weitere Unterstützung.

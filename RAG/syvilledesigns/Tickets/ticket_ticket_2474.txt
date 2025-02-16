@@ -1,6 +1,0 @@
-Ticket ID: ticket_2474
-Subject: Problema de sonido después de la actualización
-Incident Type: Incident
-Customer Issue: El cliente informa que no hay sonido en el Samsung QLED QN90A después de una actualización de firmware. Necesita una resolución urgente.
-Customer Service answer: Estimado Cliente, 
-Por favor, intente restablecer la configuración de audio del televisor: Menú > Sonido > Configuraciones Expertas > Restablecer Sonido.

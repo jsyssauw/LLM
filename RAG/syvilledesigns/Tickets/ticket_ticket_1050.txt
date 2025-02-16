@@ -1,7 +1,0 @@
-Ticket ID: ticket_1050
-Subject: Immediate Attention Needed: Claim Request for Defective Lenovo IdeaPad 5
-Incident Type: Incident
-Customer Issue: Dear Customer Support, I've recently acquired a Lenovo IdeaPad 5 (Order#: <order_num>). Unfortunately, the device arrived with defects, and I require assistance. Could you please guide me on how to proceed with the return or replacement? You can reach me at <tel_num>. I appreciate your swift attention to this issue. Sincerely, <name>
-Customer Service answer: Dear <name>,
-We regret to learn about the problem with your Lenovo IdeaPad 5. To address this concern, kindly visit our returns webpage or get in touch with our support staff at <support_num>. Ensure you have your order number (#<order_num>) ready for a more efficient process. Alternatively, we can assist you in starting the procedure over the phone.
-Warm regards,<Your Company>

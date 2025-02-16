@@ -1,5 +1,0 @@
-Ticket ID: ticket_625
-Subject: Problema de parpadeo de pantalla
-Incident Type: Incident
-Customer Issue: Estimado Soporte al Cliente, estoy experimentando problemas de parpadeo de pantalla con mi MacBook Air M1 de 13 pulgadas. Necesito asistencia para resolver este problema de manera rápida. Gracias, <name>.
-Customer Service answer: Estimado <name>, lamento saber sobre el parpadeo de pantalla. Por favor, intenta reiniciar en Modo Seguro o actualizar macOS. Si el problema persiste, contacta al Soporte de Apple para obtener más ayuda.

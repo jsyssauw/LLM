@@ -1,5 +1,0 @@
-Ticket ID: ticket_30
-Subject: Challenge with Instance Launch
-Incident Type: Problem
-Customer Issue: Concern with service implementation.
-Customer Service answer: Hello, could you provide further details about the issue for enhanced assistance? Thank you!

@@ -1,7 +1,0 @@
-Ticket ID: ticket_3285
-Subject: Request for IT Strategy Change
-Incident Type: Change
-Customer Issue: We submitted a request to align our IT infrastructure with newly defined business objectives.
-Customer Service answer: Subject: Request for IT Strategy Change
-
-Thank you for your request regarding the IT strategy alignment. We will review your submission and respond with the next steps shortly.

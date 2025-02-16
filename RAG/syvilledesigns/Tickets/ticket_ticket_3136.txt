@@ -1,5 +1,0 @@
-Ticket ID: ticket_3136
-Subject: Häufige Papierstaus
-Incident Type: Incident
-Customer Issue: Eine Lösung für das drahtlose Drucken ist erforderlich.
-Customer Service answer: Versuchen Sie, das Papier neu zu positionieren, die Druckerfirmware zu aktualisieren und nach Hindernissen zu suchen.

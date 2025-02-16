@@ -1,5 +1,0 @@
-Ticket ID: ticket_2506
-Subject: Anfrage zu Abweichungen in der Abrechnung bei AWS
-Incident Type: Incident
-Customer Issue: Hallo Kundenservice, ich schreibe, um eine Abweichung in der Abrechnung meines AWS Management Service-Kontos zu erfragen. Könnten Sie bei einer Kostenoptimierungsanalyse für meine aktuellen Rechnungen helfen? Meine Kontonummer ist <acc_num>. Bitte kontaktieren Sie mich unter <tel_num>. Vielen Dank, <name>.
-Customer Service answer: Hallo <name>, danke, dass Sie sich mit Ihren AWS-Abrechnungsanliegen an uns gewandt haben. Wir werden Ihr Konto überprüfen und eine Kostenoptimierungsanalyse durchführen. Bitte erwarten Sie bald eine Rückmeldung. Für sofortige Unterstützung rufen Sie uns bitte unter unserer Support-Hotline an. Ihre Geduld wird geschätzt.

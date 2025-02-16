@@ -1,5 +1,0 @@
-Ticket ID: ticket_377
-Subject: nan
-Incident Type: Change
-Customer Issue: Bitte reduzieren Sie die Störung des Dienstes.
-Customer Service answer: Vielen Dank für Ihr Feedback. Wir werden daran arbeiten, die Störungen des Dienstes zu minimieren.

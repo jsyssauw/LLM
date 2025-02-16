@@ -1,5 +1,0 @@
-Ticket ID: ticket_3753
-Subject: Important: Assistance Required for AWS Service Outage
-Incident Type: Problem
-Customer Issue: The customer is facing an outage with AWS and requires technical assistance for a swift fix.
-Customer Service answer: Greetings! Our team is cognizant of the AWS outage and is diligently addressing it. Your concern has been assigned a high priority for a rapid resolution. We appreciate your understanding.

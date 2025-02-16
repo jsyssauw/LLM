@@ -1,5 +1,0 @@
-Ticket ID: ticket_633
-Subject: Immediate Assistance Required: Zoom Connection Problems
-Incident Type: Problem
-Customer Issue: Hi, I have been encountering connection problems with Zoom version 5.11.0 during video conferences. This is greatly impacting our communication effectiveness and important meetings. I would appreciate your help at your earliest convenience. Thank you. Best wishes, <name> Account: <acc_num>.
-Customer Service answer: Hi <name>, we apologize for the trouble you're experiencing with Zoom. Please make sure your software is current, verify your internet connection, and attempt to restart your device. If the problems continue, please reach out to our support team for additional help. Thank you for your understanding. Best wishes, Service Desk Agent.
