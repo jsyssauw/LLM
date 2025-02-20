@@ -15,6 +15,7 @@
 ##              2) language_code = input("Audio language code (en/nl/...) - avoid autodetect: ")
 ##          OUTPUT
 ##              1) .txt with the txt transcript
+##  v0.2    moving the output to the DOWNLOAD_DIR (keep out of GIT tracking)
 ########################################################################################
 
 
@@ -30,8 +31,25 @@ import warnings
 import whisper
 import librosa
 
+import platform
+
+system_name = platform.system()
+if system_name == "Windows":
+    # print("Running on Windows")
+    DOWNLOAD_DIR = os.path.join(os.environ["USERPROFILE"], "Downloads")
+    # print(downloads_dir)
+elif system_name == "Darwin":
+    # print("Running on macOS")
+    DOWNLOAD_DIR = os.path.join(os.environ["HOME"], "Downloads")
+    # print(downloads_dir)
+elif system_name == "Linux":
+    # print("Running on Linux")
+    DOWNLOAD_DIR = os.path.join(os.environ["HOME"], "Downloads")
+    # print(downloads_dir)
+
+DEFAULT_LANGUAGE_CODE = "en"  # Default to English
 DEBUG_MODE = True
-CHUNKSIZE = 30 # for large audio files we can't use the direct translation so we are chunking it up in chunksize of seconds. Default in chunksizes of 15'
+CHUNKSIZE = 15 # for large audio files we can't use the direct translation so we are chunking it up in chunksize of seconds. Default in chunksizes of 15 sec
 """
 People generally speak about 125 to 150 words per minute in normal conversation. At that rate:
 At 150 words per minute: 333 ÷ 150 ≈ 2.22 minutes, which is about 2 minutes 13 seconds.
@@ -58,6 +76,8 @@ processor = WhisperProcessor.from_pretrained(model_name)
 model = WhisperForConditionalGeneration.from_pretrained(model_name).to(DEVICE)
 
 def write_to_file(content, file_name):
+    if DEBUG_MODE:
+        print("File to write transcript: ", file_name)
     with open(file_name, "w", encoding="utf-8") as file:
         file.write(content)
     if DEBUG_MODE:
@@ -104,7 +124,7 @@ def remove_repeated_overlap(text, max_ngram=5):
         cleaned_segments.append(" ".join(curr_segment[overlap_index:]))
     return " ".join(cleaned_segments)
 
-def transcribe_long(audio_file, language_code, local_file_name_transcript, segment_length_seconds=15):
+def transcribe_long(audio_file, language_code, segment_length_seconds):
     """
     Transcribes audio by chunking into smaller segments and merging them intelligently.
     """
@@ -114,7 +134,7 @@ def transcribe_long(audio_file, language_code, local_file_name_transcript, segme
     segment_length = segment_length_seconds * sample_rate  
 
     # Improved fixed overlap of 2 seconds (2 sec * 16000 samples)
-    overlap_size = 2 * sample_rate  # 32000 samples
+    overlap_size = 16000 # 32000 samples
 
     full_transcription = []
     previous_words = []  # Store only the last 20 words of previous segment
@@ -123,7 +143,7 @@ def transcribe_long(audio_file, language_code, local_file_name_transcript, segme
     for i in range(0, len(audio_input), segment_length - overlap_size):
         segment = audio_input[i:i + segment_length]
         if DEBUG_MODE:
-            print("segment_lenght ",segment_length, overlap_size)
+            print("segment_length ",i, segment_length, overlap_size)
 
         if len(segment) == 0:  
             continue
@@ -170,20 +190,28 @@ def transcribe_long(audio_file, language_code, local_file_name_transcript, segme
     
     # Merge all transcriptions and clean up any remaining overlaps
     cleaned_text = remove_repeated_overlap(" ".join(full_transcription))
-    write_to_file(cleaned_text, local_file_name_transcript)
     return cleaned_text
 
-def transcribe_audio(audio_file, language_code, chunk_threshold_seconds=CHUNK_THRESHOLD_SECONDS):
+def transcribe_audio(audio_file, language_code, local_txt_file_name = "" , chunk_threshold_seconds=CHUNK_THRESHOLD_SECONDS):
     # Load the audio file at 16kHz
     audio_data = load_audio(audio_file, target_sr=16000)
     duration = len(audio_data) / 16000  # duration in seconds
 
     # Clean the file title to remove illegal characters and build a transcript filename
-    now = datetime.now()
-    formatted_time = now.strftime("%Y%m%d%H%M%S")  # Format as YYYYMMDDHHMMSS
-    clean_title = re.sub(r'[\\/*?:"<>|]', "", audio_file[:-4])
-    local_file_name_transcript = clean_title[:20] + formatted_time + ".txt"  
+    if local_txt_file_name == "":
+        now = datetime.now()        
+        formatted_time = now.strftime("%Y%m%d%H%M%S")  # Format as YYYYMMDDHHMMSS
+        # clean_title = re.sub(r'[\\/*?:"<>|]', "", audio_file[:-4])
+        clean_title = re.sub(r'[*?"<>|]', "", audio_file[:-4])   
+        ## audio_file in essence is an existing file, so should be good name wise. but contains path so not stripin gout / \ : 
+        ## -18 strip off the file extension and 14 digits from scrap.
+        local_file_name_transcript = clean_title + formatted_time + ".txt"
+    else:
+        local_file_name_transcript = local_txt_file_name
 
+    if DEBUG_MODE:
+        print("passed on file name: ", local_txt_file_name)
+        print("File to write to: ", local_file_name_transcript)
 
     if duration < chunk_threshold_seconds:
         # For short recordings, transcribe the full file at once
@@ -195,9 +223,10 @@ def transcribe_audio(audio_file, language_code, chunk_threshold_seconds=CHUNK_TH
     else:
         # For longer recordings, use the chunked transcription method
         print(f"Long recording detected of {duration} seconds. Using chunked transcription.")
-        result = transcribe_long(audio_file, language_code, local_file_name_transcript, segment_length_seconds=CHUNKSIZE)
+        result = transcribe_long(audio_file, language_code, CHUNKSIZE)
         # 'transcribe' is your chunked transcription function that writes to file and returns file name,
         # you might need to adjust it to return the transcript text directly if desired.
+        write_to_file(result, local_file_name_transcript)        
     return (local_file_name_transcript, result)
 
 # Test the transcription function
@@ -205,10 +234,16 @@ if __name__ == "__main__":
     print("##################################################################################")
     print("## Extract Text from Audio")
     print("##################################################################################")
-    audio_file = input("Input file name in current directory: ")  # audio file in .wav or .m4a format
-    language_code = input("Audio language code (en/nl/...) - avoid autodetect: ")
-    file_written, final_result = transcribe_audio (audio_file, language_code, CHUNK_THRESHOLD_SECONDS)
+
+    # Prompt user for input, but use default values if they press Enter
+    audio_file = input("Input file name in correct directory: ")  # audio file in .wav or .m4a format
+    language_code = input(f"Audio language code (en/nl/... - avoid autodetect, default: {DEFAULT_LANGUAGE_CODE}): ").strip() or DEFAULT_LANGUAGE_CODE
+    file_written, final_result = transcribe_audio (audio_file, language_code, "", CHUNK_THRESHOLD_SECONDS)
+
     if DEBUG_MODE:
         print("Transcription file:", file_written)
         print("Transcription text:", final_result)
-    print('Files created. Extraction completed.')
+
+    print(f'File: {file_written}  created. Extraction completed.')
+
+

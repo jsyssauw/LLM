@@ -1,5 +1,4 @@
-########################################################################################
-##
+#######################################################################################################
 ##  jsyssauw    19-02-2025
 ##  v0.1        this code basically takes a url to a youtube video and
 ##                  a) extract the audio into a wav, mp3 or m4a file
@@ -11,7 +10,8 @@
 ##          OUTPUT
 ##              1) .wav/.m4A/mp3 file with the audio of the specified youtube.url
 ##              2) (optional) .txt with the txt transcript
-########################################################################################
+##  v0.2    moving the sound file creation to the download folder (out of the git controlled folder)
+#####################################################################################################
 
 import yt_dlp
 import whisper
@@ -20,11 +20,26 @@ from datetime import datetime
 # import warnings
 import re
 import ExtractTextFromAudio
-
-# WHOOPSSY: Optionally suppress FP16 warning if running on CPU
-# warnings.simplefilter("ignore", category=UserWarning)
+import platform
 
 DEBUG_MODE = False
+
+system_name = platform.system()
+if system_name == "Windows":
+    # print("Running on Windows")
+    DOWNLOAD_DIR = os.path.join(os.environ["USERPROFILE"], "Downloads")
+    # print(downloads_dir)
+elif system_name == "Darwin":
+    # print("Running on macOS")
+    DOWNLOAD_DIR = os.path.join(os.environ["HOME"], "Downloads")
+    # print(downloads_dir)
+elif system_name == "Linux":
+    # print("Running on Linux")
+    DOWNLOAD_DIR = os.path.join(os.environ["HOME"], "Downloads")
+    # print(downloads_dir)
+
+# Optionally suppress FP16 warning if running on CPU
+# warnings.simplefilter("ignore", category=UserWarning)
 
 # yt-dlp → Downloads YouTube videos and extracts audio.
 # ffmpeg → Converts audio to WAV/MP3/M4A format.
@@ -36,6 +51,13 @@ DEBUG_MODE = False
 audio_format = "wav"  # Change to "mp3" or "m4a" as needed 
 
 def write_to_file(content, file_name):
+    # Ensure the Downloads directory exists
+    if not os.path.exists(DOWNLOAD_DIR):
+        os.makedirs(DOWNLOAD_DIR)
+
+    # Construct the full file path in the Downloads directory
+    file_path = os.path.join(DOWNLOAD_DIR, file_name)
+
     # Save the text to a file
     with open(file_name, "w", encoding="utf-8") as file:
         file.write(content)
@@ -59,8 +81,8 @@ def extract_audio(youtube_url, title, audio_format, transcribe=False):
     # Construct file names using the title and formatted time
     clean_title = re.sub(r'[\\/*?:"<>|]', "", title)
     local_file_name = clean_title.replace(" ", "_") + formatted_time
-    local_file_name_transcript = local_file_name[:20] + formatted_time + ".txt"  
-    local_file_name_audio = local_file_name[:20] + formatted_time   # .wav is set in the outtmpl line
+    local_file_name_transcript = os.path.join(DOWNLOAD_DIR, local_file_name[:20] + formatted_time + ".txt" ) 
+    local_file_name_audio = os.path.join(DOWNLOAD_DIR, local_file_name[:20] + formatted_time)   # .wav is set in the outtmpl line
 
     ydl_opts = {
         "format": "bestaudio/best",
@@ -79,6 +101,7 @@ def extract_audio(youtube_url, title, audio_format, transcribe=False):
 
     # Construct full audio file path with extension for checking and transcription
     audio_file_path = f"{local_file_name_audio}.{audio_format}"
+
     if os.path.exists(audio_file_path):
         print(f"Audio extracted and saved as: {audio_file_path}")
     else:
@@ -90,8 +113,9 @@ def extract_audio(youtube_url, title, audio_format, transcribe=False):
     if transcribe:
         # model = whisper.load_model("large", device="cuda")  # Choose 'tiny', 'base', 'small', 'medium', 'large'
         # result = model.transcribe(audio_file_path)
-        local_file_name_transcript, result= ExtractTextFromAudio.transcribe_audio(audio_file_path, language_code )
+        local_file_name_transcript, result= ExtractTextFromAudio.transcribe_audio(audio_file_path, language_code, local_file_name_transcript )
         if DEBUG_MODE:
+            print("writing pathc in extract video: ",audio_file_path)
             print("ResultType:", type(result))
             print("--------------------------------")
             print(result)
