@@ -5,14 +5,17 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from datetime import datetime
 import requests
+from dotenv import load_dotenv
 
 DEBUG_MODE = True
 
 #######################
 # Spotify API Settings
 #######################
-SPOTIFY_CLIENT_ID = "7915c9958946428690059523918c2f7a"
-SPOTIFY_CLIENT_SECRET = "bfeee32de6564e86bfbd6a1a6c2f0792"
+load_dotenv()
+
+SPOTIFY_CLIENT_ID=os.getenv('SPOTIFY_CLIENT_ID_TOKEN')
+SPOTIFY_CLIENT_SECRET=os.getenv('SPOTIFY_CLIENT_SECRET_TOKEN')
 SPOTIFY_REDIRECT_URI = "http://localhost:8888/callback"  # Ensure this matches your Spotify app settings
 SCOPES = "playlist-read-private playlist-modify-public playlist-modify-private user-read-playback-state user-modify-playback-state"
 OLLAMA_URL = "http://localhost:11434/api/generate"  # Adjust if running Ollama on a different port
