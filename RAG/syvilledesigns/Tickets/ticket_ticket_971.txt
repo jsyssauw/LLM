@@ -1,0 +1,40 @@
+Ticket ID: ticket_971
+Subject: nan
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Les escribo con respecto al próximo mantenimiento programado de los servicios de AWS que se comunicaron recientemente. La notificación avanzada mencionó que el mantenimiento programado de AWS podría llevar potencialmente a breves interrupciones en el servicio. Este mantenimiento afecta particularmente los servicios de los que dependemos actualmente como parte de nuestro paquete de Servicio de Gestión de AWS.
+
+Dada la naturaleza crítica de nuestras operaciones en línea, incluso una breve interrupción del servicio podría tener un impacto significativo en nuestras funciones comerciales. Por lo tanto, es esencial para nosotros comprender de manera más específica el alcance del mantenimiento y cualquier paso proactivo que debamos tomar para minimizar la interrupción.
+
+¿Podrían aclarar el cronograma esperado y cualquier ventana potencial durante la que pudiéramos experimentar una funcionalidad reducida o una interrupción completa? Aunque la comunicación oficial menciona que se proporcionarán actualizaciones durante la ventana de mantenimiento, el monitoreo continuo de nuestra parte podría ser esencial para mitigar cualquier problema imprevisto. Conocer los horarios exactos de inicio y la duración de las actividades de mantenimiento nos ayudaría a preparar mejor a nuestro equipo técnico para asegurar que todos nuestros sistemas y procesos continúen operando de la manera más fluida posible.
+
+Además, agradeceríamos cualquier recomendación de su parte respecto a planes de contingencia o medidas que podamos tomar durante este período de mantenimiento para mitigar los riesgos de tiempo de inactividad. También sería útil saber si hay acciones críticas que deban llevarse a cabo antes del inicio del mantenimiento, posiblemente algunas tareas preparatorias de nuestra parte para facilitar una transición sin problemas durante y después del mantenimiento.
+
+Valoramos la fiabilidad de sus servicios de TI y entendemos la necesidad de mantenimiento regular. Sin embargo, la comunicación proactiva y la planificación estratégica pueden aliviar significativamente las preocupaciones. Espero con interés su respuesta para discutir cómo prepararnos mejor para este próximo evento de servicio.
+
+Gracias por su atención y asistencia.
+
+Atentamente,
+
+<name>
+<tel_num>
+<company_name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto respecto al próximo mantenimiento de AWS. Entendemos la importancia de un servicio ininterrumpido para tus operaciones en línea.
+
+1. Cronograma: El mantenimiento está programado para comenzar el [start date] y debería concluir el [end date]. Es posible que experimentes breves interrupciones durante este período. Te mantendremos informado con notificaciones en tiempo real durante la ventana de mantenimiento.
+
+2. Recomendaciones:
+   - Asegúrate de que todos los datos críticos estén respaldados antes del inicio del mantenimiento.
+   - Identifica y planifica el tiempo de inactividad para servicios no esenciales.
+   - Considera tener procedimientos de respaldo para operaciones críticas.
+
+Para cualquier medida preventiva adicional y un plan de contingencia completo, nuestro equipo está disponible para guiarte. Comunícate con nosotros a la brevedad para discutir los detalles o cualquier otra inquietud que puedas tener.
+
+Gracias por tu comprensión y cooperación.
+
+Atentamente,
+Equipo de Soporte al Cliente
+<company_name>

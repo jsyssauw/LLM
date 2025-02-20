@@ -1,0 +1,18 @@
+Ticket ID: ticket_3117
+Subject: Problème urgent : accès aux e-mails dans Office 365
+Incident Type: Problem
+Customer Issue: Cher service clientèle, 
+
+Je vous écris pour vous informer que <name> rencontre des difficultés pour accéder à ses e-mails via Microsoft Outlook par l'intermédiaire d'Office 365. Ce problème est assez urgent car il affecte la capacité de <name> à effectuer efficacement ses tâches quotidiennes. Le numéro de bureau de <name> est <tel_num>. Le produit en question est Microsoft Office 365. Nous avons essayé plusieurs étapes de dépannage, y compris la vérification des paramètres réseau et la réinstallation de l'application, mais le problème persiste. 
+
+Veuillez nous conseiller sur les prochaines étapes pour résoudre ce problème rapidement. Votre assistance rapide à ce sujet est grandement appréciée. 
+
+Merci,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de contacter le service clientèle. Nous comprenons l'urgence du problème de <name> concernant l'accès aux e-mails dans Office 365. Étant donné vos efforts de dépannage initial, la prochaine étape consiste à s'assurer qu'Office 365 est complètement mis à jour. Veuillez vérifier à la fois Outlook et l'ensemble de la suite Office pour voir s'il y a des mises à jour en attente. De plus, vérifiez que les bons paramètres de messagerie sont configurés et qu'il n'y a pas de problèmes avec le serveur de messagerie. Si le problème persiste, veuillez nous fournir des messages d'erreur spécifiques et des détails de journal pour une analyse plus approfondie. Notre équipe est prête à vous assister rapidement une fois que nous avons ces informations.
+
+Cordialement,
+Équipe du service clientèle

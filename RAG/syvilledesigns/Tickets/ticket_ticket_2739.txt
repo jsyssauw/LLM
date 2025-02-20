@@ -1,0 +1,18 @@
+Ticket ID: ticket_2739
+Subject: Ayuda necesaria para la configuración del Surface Pro 7
+Incident Type: Request
+Customer Issue: Hola soporte de la tienda en línea Tech,
+
+¿Podrían ayudarme a configurar el teclado desmontable y a configurar las funciones de la pantalla táctil en mi Microsoft Surface Pro 7? Tengo problemas con ambas funcionalidades. Gracias por su asistencia.
+
+Saludos cordiales,
+<name>
+Customer Service answer: Hola <name>,
+
+Estaríamos encantados de ayudar con la configuración de tu Surface Pro 7.
+
+1. Para adjuntar el teclado, alinéalo con la tira magnética del Surface hasta que haga clic.
+2. Para la configuración de la pantalla táctil, ve a Configuración > Dispositivos > Pantalla táctil y sigue las instrucciones de calibración.
+
+Saludos cordiales,
+Soporte de la tienda en línea Tech

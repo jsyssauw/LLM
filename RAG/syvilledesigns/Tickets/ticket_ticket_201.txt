@@ -1,0 +1,18 @@
+Ticket ID: ticket_201
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I am writing to bring to your attention an issue with my recent billing for the Microsoft Office 365 subscription. I've noticed that I was overcharged for the last monthly billing cycle. My account number is <acc_num>. Could you kindly look into this matter and assist in rectifying the charges? Please reach me at <email> or <tel_num> for any further information needed.
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We apologize for the inconvenience with your billing. We will review your account <acc_num> and address the overcharge issue promptly. Our team will contact you via <email> or <tel_num> if more information is needed. Please expect a resolution shortly.
+
+Best regards,  
+Customer Support

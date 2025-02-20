@@ -1,0 +1,15 @@
+Ticket ID: ticket_588
+Subject: Problem mit Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich habe Leistungsprobleme und eine nicht reagierende Anwendung auf meinem neuen Dell XPS 13 9310. Bitte geben Sie mir Anweisungen zur umgehenden Behebung dieses Problems. Kontaktieren Sie mich unter <tel_num>. Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+um die Leistungsprobleme Ihres Dell XPS 13 9310 zu beheben, versuchen Sie bitte diese Schritte: Schließen Sie alle unnötigen Anwendungen und starten Sie Ihr Gerät neu. Stellen Sie sicher, dass Ihr System und alle Treiber mit dem Dell SupportAssist-Tool auf dem neuesten Stand sind. Wenn die Probleme bestehen bleiben, ziehen Sie in Betracht, einen sauberen Neustart durchzuführen, um problematische Software zu identifizieren. Für weitere Unterstützung kontaktieren Sie uns bitte direkt zu einem für Sie günstigen Zeitpunkt.
+
+Mit freundlichen Grüßen,
+Kunden Support Team

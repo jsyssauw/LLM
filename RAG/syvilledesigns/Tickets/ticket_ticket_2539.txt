@@ -1,0 +1,10 @@
+Ticket ID: ticket_2539
+Subject: Falsches AWS-Abrechnungsproblem
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam, ich schreibe, um unerwartete Gebühren für meine AWS Management Services zu melden. Trotz üblicher Nutzung scheint es eine Abweichung bei der Abrechnung zu geben. Können Sie bitte untersuchen und eine Klärung bereitstellen? Kontodaten: <acc_num>. Vielen Dank für Ihre schnelle Aufmerksamkeit. Mit freundlichen Grüßen, <name>
+Customer Service answer: Sehr geehrter <name>,
+
+Vielen Dank, dass Sie uns kontaktiert haben. Wir werden die Abweichung bei der Abrechnung für Ihre AWS Management Services umgehend untersuchen. Unser Team wird Ihre Kontodaten prüfen und sich bald mit einer Klärung bei Ihnen melden.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

@@ -1,0 +1,18 @@
+Ticket ID: ticket_1916
+Subject: Billing Issue with Recent Invoice
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I am writing to inquire about unexpected charges on my recent invoice for the Google Workspace Business Standard. I noticed charges that were not anticipated and would appreciate clarification on these amounts. My account number is <acc_num>, and this anomaly appeared in the latest billing cycle. Please review the details and inform me about the discrepancies. I would be grateful if you could address this issue promptly. If you need any further information, I can be reached at <tel_num>. Thank you for your assistance. Best regards, <name>.
+Customer Service answer: Subject: Re: Billing Issue with Recent Invoice
+
+Dear <name>,
+
+Thank you for reaching out to us regarding your recent invoice for Google Workspace Business Standard. I understand your concern about the unexpected charges.
+
+I have forwarded your issue to our billing department for a detailed review. They will examine your account number <acc_num> and the billing records to identify any discrepancies.
+
+We will get back to you as soon as possible with the necessary clarifications. If we require any additional information, we will contact you at <tel_num>.
+
+Thank you for your patience and understanding.
+
+Best regards,
+Customer Support Team

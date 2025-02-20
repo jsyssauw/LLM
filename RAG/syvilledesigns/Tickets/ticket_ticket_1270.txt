@@ -1,0 +1,18 @@
+Ticket ID: ticket_1270
+Subject: Demande concernant la couverture de garantie pour MacBook Air M1
+Incident Type: Request
+Customer Issue: Cher équipe de support Tech Online Store,
+
+J'espère que ce message vous trouve bien. J'écris pour signaler des problèmes de durée de vie de la batterie avec mon MacBook Air M1. La batterie semble se décharger rapidement, même lorsque l'utilisation est minimale. Je voudrais me renseigner sur la possibilité d'une couverture de garantie pour ce problème. Pourriez-vous s'il vous plaît me donner des conseils sur la façon de procéder pour obtenir une résolution ? Mon numéro de compte est <acc_num>. Votre réponse rapide serait grandement appréciée, car le problème affecte ma productivité quotidienne. Merci pour votre soutien.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant le problème de batterie de votre MacBook Air M1. Nous comprenons les désagréments que cela peut causer et sommes ici pour vous aider. Pour déterminer si le problème de votre appareil est couvert par la garantie, veuillez nous fournir une copie de votre reçu d'achat et le numéro de série de votre MacBook. Vous pouvez le faire en répondant à cet e-mail ou en visitant votre centre de service le plus proche où notre équipe vous assistera davantage. Si votre appareil est couvert, nous procéderons avec les options de réparation ou de remplacement.
+
+Pour une assistance immédiate, vous pouvez également contacter notre hotline de support client au <tel_num>.
+
+Cordialement,
+Équipe de support Tech Online Store

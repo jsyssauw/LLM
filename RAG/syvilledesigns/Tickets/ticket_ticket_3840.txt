@@ -1,0 +1,29 @@
+Ticket ID: ticket_3840
+Subject: Solicitud de intercambio de producto - Batería defectuosa
+Incident Type: Request
+Customer Issue: Estimado equipo de atención al cliente de Tech Online Store,
+
+Espero que este mensaje los encuentre bien. Escribo para solicitar un intercambio de un Dell XPS 13 9310 recién comprado con número de referencia de pedido <order_num>. Desafortunadamente, al recibir el pedido, descubrí que la unidad de la batería de la laptop está defectuosa, ya que no mantiene la carga por más de treinta minutos.
+
+Solicito amablemente un reemplazo de la unidad defectuosa. Por favor, infórmenme sobre el procedimiento para iniciar el proceso de intercambio. Para su referencia, compré la laptop el <purchase_date> desde su sitio web, y fue entregada en mi dirección en <address>.
+
+He adjuntado una copia escaneada de la factura y la tarjeta de garantía en este correo electrónico. También estoy disponible en <email> o <tel_num> si necesitan más información.
+
+Espero su pronta respuesta para resolver este asunto.
+
+Gracias por su asistencia.
+
+Sinceramente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactar al equipo de atención al cliente de Tech Online Store. Nos disculpamos por los inconvenientes causados por la batería defectuosa en su Dell XPS 13 9310.
+
+Para iniciar el proceso de intercambio, por favor devuelva la laptop utilizando la etiqueta de envío prepagada que enviaremos a su <email>. Después de recibir e inspeccionar la laptop, le enviaremos rápidamente una unidad de reemplazo.
+
+Si tiene alguna pregunta adicional o necesita asistencia, no dude en contactarnos a su conveniencia al <tel_num> o respondiendo a este correo electrónico.
+
+Gracias por su comprensión y paciencia.
+
+Atentamente,
+Equipo de atención al cliente de Tech Online Store

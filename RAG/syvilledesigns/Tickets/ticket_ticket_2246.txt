@@ -1,0 +1,10 @@
+Ticket ID: ticket_2246
+Subject: Recibí un modelo erróneo de MacBook Air M1
+Incident Type: Request
+Customer Issue: Estimado equipo de Atención al Cliente, he recibido un modelo distinto de MacBook Air M1 al que solicité. Mi número de pedido es <acc_num>. Solicito su ayuda para solucionar este inconveniente a la brevedad. Cordialmente, <name>
+Customer Service answer: Estimado <name>,
+
+Lamentamos los inconvenientes causados. Te pedimos que nos proporciones tu número de pedido <acc_num> para que podamos investigar el asunto. Una vez que confirmemos la información, te daremos instrucciones sobre cómo devolver el artículo incorrecto y obtener el modelo correcto.
+
+Cordialmente,
+Atención al Cliente

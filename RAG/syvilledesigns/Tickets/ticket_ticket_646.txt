@@ -1,0 +1,37 @@
+Ticket ID: ticket_646
+Subject: Solicitação de Serviço de Garantia
+Incident Type: Incident
+Customer Issue: Prezado Suporte ao Cliente da Tech Online Store,
+
+Espero que esta mensagem o encontre bem. Estou escrevendo para chamar sua atenção para um problema preocupante que venho enfrentando com meu laptop Dell XPS 13 9310, que comprei em sua loja. Recentemente, a tela do dispositivo começou a piscar inesperadamente, e esse problema se tornou mais frequente nas últimas semanas, afetando significativamente minha produtividade e experiência do usuário.
+
+Dado que o piscar da tela parece sugerir uma possível falha de hardware, espero poder utilizar o serviço de garantia para obter assistência. Tentei etapas básicas de solução de problemas, como atualizar os drivers da tela e garantir que todo o software do meu dispositivo esteja atualizado, mas infelizmente, essas etapas não resolveram o problema.
+
+Além disso, este laptop ainda está dentro do período de garantia oferecido pela Dell e sua loja, uma vez que foi comprado há menos de seis meses. Portanto, solicito gentilmente orientação sobre como processar esta reclamação através do serviço de garantia. Estou particularmente interessado em saber quais etapas devo realizar a seguir e se precisarei enviar o laptop para o seu centro de serviço ou se pode haver uma resolução alternativa.
+
+Além disso, por favor, me avise se for necessário algum documento adicional da minha parte para agilizar a reclamação ou qualquer informação sobre os detalhes da minha compra. Meu número do pedido é <order_num>, e comprei este laptop em <purchase_date>. O número de série do laptop é <serial_num>. Por favor, entre em contato comigo assim que possível através do meu e-mail ou pelo <tel_num>, caso necessite de mais informações.
+
+Agradeço antecipadamente pela sua ajuda rápida neste assunto. Espero resolver este problema rapidamente com a sua ajuda.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato conosco sobre o problema com seu laptop Dell XPS 13 9310. Entendemos a importância de ter um dispositivo totalmente funcional e apreciamos sua paciência neste assunto.
+
+Para prosseguir com o serviço de garantia, por favor, siga estas etapas:
+1. Verifique se você tem seu comprovante de compra em mãos, pois podemos precisar dele para a reclamação.
+2. Por favor, faça backup de seus dados como medida de precaução.
+3. Nossa equipe de serviços organizará um courier para coletar seu laptop para inspeção. Você receberá um e-mail em breve com instruções detalhadas e uma etiqueta de envio.
+4. Inclua uma cópia impressa do seu recibo de compra original com o pacote.
+
+Quanto às possíveis soluções, após o diagnóstico, poderemos oferecer um reparo, substituição ou resolução alternativa, com base na avaliação.
+
+Caso tenha mais perguntas ou precise fornecer informações adicionais, entre em contato conosco neste e-mail ou nos ligue pelo <tel_num>.
+
+Nosso objetivo é resolver isso rapidamente e garantir sua satisfação.
+
+Atenciosamente,
+
+Equipe de Suporte ao Cliente da Tech Online Store

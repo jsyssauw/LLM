@@ -1,0 +1,12 @@
+Ticket ID: ticket_1595
+Subject: Urgent AWS Performance Issues
+Incident Type: Problem
+Customer Issue: Customer experiencing severe performance issues with AWS cloud. Immediate optimization needed for high traffic management.
+Customer Service answer: Subject: Re: Urgent AWS Performance Issues
+
+Dear <name>,
+
+We've escalated your AWS performance issue to our cloud specialists for immediate attention. Expect a follow-up shortly with detailed optimization measures.
+
+Thank you,
+Service Desk Team

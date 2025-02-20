@@ -1,0 +1,31 @@
+Ticket ID: ticket_382
+Subject: Battery Issue with Surface Pro
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to express my concern regarding a purchase I made from your online store. The product in question is a Microsoft Surface Pro 7. Unfortunately, I am encountering a recurrent issue with its battery performance. Specifically, the battery seems unable to charge beyond 50%. This substantial limitation is significantly impacting my work productivity, as I rely on this device for numerous professional tasks.
+
+Given this situation, I am seeking your assistance in evaluating the problem and exploring potential solutions. Ideally, I would like to inquire about the possibility of receiving a replacement unit or having this unit repaired to resolve the charging issue. Please let me know the steps I should follow to proceed with either option.
+
+I have attached proof of purchase and further device details for your reference. Your prompt response will be greatly appreciated given the urgent nature of this matter, as it influences my daily work commitments. Thank you for your attention to this issue.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your Microsoft Surface Pro 7 battery issue. We understand the inconvenience this is causing, and we are here to assist you.
+
+Please ensure that the device's firmware and drivers are up to date, as these can sometimes resolve charging issues. If the problem persists, we can proceed with assessing your device for repair or replacement.
+
+To facilitate the process, kindly follow these steps:
+1. Contact our support team at <tel_num> or utilize our live chat on our website.
+2. Provide them with your proof of purchase and any relevant device information.
+3. They will guide you through the process of shipping your device for evaluation.
+
+Once received, we will swiftly diagnose the issue and provide you with the best possible solution, be it a repair or a replacement.
+
+Thank you for your patience and understanding. We aim to resolve this issue promptly to ensure your work productivity is not hindered.
+
+Best regards,
+Tech Online Store Customer Support Team

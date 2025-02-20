@@ -1,0 +1,10 @@
+Ticket ID: ticket_3594
+Subject: Urgent: PyCharm 2024.2 Debugger Crashing
+Incident Type: Incident
+Customer Issue: PyCharm 2024.2 crashes frequently during debugging Python projects.
+Customer Service answer: Dear <name>, 
+
+Please update PyCharm and your Java runtime. Contact support if the issue persists.
+
+Best regards,
+Support Team

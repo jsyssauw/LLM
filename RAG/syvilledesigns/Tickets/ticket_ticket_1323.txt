@@ -1,0 +1,10 @@
+Ticket ID: ticket_1323
+Subject: Incidente con Asistencia de Rendimiento del Servidor
+Incident Type: Incident
+Customer Issue: Estimado Soporte de Servicios de TI,
+
+Me pongo en contacto para informar un problema de rendimiento con nuestros servidores relacionado con su Servicio de Consultoría de TI. Por favor, ayúdenos a través de su sistema de tickets para una pronta resolución. Asegurar soluciones de TI eficientes es crucial para nuestras operaciones.
+
+Gracias,
+<name>
+Customer Service answer: Estimado <name>, gracias por ponerse en contacto. Por favor, envíe un ticket a través de nuestro sistema de tickets. Nuestro equipo priorizará su solicitud y trabajará en resolver el problema de rendimiento del servidor de manera rápida. No dude en comunicarse si necesita más asistencia. Atentamente, Soporte de Servicios de TI.

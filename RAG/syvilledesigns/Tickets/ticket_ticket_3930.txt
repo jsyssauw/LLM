@@ -1,0 +1,28 @@
+Ticket ID: ticket_3930
+Subject: Critical: Network Outage Triggered by AWS Setup
+Incident Type: Incident
+Customer Issue: Dear IT Support Services Team,
+
+I am reaching out to urgently highlight a network outage that seems to have arisen from an improperly set up AWS Cloud configuration. This issue has had a significant impact on the AWS Management Service, which is a vital aspect of our operations. The outage is hindering our efficiency and affecting the timely delivery of our services to clients.
+
+Given the pressing nature of this issue, we request your expertise and immediate action to restore normal network operations. Additionally, we kindly ask for a detailed verification of the deployment to ensure that all configurations comply with industry standards and to mitigate any future occurrences. Please treat this issue with high priority, as it is crucial for our ongoing operation.
+
+Should you require more details, please feel free to reach out to me at your earliest convenience. Thank you for your swift attention to this critical matter.
+
+Best,
+
+<name>  
+Position  
+Company Name  
+<email@domain.com>  
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for notifying us regarding this situation. We recognize the seriousness of the AWS configuration problem that is affecting your network functionalities. Our team is placing high priority on your inquiry and is currently looking into the misconfigurations to resolve the network outage.
+
+We are dedicated to reinstating your service as quickly as possible and will carry out a thorough assessment of your AWS setup to prevent future interruptions. Expect to hear from us soon with updates.
+
+Do not hesitate to contact us with any further information or questions you may have.
+
+Kind regards,
+IT Support Services Team

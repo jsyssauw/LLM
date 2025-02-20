@@ -1,0 +1,12 @@
+Ticket ID: ticket_609
+Subject: Critical AWS Connection Problem
+Incident Type: Incident
+Customer Issue: We are encountering connection problems with the AWS Management Service, leading to downtime for the client website. An immediate fix is required. Please give priority to this urgent incident. Account Number: <acc_num>. Thank you, <name>.
+Customer Service answer: Subject: Re: Critical AWS Connection Problem
+
+Hello <name>,
+
+We appreciate you bringing this to our attention. We understand how pressing it is to resolve the AWS Management Service connectivity issue affecting your client website. Our team is treating this incident with high priority and is working earnestly to restore the service. We will update you on our progress. If you have any more details to share, please don't hesitate to contact us.
+
+Best regards,
+Service Desk Team

@@ -1,0 +1,9 @@
+conda create --name transscribe python=3.13
+conda activate transscribe
+
+nvcc --version
+
+pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu121  # adjust for your CUDA version or omit "--extra-index-url" for CPU-only
+pip install transformers
+pip install datasets  # if you need extra utilities for data processing
+pip install soundfile ffmpeg-python  # for audio processing and handling ffmpeg

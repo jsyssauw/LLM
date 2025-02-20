@@ -1,0 +1,22 @@
+Ticket ID: ticket_1358
+Subject: Connectivity Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am experiencing difficulties with the internet connection on my Cisco Router ISR4331. Despite several configuration adjustments and resets, it is still unable to connect to the internet. Could you please provide assistance to resolve this issue? I appreciate your prompt attention to this concern.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. To help you with the connectivity issue of your Cisco Router ISR4331, please complete the following steps:
+
+1. Verify that all cables are securely connected.
+2. Ensure your service provider settings are correct.
+3. Update the router's firmware to the latest version.
+4. Check if other devices can connect to your network.
+
+If the problem persists after completing these steps, kindly provide further details about the errors you are encountering for additional assistance.
+
+Warm regards,
+Service Desk Team

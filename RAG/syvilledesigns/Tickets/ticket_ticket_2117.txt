@@ -1,0 +1,20 @@
+Ticket ID: ticket_2117
+Subject: Request to Return HP DeskJet 3755
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I am experiencing wireless connectivity issues with the HP DeskJet 3755 I recently purchased. I followed all installation instructions, but the problem persists. Please advise on how I can proceed with returning the product and obtaining a refund.
+
+Thank you,
+
+<name>
+
+<email_address>
+Customer Service answer: Dear <name>,
+
+I'm sorry to hear about the issues you're experiencing. To initiate a return for your HP DeskJet 3755 and request a refund, please visit our returns page on our website, where you can complete the return form. Ensure you have the purchase receipt and packaging ready. If you need further assistance, feel free to contact us directly at <support_email>. 
+
+Thank you for reaching out to us.
+
+Best regards,
+Customer Support Team

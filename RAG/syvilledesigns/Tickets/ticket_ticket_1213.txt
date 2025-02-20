@@ -1,0 +1,26 @@
+Ticket ID: ticket_1213
+Subject: Assistance with optimizing cloud infrastructure costs
+Incident Type: Request
+Customer Issue: Dear IT Services support team, 
+
+I am writing to request your assistance with optimizing our cloud infrastructure costs and enabling efficient cloud service management in our AWS account. We have been analyzing our expenses and noticed a need for better cost management. The product we are using is AWS Management Service. Could you please provide guidance or resources to help us achieve this? We are eager to implement strategies that will enhance our operational efficiency and reduce unnecessary costs.
+
+Thank you for your support. We look forward to your prompt response.
+
+Best regards, 
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your AWS cost optimization. We recommend the following steps:
+
+1. Use AWS Cost Explorer to analyze spending patterns.
+2. Implement AWS Budgets to set custom cost and usage limits.
+3. Leverage Reserved Instances and Savings Plans where possible.
+4. Utilize AWS Trusted Advisor for tailored recommendations.
+
+For detailed guidance, please refer to the AWS Cost Management resources on the AWS website. Should you need personalized assistance, our team is here to help.
+
+Best regards,
+IT Services Support Team

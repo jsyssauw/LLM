@@ -1,0 +1,10 @@
+Ticket ID: ticket_1902
+Subject: Erweiterungen laden nicht
+Incident Type: Problem
+Customer Issue: Sehr geehrtes <name> Support-Team, ich habe Probleme mit Erweiterungen, die in Visual Studio Code 1.70 einen Tag nach einem Update nicht geladen werden. Ich würde Ihre Unterstützung bei der Lösung dieses Problems zu schätzen wissen. Vielen Dank für Ihre Unterstützung, <name>
+Customer Service answer: Sehr geehrtes <name>,
+
+Wir entschuldigen uns für die Unannehmlichkeiten. Bitte versuchen Sie, Ihre Erweiterungen zu deaktivieren und erneut zu aktivieren oder Visual Studio Code neu zu installieren. Wenn das Problem weiterhin besteht, löschen Sie den Cache und starten Sie Ihr System neu. Kontaktieren Sie uns, wenn Sie weitere Unterstützung benötigen.
+
+Mit freundlichen Grüßen,
+Support-Team

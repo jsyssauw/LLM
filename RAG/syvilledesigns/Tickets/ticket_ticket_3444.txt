@@ -1,0 +1,21 @@
+Ticket ID: ticket_3444
+Subject: Asistencia Urgente Necesaria para el Router Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente de Servicios de TI,
+
+Estoy experimentando problemas continuos con mi Router Cisco ISR4331. Específicamente, el router se desconecta constantemente de internet, lo que afecta significativamente mis tareas laborales. Este asunto es urgente, y solicito que el router sea revisado o reemplazado a la mayor brevedad posible.
+
+Tener conectividad a internet confiable es crucial, y cualquier otra interrupción podría impactar severamente mi productividad. Confío en su pronta atención para resolver este problema rápidamente.
+
+Gracias por su urgente apoyo para abordar este asunto.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactar al Soporte al Cliente de Servicios de TI. Entendemos la urgencia de su situación con el Router Cisco ISR4331 y su impacto en sus tareas laborales. Nuestro equipo dará prioridad a este problema y organizará a un técnico para que revise o reemplace su router a la mayor brevedad posible. Estamos comprometidos a resolver este asunto rápidamente para restaurar una conectividad a internet confiable para usted.
+
+Agradecemos su paciencia y confianza. Si tiene más preguntas, no dude en comunicarse.
+
+Atentamente,
+Equipo de Soporte al Cliente de Servicios de TI

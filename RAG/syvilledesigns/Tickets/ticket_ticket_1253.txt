@@ -1,0 +1,19 @@
+Ticket ID: ticket_1253
+Subject: Solución Inmediata Necesaria para la Caída del Servidor
+Incident Type: Problem
+Customer Issue: Estimado equipo de soporte de Servicios IT,
+
+Me pongo en contacto para notificarles de un problema urgente que estamos experimentando con nuestros sistemas de correo electrónico y canales de comunicación interna. Debido a una caída del servidor que afecta nuestras operaciones, requerimos asistencia inmediata. Nuestras operaciones empresariales dependen del Servicio de Consultoría IT proporcionado por su empresa.
+
+Por favor, contáctenme a la mayor brevedad posible al <tel_num> para discutir una solución urgente.
+
+Gracias,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto. Entendemos la urgencia de la caída del servidor que afecta sus sistemas de correo electrónico y canales de comunicación. Nuestro equipo técnico está asignado para abordar este problema de inmediato. Alguien de nuestro equipo de soporte se pondrá en contacto con usted en breve al número proporcionado para discutir e implementar una solución lo más rápido posible. Estamos comprometidos a restaurar sus servicios rápidamente para minimizar la interrupción.
+
+Agradecemos su paciencia y estaremos en contacto pronto.
+
+Atentamente,
+Equipo de Soporte de Servicios IT

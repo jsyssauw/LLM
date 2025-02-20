@@ -1,0 +1,23 @@
+Ticket ID: ticket_601
+Subject: Error de licencia urgente
+Incident Type: Incident
+Customer Issue: Hola Soporte de la Tienda en Línea de Tecnología,
+
+Estoy experimentando un error de licencia al intentar abrir Adobe Photoshop 2024 en mi MacBook Pro. Este problema está afectando mis plazos de proyecto y necesito una resolución urgentemente. ¿Podría ayudarme a resolver este asunto?
+
+Gracias,
+
+<name>
+<email_address>
+Customer Service answer: Hola,
+
+Gracias por ponerte en contacto. Por favor, intenta los siguientes pasos para resolver el error de licencia en Adobe Photoshop 2024 en tu MacBook Pro:
+1. Asegúrate de que tu software esté activado y hayas iniciado sesión con la ID de Adobe correcta.
+2. Reinicia tu MacBook y vuelve a abrir la aplicación.
+3. Verifica si hay actualizaciones disponibles para el software.
+4. Si el problema persiste, contacta directamente con el soporte de Adobe para obtener ayuda.
+
+Déjanos saber si hay algo más con lo que podamos ayudar.
+
+Saludos cordiales,
+Soporte de la Tienda en Línea de Tecnología

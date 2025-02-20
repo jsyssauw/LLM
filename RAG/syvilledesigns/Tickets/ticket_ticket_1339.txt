@@ -1,0 +1,15 @@
+Ticket ID: ticket_1339
+Subject: Anfrage zum Austausch aufgrund mehrerer Probleme
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice,
+
+Ich habe Probleme mit meinem HP DeskJet 3755. Es hat eine schlechte WLAN-Verbindung und häufige Papierstaus. Ich möchte einen Austausch anfordern. Bitte kontaktieren Sie mich unter <tel_num> bezüglich dieses Anliegens.
+
+Danke,
+<name>
+Customer Service answer: Sehr geehrte(r) <name>,
+
+Wir entschuldigen uns für die Unannehmlichkeiten, die Ihnen durch Ihren HP DeskJet 3755 entstanden sind. Wir werden Ihre Anfrage zum Austausch bearbeiten. Unser Team wird Sie in Kürze unter <tel_num> kontaktieren, um Sie beim Austauschverfahren zu unterstützen.
+
+Vielen Dank,
+Kundenservice

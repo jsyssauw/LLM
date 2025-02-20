@@ -1,0 +1,17 @@
+Ticket ID: ticket_3917
+Subject: Solicitud de intercambio de MacBook Air
+Incident Type: Change
+Customer Issue: Estimado soporte al cliente,
+
+Estoy escribiendo para solicitar un intercambio por un nuevo MacBook Air M1 debido a problemas de carga de la batería. Mi dispositivo, comprado bajo la cuenta <acc_num>, no logra cargar más del 20% a pesar de varios intentos de solución de problemas. Apreciaría una resolución rápida. Por favor, guíenme a través del proceso para asegurar un intercambio sin inconvenientes, a la mayor brevedad posible.
+
+Gracias por su ayuda.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a su MacBook Air M1. Para proceder con el intercambio, por favor proporcione prueba de compra y asegúrese de que el dispositivo esté dentro del período de garantía asociado a su cuenta <acc_num>. Necesitará devolver la unidad defectuosa una vez que reciba una autorización de devolución. Nuestro objetivo es resolver el problema rápidamente a su satisfacción.
+
+Saludos cordiales,
+Soporte al Cliente

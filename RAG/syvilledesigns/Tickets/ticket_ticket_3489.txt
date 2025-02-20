@@ -1,0 +1,18 @@
+Ticket ID: ticket_3489
+Subject: Asistencia necesaria para el cambio de licencia en Office 365
+Incident Type: Change
+Customer Issue: Estimado soporte al cliente,
+
+Estoy escribiendo para solicitar asistencia con el cambio de licencia para Excel en Microsoft Office 365. Nuestro cliente, <name>, informó problemas de activación para el producto afectado, lo que está causando una gran inconveniencia. ¿Podría ayudar a resolver este problema a la brevedad? Por favor, contácteme al <tel_num> o envíeme un correo electrónico para cualquier información adicional que se requiera.
+
+Gracias,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos con respecto al cambio de licencia en Microsoft Office 365 para Excel. Pedimos disculpas por los inconvenientes que esto ha causado. Para asistirle de manera eficiente, por favor asegúrese de que la licencia actual no haya expirado y que se hayan aplicado todas las actualizaciones recientes. Si el problema persiste, no dude en ponerse en contacto directamente con nuestro equipo de soporte técnico para recibir orientación paso a paso.
+
+Puede contactarnos al correo electrónico proporcionado o a través de su número de teléfono registrado <tel_num>. Estamos aquí para ayudar y daremos prioridad a la resolución de este asunto con rapidez.
+
+Atentamente,
+Equipo de soporte al cliente

@@ -1,0 +1,22 @@
+Ticket ID: ticket_359
+Subject: Inquiry on MacBook Air M1 availability
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I hope this message finds you well. I wanted to inquire about the availability and current pricing of the MacBook Air M1 on your online store. Could you please let me know if it is in stock and provide information about any ongoing promotions or discounts? Additionally, I have some questions regarding shipping times and options. Your prompt response would be greatly appreciated as I am eager to make a purchase soon.
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. The MacBook Air M1 is currently available in our online store. Please visit our website to see the latest pricing and any active promotions or discounts on this model. 
+
+Regarding shipping, we offer standard and expedited shipping options. Our standard shipping usually takes 5-7 business days, while expedited shipping can take 2-3 business days, depending on your location.
+
+Feel free to contact us if you have further questions. We look forward to assisting you with your purchase.
+
+Best regards,
+Customer Support Team

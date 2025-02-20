@@ -1,0 +1,16 @@
+Ticket ID: ticket_564
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado equipo de Atención al Cliente,
+
+Recientemente adquirí un Lenovo IdeaPad 5 en su tienda en línea. Lamentablemente, estoy enfrentando inconvenientes con la carga del dispositivo, ya que no parece sostenerla adecuadamente. ¿Podrían brindarme asistencia para resolver esta situación o indicarme los pasos a seguir para realizar un reemplazo?
+
+Cordialmente,
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Lamentamos los inconvenientes que está atravesando con su Lenovo IdeaPad 5. Le solicitamos que intente usar otro cargador o enchufe diferente. Si el inconveniente continúa, por favor inicie un proceso de devolución o cambio mediante su cuenta con el número <acc_num> en nuestro sitio web, o comuníquese directamente con nuestro equipo de soporte para obtener más asistencia.
+
+Saludos cordiales,
+Atención al Cliente

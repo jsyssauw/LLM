@@ -1,0 +1,23 @@
+Ticket ID: ticket_3538
+Subject: Problema de batería con Dell XPS 13
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte de Tech Online Store,
+
+Estoy experimentando un problema de batería con mi Dell XPS 13 9310. La batería no retiene una carga por más de 2 horas. Como resultado, interfiere significativamente en mi trabajo. Solicito amablemente asistencia para resolver este asunto a la mayor brevedad posible.
+
+Por favor, hágame saber si se requiere información adicional.
+
+Gracias por su pronta atención.
+
+Atentamente,
+<name>
+
+Contacto: <tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Lamentamos escuchar sobre el problema de la batería de su Dell XPS 13 9310. Para resolver esto, recomendamos verificar si hay alguna actualización de BIOS y controladores disponibles en el sitio web de soporte de Dell. Si el problema persiste, proporcione el número de serie de su dispositivo y los detalles de la compra para obtener más ayuda.
+
+Si necesita soporte inmediato, comuníquese con nuestro equipo técnico al <tel_num>.
+
+Atentamente,
+Equipo de soporte de Tech Online Store

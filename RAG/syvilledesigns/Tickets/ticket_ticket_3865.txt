@@ -1,0 +1,45 @@
+Ticket ID: ticket_3865
+Subject: Problème de gel intermittent avec le Dell XPS 13
+Incident Type: Problem
+Customer Issue: Cher équipe de support client,
+
+Je vous écris pour attirer votre attention sur un problème récurrent que je rencontre avec l'ordinateur portable Dell XPS 13 9310. Après avoir installé une récente mise à jour de sécurité Windows 10, l'ordinateur portable a commencé à rencontrer des problèmes de gel intermittents qui n'étaient pas présents avant la mise à jour. Je pense qu'il est pertinent de partager ce problème avec vous, car cela affecte significativement l'utilisabilité et la fiabilité de l'ordinateur portable.
+
+Le gel se produit généralement de manière imprévisible et sans un schéma spécifique, rendant l'appareil inopérant pendant plusieurs minutes. Pendant ces périodes, j'ai remarqué que le clavier et le touchpad deviennent complètement non réactifs, tandis que l'écran reste statique, affichant ce qui était à l'écran. Par conséquent, cela nécessite que je réalise un redémarrage forcé pour retrouver la fonctionnalité. Cela cause une disruption considérable dans mon flux de travail quotidien, car mon travail dépend principalement d'une performance informatique fiable.
+
+Pour fournir plus de clarté, j'ai essayé plusieurs étapes de dépannage. Initialement, j'ai vérifié le système pour d'éventuelles applications ou processus en arrière-plan qui pourraient surcharger les ressources matérielles ; cependant, tout semblait dans des paramètres d'exploitation normaux. Par la suite, j'ai tenté de désinstaller la mise à jour la plus récente à titre de mesure d'essai, ce qui a temporairement résolu le problème, mais n'est malheureusement pas une solution durable, étant donné la nature critique de maintenir une posture de sécurité à jour.
+
+J'ai demandé conseil à un technicien local, qui a conseillé que le problème pourrait être lié à une incompatibilité potentielle entre la mise à jour et certains pilotes matériels. Cependant, la cause exacte reste spéculative sans évaluation supplémentaire de votre équipe d'experts. Pourriez-vous s'il vous plaît conseiller les prochaines étapes officielles pour traiter ce problème ? Je suis désireux de trouver une solution à long terme afin que je puisse apporter les ajustements nécessaires ou demander un service de garantie potentiel, le cas échéant.
+
+Merci pour votre attention rapide à ce sujet. J'attends avec impatience vos conseils sur la manière de procéder.
+
+Cordialement,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés au sujet du problème de gel intermittent de votre ordinateur portable Dell XPS 13 9310. Je comprends à quel point cela peut être perturbant, et je suis ici pour vous aider à le résoudre.
+
+Puisque le problème a commencé après une mise à jour de sécurité Windows 10, il pourrait effectivement être dû à une incompatibilité de pilotes. Voici quelques étapes que vous pouvez essayer pour résoudre le problème :
+
+1. **Mettre à jour les pilotes** : Visitez le site officiel de Dell et assurez-vous que tous vos pilotes de périphériques, en particulier pour le chipset et le BIOS, sont à jour. Dell fournit souvent des mises à jour spécifiques pour résoudre les problèmes de compatibilité.
+
+2. **Exécuter un diagnostic système** : Utilisez Dell SupportAssist sur votre ordinateur portable pour exécuter un test de diagnostic matériel complet. Cet outil peut parfois identifier des problèmes spécifiques affectant la performance du système.
+
+3. **Rétrograder les mises à jour de pilotes** : Si vos pilotes ont été automatiquement mis à jour, vous pourriez vouloir essayer de les rétrograder à la version précédente où votre système était stable, à l'exception des mises à jour de sécurité critiques.
+
+4. **Ajuster les paramètres d'alimentation** : Parfois, ajuster les paramètres du plan d'alimentation à ‘Haute performance’ ou personnaliser vos paramètres de gestion de l'alimentation peut réduire les gels du système.
+
+5. **Vérifier le Gestionnaire des tâches pendant le gel** : Si possible, avant que le système ne gèle complètement, ouvrez le Gestionnaire des tâches pour voir s'il y a des pics inhabituels dans l'utilisation du CPU ou de la RAM indiquer un logiciel problématique.
+
+Si vous avez déjà essayé ces étapes et que le problème persiste, vous voudrez peut-être restaurer votre système à un point antérieur à la mise à jour tout en maintenant des mises à jour de sécurité critiques, ou envisager une réinstallation propre de Windows, en sauvegardant d'abord toutes vos données.
+
+Étant donné que cela affecte considérablement votre flux de travail, veuillez envisager de contacter directement le support Dell avec vos détails de garantie pour d'éventuelles options de réparation ou de remplacement.
+
+Veuillez me faire savoir si ces étapes vous aident ou si une assistance supplémentaire est nécessaire.
+
+Cordialement,
+
+Équipe de support client

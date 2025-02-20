@@ -1,0 +1,25 @@
+Ticket ID: ticket_2062
+Subject: Critical: AWS Outage Situation
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team for IT Services,
+
+I am <name> and I'm writing to inform you of a critical issue related to our AWS Management Service account number <acc_num>. We are undergoing substantial outages that are adversely affecting our operations. Given our heavy reliance on AWS services for our cloud architecture, this interruption has profoundly disrupted our business continuity.
+
+Our team has observed the downtime impacting various components within our network since <start_time>. Initially, we thought it to be a minor issue; however, after numerous attempts to resolve it, the outages continue. Actions taken, including restarting services and reviewing preliminary support materials, have been ineffective.
+
+We urgently request support from your expert cloud infrastructure team to examine and fix this issue. The situation requires immediate attention, and quick action is essential for the restoration of our operations. We’d like to ask if your team could prioritize this investigation and keep us informed of any developments and findings. Additionally, we would appreciate it if you could dispatch more resources to quicken the resolution process.
+
+You can reach me at <email> or on <tel_num>. We eagerly await your prompt response concerning this urgent matter. Thank you for addressing this significant concern promptly.
+
+Sincerely,
+<name>
+Customer Service answer: Dear <name>,
+
+We appreciate your communication regarding the AWS outage situation. The urgency of this matter is fully recognized, and it is at the forefront of our agenda for prompt handling by our dedicated cloud infrastructure team.
+
+Rest assured, we are mobilizing all essential resources to accelerate the repair process and will keep you informed with updates on our advancements and discoverings. Our team will contact you shortly to deliver the necessary support.
+
+For any additional queries, don’t hesitate to reach out to me directly at <email> or <tel_num>. We thank you for your patience and collaboration as we diligently strive to restore your operations.
+
+Kind regards,
+IT Services Customer Support

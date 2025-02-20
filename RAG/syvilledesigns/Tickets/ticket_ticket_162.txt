@@ -1,0 +1,16 @@
+Ticket ID: ticket_162
+Subject: Immediate Assistance Required for Server Downtime
+Incident Type: Incident
+Customer Issue: Hello, my name is <name> and we are experiencing server downtime that requires urgent consulting assistance. Our IT Consulting Service has been affected, and it's crucial to restore server functionality as soon as possible. We request your immediate attention to resolve this issue. Please contact me at your earliest convenience. Thank you.
+Customer Service answer: Subject: Re: Immediate Assistance Required for Server Downtime
+
+Hello <name>,
+
+Thank you for reaching out regarding the server downtime issue. We understand the urgency of restoring your IT Consulting Service functionality. Our technical team is ready to assist you immediately. Please expect a call soon from one of our specialists to address this problem. 
+
+Thank you for your patience.
+
+Best regards,
+
+<Service Desk Agent Name>
+Service Desk Team

@@ -1,0 +1,39 @@
+Ticket ID: ticket_365
+Subject: Solicitud de Asistencia Técnica
+Incident Type: Request
+Customer Issue: Estimado Cliente del Soporte Técnico de la Tienda Online, 
+
+Espero que este mensaje le encuentre bien. Estoy escribiendo para solicitar asistencia con un portátil Dell XPS 13 9310 comprado en su tienda. Recientemente, he encontrado un problema persistente con el sistema de sonido del portátil, afectando tanto a los altavoces integrados como a cualquier dispositivo de audio externo conectado.
+
+A pesar de ajustar varias configuraciones y de intentar múltiples métodos de solución de problemas encontrados en línea, el problema persiste. Parece que la salida de audio está distorsionada y, a veces, se corta por completo. Este problema está afectando mi capacidad para usar el portátil de manera efectiva tanto para tareas personales como profesionales.
+
+¿Podría orientarme sobre cómo proceder con la solución de problemas o, si es necesario, iniciar una solicitud de servicio para soporte técnico? Si se requiere información adicional, como el recibo de compra o los números de etiqueta de servicio, estoy listo para proporcionar estos detalles.
+
+Agradecería mucho su ayuda para resolver este asunto. 
+
+Gracias por su apoyo.
+
+Atentamente,
+
+<name>
+
+<acc_num>
+Customer Service answer: Asunto: Solicitud de Asistencia Técnica
+
+Estimado/a <name>,
+
+Gracias por contactarnos en el Soporte Técnico de la Tienda Online. Lamento saber acerca de los problemas que está experimentando con el sistema de audio de su portátil Dell XPS 13 9310. Para resolver esto rápidamente, recomendamos los siguientes pasos:
+
+1. Asegúrese de que los controladores de audio de su portátil estén actualizados. Puede hacer esto visitando el sitio web oficial de soporte de Dell y navegando a la sección de descarga de controladores para su modelo específico.
+
+2. Intente realizar una restauración del sistema a un punto en el que el audio funcionara correctamente, si es posible.
+
+3. Verifique si el problema persiste en Modo Seguro, lo que puede ayudar a determinar si las aplicaciones de terceros están causando el problema.
+
+Si estos pasos no resuelven el problema, por favor envíenos el recibo de compra o el número de etiqueta de servicio, y nosotros iniciaremos una solicitud de servicio para usted de inmediato.
+
+Estamos comprometidos a ayudarle con este problema y a asegurarnos de que su portátil funcione de manera óptima. Por favor, háganos saber si necesita más ayuda.
+
+Atentamente,
+
+Soporte Técnico de la Tienda Online

@@ -1,0 +1,23 @@
+Ticket ID: ticket_1669
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+We are writing to inform you about a critical issue we experienced with the AWS Management Service. It seems there was a misconfiguration in the AWS settings, which led to a service outage affecting our website availability for several hours. We need urgent assistance to resolve this issue and prevent any future occurrences.
+
+Please look into this matter at your earliest convenience. Your prompt action will be much appreciated. Thank you for your support.
+
+Best regards,
+
+<name>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issue with the AWS Management Service. We understand the urgency of the situation and the impact it has had on your website availability. Our team will prioritize this matter and investigate the misconfiguration to provide a resolution and ensure it does not recur. 
+
+We will keep you updated as we work towards resolving the issue. Should you have further information or require additional assistance in the meantime, please feel free to contact us.
+
+Thank you for your patience and understanding.
+
+Best regards,
+Customer Support Team

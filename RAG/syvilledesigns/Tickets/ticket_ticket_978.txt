@@ -1,0 +1,17 @@
+Ticket ID: ticket_978
+Subject: Frequent Paper Jam Issues: HP DeskJet 3755
+Incident Type: Problem
+Customer Issue: Dear Customer Support,
+
+I am experiencing frequent paper jam issues with my HP DeskJet 3755 printer, especially when printing multiple pages. This has become a consistent problem and greatly disrupts my ability to efficiently print documents. I would appreciate any troubleshooting steps or advice you can provide to help resolve this issue. I look forward to your guidance or if necessary, additional support.
+
+Thank you for your assistance.
+
+Best Regards,
+<name>
+Customer Service answer: Dear <name>,
+
+I'm sorry to hear about the issues with your HP DeskJet 3755. To resolve the paper jams, please try the following: 1. Remove any jammed paper from the input and output trays. 2. Use recommended paper types and make sure no sheets are stuck together. 3. Clean the paper rollers using a lint-free cloth. 4. Ensure the printer is on a flat, stable surface. If problems persist, please contact us for further support.
+
+Best Regards,  
+Customer Support

@@ -1,0 +1,32 @@
+Ticket ID: ticket_2896
+Subject: Jira Benutzerrollen Problem
+Incident Type: Problem
+Customer Issue: Hallo Kundenservice-Team,
+
+ich wende mich an Sie, um Unterstützung bei der Verwaltung von Benutzerrollen und Berechtigungen in unserer Jira-Software, insbesondere Version 8.20, zu suchen. Wir sind auf unerwartete Schwierigkeiten gestoßen, die unsere Projektmanagement-Workflows beeinträchtigen. Viele Benutzer, einschließlich Administratoren, haben Schwierigkeiten, Rollen und Berechtigungen in unseren Projekten effektiv anzupassen. Dieses Problem verursacht erhebliche Störungen in unseren Prozessen. Bitte geben Sie uns Anleitungen oder Informationen, wie wir dieses Problem angehen können. Alternativ würden wir es begrüßen, wenn ein Spezialist uns direkt helfen könnte. Wenn Sie weitere Einzelheiten benötigen, lassen Sie es mich bitte wissen, und ich werde sie Ihnen umgehend zur Verfügung stellen. Ihre schnelle Intervention wird sehr geschätzt.
+
+Mit freundlichen Grüßen,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Betreff: Re: Jira Benutzerrollen Problem
+
+Hallo <name>,
+
+vielen Dank, dass Sie sich wegen der Probleme mit Benutzerrollen und Berechtigungen in Ihrer Jira-Software Version 8.20 an uns gewandt haben. Um dieses Problem zu beheben, können Sie die folgenden Schritte versuchen:
+
+1. Standardberechtigungen überprüfen: Navigieren Sie zu dem Berechtigungschema Ihres Projekts und stellen Sie sicher, dass die Standardeinstellungen nicht versehentlich geändert wurden.
+
+2. Projektrollen: Gehen Sie zum Administrationsbereich, dann zu Projektrollen, und überprüfen Sie, ob jeder Rolle die richtigen Berechtigungen zugewiesen sind.
+
+3. Verzeichnisse synchronisieren: Stellen Sie sicher, dass die Berechtigungen Ihrer Gruppe mit Ihrem Benutzerverzeichnis synchronisiert sind, wenn Sie ein externes Verzeichnis verwenden.
+
+4. Aktualisieren und Neuanalysieren: Stellen Sie sicher, dass Jira mit den neuesten Patches auf dem neuesten Stand ist und führen Sie eine Neuanalyse durch, um mögliche zugrunde liegende Probleme zu beheben.
+
+Wenn diese Schritte das Problem nicht lösen, kann ein Support-Spezialist Ihnen weiterhelfen. Bitte bestätigen Sie, ob Sie dies möchten, und wir werden es umgehend arrangieren. Lassen Sie uns wissen, ob weitere Einzelheiten benötigt werden.
+
+Wir sind bestrebt, Ihr System schnellstmöglich wieder auf Kurs zu bringen.
+
+Mit freundlichen Grüßen,
+[Ihr Service-Desk-Team]

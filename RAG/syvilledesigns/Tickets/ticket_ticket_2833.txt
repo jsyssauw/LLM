@@ -1,0 +1,12 @@
+Ticket ID: ticket_2833
+Subject: MacBook Air M1 hat Überhitzungsprobleme bei längerer Nutzung
+Incident Type: Problem
+Customer Issue: Liebes Support-Team von Tech Online Store, ich habe kürzlich ein MacBook Air M1 gekauft und habe bei längerer Nutzung Überhitzungsprobleme. Zusätzlich habe ich signifikante Stromverbrauchsspitzen bemerkt, die die Akkulaufzeit beeinträchtigen. Dies begann einige Wochen nach meinem Kauf. Bitte teilen Sie mir mit, ob dieses Problem aus der Ferne gelöst werden kann oder ob ich das Produkt zur Inspektion zurückgeben muss. Ich freue mich auf Ihre Unterstützung. Mit freundlichen Grüßen, <name>
+Customer Service answer: Lieber <name>,
+
+vielen Dank, dass Sie uns kontaktiert haben. Um die Überhitzungs- und Stromverbrauchsprobleme Ihres MacBook Air M1 zu beheben, stellen Sie bitte sicher, dass Ihre Software auf die neueste Version aktualisiert ist, und versuchen Sie, den SMC (System Management Controller) zurückzusetzen. Wenn das Problem weiterhin besteht, sichern Sie bitte Ihre Daten und besuchen Sie eines unserer Servicezentren für eine gründliche Inspektion.
+
+Wir sind hier, um Ihnen bei Bedarf weiterzuhelfen.
+
+Mit freundlichen Grüßen,
+Das Support-Team von Tech Online Store

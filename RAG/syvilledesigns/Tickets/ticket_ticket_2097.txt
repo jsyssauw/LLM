@@ -1,0 +1,12 @@
+Ticket ID: ticket_2097
+Subject: Consulta Sobre Soluções em Nuvem e Serviços de Desenvolvimento de Software
+Incident Type: Request
+Customer Issue: Caro Equipe de Suporte de Serviços de TI, Estou escrevendo para solicitar mais informações sobre suas Soluções em Computação em Nuvem e Serviços de Desenvolvimento de Software para otimizar as operações do meu negócio. Por favor, inclua detalhes sobre preços, prazos de implementação e opções de suporte. Obrigado, <name>.
+Customer Service answer: Assunto: Re: Consulta Sobre Soluções em Nuvem e Serviços de Desenvolvimento de Software
+
+Caro <name>,
+
+Obrigado por entrar em contato. Nossas Soluções de Computação em Nuvem e Serviços de Desenvolvimento de Software são personalizadas para melhorar as operações comerciais. Os preços dependem das necessidades específicas e da escala do seu projeto. Os prazos de implementação variam, mas geralmente vão de algumas semanas a alguns meses, dependendo da complexidade. Oferecemos opções de suporte abrangentes, incluindo assistência 24 horas por dia, 7 dias por semana. Para um orçamento detalhado, por favor forneça requisitos específicos do projeto.
+
+Atenciosamente,
+Equipe do Service Desk

@@ -1,0 +1,5 @@
+Ticket ID: ticket_1526
+Subject: Aide urgente nécessaire : problèmes de connectivité Zoom
+Incident Type: Problem
+Customer Issue: Bonjour, j'ai rencontré des problèmes de connectivité avec Zoom version 5.11.0 lors de vidéoconférences. Cela affecte considérablement notre efficacité de communication et des réunions cruciales. Merci de fournir une assistance dès que possible. Merci. Cordialement, <name> Compte : <acc_num>.
+Customer Service answer: Bonjour <name>, nous sommes désolés pour le désagrément avec Zoom. Veuillez vous assurer que votre logiciel est à jour, vérifier votre connexion Internet et essayer de redémarrer votre appareil. Si les problèmes persistent, contactez notre équipe de support pour une assistance supplémentaire. Merci pour votre patience. Cordialement, Agent du Service Desk.

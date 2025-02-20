@@ -1,0 +1,17 @@
+Ticket ID: ticket_1437
+Subject: Problema con la creación de tareas
+Incident Type: Problem
+Customer Issue: Estimado soporte de TI, estoy encontrando un error al intentar crear tareas e integrarlas con Confluence en nuestro flujo de trabajo de gestión de proyectos utilizando Jira Software 8.20. Se agradecería asistencia para resolver este problema, ya que está afectando nuestra productividad. Por favor, proporcione una solución a la mayor brevedad posible. Gracias, <name>, <email>.
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Para resolver el problema con la creación de tareas y la integración con Confluence en Jira 8.20, por favor intenta los siguientes pasos:
+
+1. Asegúrate de que tanto Jira como Confluence estén actualizados a las últimas versiones estables.
+2. Verifica los enlaces de la aplicación navegando al panel de administración de Jira > Aplicaciones > Enlaces de aplicación y asegúrate de que Confluence esté correctamente vinculado.
+3. Verifica los permisos de usuario para la creación de tareas y la integración del proyecto.
+4. Borra la caché del navegador o intenta con otro navegador.
+
+Si el problema persiste, por favor proporciona mensajes de error o registros para obtener más ayuda.
+
+Saludos cordiales,
+Soporte de TI

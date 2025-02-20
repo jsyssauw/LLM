@@ -1,0 +1,18 @@
+Ticket ID: ticket_3432
+Subject: Immediate Attention Required: Defective MacBook Air M1 Ordered From Online Store
+Incident Type: Request
+Customer Issue: Dear Customer Service,
+
+I recently purchased a MacBook Air M1 from your online store, and it's begun to function improperly. Could you kindly assist me in troubleshooting this problem or advise me on how to initiate repairs or a replacement?
+
+Thank you,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Dear [Customer Name],
+
+We regret to learn about the complication with your MacBook Air M1. Please reach out to our support team at [support number] or visit [support website] for guidance on troubleshooting. If your device requires repair or replacement, they will walk you through the necessary steps.
+
+Best regards,
+[Your Name]
+Customer Support

@@ -1,0 +1,12 @@
+Ticket ID: ticket_1532
+Subject: nan
+Incident Type: Problem
+Customer Issue: I am experiencing downtime and connectivity issues with my AWS hosted applications today. This affects my business operations. Need urgent assistance to resolve this problem. Thank you, <name>, <tel_num>.
+Customer Service answer: Subject: Immediate Assistance for AWS Connectivity Issues  
+
+Dear <name>,  
+
+Thank you for reaching out. We understand the urgency of your situation and prioritize your issue. Please ensure all AWS services are active and monitor the AWS Health Dashboard for any outages. If the problem persists, contact AWS Support directly for immediate resolution. Feel free to update us if further action is needed from our end.  
+
+Best regards,  
+Service Desk Team

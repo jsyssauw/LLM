@@ -1,0 +1,30 @@
+Ticket ID: ticket_622
+Subject: AWS Outage Impact on Services
+Incident Type: Incident
+Customer Issue: Dear IT Consulting Firm Support Team, 
+
+I hope this message finds you well. I am writing to express concern regarding a major service disruption we are experiencing, which seems to be related to your AWS Management Service. We value the strategic role your firm plays in our IT operations, but as of this morning, we have encountered an unexpected outage in our AWS cloud infrastructure that has made critical components of our system inaccessible. This issue is not only impacting our daily operational efficiency but also affecting our clients who rely heavily on uninterrupted access to our services.
+
+Considering the pivotal nature of the AWS Management Service in our setup, I urge a swift investigation and resolution. Our team has identified several calls, emails, and help tickets, as internal attempts to resolve this have not been successful. Please let us know if there's any additional information we can provide that would help expedite the process. 
+
+It would be greatly appreciated if your team could provide an estimated timeframe for when a resolution may be expected. Furthermore, I would appreciate any advice or temporary solutions you might suggest to mitigate the impact while the main issue is being resolved. 
+
+Thank you for your prompt attention to this critical matter. I look forward to your swift response and resolution. 
+
+Sincerely,
+<name>
+Company: <company_name>
+Account Number: <acc_num>
+Phone: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the AWS service disruption. We take this matter very seriously and understand the critical impact it has on your operations and clients. Our technical team is already investigating the issue with high priority to identify and resolve the problem promptly.
+
+While we work towards a resolution, we recommend implementing any available local fail-safes or redundancies to minimize impact. If there's specific data or error reports you can provide, please share them to assist in expediting our efforts.
+
+We commit to keeping you updated on our progress and will provide an estimated resolution timeframe shortly. 
+
+We appreciate your patience and understanding in this challenging situation. Please don't hesitate to reach out via <email_contact> or <alt_tel_num> if you have any further information or need immediate aid.
+
+Sincerely,
+IT Consulting Firm Support Team

@@ -1,0 +1,16 @@
+Ticket ID: ticket_1511
+Subject: Upgrade Request for Surface Pro 7
+Incident Type: Change
+Customer Issue: Dear IT Services team,
+
+I am writing to request an upgrade to the latest stable version of the Windows software for my Microsoft Surface Pro 7. I believe this upgrade will enhance its performance and provide me with new features. Please let me know the steps or requirements necessary to proceed.
+
+Thank you,
+<name>
+<email>
+Customer Service answer: Dear <name>,
+
+Thank you for your request. To upgrade your Microsoft Surface Pro 7 to the latest stable version of Windows, please connect your device to the internet, go to Settings > Update & Security > Windows Update, and click "Check for updates." Follow the on-screen instructions. If further assistance is needed, let us know.
+
+Best regards,
+IT Services Team

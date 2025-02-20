@@ -1,0 +1,15 @@
+Ticket ID: ticket_1268
+Subject: nan
+Incident Type: Request
+Customer Issue: Hello,
+
+I'm experiencing fluctuations in my AWS billing statement and need clarity on this matter. It seems to be affected by changing service usage and auto-scaling updates related to the AWS Management Service. Can you help me understand these changes?
+
+Thank you,
+<name>
+Customer Service answer: Hello <name>,
+
+Thank you for reaching out. Fluctuations in your AWS billing statement are often due to dynamic usage changes, particularly with auto-scaling and service updates. Auto-scaling can adjust resource use automatically based on demand, consequently impacting your costs. I recommend reviewing the billing dashboard in your AWS Management Console for detailed insights. Please contact us if you need further assistance or specific queries.
+
+Best regards,
+Service Desk Agent

@@ -1,0 +1,10 @@
+Ticket ID: ticket_3697
+Subject: nan
+Incident Type: Request
+Customer Issue: {"greeting": "Dear Customer Support,", "body": "I need details about the detachable keyboard feature and Windows 10 compatibility for the Microsoft Surface Pro 7. Could you please provide more information?", "closing": "Thank you, <name>"}
+Customer Service answer: Dear <name>,
+
+The Microsoft Surface Pro 7 has a detachable keyboard (sold separately) that easily connects via magnetic interface. It is fully compatible with Windows 10, providing a seamless user experience. 
+
+Best regards,
+Customer Support

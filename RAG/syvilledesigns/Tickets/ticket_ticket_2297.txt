@@ -1,0 +1,15 @@
+Ticket ID: ticket_2297
+Subject: nan
+Incident Type: Incident
+Customer Issue: Hello Customer Support Team,
+
+I am facing a problem with my Lenovo IdeaPad 5's keyboard. A few keys aren't working properly, making it difficult to operate. My order number is <order_num>. I would appreciate your prompt assistance.
+
+Thank you,
+<name>
+Customer Service answer: Hello <name>,
+
+We appreciate your reaching out to us. We apologize for the trouble. Please attempt to restart your laptop or update the drivers. Should the problem continue, please contact us with <order_num> to discuss repair options.
+
+Best regards,
+Customer Support

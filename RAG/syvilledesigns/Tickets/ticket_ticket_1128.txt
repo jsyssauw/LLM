@@ -1,0 +1,24 @@
+Ticket ID: ticket_1128
+Subject: Solicitud de Cambio de Instancias de AWS
+Incident Type: Change
+Customer Issue: Estimado Soporte al Cliente,
+
+Estoy escribiendo para solicitar cambios a nuestras instancias de computación de AWS como parte de su Servicio de Gestión de AWS. Nuestro objetivo es optimizar el rendimiento y reducir costos para nuestra aplicación de software de escala media. Por favor, háganos saber la mejor manera de avanzar a su conveniencia. Gracias por su asistencia.
+
+Atentamente,
+
+<name>
+
+<tel_num>
+
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a sus instancias de computación de AWS. Para optimizar el rendimiento y reducir costos para su aplicación de software de escala media, recomendamos programar una consulta con nuestro equipo de Gestión de AWS. Ellos pueden proporcionar consejos personalizados para satisfacer sus necesidades específicas.
+
+Para proceder, confirme su disponibilidad para una reunión y, si es posible, proporcione cualquier detalle adicional sobre el uso actual de su instancia que podría ayudarnos a atenderle mejor. También puede acceder a nuestro portal de autoservicio para ajustes inmediatos si es necesario.
+
+Esperamos poder ayudarle más.
+
+Saludos cordiales,
+Soporte al Cliente

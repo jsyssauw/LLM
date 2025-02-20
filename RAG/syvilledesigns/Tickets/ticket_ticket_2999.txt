@@ -1,0 +1,31 @@
+Ticket ID: ticket_2999
+Subject: Inquiry on Microsoft Office 365 Price Matching
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am reaching out to seek clarification regarding the new pricing policy related to Microsoft Office 365 as mentioned in your latest announcement. After reviewing the information provided on your site, I couldn’t fully comprehend the details on how the price matching works, and the guidelines for products qualifying under this policy, especially concerning specific software like Microsoft Office 365.
+
+Additionally, could you explain how this policy may affect items purchased online, specifically those bought through your specialized Regression Analysis of Excels Online Purchase UI? It is imperative for me to understand whether the provided solution incorporates any exclusions or additional conditions.
+
+Any documentation or further details regarding the effective implementation period, and scenarios affecting existing orders made under <acc_num>, would be highly appreciated.
+
+Thank you for your assistance, and I look forward to your prompt response.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the Microsoft Office 365 price matching policy. 
+
+Our price matching policy for Microsoft Office 365 ensures that if you find a lower price at another retail store, we will match it. This applies to new, identical items in-store, online, or at a selected competitor. However, please note that the policy exclusions include limited-quantity offers, bundled services, and marketplace vendors.
+
+For purchases made via our specialized Regression Analysis of Excels Online Purchase UI, the same policy applies. You would need to provide evidence of the lower price for us to proceed with matching it.
+
+There are no additional conditions that apply specifically to online purchases. However, orders placed using <acc_num> that are yet to be fulfilled can also benefit from this policy, as long as they meet the criteria outlined.
+
+The price matching feature is now in effect, and the details, including documentation and specific scenarios about existing orders, are available on our website’s pricing policy page. If you have trouble accessing this information, please let us know, and we can send it directly to your email.
+
+Please feel free to contact us if you have any further questions. We're here to help!
+
+Best regards,
+Customer Support Team

@@ -1,0 +1,22 @@
+Ticket ID: ticket_1189
+Subject: Problema de Não Salvamento de Planilhas do Excel no Office 365
+Incident Type: Incident
+Customer Issue: Olá, 
+
+Estou enfrentando problemas com as planilhas do Excel que não estão salvando corretamente no Office 365. Parece que pode haver um problema de sincronização com o armazenamento na nuvem. Sua equipe poderia ajudar a resolver esse problema? Agradeço pela sua resposta rápida. Obrigado.
+
+Atenciosamente,
+<name>
+<name>, <tel_num>, <acc_num>
+Customer Service answer: Olá <name>,
+
+Obrigado por entrar em contato conosco sobre seu problema com as planilhas do Excel não salvando no Office 365. Por favor, tente as seguintes etapas para resolver o problema:
+1. Verifique sua conexão com a internet para garantir que está estável.
+2. Certifique-se de que você está conectado à conta correta do Office 365.
+3. Reinicie o Excel e tente salvar seu documento novamente.
+4. Limpe o Cache de Documentos do Office.
+
+Se o problema persistir, entre em contato conosco novamente para que possamos ajudá-lo mais.
+
+Atenciosamente,
+Equipe de Atendimento ao Cliente

@@ -1,0 +1,10 @@
+Ticket ID: ticket_562
+Subject: Surface Pro 7 Problem
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice, der Touchscreen meines Microsoft Surface Pro 7 reagiert nach einem Systemneustart und einem Firmware-Update nicht. Könnten Sie bitte eine Anleitung zur Behebung dieses Problems geben? Vielen Dank, <name> <tel_num> <acc_num>
+Customer Service answer: Sehr geehrte(r) <name>,
+
+Bitte versuchen Sie diese Schritte: 1) Stellen Sie sicher, dass alle Windows-Updates auf dem neuesten Stand sind. 2) Setzen Sie die Touchscreen-Kalibrierung zurück: Gehen Sie zu Systemsteuerung > Tablet-PC-Einstellungen > Zurücksetzen. Wenn das Problem weiterhin besteht, kontaktieren Sie uns für weitere Unterstützung.
+
+Mit freundlichen Grüßen,
+Kundenservice

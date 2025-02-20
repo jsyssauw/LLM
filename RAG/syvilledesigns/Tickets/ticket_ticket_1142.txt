@@ -1,0 +1,24 @@
+Ticket ID: ticket_1142
+Subject: Urgent: Immediate AWS Infrastructure Changes Needed
+Incident Type: Change
+Customer Issue: Dear IT Services,
+
+I am writing to request immediate assistance with changes needed in our AWS infrastructure. We are currently experiencing critical issues impacting the reliability and performance of our services, which depend heavily on the AWS Management Service. These issues have become urgent and require swift action to prevent further disruption.
+
+Could you please deploy your technical expertise to address these concerns as soon as possible? We rely on your prompt intervention to restore and enhance our service stability. Please contact me at your earliest convenience for any additional details.
+
+Thank you for your attention and prompt response.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the urgent AWS infrastructure changes. I understand the critical nature of the issues impacting your services. Rest assured, we will prioritize this request and deploy our technical team immediately to address the concerns and restore service stability. 
+
+Please expect a call from us shortly to gather any additional information required. 
+
+Thank you for your patience and trust in our services.
+
+Best regards,
+Service Desk Agent

@@ -1,0 +1,30 @@
+Ticket ID: ticket_3409
+Subject: Problema com Surface Pro 7 - Piscar de Tela
+Incident Type: Incident
+Customer Issue: Caro Suporte da Loja Online de Tecnologia,
+
+Estou escrevendo para relatar um problema persistente com meu Microsoft Surface Pro 7, que foi comprado na conta número <acc_num>. Na última semana, experimentei um piscar de tela frequente e uma tela sensível ao toque que não responde. O problema afeta severamente a usabilidade e a produtividade. Tentativas de solução, incluindo atualizações de software e reinicializações forçadas, não resolveram os problemas.
+
+Você poderia me aconselhar sobre os próximos passos? Estou preocupado que o dispositivo possa estar defeituoso ou precise de manutenção. Agradeceria quaisquer detalhes sobre solução de problemas ou sobre como arranjar reparo ou substituição sob garantia. Por favor, entre em contato comigo pelo <tel_num> para discutir mais.
+
+Obrigado pela sua atenção a este assunto. Aguardo sua resposta rápida.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato e trazer isso à nossa atenção. Entendemos o inconveniente causado pelo piscar da tela e a tela sensível ao toque não responsiva no seu Microsoft Surface Pro 7. Como você tentou atualizar o software e realizar reinicializações forçadas sem sucesso, parece mesmo que será necessária uma assistência.
+
+Por favor, siga estas etapas:
+1. Certifique-se de que todas as atualizações críticas do Windows estejam instaladas.
+2. Execute o Conjunto de Diagnóstico Surface para verificar problemas de hardware; você pode baixá-lo no site da Microsoft.
+
+Se o problema persistir, seu Surface pode precisar de manutenção. Posso ajudá-lo a arranjar um reparo ou substituição sob garantia. Por favor, forneça-nos seu comprovante de compra e confirme seus dados da conta para validação de serviço.
+
+Nosso técnico pode contatar você pelo <tel_num> para mais discussões e agendamentos. Seu caso foi priorizado e você deve ouvir de nós dentro das próximas 48 horas.
+
+Pedimos desculpas por qualquer inconveniente e agradecemos sua paciência.
+
+Atenciosamente,
+Equipe de Suporte da Loja Online de Tecnologia

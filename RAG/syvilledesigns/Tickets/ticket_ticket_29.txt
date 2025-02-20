@@ -1,0 +1,20 @@
+Ticket ID: ticket_29
+Subject: Assistance Required: Wireless Setup Issue
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support, I'm requesting assistance with setting up the wireless connection for my Compact All-in-One color printer, the HP DeskJet 3755. I am unable to proceed with the current instructions provided. Could you guide me through the necessary steps? Thank you for your help. Sincerely, <name>.
+Customer Service answer: Subject: Re: Assistance Required: Wireless Setup Issue
+
+Dear <name>,
+
+Thank you for reaching out. To connect your HP DeskJet 3755 wirelessly, please follow these steps:
+
+1. Ensure the printer is powered on and paper is loaded.
+2. On the printer's control panel, press the Wireless button to activate the wireless signal.
+3. Hold it until the light starts blinking approximately 3 seconds.
+4. Install HP Smart App on your device and follow the app's instructions to add the printer using Wi-Fi Direct or through your network.
+5. Complete the setup with the app prompts.
+
+If you encounter further issues, feel free to reach out.
+
+Best regards,
+Tech Online Store Customer Support

@@ -1,0 +1,27 @@
+Ticket ID: ticket_3046
+Subject: Problema urgente de Jira
+Incident Type: Incident
+Customer Issue: Estimado soporte al cliente,
+
+Me comunico para informar sobre un problema crítico que estamos experimentando con Jira Software 8.20. Los miembros de nuestro equipo, incluido <name>, no pueden asignar tareas dentro de la plataforma. Esta funcionalidad es crucial para mantener nuestro flujo de trabajo y productividad, ya que nos estamos acercando a plazos importantes de proyectos.
+
+La incapacidad para asignar tareas está afectando severamente nuestra productividad, lo que lleva a confusión sobre las responsabilidades de las tareas y retrasos en nuestro ciclo de desarrollo. Esta interrupción plantea un riesgo para nuestras entregas y compromisos con los clientes. Hemos intentado pasos básicos de solución de problemas sin éxito.
+
+Solicitamos asistencia inmediata o una solución alternativa, ya que resolver este problema es de suma urgencia para nosotros. Por favor, guíenos para garantizar la asignación de tareas y la gestión de proyectos sin inconvenientes.
+
+Para sus registros, nuestro número de cuenta vinculada es <acc_num>. Por favor, priorice y contacte a <name> en <tel_num> para discutir los próximos pasos. Agradeceríamos mucho su pronta atención a este asunto.
+
+Gracias por su apoyo.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con nosotros respecto al problema con Jira Software 8.20. Entendemos lo crítico que es la función de asignación de tareas para la productividad de su equipo, especialmente con los plazos de proyecto que se acercan.
+
+Para abordar este asunto urgente, escalaremos su caso de inmediato y haremos que nuestro equipo técnico investigue el problema. Mientras tanto, asegúrese de haber instalado las últimas actualizaciones de Jira, ya que esto a veces puede resolver problemas de funcionalidad. Además, verifique que los permisos de usuario estén configurados correctamente para las asignaciones de tareas.
+
+Nuestro equipo dará prioridad a esto y se comunicará con <name> en <tel_num> en breve. Agradecemos su paciencia y cooperación para ayudarnos a resolver esto rápidamente.
+
+Atentamente,
+Equipo de Soporte al Cliente

@@ -1,0 +1,20 @@
+Ticket ID: ticket_2003
+Subject: Urgent: Network Issues with Cisco Router ISR4331
+Incident Type: Problem
+Customer Issue: Dear Support Team, 
+
+I am writing to express my concern regarding a critical issue we are facing with our Cisco Router ISR4331. We have been experiencing frequent disconnections that have severely impacted network stability across our entire site. This issue has become quite problematic, affecting both productivity and overall business operations. As the router is a crucial component of our IT infrastructure, ensuring its optimal performance is essential for our daily activities. We request immediate troubleshooting assistance as any delays could lead to further disruptions. Please let me know what steps we should take next, or if a technician could assist us at the earliest opportunity. 
+
+Looking forward to your prompt response. 
+
+Best regards, 
+
+<name>
+<company_name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out concerning the issue with your Cisco Router ISR4331. We understand the urgency and importance of resolving this problem quickly. Please try restarting the router and checking all connections to ensure they are secure. Additionally, confirm if any recent changes were made to the network settings. We are arranging for a technician to assist you as soon as possible. Meanwhile, keep us updated on any changes or current status. If the issue persists, please let us know immediately for further action.
+
+Best regards,
+Support Team

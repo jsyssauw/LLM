@@ -1,0 +1,10 @@
+Ticket ID: ticket_3625
+Subject: Cloud Service Outage Inquiry
+Incident Type: Change
+Customer Issue: Dear Customer Support Team, we are experiencing an unexpected outage affecting our AWS Management Service. Please investigate the cause urgently. Additionally, we request a review of daily maintenance processes for potential optimization to prevent future occurrences. Thank you, <name>.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We are currently investigating the cause of the outage affecting your AWS Management Service and are prioritizing this issue to resolve it as quickly as possible. Regarding the review of daily maintenance processes, we will conduct a thorough analysis to identify potential optimizations to prevent similar issues in the future. We appreciate your patience and will keep you updated on our progress.
+
+Best regards,
+Service Desk Team

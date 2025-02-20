@@ -1,0 +1,22 @@
+Ticket ID: ticket_2945
+Subject: nan
+Incident Type: Change
+Customer Issue: Estimado cliente del soporte de Tech Online Store,
+
+Espero que este mensaje le encuentre bien. Le escribo para llamar su atención sobre un problema que he encontrado con mi reciente estado de cuenta de facturación para el servicio Google Workspace Business Standard. Recientemente, actualicé mi plan, esperando que los cargos se alinearan con los términos de actualización actuales. Sin embargo, he recibido un cargo de facturación incorrecto de $300 en lugar de la cantidad esperada alineada con el nuevo plan de servicio.  La cuenta asociada con esta actualización de plan está bajo el nombre <name>, con el número de cuenta <acc_num>. Dada la situación, le agradecería si pudiera revisar mi cuenta para corregir esta discrepancia de facturación a su conveniencia.  Además, asegúrese de que las futuras facturas reflejen los cargos apropiados según los términos acordados del servicio mejorado. Me preocupa cualquier posible cargo por retraso o intereses que puedan acumularse debido a este problema, los cuales creo que deberían ser eximidos a la luz de las circunstancias. Por favor, avísenme si hay algún paso que deba seguir para rectificar este problema rápidamente.  Gracias por su atención a este asunto. Espero su pronta respuesta y resolución.  Saludos,  <name> <email> <tel_num>
+Customer Service answer: Asunto: Re: Discrepancia de facturación con Google Workspace Business Standard
+
+Estimado <name>,
+
+Gracias por ponerse en contacto con nosotros con respecto al problema de facturación con su actualización de Google Workspace Business Standard. Nos disculpamos por cualquier inconveniente que esto haya causado.
+
+Hemos iniciado una revisión de su cuenta <acc_num> para identificar y corregir el error de facturación. No será responsable de ningún cargo incorrecto, y cualquier cargo por retraso o intereses relacionados será eximido.
+
+Una vez que la revisión esté completa, garantizaremos que las futuras facturas reflejen los montos correctos según su plan de servicio actualizado.
+
+Le actualizaremos sobre el estado en breve. Si tiene más preguntas o necesita asistencia inmediata, no dude en contactarnos a este correo electrónico o llamarnos al <customer_service_tel_num>.
+
+Gracias por su paciencia y comprensión.
+
+Atentamente,
+Equipo de soporte al cliente de Tech Online Store

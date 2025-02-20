@@ -1,0 +1,5 @@
+Ticket ID: ticket_404
+Subject: Solicitação de Assistência para Dicas de Otimização do Excel
+Incident Type: Incident
+Customer Issue: Estou enfrentando um desempenho lento com o Excel. Preciso de dicas e solução de problemas para o Office 365.
+Customer Service answer: Tente estas dicas: Feche aplicativos não utilizados, limite cálculos em segundo plano, atualize o Office 365 e limpe arquivos grandes. Considere usar o Power Query para eficiência.

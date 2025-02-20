@@ -1,0 +1,5 @@
+Ticket ID: ticket_715
+Subject: Probleme mit der Leistung des Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Hallo, ich habe nach dem neuesten Update Leistungsprobleme mit meinem Dell XPS 13 9310 festgestellt. Bitte helfen Sie mir.
+Customer Service answer: Hallo, versuchen Sie, das Gerät neu zu starten und sicherzustellen, dass alle Treiber auf dem neuesten Stand sind. Wenn die Probleme weiterhin bestehen, setzen Sie es auf ein vorheriges Update zurück. Für weitere Unterstützung wenden Sie sich bitte an den Dell-Support.

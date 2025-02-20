@@ -1,0 +1,15 @@
+Ticket ID: ticket_2459
+Subject: Problem with Norton Antivirus Plus
+Incident Type: Incident
+Customer Issue: Hello Support Team,
+
+I would like to bring to your attention a problem I am experiencing with my Norton Antivirus Plus software. It has ceased functioning unexpectedly. Could you help me resolve this issue promptly?
+
+Sincerely,
+<name>
+Customer Service answer: Hello <name>,
+
+We apologize for the trouble. Please attempt to restart your computer and perform a LiveUpdate. If the problem continues, please reinstall Norton Antivirus Plus. Don't hesitate to reach out again if you require more help.
+
+Sincerely,
+Support Team

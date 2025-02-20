@@ -1,0 +1,17 @@
+Ticket ID: ticket_2556
+Subject: Anfrage zu MacBook Air M1-Spezifikationen und -Anpassungen
+Incident Type: Request
+Customer Issue: Sehr geehrtes Tech Online Store Support-Team,
+
+ich interessiere mich für den Kauf eines MacBook Air M1 und hätte gerne detaillierte Spezifikationen und Informationen zu verfügbaren Anpassungsoptionen. Könnten Sie mir bitte diese Informationen zur Verfügung stellen?
+
+Vielen Dank für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+Vielen Dank für Ihr Interesse. Das MacBook Air M1 verfügt über ein 13,3" Retina-Display, den Apple M1-Chip, eine 8-Kern-CPU, bis zu 16 GB RAM und bis zu 2 TB SSD-Speicher. Anpassungsoptionen umfassen RAM-Upgrade, Speicher-Upgrade und vorinstallierte Software. Für weitere Details oder um eine Bestellung aufzugeben, besuchen Sie bitte unsere Website.
+
+Mit freundlichen Grüßen,
+Ihr Tech Online Store Support-Team

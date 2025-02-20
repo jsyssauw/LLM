@@ -1,0 +1,34 @@
+Ticket ID: ticket_2760
+Subject: nan
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich schreibe, um ein Problem mit der Jira Software Version 8.20 zu melden, das die Produktivität unseres Teams beeinträchtigt. Seit dem letzten Update können wir unser Projekt-Dashboard nicht mehr laden, was für unsere Projektmanagement-Aktivitäten entscheidend ist. Dieses anhaltende Problem hat nicht nur Auswirkungen auf unsere täglichen Abläufe, sondern auch auf den gesamten Arbeitsablauf und die Zusammenarbeit innerhalb unseres Teams.
+
+Wir sind stark auf Jira angewiesen, um Aufgaben, Zeitpläne und den Fortschritt des Teams zu verfolgen, und diese Störung verursacht erhebliche Verzögerungen. Wir bitten Sie dringend um Ihre Unterstützung bei der Lösung dieses Problems so schnell wie möglich. Könnten Sie uns bitte alle verfügbaren Updates oder eine mögliche temporäre Lösung mitteilen, während Ihr technisches Team das Problem untersucht?
+
+Bitte zögern Sie nicht, uns unter <email> oder <tel_num> zu kontaktieren, wenn weitere Informationen benötigt werden. Wir schätzen Ihre schnelle Aufmerksamkeit für dieses Anliegen und freuen uns auf eine zügige Lösung.
+
+Mit freundlichen Grüßen,
+
+<name>
+
+Projektleiter
+
+<company_name>
+
+<acc_num>
+Customer Service answer: Lieber <name>,
+
+vielen Dank, dass Sie sich wegen des Problems mit der Jira Software Version 8.20 an uns gewandt haben. Wir verstehen, wie wichtig dieses Anliegen für die Produktivität Ihres Teams ist, und entschuldigen uns aufrichtig für die Unannehmlichkeiten.
+
+Unser technisches Team ist bereits über dieses Problem informiert und arbeitet intensiv an einer Lösung. In der Zwischenzeit empfehlen wir, den Browser-Cache zu leeren oder alternative Browser als vorübergehende Lösung auszuprobieren. Sie können auch über die mobile Version von Jira auf Ihre Projekt-Details zugreifen, was helfen könnte, die Störung zu überbrücken, bis wir das Problem behoben haben.
+
+Wir werden Ihnen ein Update zukommen lassen, sobald es Neuigkeiten gibt. Bitte zögern Sie nicht, uns unter <email> oder <tel_num> zu kontaktieren, wenn Sie weitere Fragen haben oder zusätzliche Unterstützung benötigen.
+
+Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+
+Kundenserviceteam
+<company_name>

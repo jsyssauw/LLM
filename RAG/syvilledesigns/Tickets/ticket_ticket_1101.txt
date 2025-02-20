@@ -1,0 +1,23 @@
+Ticket ID: ticket_1101
+Subject: Missing ticket notifications impacting Jira feedback
+Incident Type: Problem
+Customer Issue: Hello Customer Support Team,
+
+I hope this message finds you well. I'm reaching out regarding an issue with missing ticket notifications in our instance of Jira Software 8.20. This problem is significantly impacting our project feedback and team communication, which rely heavily on timely updates. Our team is unable to receive crucial updates on project statuses and assignments. Could you please investigate this issue and advise on any possible solutions? Your prompt assistance would be greatly appreciated to restore efficient teamwork.
+
+Thank you for your cooperation.
+
+Best regards,
+<name>
+Customer Service answer: Subject: Re: Missing ticket notifications impacting Jira feedback
+
+Hello <name>,
+
+Thank you for bringing this to our attention. We understand the importance of timely notifications for your project feedback and communication. Our team will investigate the issue with your Jira Software 8.20 instance promptly. 
+
+To assist us in identifying the cause, could you please confirm if there have been any recent changes in your notification settings or server configurations? Additionally, ensure that email servers and filters are not blocking Jira notifications. 
+
+We will update you as soon as we have further insights or solutions. Thank you for your patience and cooperation.
+
+Best regards,
+Customer Support Team

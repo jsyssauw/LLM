@@ -1,0 +1,15 @@
+Ticket ID: ticket_119
+Subject: Problèmes de connexion Zoom 5.11.0
+Incident Type: Incident
+Customer Issue: Bonjour,
+
+Je rencontre des déconnexions fréquentes lors de la participation à des vidéoconférences sur Zoom 5.11.0. Pourriez-vous m'aider à résoudre ce problème ? Merci.
+
+Cordialement,
+<name>
+Customer Service answer: Bonjour,
+
+Je suis désolé d'apprendre les problèmes de connexion que vous rencontrez avec Zoom 5.11.0. Veuillez essayer les étapes suivantes : assurez-vous que votre connexion internet est stable, mettez à jour votre application Zoom vers la dernière version et vérifiez les paramètres de votre pare-feu ou antivirus qui pourraient interférer. Si le problème persiste, faites-le nous savoir.
+
+Cordialement,
+L'équipe du service client

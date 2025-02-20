@@ -1,0 +1,18 @@
+Ticket ID: ticket_3953
+Subject: Solicitud de actualización de herramientas de diseño
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Estoy escribiendo para solicitar una actualización de nuestras herramientas de diseño actuales adquiriendo Adobe Photoshop 2024, ya que ofrece capacidades mejoradas de edición de fotos y gráficos que son cruciales para nuestros proyectos. Las funciones mejoradas, incluida la tecnología de IA y las opciones de edición avanzadas, aumentarán significativamente nuestra eficiencia y calidad de producción. Actualizar a la última versión nos permitirá mantenernos competitivos en el panorama digital en rápida evolución de hoy. Por favor, hágamelo saber el procedimiento y los costos adicionales involucrados.
+
+Gracias por su atención a este asunto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto respecto a la actualización a Adobe Photoshop 2024. Entendemos la importancia de contar con las herramientas más recientes para mantener la eficiencia y la competitividad. Para proceder con la actualización, comuníquese con nuestro departamento de adquisiciones de software en <email_address> o llame al <tel_num>. Ellos proporcionarán información detallada sobre el procedimiento y cualquier costo adicional involucrado. Si tienes más preguntas, no dudes en preguntar.
+
+Atentamente,
+Equipo de soporte al cliente

@@ -1,0 +1,34 @@
+Ticket ID: ticket_2998
+Subject: nan
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I am reaching out to seek assistance with an issue I have encountered with the wireless connectivity of my recent purchase, the HP DeskJet 3755. After setting up the printer as per the instructions provided, it does not seem to establish a wireless connection with any of my devices, including my laptop, smartphone, and tablet. I attempted both through the home network and a direct wireless connection, but both efforts ended in failure.
+
+I have ensured that the devices are within the appropriate range of the printer, restarted both the router and the devices, and reconfirmed that all drivers and firmware are up to date. Additionally, I toggled the Wi-Fi settings on and off multiple times, but the issue persists, hindering my ability to complete any printing tasks wirelessly.
+
+Could you please assist with further troubleshooting steps to resolve this issue? If necessary, I am willing to provide specific error messages or additional system information to facilitate a faster diagnosis and solution. I am hoping for a swift resolution as I rely heavily on printing tasks for my daily activities.
+
+Thank you for your attention to this matter. I look forward to your prompt response.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the wireless connectivity issue with your HP DeskJet 3755. We understand the inconvenience this may be causing and are here to help.
+
+Please try the following troubleshooting steps:
+1. Ensure your printer is within the Wi-Fi network range and not obstructed by thick walls or large objects.
+2. Verify that your network is functioning properly with other devices.
+3. Use the HP Smart app on your smartphone or laptop to re-establish the printer connection.
+4. Reset the printer's network settings by following the instructions in the manual, then attempt to reconnect.
+5. Make sure that 'Wireless Direct' is turned off if trying to connect through the home network.
+6. Run the HP Print and Scan Doctor (available on HP's website for Windows devices) to identify and rectify potential issues.
+
+If the problem persists, please provide us with specific error messages or any additional details you might have. We are committed to assisting you in resolving this matter promptly.
+
+We appreciate your patience and look forward to your update.
+
+Best regards,
+Tech Online Store Customer Support

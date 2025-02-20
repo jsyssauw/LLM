@@ -1,0 +1,20 @@
+Ticket ID: ticket_1959
+Subject: Assistance Needed with Chrome Extensions
+Incident Type: Request
+Customer Issue: Hello, I am in need of assistance with setting up extensions in Google Chrome 102.0 for an enhanced browsing experience. I’ve been trying to optimize my web browser but have encountered some challenges. Can you provide detailed instructions or support to help me resolve this issue? It's important for me to enhance my browsing efficiency. Thank you for your assistance in advance. I look forward to your expert guidance. Best regards, <name>.
+Customer Service answer: Hello <name>,
+
+Thank you for reaching out. To set up extensions in Google Chrome 102.0, follow these steps:
+
+1. Open Google Chrome and click on the three dots in the top-right corner to access the Menu.
+2. Select "More tools" > "Extensions."
+3. In the Extensions window, click "Open Chrome Web Store" on the left panel.
+4. Browse or search for extensions you wish to add.
+5. Click "Add to Chrome" next to the desired extension and confirm by selecting "Add extension."
+6. Manage installed extensions by returning to the Extensions menu, where you can enable/disable or remove them as needed.
+
+Should you need further assistance, feel free to reach out.
+
+Best regards,
+[Your Name]
+Service Desk Agent

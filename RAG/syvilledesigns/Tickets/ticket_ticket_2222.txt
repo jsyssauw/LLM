@@ -1,0 +1,20 @@
+Ticket ID: ticket_2222
+Subject: Technical Support Issue
+Incident Type: Incident
+Customer Issue: Hello Technical Support,
+
+I am writing regarding ticket <ticket_num> for my Dell XPS 13 9310, which has encountered a frozen screen issue. Despite attempting basic troubleshooting, the problem persists. I would appreciate further guidance on resolving this. Please provide additional steps or information that might help resolve this issue.
+
+Thank you for your prompt assistance.
+
+Regards,
+<name>
+
+Contact: <tel_num>
+Order Number: <order_num>
+Customer Service answer: Hello <name>,
+
+Thank you for reaching out regarding ticket <ticket_num>. For your Dell XPS 13 9310's frozen screen issue, please try restarting in Safe Mode to see if the problem persists. If this doesn't help, consider performing a system restore to a previous working point. Ensure all drivers are up-to-date. If the issue continues, please let us know, and we will assist you further.
+
+Best regards,
+Technical Support

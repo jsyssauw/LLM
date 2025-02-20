@@ -1,0 +1,19 @@
+Ticket ID: ticket_2645
+Subject: nan
+Incident Type: Change
+Customer Issue: Hola Soporte de Tech Online Store,
+
+Estoy escribiendo para solicitar la adición de más opciones de integración de usuarios dentro de los canales de Slack, específicamente para la colaboración de nuestro equipo de ventas. Actualmente estamos utilizando Slack versión 4.23.0 y agradeceríamos mucho mejoras para mejorar la eficiencia del flujo de trabajo y la comunicación. Gracias por considerar nuestra solicitud.
+
+Atentamente,
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarte con el Soporte de Tech Online Store. Agradecemos tus comentarios sobre la necesidad de más opciones de integración de usuarios en los canales de Slack para la colaboración de tu equipo de ventas. Entendemos cómo mejorar estas opciones puede mejorar significativamente la eficiencia del flujo de trabajo y la comunicación.
+
+Vamos a enviar tu solicitud a nuestro equipo de desarrollo para que la considere en futuras actualizaciones. Tu opinión es valiosa ya que nos esforzamos por mejorar la experiencia de nuestros clientes.
+
+Si tienes más sugerencias o necesitas más ayuda, no dudes en contactarnos.
+
+Atentamente,
+Equipo de Soporte de Tech Online Store

@@ -1,0 +1,19 @@
+Ticket ID: ticket_3463
+Subject: Question Regarding Detachable Keyboard Choices
+Incident Type: Request
+Customer Issue: Dear Support Team at Tech Online Store,
+
+I am seeking options for compatible detachable keyboards for my Microsoft Surface Pro 7. Would you be able to provide information on available products, their prices, and any suggestions you might have? I appreciate your help in improving the capabilities of my device.
+
+Sincerely,
+
+<name>
+<acc_num>
+Customer Service answer: Subject: Re: Question Regarding Detachable Keyboard Choices
+
+Dear <name>,
+
+Thank you for reaching out with your question. For the Microsoft Surface Pro 7, I suggest the Microsoft Surface Pro Signature Type Cover, known for its premium quality and compatibility. You might also look into third-party alternatives like the Brydge 12.3 Pro+ Wireless Keyboard. The prices typically range from $100 to $150 for reliable products. Please be aware that availability and pricing may fluctuate, so we recommend checking our website or contacting us directly for the latest details. We are here to help with any further inquiries.
+
+Best regards,
+Tech Online Store Support Team

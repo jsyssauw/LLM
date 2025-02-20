@@ -1,0 +1,15 @@
+Ticket ID: ticket_3771
+Subject: Urgente: Problema de energía con Dell XPS
+Incident Type: Request
+Customer Issue: Hola Soporte al Cliente de Tech Online Store,
+
+Estoy experimentando problemas de energía con mi Dell XPS 13 9310. La laptop no se está cargando cuando está conectada. ¿Puede proporcionarme asistencia urgente para resolver este problema?
+
+Gracias,
+<name>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por ponerte en contacto. Por favor, verifica el adaptador de corriente y el cable en busca de daños y verifica las conexiones. Si el problema persiste, intenta usar un adaptador diferente. Si aún no se resuelve, contáctanos para organizar una reparación.
+
+Saludos cordiales,
+Soporte de Tech Online Store

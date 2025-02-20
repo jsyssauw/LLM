@@ -1,0 +1,5 @@
+Ticket ID: ticket_3273
+Subject: Problemas de conectividad intermitente en ISR4331
+Incident Type: Problem
+Customer Issue: Hay configuraciones de red en conflicto.
+Customer Service answer: Por favor, examine y unifique sus configuraciones de red para garantizar una conectividad fiable.

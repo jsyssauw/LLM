@@ -1,0 +1,32 @@
+Ticket ID: ticket_1628
+Subject: Problem mit der WLAN-Verbindung des Canon PIXMA MG3620
+Incident Type: Incident
+Customer Issue: Hallo Tech Online Store Support Team,
+
+Ich schreibe, um ein Problem mit der WLAN-Verbindung meines Canon PIXMA MG3620 Druckers zu melden. Es scheint eine Instabilität in der Verbindung zu geben, insbesondere während des Druckvorgangs, was zu Unterbrechungen und Verzögerungen führt. Dieses Problem ist konstant und macht es fast unmöglich, einen Druckauftrag effizient abzuschließen. Während andere Geräte im selben Netzwerk keine Störungen erfahren, scheint das Problem nur den Drucker zu betreffen. Ich habe bereits die Standard-Fehlerbehebungsmaßnahmen aus dem Benutzerhandbuch ausprobiert, aber ohne Erfolg. Ihre Unterstützung bei der Lösung dieses Problems wäre sehr geschätzt. Könnten Sie bitte die nächsten Schritte empfehlen?
+
+Vielen Dank,
+
+<name>
+Customer Service answer: Betreff: Re: Problem mit der WLAN-Verbindung des Canon PIXMA MG3620
+
+Hallo <name>,
+
+Vielen Dank, dass Sie sich an uns gewendet haben. Lassen Sie uns einige Schritte ausprobieren, um das Problem mit der WLAN-Konnektivität Ihres Canon PIXMA MG3620 Druckers zu lösen.
+
+1. **Geräte neu starten**: Schalten Sie Ihren Drucker, Router und das Gerät, von dem Sie drucken, aus, warten Sie eine Minute und starten Sie sie dann neu.
+
+2. **WLAN-Verbindung neu herstellen**: Drücken Sie an der Druckeranzeige die WLAN-Taste, bis sie zu blinken beginnt. Befolgen Sie die Schritte aus Ihrem Handbuch, um ihn mit Ihrem Netzwerk zu verbinden.
+
+3. **Netzwerkumgebung**: Stellen Sie sicher, dass sich der Drucker im Bereich des WLAN-Signals befindet und keine Hindernisse oder Störungen durch andere elektronische Geräte vorliegen.
+
+4. **Firmware aktualisieren**: Überprüfen Sie, ob die Firmware Ihres Druckers auf dem neuesten Stand ist. Sie können dies auf der Support-Website von Canon tun.
+
+5. **Treiber neu installieren**: Installieren Sie die Druckertreiber auf Ihrem Computer erneut, vorzugsweise die neueste Version von der Canon-Website.
+
+Wenn das Problem weiterhin besteht, kontaktieren Sie bitte unser Support-Team mit dem Druckermodell und den beobachteten Fehlern für eine weitere Fehlerbehebung. Sie können uns unter <tel_num> für direkte Unterstützung erreichen.
+
+Wir sind hier, um Ihnen zu helfen und Ihr Problem schnell zu lösen.
+
+Mit freundlichen Grüßen,
+Tech Online Store Support Team

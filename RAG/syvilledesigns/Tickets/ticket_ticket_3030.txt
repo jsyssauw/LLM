@@ -1,0 +1,39 @@
+Ticket ID: ticket_3030
+Subject: Outlook Login Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team, 
+
+I hope this message finds you well. I am writing to bring to your attention a pressing issue that I am currently experiencing with Microsoft Office 365, specifically with Outlook. As a regular user of your software, I rely heavily on Outlook for my daily communication and scheduling of meetings. Unfortunately, I have been unable to access my emails as Outlook freezes upon login, which has significantly disrupted my productivity.
+
+This issue began a few days ago, and I have tried basic troubleshooting steps such as restarting my computer and reinstalling the software, but to no avail. Given the crucial role that Outlook plays in my daily tasks, I need this issue resolved as promptly as possible to avoid any further disruptions to my work.
+
+Could you please look into this matter and provide guidance on how to resolve this issue? If needed, I can arrange for remote access to my computer at a convenient time for your support team. Additionally, I would appreciate any recommendations you may have for steps I can take on my own to address this problem in the meantime.
+
+I understand the complexity of tech-related issues and appreciate the hard work and expertise required to resolve them. I have provided my contact details below for any further communication:
+
+- Name: <name> 
+- Email: <name>@example.com
+- Telephone: <tel_num>
+- Account Number: <acc_num>
+
+Thank you very much for your attention to this matter. I look forward to hearing from you soon with a solution to this pressing problem. Your timely assistance is greatly appreciated.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about the issue with Outlook. I understand how critical this is for your work and I am here to help.
+
+First, please try starting Outlook in safe mode to determine if add-ins are causing the issue. To do this, hold the "Ctrl" key and click your Outlook shortcut to start in safe mode. If Outlook works in safe mode, disabling unnecessary add-ins might resolve the problem.
+
+Ensure your Office 365 and Windows are up-to-date with the latest updates and patches, as outdated software can sometimes cause issues.
+
+If these steps do not help, please provide a convenient time for remote access so we can investigate further.
+
+Feel free to reach out for any additional assistance. We appreciate your patience and understanding.
+
+Best regards,
+
+<your name>  
+Customer Support Team

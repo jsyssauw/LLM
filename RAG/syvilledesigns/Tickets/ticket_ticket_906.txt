@@ -1,0 +1,21 @@
+Ticket ID: ticket_906
+Subject: Urgent Assistance Required for AWS Service Issues
+Incident Type: Change
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. We are experiencing unexpected service outages with the AWS Management Service. It's imperative that these issues are resolved promptly to minimize any potential business disruptions. Additionally, we would appreciate any recommendations you might have for optimizing our ongoing infrastructure performance to prevent future occurrences. Our IT operations rely heavily on the effectiveness of these services. Please contact me at <tel_num> or email me at <name>@example.com for further discussion. Thank you for your immediate attention to this matter.
+
+Best regards,
+
+<name>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We understand the urgency of resolving the AWS Management Service issues you are facing. Our technical team is already investigating the outage and working swiftly towards a resolution. 
+
+For optimization and preventive measures, we recommend scheduling a consultation with our AWS specialists, who can provide tailored advice for your infrastructure needs. We will contact you shortly at the provided phone number and email to discuss further details and support options. 
+
+Thank you for your patience and understanding. 
+
+Best regards,
+Customer Support Team

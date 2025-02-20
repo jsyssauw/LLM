@@ -1,0 +1,34 @@
+Ticket ID: ticket_2181
+Subject: Urgent Assistance Required for Wireless Setup Issues
+Incident Type: Incident
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am reaching out to seek assistance regarding my recent purchase from your store. I have been attempting to complete the wireless setup for my Canon PIXMA MG3620 printer but am experiencing connection issues despite following the installation instructions provided in the user's manual.
+
+I have carefully followed all the outlined steps, ensuring that my wireless network is properly functioning and that the printer is within range. However, each attempt to connect results in failure, and I am unable to set up the printer wirelessly. This situation has become quite frustrating, as it prevents me from efficiently utilizing the features of the Canon PIXMA MG3620.
+
+I kindly request guidance or possible troubleshooting steps that might assist in resolving this issue. If there is a remote diagnostic tool available or if live support is an option, I would appreciate your help in guiding me through the necessary steps to restore proper functionality.
+
+Thank you for your time and attention to this matter. I look forward to your prompt assistance so that I can continue to enjoy the benefits of my new printer.
+
+Best regards,
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us and bringing your Canon PIXMA MG3620 printer connection issue to our attention. We apologize for any inconvenience this has caused and are committed to helping you resolve it promptly.
+
+To troubleshoot, please try the following steps:
+1. Restart both your printer and router to refresh their settings.
+2. Ensure that your printer and your wireless router are on the same wireless channel.
+3. Temporary disable firewalls or antivirus programs that might be blocking the connection.
+4. Use the WPS Push Button method, if available, for an easier connection setup.
+5. Confirm that the printer power is ON and it displays no error lights.
+
+If the issue persists, we can guide you through additional troubleshooting steps over the phone or via a live support session. Please contact us at our support line or reply to this email with your preferred time for a session.
+
+We appreciate your patience and understanding and are eager to get you up and running as soon as possible.
+
+Best regards,
+Tech Online Store Customer Support Team

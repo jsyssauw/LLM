@@ -1,0 +1,12 @@
+Ticket ID: ticket_1354
+Subject: Problem mit der drahtlosen Druckeinrichtung
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich habe ein Problem mit meinem HP DeskJet 3755. Die drahtlose Einrichtung funktioniert, aber der Farbdruck funktioniert nicht richtig. Bitte helfen Sie mir, dieses Problem zu lösen.
+
+Danke,
+<name>
+
+Kontaktnummer: <tel_num>
+Customer Service answer: Sehr geehrter <name>, bitte überprüfen Sie, ob die Farbpatronen korrekt installiert sind und genügend Tinte enthalten. Versuchen Sie, eine Druckkopfreinigung über die Software Ihres Druckers durchzuführen. Wenn das Problem weiterhin besteht, kontaktieren Sie den HP-Support für eine detaillierte Fehlersuche.

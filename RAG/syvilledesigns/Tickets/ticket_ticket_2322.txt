@@ -1,0 +1,33 @@
+Ticket ID: ticket_2322
+Subject: Probleme mit Jira Scrum-Zuweisungen
+Incident Type: Problem
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+Ich schreibe, um Sie über ein drängendes Problem zu informieren, das wir mit der Jira-Software (Version 8.20) haben, welches unsere HR-Management-Prozesse erheblich beeinträchtigt. Unser Team ist stark auf Scrum für das Projektmanagement angewiesen, und wir haben ein Problem mit der Funktion zur Ticketzuweisung festgestellt, die nicht ordnungsgemäß funktioniert. Dieser Defekt verursacht erhebliche Verzögerungen in unserem Workflow und hemmt die allgemeine Produktivität.
+
+Früher fanden Ticketzuweisungen in Scrum-Boards reibungslos statt, was eine gleichmäßige Aufgabenverteilung unter den Teammitgliedern gewährte. Seit dem letzten Update sind die Zuweisungen jedoch unberechenbar und inkonsistent geworden, was zu Verwirrung und Engpässen in unseren Prozessen führt. Dieser Fehler benötigt dringend Aufmerksamkeit, um den normalen Betrieb wiederherzustellen.
+
+Wir bitten freundlich darum, dass Ihr Support-Team dieses Problem untersucht und so schnell wie möglich eine Lösung bereitstellt. Die Fähigkeit des Teams, Aufgaben effizient zu verwalten, hat oberste Priorität, und dieser Softwarefehler ist ein direktes Hindernis für ihren täglichen Betrieb.
+
+Bitte zögern Sie nicht, mich unter <tel_num> zu kontaktieren, wenn Sie weitere Informationen benötigen oder dieses Thema näher besprechen möchten. Wir freuen uns auf eine schnelle Lösung dieses Problems.
+
+Vielen Dank für Ihre sofortige Aufmerksamkeit zu diesem Thema.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns bezüglich der Probleme mit der Jira-Software Version 8.20 kontaktiert haben. Wir entschuldigen uns für die Unannehmlichkeiten, die dies für Ihre HR-Management-Prozesse verursacht hat, und verstehen die Dringlichkeit, diese Situation zu beheben.
+
+Unser technisches Support-Team ist bereits über das Problem mit den Ticketzuweisungen im Scrum-Board nach dem letzten Update informiert. Wir untersuchen das Problem aktiv, um die Ursache zu identifizieren und so schnell wie möglich eine Lösung zu entwickeln.
+
+In der Zwischenzeit bitten wir Sie, sicherzustellen, dass Ihre Jira-Instanz gemäß den Update-Hinweisen korrekt konfiguriert ist, da manchmal bestimmte Einstellungen nach einem Update angepasst werden müssen.
+
+Wir werden Sie über den Fortschritt informieren und Sie benachrichtigen, sobald eine Lösung bereitsteht. Sollten Sie weitere Fragen haben oder zusätzliche Unterstützung benötigen, zögern Sie nicht, uns jederzeit zu kontaktieren.
+
+Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+
+Service Desk Team

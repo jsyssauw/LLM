@@ -1,0 +1,26 @@
+Ticket ID: ticket_3124
+Subject: nan
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to report an issue we've encountered with our Jira ticketing system, particularly regarding user permissions impacting workflow management within our HR department. Users are experiencing difficulties accessing certain features, which is causing delays in our operations.
+
+We are currently using Jira Software 8.20. We need urgent assistance to resolve this, as it is affecting productivity and operational efficiency. Could you please prioritize this issue and provide guidance or a solution at your earliest convenience?
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the Jira permissions issue impacting your HR department. We understand the urgency and apologize for the inconvenience caused. 
+
+Our team is prioritizing this matter. In the meantime, please ensure that your Jira user permissions are configured correctly according to your team’s roles and permissions documentation. 
+
+We are investigating the root cause and will provide a solution or guidance shortly to ensure smooth workflow management. 
+
+Thank you for your patience.
+
+Best regards,
+Service Desk Team

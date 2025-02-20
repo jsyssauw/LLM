@@ -1,0 +1,20 @@
+Ticket ID: ticket_1849
+Subject: Urgente: Error mayor en el sistema de tickets
+Incident Type: Incident
+Customer Issue: Estimado servicio de atención al cliente,
+
+Estamos experimentando interrupciones significativas en nuestro flujo de trabajo en la gestión de proyectos debido a un error mayor en el sistema de tickets de Jira Software 8.20. Este problema requiere su atención inmediata para la solución de problemas y la resolución. Por favor, proporcione una actualización a la mayor brevedad posible, ya que esto afecta gravemente nuestras operaciones diarias.
+
+Por favor, priorice esta solicitud.
+
+Gracias.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por notificarnos sobre el problema significativo en Jira Software 8.20. Entendemos la urgencia y estamos priorizando la resolución de este error mayor para minimizar las interrupciones en su flujo de trabajo. Nuestro equipo técnico está investigando y le actualizará con un informe de estado lo antes posible. Apreciamos su paciencia y estamos comprometidos a resolver esto rápidamente.
+
+Atentamente,
+Servicio de atención al cliente

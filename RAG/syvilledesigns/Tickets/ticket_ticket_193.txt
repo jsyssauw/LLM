@@ -1,0 +1,25 @@
+Ticket ID: ticket_193
+Subject: Einrichtungsassistance-Anfrage
+Incident Type: Request
+Customer Issue: Sehr geehrtes KundenSupport-Team,
+
+Ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um Unterstützung bei der Einrichtung unserer neuen Microsoft Surface Pro 7 Tablets in unserer Unternehmensumgebung zu bitten. Wir haben einige Geräte, die konfiguriert und bereitgestellt werden müssen, um die volle Funktionalität sicherzustellen.
+
+Bitte teilen Sie uns mit, wie wir mit der Einrichtung fortfahren können oder wie wir Unterstützung anfordern können. Sie können mich unter <tel_num> oder <email> erreichen.
+
+Vielen Dank für Ihre Hilfe.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Betreff: Re: Einrichtungsassistance-Anfrage
+
+Lieber <name>,
+
+Vielen Dank, dass Sie sich bezüglich der Einrichtung Ihrer Microsoft Surface Pro 7 Tablets an uns gewandt haben. Wir helfen Ihnen gerne bei der Konfiguration und Bereitstellung Ihrer Geräte.
+
+Zu Beginn empfehlen wir, sicherzustellen, dass Ihre Geräte die neuesten Firmware- und Software-Updates haben. Detaillierte Einrichtungsanleitungen finden Sie auf der Microsoft-Website im Supportbereich für Surface Pro 7.
+
+Wenn Sie persönliche Unterstützung benötigen oder während der Einrichtung auf Probleme stoßen, lassen Sie es uns bitte wissen, damit wir einen Support-Techniker arrangieren können, der Ihnen direkt hilft. Zögern Sie nicht, auf diese E-Mail zu antworten oder uns unter unserer Support-Hotline zu kontaktieren.
+
+Mit freundlichen Grüßen,
+KundenSupport-Team

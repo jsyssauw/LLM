@@ -1,0 +1,10 @@
+Ticket ID: ticket_3048
+Subject: Received Faulty iMac 2023
+Incident Type: Incident
+Customer Issue: Hello Customer Support, I have obtained a faulty iMac 2023. The problem continues even after attempting fundamental troubleshooting methods. My order number is <acc_num>. Could you please help in facilitating a replacement or a refund promptly? I am available at <tel_num> for any additional information. Thank you, <name>
+Customer Service answer: Hello <name>,
+
+We appreciate your message. We are sorry for the trouble you've experienced with your iMac 2023. We will initiate your request for a replacement or refund. A representative from customer support will reach out to you at <tel_num> shortly to discuss the next steps. 
+
+Best wishes,
+Customer Support Team

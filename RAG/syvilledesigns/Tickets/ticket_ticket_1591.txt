@@ -1,0 +1,7 @@
+Ticket ID: ticket_1591
+Subject: Request to Return Defective MacBook Air
+Incident Type: Request
+Customer Issue: Hello, I purchased a MacBook Air M1 from your store and found a defect in the machine's touchpad. Please assist me with the return process. My order number is <acc_num>. Thank you, <name>, <tel_num>.
+Customer Service answer: Hello <name>,
+We're sorry for the inconvenience. Please visit our returns page and enter your order number <acc_num> to initiate the return. For further assistance, call us at our customer service number.
+Thank you.

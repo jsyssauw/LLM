@@ -1,0 +1,24 @@
+Ticket ID: ticket_1633
+Subject: Unexpected AWS Outage During Scheduled Maintenance
+Incident Type: Change
+Customer Issue: Dear Customer Support Team,
+
+I am writing to report an issue that occurred during a scheduled maintenance, which unexpectedly resulted in an AWS service outage affecting our connectivity and access to databases. Our primary concern is the impact this has had on our AWS Management Service, as we have been experiencing difficulty in maintaining stable connections and accessing essential databases crucial to our operations. The interruption has rendered our services temporarily unavailable, which is affecting our workflow and client satisfaction adversely. We have observed intermittent connectivity issues since the start of the maintenance, which was meant to enhance our system's overall efficiency. However, this unexpected outage suggests an underlying issue that needs immediate attention and resolution. Please provide guidance on the next steps and any expected updates on the service restoration timeline. Your prompt assistance in addressing this matter would be greatly appreciated, as it is vital to restore normal operations swiftly. Thank you for your cooperation and support.
+
+Best regards,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this issue to our attention. We apologize for the inconvenience caused by the unexpected AWS service outage during the scheduled maintenance. Our team is currently aware of the situation and actively working to resolve it as quickly as possible.
+
+Please be assured that restoring stable connections and access to your databases is our highest priority. We are in constant communication with AWS to determine the underlying issue and expedite the restoration process. We will provide you with updates as soon as they become available.
+
+In the meantime, we recommend monitoring the AWS Service Health Dashboard for real-time updates on the status of services. We appreciate your patience and understanding as we work to restore normal operations.
+
+Thank you for your cooperation and support during this challenging time.
+
+Best regards,
+Service Support Team

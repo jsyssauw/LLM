@@ -1,0 +1,35 @@
+Ticket ID: ticket_73
+Subject: Exchange Request for Malfunctioning Dell XPS 13
+Incident Type: Change
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to request an exchange for my recently purchased Dell XPS 13 9310. Unfortunately, the device's display was malfunctioning right out of the box, which has been quite disappointing. My order number is <order_num>, and it was delivered on <delivery_date>.
+
+I believe I am eligible for an exchange as per your store’s policy. Please advise on how to proceed with this process. I am eager to receive a fully functioning replacement.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+<name>
+
+<email>
+
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this issue to our attention. We apologize for the inconvenience you've experienced with your Dell XPS 13 9310. Based on your order number <order_num>, we confirm that you are eligible for an exchange under our store's policy.
+
+To proceed, please follow these steps:
+1. Return the faulty device using the provided prepaid shipping label included in your package.
+2. Ensure all original packaging and components are included in the return.
+3. Once we receive and verify the item, we will process the exchange and send you a new Dell XPS 13 9310 unit.
+
+You can track your return through your online account on our website. We aim to make this process as smooth as possible and will notify you once the replacement is on its way.
+
+If you need further assistance, feel free to contact us directly.
+
+Thank you for your patience and understanding.
+
+Sincerely,
+Tech Online Store Customer Support

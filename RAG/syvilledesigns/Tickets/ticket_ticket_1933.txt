@@ -1,0 +1,23 @@
+Ticket ID: ticket_1933
+Subject: Anfrage nach zusätzlichen IT-Beratungstunden
+Incident Type: Request
+Customer Issue: Sehr geehrter IT Services Kundenservice,
+
+ich schreibe, um zusätzliche Beratungstunden anzufordern, um unser aktuelles Server-Setup zu optimieren und die Leistung unseres Ticketsystems zu verbessern. Unser derzeitiges Setup verursacht Verzögerungen bei der Ticketbearbeitung und beeinträchtigt die Produktivität. Ich glaube, dass wir mit fachkundiger Anleitung die Effizienz und Zuverlässigkeit unseres Systems erheblich steigern können.
+
+Könnten wir eine Beratungssitzung vereinbaren, um die nächsten Schritte zu besprechen? Bitte teilen Sie mir mit, wie viele zusätzliche Stunden Sie empfehlen würden.
+
+Danke für Ihre Unterstützung.
+
+Mit freundlichen Grüßen,
+
+<name>
+Kontonummer: <acc_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank für Ihre Anfrage. Wir verstehen die Bedeutung der Optimierung Ihres Server-Setups und der Verbesserung der Geschwindigkeit der Ticketbearbeitung. Um dies zu klären, lassen Sie uns eine Beratung vereinbaren, um Ihre Bedürfnisse besser einzuschätzen und die notwendigen Schritte zu bestimmen. Ich empfehle Ihnen, mit zusätzlichen 5 Beratungsstunden zu beginnen, um Ihr System gründlich zu analysieren und eine Verbesserungsstrategie zu entwickeln. Bitte lassen Sie uns wissen, wann Sie für die Beratungssitzung zur Verfügung stehen.
+
+Wir freuen uns darauf, Ihnen zu helfen.
+
+Mit freundlichen Grüßen,
+IT Services Kundenservice

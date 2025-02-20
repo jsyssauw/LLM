@@ -1,0 +1,5 @@
+Ticket ID: ticket_2727
+Subject: Problema de pantalla táctil después de la instalación de la actualización de Windows reciente
+Incident Type: Incident
+Customer Issue: Hola, Mi Microsoft Surface Pro 7 tiene una pantalla táctil que no responde tras una actualización reciente de Windows. He intentado reiniciar, pero el problema persiste. Por favor, aconsejen sobre posibles soluciones. Gracias, <name>, número de cuenta <acc_num>, teléfono <tel_num>
+Customer Service answer: Hola <name>, lamento escuchar sobre el problema de la pantalla táctil con tu Surface Pro 7. Por favor, intenta estos pasos: 1) Ve al Administrador de dispositivos, expande Dispositivos de interfaz humana y haz clic derecho en pantalla táctil compatible con HID. Selecciona 'Deshabilitar dispositivo' y luego 'Habilitar dispositivo'. 2) Verifica si hay actualizaciones adicionales de Windows o de controladores. Si el problema persiste, por favor contacta a nuestro equipo de soporte para más asistencia. Saludos, [Your Company] Service Desk.

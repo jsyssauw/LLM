@@ -1,0 +1,31 @@
+Ticket ID: ticket_346
+Subject: Assistência Necessária: Problema de Configuração de Wi-Fi para Impressora Canon PIXMA MG3620
+Incident Type: Request
+Customer Issue: Caro Time de Suporte ao Cliente,
+
+Espero que esta mensagem os encontre bem. Estou escrevendo para buscar assistência em relação a um problema de configuração sem fio que estou enfrentando com minha impressora, a Canon PIXMA MG3620. Atualmente, não consigo conectar a impressora à minha rede Wi-Fi, o que está afetando minha capacidade de concluir tarefas de impressão de forma eficiente.
+
+Tentei vários métodos de solução de problemas, incluindo redefinir a impressora e verificar minha conexão Wi-Fi para outros dispositivos, mas infelizmente, o problema persiste. Dada a importância de ter uma conexão sem fio funcional para minhas necessidades de impressão, eu gostaria muito de receber qualquer orientação ou instruções detalhadas que você possa fornecer para resolver esse problema de configuração.
+
+Você poderia me aconselhar sobre os próximos passos a serem tomados, ou se há alguma documentação disponível que possa me ajudar a resolver esse problema? Seu apoio seria imensamente útil para garantir que minha impressora funcione como deveria.
+
+Agradeço antecipadamente pela sua assistência. Aguardo sua resposta rápida.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre o problema de configuração de Wi-Fi com sua impressora Canon PIXMA MG3620. Por favor, tente os seguintes passos:
+
+1. Certifique-se de que sua impressora esteja próxima ao roteador Wi-Fi.
+2. Pressione o botão Wi-Fi na sua impressora até que a lâmpada ON pisque.
+3. Pressione o botão Color, depois o botão Wi-Fi.
+4. Verifique se a lâmpada Wi-Fi está acesa e online.
+5. Faça o download do aplicativo Canon PRINT no seu telefone ou PC e siga a configuração guiada.
+6. Certifique-se de que seu roteador use uma banda de 2.4 GHz. A impressora não conectará em 5 GHz.
+
+Mais assistência pode ser encontrada no manual da impressora ou no site de suporte da Canon. Se o problema persistir, entre em contato diretamente com a Canon para suporte.
+
+Atenciosamente,
+Equipe de Service Desk

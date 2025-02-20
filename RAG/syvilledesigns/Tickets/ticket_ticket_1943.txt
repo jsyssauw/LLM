@@ -1,0 +1,33 @@
+Ticket ID: ticket_1943
+Subject: Problemas com a Impressora Epson EcoTank ET-4760
+Incident Type: Problem
+Customer Issue: Caro time de suporte ao cliente,
+
+Espero que esta mensagem os encontre bem. Estou escrevendo para expressar minhas preocupações em relação à impressora Epson EcoTank ET-4760 que comprei em sua loja. Inicialmente, a impressora funcionou excelentemente, mas no último mês, encontrei problemas substanciais que afetam sua funcionalidade.
+
+Primeiramente, a impressora apresentou taxas anormais de consumo de tinta. Os níveis de tinta se esgotam muito mais rápido em comparação com minhas experiências anteriores e não aumentei meu volume típico de impressão. Em segundo lugar, a conectividade Wi-Fi tornou-se errática, tornando desafiador executar trabalhos de impressão de forma eficiente. Às vezes, ela falha em se conectar à rede, exigindo múltiplas reinicializações para restabelecer a conexão.
+
+Eu gentilmente solicito orientações sobre como solucionar esses problemas ou, se necessário, devolver o produto para reparo ou substituição.
+
+Obrigado pela atenção a este assunto. Por favor, me avise como devo proceder.
+
+Atenciosamente,
+
+<name>
+
+<tel_num>
+<acc_num>
+Customer Service answer: Caro(a) <name>,
+
+Obrigado por entrar em contato conosco a respeito dos problemas com sua impressora Epson EcoTank ET-4760. Pedimos desculpas por qualquer inconveniente que isso tenha causado.
+
+Para resolver o problema de consumo de tinta, por favor, certifique-se de que o firmware da sua impressora esteja atualizado e faça uma verificação do bico do cabeçote de impressão, pois entupimentos podem aumentar o uso de tinta. Para problemas de conectividade Wi-Fi, tente mover a impressora mais perto do seu roteador e redefinir as configurações de rede na impressora.
+
+Se esses passos de solução de problemas não resolverem os problemas, estamos aqui para ajudar. Você pode considerar trazer a impressora para que nossos técnicos possam diagnosticá-la ou podemos discutir opções em relação a reparo ou substituição.
+
+Por favor, entre em contato conosco assim que possível para organizar os próximos passos.
+
+Obrigado pela sua compreensão.
+
+Atenciosamente,
+Time de Suporte ao Cliente

@@ -1,0 +1,15 @@
+Ticket ID: ticket_2251
+Subject: Double Billing Issue
+Incident Type: Incident
+Customer Issue: Hello Customer Support,
+
+I noticed that I was billed twice for my Adobe Photoshop 2024 subscription renewal within the same billing cycle. Could you please assist in resolving this issue?
+
+Thank you,
+<name>
+Customer Service answer: Hello <name>,
+
+We apologize for the inconvenience. Our team is looking into the double billing issue for your Adobe Photoshop 2024 subscription. We will resolve it and update you shortly.
+
+Best regards,
+Customer Support

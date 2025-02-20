@@ -1,0 +1,20 @@
+Ticket ID: ticket_3302
+Subject: Solicitud de revisión: Cargo mensual incorrecto
+Incident Type: Request
+Customer Issue: Estimado equipo de atención al cliente,
+
+Espero que este mensaje los encuentre bien. Estoy escribiendo para expresar mi preocupación respecto a un problema de facturación con mi reciente plan Google Workspace Business Standard. Mi número de cuenta, <acc_num>, fue cobrado incorrectamente en el último ciclo de facturación, lo que llevó a un cargo inesperado.
+
+A pesar de tener un acuerdo de facturación mensual estándar, el monto de la factura del último período indica una discrepancia considerable. Por favor, revisen los detalles de facturación asociados con mi cuenta y asesoren sobre los ajustes necesarios. Adjunto la captura de pantalla de la factura para su revisión. Creo que este problema requiere atención urgente para evitar discrepancias futuras.
+
+Por favor, respondan a la brevedad posible para que podamos resolver este asunto rápidamente. Gracias por su asistencia.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con respecto al problema de facturación con tu plan Google Workspace Business Standard. Pedimos disculpas por los inconvenientes causados. Hemos recibido la captura de pantalla de la factura y revisaremos de inmediato los detalles de facturación asociados con tu cuenta <acc_num>. Nuestro equipo está comprometido a resolver cualquier discrepancia lo más rápido posible para asegurarse de que no se repita en futuros ciclos. Recibirás una actualización de nuestra parte en breve con los ajustes necesarios. Si tienes más preguntas, no dudes en contactarnos.
+
+Saludos cordiales,
+Equipo de atención al cliente

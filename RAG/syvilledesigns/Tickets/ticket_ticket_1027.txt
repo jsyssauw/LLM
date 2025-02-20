@@ -1,0 +1,5 @@
+Ticket ID: ticket_1027
+Subject: Besoin d'aide
+Incident Type: Problem
+Customer Issue: J'éprouve des difficultés à connecter mon Epson EcoTank ET-4760 au Wi-Fi. J'apprécierais votre aide pour activer la fonction d'impression sans fil. Merci.
+Customer Service answer: Bonjour ! Pour connecter votre Epson EcoTank ET-4760 au Wi-Fi, assurez-vous que votre imprimante et votre routeur sont allumés. Accédez au panneau de contrôle de l'imprimante, sélectionnez Configuration Wi-Fi, puis choisissez votre réseau et saisissez le mot de passe. Si vous continuez à rencontrer des problèmes, veuillez consulter le manuel de l'utilisateur ou contacter le support Epson pour obtenir de plus amples conseils.

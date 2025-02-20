@@ -1,0 +1,17 @@
+Ticket ID: ticket_774
+Subject: Exchange Request for Printer Issue
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I am writing to request an exchange for my Canon PIXMA MG3620. The printer fails to connect wirelessly, despite multiple configuration attempts as per the manual’s instructions. Could you guide me through the exchange process or suggest any immediate solutions?
+
+Thank you for your assistance.
+
+Regards,
+<name>
+Customer Service answer: Dear <name>,
+
+To initiate an exchange for your Canon PIXMA MG3620, please visit our returns page on our website and follow the instructions listed under exchanges. For immediate troubleshooting, try resetting your printer network settings and restart your router. Contact us if you need further assistance.
+
+Best regards,
+Customer Support

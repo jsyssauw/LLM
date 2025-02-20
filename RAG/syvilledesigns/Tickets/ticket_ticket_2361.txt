@@ -1,0 +1,33 @@
+Ticket ID: ticket_2361
+Subject: Problème de scintillement d'écran sur MacBook Air M1
+Incident Type: Problem
+Customer Issue: Cher support client de Tech Online Store,
+
+Je vous écris pour signaler un problème que je rencontre avec mon MacBook Air M1. Lors d'une utilisation prolongée, en particulier dans des conditions de faible luminosité, l'écran scintille sporadiquement. Cela devient une véritable préoccupation car cela affecte la continuité de mon travail et est distrayant.
+
+Je demande aimablement des conseils sur la façon de procéder à une éventuelle réparation ou remplacement. Mon numéro de compte est <acc_num>. Pourriez-vous également confirmer s'il s'agit d'un problème connu et s'il existe des étapes de dépannage que je peux tenter avant d'envoyer l'appareil ?
+
+Merci pour votre assistance. J'attends votre réponse rapide.
+
+Cordialement,
+
+<name>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant le problème de scintillement d'écran sur votre MacBook Air M1. Nous comprenons comment cela peut perturber votre travail et sommes ici pour vous aider.
+
+Tout d'abord, nous vous recommandons d'essayer les étapes de dépannage suivantes :
+1. Assurez-vous que votre macOS est à jour avec la dernière version.
+2. Réinitialisez le contrôleur de gestion du système (SMC).
+3. Ajustez les paramètres de l'écran, tels que désactiver True Tone ou réduire la luminosité.
+
+Si le problème persiste, il peut nécessiter une réparation ou un remplacement. Veuillez sauvegarder vos données et n'hésitez pas à apporter votre MacBook dans notre magasin ou à l'envoyer pour évaluation.
+
+Bien qu'il y ait eu quelques rapports concernant ce problème, tous les appareils ne sont pas affectés, donc une évaluation individuelle est essentielle. Nous ferons de notre mieux pour le résoudre rapidement.
+
+Pour toute assistance supplémentaire ou pour organiser un service, veuillez appeler ou répondre à cet e-mail. N'oubliez pas de mentionner votre numéro de compte <acc_num> pour un traitement rapide.
+
+Merci de votre patience.
+
+Cordialement,
+Support client de Tech Online Store

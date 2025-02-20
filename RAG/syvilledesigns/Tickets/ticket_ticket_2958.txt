@@ -1,0 +1,28 @@
+Ticket ID: ticket_2958
+Subject: Dringend: Probleme mit dem Ticketsystem
+Incident Type: Incident
+Customer Issue: Sehr geehrter IT-Dienste-Kundensupport,
+
+ich schreibe, um Ihre sofortige Aufmerksamkeit auf ein bedeutendes Problem zu lenken, das wir mit dem Ticketsystem im Zusammenhang mit unserem IT-Beratungsdienst haben. Unser Unternehmen, das unter der Kontonummer <acc_num> verwaltet wird, hat mit anhaltenden Fehlern zu kämpfen, die unsere täglichen Abläufe beeinträchtigen. Diese Fehlfunktionen hindern uns daran, schnell auf Kundenanfragen und -lösungen zu reagieren, was unsere Lieferfristen für Dienstleistungen erheblich beeinträchtigt.
+
+Das Problem scheint vor etwa einer Woche aufgetreten zu sein, und trotz zahlreicher Versuche, intern eine Lösung zu finden, war unser Team nicht erfolgreich, diese Fehler selbst zu beheben. Zu den spezifischen Symptomen gehören häufige Abstürze, Ticket-Duplikationen und falsche Datenanpassungen, die alle zu einer zunehmenden Unzufriedenheit der Kunden geführt haben. Daher benötigen wir dringend technische Unterstützung, um diese Probleme umgehend zu beheben.
+
+Ich bitte Ihr Team, unsere Anfrage prioritär zu behandeln, da jeder Tag, der vergeht, unsere betrieblichen Bedenken erheblich verstärkt. Bitte lassen Sie mich wissen, ob Sie sofortige Details oder spezifische Protokolle benötigen, die wir schnell bereitstellen können, um bei der Diagnose dieses Problems zu helfen. Ich bin während der Arbeitswoche unter <tel_num> erreichbar.
+
+Vielen Dank für Ihr Engagement und Ihre schnelle Antwort.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns auf die Probleme mit Ihrem Ticketsystem aufmerksam gemacht haben. Wir verstehen die Dringlichkeit und die Auswirkungen auf Ihre Abläufe. Unser technisches Support-Team wird Ihre Anfrage priorisieren und daran arbeiten, die Probleme mit Abstürzen, Ticket-Duplikationen und Datenfehlanpassungen so schnell wie möglich zu beheben.
+
+Bitte senden Sie uns etwaige spezifische Protokolle oder weitere Details, um bei der effektiven Diagnose des Problems zu helfen. Wir werden Sie über unsere Fortschritte auf dem Laufenden halten und versuchen, die Fehler schnell zu beheben, um Störungen Ihrer Dienstleistungen zu minimieren.
+
+Sie können in Kürze mit einer Rückmeldung von uns rechnen. Sollten Sie sofortige Unterstützung benötigen oder weitere Fragen haben, zögern Sie nicht, sich zu melden.
+
+Vielen Dank für Ihre Geduld und Kooperation.
+
+Mit besten Grüßen,
+IT-Dienste-Kundensupport-Team

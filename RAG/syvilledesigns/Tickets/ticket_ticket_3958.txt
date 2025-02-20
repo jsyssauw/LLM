@@ -1,0 +1,18 @@
+Ticket ID: ticket_3958
+Subject: Question Regarding Updating Design Software
+Incident Type: Change
+Customer Issue: Dear Customer Support Team,
+
+I am reaching out to ask about the options for upgrading our current design software to include Adobe Photoshop 2024, which offers enhanced capabilities for photo editing and graphic design that are vital for our projects. The latest features, including AI improvements and advanced editing functionalities, will significantly boost our output and productivity. Transitioning to the newest version will allow us to stay competitive in the rapidly evolving digital landscape. Please let me know what the steps are and any associated expenses.
+
+Thank you for considering this matter.
+
+Best regards,
+
+<name>
+Customer Service answer: Hi <name>,
+
+Thank you for reaching out regarding the upgrade to Adobe Photoshop 2024. We understand the importance of employing the latest tools to maintain effectiveness and excellence within the market. To get started with the upgrade procedure, please contact our software procurement department at <email_address> or phone <tel_num>. They will provide you with detailed information about the process and any relevant costs. If you have further questions, feel free to ask.
+
+Best, 
+Customer Support Team

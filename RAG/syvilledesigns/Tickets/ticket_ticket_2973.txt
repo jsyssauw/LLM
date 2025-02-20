@@ -1,0 +1,39 @@
+Ticket ID: ticket_2973
+Subject: Solicitud de Asistencia: Problemas Continuos con Surface Pro 7
+Incident Type: Problem
+Customer Issue: Estimado soporte al cliente de Tech Online Store,
+
+Espero que este mensaje te encuentre bien. Me estoy comunicando con ustedes respecto a un problema que estoy experimentando con mi Microsoft Surface Pro 7 adquirido en su tienda. Desde que adquirí este dispositivo, he encontrado frecuentes instancias de un error de pantalla azul durante el proceso de arranque y durante el uso regular. Este problema interrumpe significativamente mi flujo de trabajo, ya que el dispositivo a menudo se bloquea inesperadamente, lo que dificulta la realización de tareas diarias.
+
+Al principio, estos errores de pantalla azul eran esporádicos, pero con el tiempo, se han vuelto cada vez más frecuentes. Me he asegurado de que mi dispositivo esté actualizado con los últimos parches de software y que todos los controladores estén al día. Sin embargo, el problema persiste y parece escalar tanto en frecuencia como en severidad.
+
+Dada la naturaleza de mi trabajo, dependo en gran medida de mi Surface Pro 7 para realizar tareas esenciales de manera eficiente. La incapacidad de operar sin problemas está causando retrasos y la posible pérdida de trabajo importante no guardado. He intentado varios pasos de solución de problemas, incluyendo un reinicio suave, borrar la caché y desinstalar aplicaciones recientemente instaladas, sin éxito.
+
+Agradecería que su equipo de soporte pudiera brindarme orientación sobre cómo abordar este problema de manera efectiva. Además, si es necesario inspeccionar o reemplazar el dispositivo, por favor, infórmenme sobre los pasos necesarios que debo seguir.
+
+Gracias por su pronta atención a este asunto. Espero poder resolver este problema rápidamente para poder volver a mis actividades laborales regulares sin inconvenientes.
+
+Saludos cordiales,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con nosotros respecto a los problemas con tu Microsoft Surface Pro 7. Lamentamos sinceramente los inconvenientes que esto te ha causado.
+
+Para abordar los errores de pantalla azul, intenta los siguientes pasos si no lo has hecho ya:
+1. Ejecuta el Solucionador de Problemas de Windows: Ve a Configuración > Actualización y Seguridad > Solucionar problemas.
+2. Realiza un Comprobador de Archivos del Sistema: Abre el Símbolo del Sistema como administrador y escribe `sfc /scannow`.
+3. Actualiza BIOS/UEFI: Verifica si hay actualizaciones disponibles para el firmware del dispositivo.
+
+Si el problema persiste después de estos pasos, tu dispositivo puede requerir una inspección más profunda. Por favor, inicia un reclamo de garantía visitando nuestro Centro de Servicio o contáctanos para organizar el envío del dispositivo para su evaluación.
+
+Para asistencia directa o para programar una reparación, por favor contacta a nuestro soporte técnico al <support_tel_num> o responde a este correo electrónico con un horario preferido para que podamos llamarte.
+
+Tus preocupaciones son importantes para nosotros, y nuestro objetivo es resolver esto lo más rápido posible para que puedas continuar con tu trabajo sin interrupciones.
+
+Saludos cordiales,
+
+<Your Name>
+Soporte al Cliente de Tech Online Store

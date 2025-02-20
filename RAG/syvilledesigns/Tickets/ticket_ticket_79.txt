@@ -1,0 +1,30 @@
+Ticket ID: ticket_79
+Subject: Urgent IT Consulting Service Request
+Incident Type: Request
+Customer Issue: Dear IT Services Support,
+
+I am writing to express a high priority request for IT service consulting regarding our ticket system and server administration assistance. Our IT Consulting Service has encountered multiple issues that need immediate attention. 
+
+Firstly, our ticketing system is currently experiencing delays and interruptions, which are impacting productivity significantly. Additionally, there are several server management concerns that our team is unable to resolve without expert guidance.
+
+Please treat this request with the urgency it requires. We look forward to a prompt response and hope for immediate assistance to address these critical issues.
+
+Thank you for your quick attention.
+
+Best regards,
+
+<name>
+<company>
+Contact: <tel_num>
+Account: <acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your urgent IT service needs. We understand the significant impact the issues with your ticketing system and server management are having on productivity. Rest assured, we are prioritizing your request and will provide specialized assistance to address these concerns promptly.
+
+Our team is reviewing your situation and will be in contact with you shortly to initiate the resolution process. If you have any further information or updates, please feel free to share them with us to ensure a swift resolution.
+
+Thank you for your patience and cooperation.
+
+Best regards,
+
+IT Services Support Team

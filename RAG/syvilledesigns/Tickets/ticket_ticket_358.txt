@@ -1,0 +1,27 @@
+Ticket ID: ticket_358
+Subject: Laptop Shutdown Issues With Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am experiencing an issue where my Dell XPS 13 9310 unexpectedly shuts down every hour, disrupting my work. I have already installed the latest BIOS update, but it hasn't resolved the issue. Could you please advise on any further troubleshooting steps or possible solutions to rectify this problem?
+
+Thank you for your assistance.
+
+Best regards,
+
+<name> 
+<tel_num> 
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We recommend performing the following steps to address your Dell XPS 13 9310 shutdown issue:
+
+1. Check and update all drivers, especially the power management and chipset drivers.
+2. Ensure your power settings are correctly configured.
+3. Run a hardware diagnostics test using Dell SupportAssist to identify any hardware faults.
+4. If the issue persists, consider a system restore to a point before the problem began.
+
+If none of these steps resolve the issue, please contact us again for further assistance.
+
+Best regards,
+Customer Support Team

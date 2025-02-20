@@ -1,0 +1,44 @@
+Ticket ID: ticket_136
+Subject: Problemas de Performance de Rede com o Roteador Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte ao Cliente,
+
+Espero que esta mensagem os encontre bem. Estou escrevendo para informar sobre um problema crítico que estamos enfrentando com o Roteador Cisco ISR4331 em nosso ambiente de pequeno escritório. Nas últimas semanas, temos enfrentado problemas significativos de performance na rede e um padrão preocupante de quedas de conectividade de WiFi. Os roteadores parecem não conseguir manter uma conexão estável, levando a interrupções esporádicas na rede.
+
+Nosso escritório depende fortemente de uma conectividade de internet consistente para realizar operações diárias, interagir com clientes e apoiar capacidades de trabalho remoto. A instabilidade de nossa configuração de rede atual, devido à degradação de desempenho deste roteador, resulta em interrupções frequentes no serviço, o que impede a produtividade e afeta os processos de negócios como um todo.
+
+Tentamos ações corretivas como reiniciar o dispositivo, atualizar o firmware e ajustar configurações, tudo isso sem resolver o problema. Nossa equipe interna de TI realizou diagnósticos completos, descartando interferências externas ou falhas em outros componentes da rede. Tudo aponta para um problema com os próprios roteadores.
+
+Dada a importância da confiabilidade da rede para nossas operações, apreciaríamos se vocês pudessem acelerar a revisão deste assunto. Ter o nosso Roteador Cisco ISR4331 em condição funcional ideal é fundamental para a eficiência do nosso escritório. Gostaríamos de orientação sobre passos avançados de solução de problemas que possamos ter negligenciado ou se o reparo ou substituição é recomendável.
+
+Pedimos gentilmente que nos forneçam quaisquer soluções possíveis ou que organizem uma consulta de suporte técnico assim que possível. Agradecemos pela pronta atenção a esta questão e espero sua resposta rápida.
+
+Obrigado e melhores cumprimentos,
+
+<name>
+Gerente de Operações Técnicas
+<name> Solutions Inc.
+<tel_num>
+<email_address>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre os problemas de performance de rede com seu Roteador Cisco ISR4331. Entendemos a importância de manter uma conexão estável para suas operações e pedimos sinceras desculpas pelo inconveniente causado.
+
+Para acelerar o processo de resolução, recomendo os seguintes passos avançados de solução de problemas:
+
+1. Verifique novamente a fonte de alimentação para garantir que está estável e não está causando desconexões intermitentes.
+2. Reavalie o ambiente do roteador para garantir ventilação adequada, pois o superaquecimento pode afetar o desempenho.
+3. Verifique se há alguma atividade ou tráfego incomum que poderia estar impactando o desempenho do roteador.
+
+Se esses passos não resolverem o problema, isso pode indicar um problema de hardware mais profundo. Vou providenciar uma consulta de suporte técnico com um de nossos especialistas para melhor diagnosticar o problema. Entrarei em contato em breve para confirmar um horário conveniente para esta consulta.
+
+Enquanto isso, você poderia confirmar sua versão atual do firmware e quaisquer mensagens de erro específicas que você possa ter encontrado? Esta informação seria útil para nossa equipe se preparar para a consulta.
+
+Por favor, esteja certo de que estamos priorizando este assunto para restaurar a estabilidade da sua rede o mais rápido possível.
+
+Obrigado pela sua paciência e compreensão.
+
+Atenciosamente,
+
+<name>
+Equipe de Suporte ao Cliente

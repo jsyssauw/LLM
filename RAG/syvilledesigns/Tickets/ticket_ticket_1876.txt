@@ -1,0 +1,5 @@
+Ticket ID: ticket_1876
+Subject: Touchscreen Issue After Recent Windows Update Install
+Incident Type: Incident
+Customer Issue: Hello, My Microsoft Surface Pro 7 has an unresponsive touchscreen following a recent Windows update. I've tried restarting, but the issue persists. Please advise on potential solutions. Thanks, <name>, account number <acc_num>, phone <tel_num>
+Customer Service answer: Hello <name>, I'm sorry to hear about the touchscreen issue with your Surface Pro 7. Please try these steps: 1) Go to Device Manager, expand Human Interface Devices, and right-click on HID-compliant touch screen. Select "Disable device" then "Enable device". 2) Check for any additional Windows updates or driver updates. If the problem persists, please contact our support team for further assistance. Regards, [Your Company] Service Desk.

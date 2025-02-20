@@ -1,0 +1,5 @@
+Ticket ID: ticket_3807
+Subject: Urgente: Problema con el teclado en el Lenovo IdeaPad 5 adquirido recientemente que requiere atención inmediata
+Incident Type: Problem
+Customer Issue: Hola <name>, hace poco adquirí un Lenovo IdeaPad 5 en su establecimiento y el teclado presenta fallas. Le agradecería su ayuda. Atentamente, <name>.
+Customer Service answer: Hola <name>, sentimos mucho lo ocurrido. Le solicitamos que traiga su computadora portátil a nuestra tienda o se comunique con el servicio de soporte al [número de soporte] para recibir asistencia. Cordialmente, Servicio al Cliente.

@@ -1,0 +1,17 @@
+Ticket ID: ticket_2901
+Subject: AWS Infrastructure Optimization Request
+Incident Type: Change
+Customer Issue: Hello,
+
+I am writing to request a review and modification of our AWS account infrastructure. Our goal is to reduce costs while enhancing performance through optimized resource management. Please guide us on necessary adjustments. Our account number is <acc_num>. Feel free to contact me at <tel_num>. Thank you for your prompt attention.
+
+Best regards,
+
+<name>
+Customer Service answer: Hello <name>,
+
+Thank you for reaching out regarding AWS infrastructure optimization. I recommend scheduling a consultation with our cloud specialist to review your current setup and discuss strategies for cost reduction and performance enhancement. I will arrange for an expert to contact you soon at <tel_num>.
+
+Best regards,
+
+Service Desk Team

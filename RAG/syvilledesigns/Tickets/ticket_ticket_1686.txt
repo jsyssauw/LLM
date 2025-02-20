@@ -1,0 +1,17 @@
+Ticket ID: ticket_1686
+Subject: Demande d'échange de l'imprimante
+Incident Type: Request
+Customer Issue: Cher Support du Magasin en Ligne Tech,
+
+Je rencontre des bourrages papier fréquents avec mon imprimante Canon PIXMA MG3620, ce qui rend son utilisation presque impossible. Pouvons-nous organiser un échange pour cette unité ? Voici mes détails d'achat : Numéro de commande <acc_num>, à l'attention de <name>. Merci de me conseiller sur les prochaines étapes. Je vous remercie pour votre assistance.
+
+Cordialement,
+
+<name>
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés au sujet de votre imprimante Canon PIXMA MG3620. Nous nous excusons pour les désagréments causés par les bourrages papier fréquents. Pour vous aider avec un échange, veuillez vous assurer que l'imprimante est toujours sous garantie et que vous avez l'emballage d'origine disponible. Faites parvenir une copie de votre reçu d'achat à notre service des retours, en mentionnant le numéro de commande <acc_num>. Notre équipe s'occupera du processus d'échange et vous contactera via <tel_num> pour d'autres instructions.
+
+Cordialement,
+Support du Magasin en Ligne Tech

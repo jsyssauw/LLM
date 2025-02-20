@@ -1,0 +1,24 @@
+Ticket ID: ticket_975
+Subject: Urgente: Se requiere resolución inmediata por tiempo de inactividad de AWS
+Incident Type: Incident
+Customer Issue: Estimado servicio de atención al cliente,
+
+Escribo para llamar su atención inmediata sobre un problema crítico que estamos experimentando con nuestra infraestructura de AWS, gestionada a través de su servicio de gestión de AWS. Debido a una interrupción severa, nuestro sitio web está actualmente fuera de servicio, causando inconvenientes significativos y posibles pérdidas comerciales. Este problema ha llevado a nuestro equipo de TI a explorar soluciones potenciales y posibles escenarios de recuperación, pero la experiencia requerida para gestionar y resolver efectivamente este asunto recae en sus servicios de soporte.
+
+En las últimas horas, ha quedado claro que la causa subyacente es compleja, posiblemente relacionada con actualizaciones recientes o malconfiguraciones. Necesitamos intervención urgente para diagnosticar y rectificar este problema, asegurando que todos los sistemas sean restaurados a su funcionalidad completa. La infraestructura de AWS es integral para nuestras operaciones, y un tiempo de inactividad prolongado no es sostenible.
+
+Para aclarar, nuestro número de cuenta es <acc_num> y nuestra preocupación más urgente es minimizar el tiempo de inactividad. Les rogamos que prioricen esta consulta, desplieguen los recursos necesarios y proporcionen una solución a la mayor brevedad posible. No duden en contactarme directamente al <tel_num> si se necesita información adicional.
+
+Esperamos su pronta respuesta.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Entendemos la urgencia y el impacto de la interrupción de AWS. Nuestro equipo técnico está movilizando rápidamente recursos para diagnosticar y abordar el problema como prioridad. Estamos comprometidos a minimizar el tiempo de inactividad y restaurar la funcionalidad completa de su sitio web lo antes posible.
+
+Agradecemos su paciencia y cooperación. Lo mantendremos informado sobre el progreso. Si se requieren más detalles, nuestro equipo se pondrá en contacto con usted utilizando la información de contacto proporcionada.
+
+Atentamente,
+Equipo de Atención al Cliente

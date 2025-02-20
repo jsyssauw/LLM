@@ -1,0 +1,22 @@
+Ticket ID: ticket_2518
+Subject: nan
+Incident Type: Problem
+Customer Issue: Caro(a) integrante da equipe de Suporte ao Cliente,
+
+Estou enfrentando dificuldades para ativar meu produto Kaspersky Internet Security 2024. Apesar de seguir as instruções fornecidas, continuo encontrando problemas. Meu número de conta é <acc_num>. Poderiam me auxiliar com o procedimento de ativação o mais breve possível? Estou disponível pelo telefone <tel_num> ou por e-mail <email>.
+
+Agradeço pela rápida ajuda.
+
+Atenciosamente,
+<name>
+Customer Service answer: Caro(a) <name>,
+
+Agradecemos seu contato. Lamentamos saber sobre as dificuldades que você tem enfrentado ao tentar ativar seu Kaspersky Internet Security 2024. Por favor, verifique se:
+1. A data e hora no seu dispositivo estão corretas.
+2. Você possui uma conexão de internet confiável.
+3. O código de ativação foi digitado corretamente.
+
+Caso estas etapas não resolvam a sua situação, iremos analisar sua conta <acc_num> e fornecer a assistência necessária. Logo, entraremos em contato pelo <tel_num> ou através de <email>.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

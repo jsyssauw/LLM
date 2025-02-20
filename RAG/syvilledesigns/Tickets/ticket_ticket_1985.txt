@@ -1,0 +1,35 @@
+Ticket ID: ticket_1985
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Espero que este mensaje le encuentre bien. Escribo para solicitar asistencia con la instalación y activación de Adobe Photoshop 2024 en mi nuevo dispositivo. Recientemente compré este software en su Tienda Online de Tecnología, pero estoy encontrando dificultades para ponerlo en funcionamiento.
+
+El proceso de instalación llega a un cierto punto y se congela, mostrando un mensaje de error que no puedo descifrar. Además, he intentado activarlo utilizando mi cuenta existente asociada con mi correo electrónico <name>@domain.com, pero parece que la clave de activación no es reconocida.
+
+¿Podría proporcionar instrucciones detalladas sobre cómo resolver estos problemas? Si es necesario, estoy disponible para una sesión de asistencia remota en un momento conveniente. Mi número de referencia de pedido es <acc_num>.
+
+Gracias por su pronta atención a este asunto. Espero su orientación para poder utilizar Adobe Photoshop 2024 de manera eficiente. Si necesita contactarme, mi número de teléfono es <tel_num>.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto con nosotros. Lamento los inconvenientes que está experimentando con la instalación y activación de Adobe Photoshop 2024.
+
+Para abordar el problema de congelación durante la instalación, por favor intente los siguientes pasos:
+1. Asegúrese de que su dispositivo cumpla con los requisitos mínimos del sistema para Adobe Photoshop 2024.
+2. Desactive temporalmente cualquier software antivirus o firewall que pueda estar interfiriendo con la instalación.
+3. Limpie los archivos temporales de su sistema y vuelva a intentar el proceso de instalación.
+
+Para los problemas de activación:
+1. Verifique que esté ingresando la clave de activación exactamente como se proporcionó.
+2. Asegúrese de que su conexión a internet sea estable durante el proceso de activación.
+
+Si las instrucciones no resuelven el problema, estaremos encantados de programar una sesión de asistencia remota. Por favor, háganos saber su disponibilidad y organizaremos un momento adecuado para ayudarle.
+
+Agradecemos su paciencia y esperamos ayudarle a utilizar Adobe Photoshop 2024 sin más inconvenientes. Si tiene alguna otra pregunta o dificultad, no dude en comunicarse con nosotros a su conveniencia.
+
+Atentamente,
+Equipo de Atención al Cliente

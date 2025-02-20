@@ -1,0 +1,16 @@
+Ticket ID: ticket_2543
+Subject: Urgent: AWS Service Downtime
+Incident Type: Change
+Customer Issue: Dear IT Services Support,
+
+I am writing to report an unexpected downtime in your AWS Management Service. We rely on this service heavily, and the disruption is impacting our operations significantly. We urgently require troubleshooting to identify the issue and restore normal operations. Could you prioritize this matter and update us on the progress at the earliest possible convenience? Please contact me at <tel_num> for further information. Looking forward to your prompt response.
+
+Thank you,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the AWS Management Service downtime. We have escalated this issue and are prioritizing troubleshooting efforts to resolve the disruption as quickly as possible. Our team is committed to restoring normal operations and will provide you with progress updates shortly. If necessary, we will contact you directly at <tel_num>. We appreciate your patience and understanding.
+
+Best regards,
+IT Services Support

@@ -1,0 +1,26 @@
+Ticket ID: ticket_261
+Subject: Urgente: Problema de Acesso ao Jira
+Incident Type: Problem
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou entrando em contato sobre um problema que estou enfrentando com o Jira Software 8.20. Minha conta de usuário, <acc_num>, atualmente não consegue acessar o painel de gerenciamento de projetos, o que atrapalhou minha capacidade de gerenciar projetos em andamento de forma eficaz. Suspeito que isso possa estar relacionado a privilégios de conta, pois não houve restrições intencionais da minha parte.
+
+Esse problema é crítico, pois afeta os prazos dos projetos e a coordenação com minha equipe. Agradeceria uma resolução urgente para recuperar o acesso. Além disso, por favor, me avise se houver alguma atualização que precise ser feita nas configurações atuais de privacidade ou permissões.
+
+Obrigado pela sua atenção rápida a este assunto.
+
+Atenciosamente,
+<name>
+<tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Entendo a urgência em relação ao seu problema de acesso ao Jira. Vamos investigar os privilégios da sua conta de usuário <acc_num> imediatamente para identificar quaisquer discrepâncias. Por favor, nos dê um tempo para resolver isso.
+
+Enquanto isso, por favor, certifique-se de que suas configurações de privacidade e permissões estejam atualizadas conforme necessário, embora nenhuma alteração específica seja solicitada até que nossa investigação seja concluída.
+
+Manteremos você informado sobre nosso progresso e notificaremos você assim que o acesso for restaurado. Se precisar de assistência imediata, sinta-se à vontade para nos contatar em <tel_num>.
+
+Obrigado pela sua paciência e compreensão.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

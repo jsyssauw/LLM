@@ -1,0 +1,22 @@
+Ticket ID: ticket_75
+Subject: Intermittent Connectivity Issues
+Incident Type: Incident
+Customer Issue: Dear IT Services Support Team,
+
+I'm writing to report intermittent connectivity issues we're experiencing with AWS services that are impacting our overall cloud infrastructure performance and reliability. This concerns the AWS Management Service. We have observed these issues for the past week, and they are affecting our operational efficiency. We kindly request your assistance in diagnosing and resolving the problem at your earliest convenience. Your prompt response will be highly appreciated. Thank you.
+
+Best regards,
+<name>
+
+Contact: <tel_num>
+Account: <acc_num>
+Customer Service answer: Subject: Re: Intermittent Connectivity Issues
+
+Dear <name>,
+
+Thank you for reaching out about the connectivity issues you are experiencing with AWS services. We understand the importance of maintaining reliable cloud infrastructure for your operations. Our team will begin investigating the problem immediately. Please ensure that your AWS logs and error reports are accessible, as this will assist us in diagnosing the issue more efficiently. We aim to resolve this matter promptly and will keep you updated on our progress.
+
+If you have any further details or notice changes in the situation, do not hesitate to contact us at <tel_num>.
+
+Best regards,
+IT Services Support Team

@@ -1,0 +1,5 @@
+Ticket ID: ticket_2364
+Subject: Request for Assistance with Wireless Printing
+Incident Type: Request
+Customer Issue: Hello, I am seeking assistance on setting up wireless printing for my HP DeskJet 3755 from my mobile device. I have tried following the provided manual but encountered difficulties connecting to Wi-Fi. Would you be able to guide me through this process step-by-step? My order number is <ord_num>. Thank you for your support. Sincerely, <name>.
+Customer Service answer: Hello, thank you for reaching out. To set up wireless printing for your HP DeskJet 3755 from your mobile device, please ensure your printer is on and within range of the Wi-Fi network. Next, download and install the HP Smart app from your app store. Open the app, and select the option to set up a new printer. Follow the on-screen instructions to connect your printer to the Wi-Fi network. If you encounter any issues, please check the printer's network settings or contact our support team for further assistance. Best regards, The Support Team.

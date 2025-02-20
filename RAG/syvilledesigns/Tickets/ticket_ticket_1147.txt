@@ -1,0 +1,34 @@
+Ticket ID: ticket_1147
+Subject: Upgrade Request for Office 365 Business
+Incident Type: Request
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. My name is <name>, and I am writing to request an upgrade to Microsoft Office 365 Business Premium. Currently, I am subscribed to Microsoft Office 365, and I would like to understand the billing options and potential cost changes that will occur following the upgrade.
+
+Could you please provide detailed information regarding the different billing plans available for Office 365 Business Premium? Additionally, are there any special promotions or discounts available at the moment? Understanding the breakdown of charges will help me make an informed decision.
+
+Furthermore, if there are any changes to the features or services included in the Business Premium plan compared to my current subscription, I would appreciate your insights on this matter as well.
+
+I look forward to your prompt response. Please feel free to contact me at <tel_num> should you need any further details or clarification from my side.
+
+Thank you for your assistance.
+
+Kind regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your upgrade request to Microsoft Office 365 Business Premium.
+
+Currently, there are several billing options for Office 365 Business Premium, including monthly and annual payment plans. Specific billing details and cost changes depend on your region and current subscription terms. Please consult our billing department for exact figures.
+
+We do run special promotions periodically. I recommend checking our website regularly or subscribing to our newsletter for updates on any available discounts.
+
+Regarding features, Office 365 Business Premium includes additional services such as advanced security features and business management tools compared to the standard Office 365 plan.
+
+If you have more questions or need further guidance, feel free to contact us, or you can reach me directly at this address.
+
+Thank you for choosing us!
+
+Best regards,
+Customer Support Team

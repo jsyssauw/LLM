@@ -1,0 +1,35 @@
+Ticket ID: ticket_3803
+Subject: Problemas con el MacBook Air M1 comprado
+Incident Type: Incident
+Customer Issue: Estimado Servicio al Cliente,
+
+Estoy escribiendo para expresar mis preocupaciones con respecto al MacBook Air M1 que compré recientemente en su tienda en línea. Desde que recibí el dispositivo, he estado experimentando problemas significativos de arranque, lo cual es especialmente preocupante dada la reputación y la demanda de este modelo en particular.
+
+La computadora portátil a menudo tarda inusualmente mucho en encenderse, a veces varios minutos, y ocasionalmente no arranca en absoluto, mostrando en su lugar una pantalla en blanco. Este problema interrumpe mi rutina laboral, considerando que dependo de este MacBook para mis necesidades profesionales diarias.
+
+He intentado pasos básicos de solución de problemas, como restablecer el NVRAM y el SMC, sin embargo, el problema persiste. Mi dispositivo es una herramienta vital en mis operaciones diarias, y la incapacidad para encenderlo de manera confiable está causando serias inconvenientes.
+
+¿Podría usted guiarme sobre cómo proceder con un reemplazo o cualquier paso de solución de problemas avanzado que podría resolver este problema? Agradecería una respuesta rápida para ayudar a una resolución ágil.
+
+Gracias por su asistencia.
+
+Atentamente,
+
+<name>
+<email>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto y compartir tus preocupaciones sobre los problemas con tu MacBook Air M1. Lamento saber sobre los problemas de arranque que estás experimentando; entiendo cómo esto puede afectar tu rutina laboral.
+
+Para comenzar a resolver este problema, te recomiendo iniciar un diagnóstico profundo en uno de nuestros centros de servicio autorizados. Tienen las herramientas para inspeccionar físicamente y evaluar cualquier problema de hardware que contribuya al problema. Puedes programar una cita o enviar tu dispositivo para un examen exhaustivo.
+
+Si tu dispositivo aún está en garantía, podrías tener derecho a un reemplazo o reparación gratuita dependiendo de la evaluación del centro de servicio. Te sugiero mantener una copia de tu confirmación de compra o recibo a la mano.
+
+Mientras tanto, asegúrate de tener una copia de seguridad de tus datos, utilizando Time Machine o un disco externo, para prevenir cualquier pérdida de datos durante los procedimientos técnicos.
+
+Estamos aquí para ayudar con cualquier otra asistencia que puedas necesitar. Por favor, háznos saber si deseas alguna guía específica sobre cómo contactar al centro de servicio más cercano, o si hay alguna actualización sobre el problema. Nuestro objetivo es proporcionar una resolución rápida para restaurar tus operaciones completamente.
+
+Atentamente,
+
+Equipo de Soporte al Cliente

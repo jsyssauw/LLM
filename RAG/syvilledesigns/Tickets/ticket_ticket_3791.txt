@@ -1,0 +1,22 @@
+Ticket ID: ticket_3791
+Subject: Asistencia para consulta de facturación
+Incident Type: Incident
+Customer Issue: Hola equipo de soporte de la tienda en línea Tech,
+
+Espero que este mensaje los encuentre bien. Recientemente noté un cargo inesperado relacionado con una suscripción de Microsoft Office 365 en mi cuenta <acc_num>. No recuerdo haber autorizado esta transacción y solicito amablemente más aclaraciones sobre esta discrepancia de facturación. ¿Podrían proporcionarme detalles adicionales y explorar opciones de resolución posibles?
+
+Gracias por su pronta atención a este asunto. Espero su rápida respuesta.
+
+Atentamente,
+
+<name>
+<email>
+<tel_num>
+Customer Service answer: Hola <name>,
+
+Gracias por ponerte en contacto con nosotros respecto al cargo inesperado en tu cuenta <acc_num>. Entendemos tu preocupación y estamos aquí para ayudar. Revisaremos la transacción asociada con la suscripción de Microsoft Office 365 y te proporcionaremos información detallada. Nuestro equipo explorará posibles soluciones y se pondrá en contacto contigo en breve.
+
+Por favor, háganos saber si hay algo más que necesite mientras tanto.
+
+Atentamente,
+Equipo de soporte de la tienda en línea Tech

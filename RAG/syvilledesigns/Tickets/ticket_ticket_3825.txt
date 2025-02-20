@@ -1,0 +1,33 @@
+Ticket ID: ticket_3825
+Subject: Urgente: Caída crítica del servicio de AWS
+Incident Type: Change
+Customer Issue: Estimado equipo de soporte de servicios de TI,
+
+Les escribo para informarles sobre un ticket de alta prioridad presentado con respecto a una caída crítica del servicio dentro de nuestro Servicio de Gestión de AWS. Nuestras operaciones de infraestructura en la nube están actualmente severamente afectadas, y esta caída representa una amenaza significativa para nuestra continuidad empresarial y eficiencia operativa.
+
+Nos encontramos con este problema alrededor de las 3 PM de hoy, y desde entonces, hemos enfrentado interrupciones sustanciales en el manejo de nuestra infraestructura en la nube. Debido a esta caída, las operaciones cruciales que dependen de los servicios de AWS no están funcionando actualmente, afectando numerosos flujos de trabajo del equipo y aplicaciones orientadas al cliente.
+
+Instamos su asistencia inmediata para diagnosticar este problema y proporcionar una pronta resolución para evitar cualquier impacto adicional en nuestras operaciones. La intervención puntual es esencial para mitigar riesgos y reanudar las operaciones normales rápidamente.
+
+Por favor, encuentre todos los detalles relevantes adjuntos al número de ticket <ticket_num>. Su pronta respuesta a nuestra situación sería muy apreciada.
+
+Gracias por su atención urgente a este asunto.
+
+Atentamente,
+
+<name>
+<company_name>
+<tel_num>
+<email_address>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos respecto a la caída crítica de su Servicio de Gestión de AWS. Entendemos la urgencia de la situación y el posible impacto en sus operaciones comerciales.
+
+Nuestro equipo está revisando actualmente los detalles proporcionados en el número de ticket <ticket_num> y priorizando este problema para asegurar una pronta resolución. Estamos comprometidos a diagnosticar la causa de esta caída y los mantendremos informados sobre nuestro progreso.
+
+Por favor, tenga la seguridad de que estamos dedicados a restaurar sus servicios lo más rápido posible para minimizar la interrupción. Para cualquier seguimiento inmediato o información adicional, no dude en contactarnos directamente.
+
+Agradecemos su paciencia y cooperación.
+
+Atentamente,
+Equipo de soporte de servicios de TI

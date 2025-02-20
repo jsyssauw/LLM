@@ -1,0 +1,16 @@
+Ticket ID: ticket_556
+Subject: Request for Exchange: Faulty MacBook Air M1 After Use
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I recently purchased a MacBook Air M1 and found the keyboard faulty within two weeks. Can I request an exchange? My order number is <order_num>.
+
+Thank you,
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We're sorry to hear about the issue with your MacBook Air M1. You are eligible to request an exchange due to the faulty keyboard. Please visit the nearest store or contact our support team with your order number <order_num> for further assistance. Let us know if you need any additional support.
+
+Regards,
+Customer Support Team

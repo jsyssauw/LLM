@@ -1,0 +1,30 @@
+Ticket ID: ticket_605
+Subject: Anfrage zu Beratungsangeboten und Preisen
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich hoffe, diese E-Mail trifft Sie wohl. Ich wende mich an Sie, um Informationen über die verschiedenen Beratungsangebote und Preisoptionen, die Ihr Unternehmen anbietet, zu erfragen. Wir ziehen in Betracht, unsere IT-Infrastruktur zu verbessern und benötigen professionelle Hilfe, um unsere Server effizient zu betreiben. Könnten Sie bitte detaillierte Informationen darüber bereitstellen, was Ihre IT-Beratungsdienste umfassen, einschließlich aller verfügbaren Pläne, die auf die Serverwartung und Verbesserungen der IT-Infrastruktur ausgerichtet sind? Darüber hinaus sind wir daran interessiert, die damit verbundenen Kosten oder verfügbaren Rabatte zu verstehen.
+
+Vielen Dank für Ihre Aufmerksamkeit in dieser Angelegenheit. Ich freue mich auf Ihre schnelle Antwort, da sie uns erheblich bei der Entscheidungsfindung helfen wird. Bitte zögern Sie nicht, mich zu kontaktieren, falls Sie weitere Informationen benötigen.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich unserer Beratungsangebote an uns gewandt haben. Wir bieten eine Palette von IT-Beratungsdiensten an, die darauf ausgelegt sind, Ihre IT-Infrastruktur effizient zu verbessern und zu warten, einschließlich Serverwartung und Verbesserungen der IT-Infrastruktur.
+
+Unsere Pakete sind auf verschiedene Bedürfnisse und Budgets zugeschnitten, und wir bieten umfassende Pläne wie:
+- Basispaket Wartung: Umfasst routinemäßige Serverüberprüfungen und Updates.
+- Standardunterstützungspaket: Beinhaltet Wartung sowie Leistungsoptimierung und Sicherheitsbewertungen.
+- Premium individuell angepasstes Paket: Ein maßgeschneiderter Plan, der eng auf spezifische infrastrukturelle Anforderungen und laufende Unterstützungsbedürfnisse abgestimmt ist.
+
+Die Preise variieren je nach Servicelevel und den spezifischen Anforderungen Ihrer IT-Infrastruktur. Wir bieten auch Rabatte für langfristige Engagements und Mehrdienstpakete an.
+
+Bitte lassen Sie uns wissen, wenn Sie ein personalisiertes Angebot oder weitere Unterstützung bei der Auswahl des richtigen Pakets für Ihre Bedürfnisse benötigen.
+
+Wir freuen uns darauf, Ihnen bei der besten Wahl für Ihre IT-Verbesserungen zu helfen.
+
+Mit freundlichen Grüßen,
+
+Ihr Kundenserviceteam

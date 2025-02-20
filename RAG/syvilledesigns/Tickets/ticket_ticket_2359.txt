@@ -1,0 +1,28 @@
+Ticket ID: ticket_2359
+Subject: nan
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice,
+
+Ich hoffe, diese Nachricht erreicht Sie wohl. Mein Name ist <name> und ich schreibe, um eine detaillierte Rechnung für unser kürzliches Abonnement von Microsoft Office 365 anzufordern. Wir benötigen diese Rechnung, um unsere Zahlungsplanung zu überprüfen und möglicherweise zu aktualisieren, sodass alles mit unserem aktuellen Budget und zukünftigen Prognosen übereinstimmt.
+
+Könnten Sie uns bitte das erforderliche Dokument so schnell wie möglich zur Verfügung stellen? Wir glauben, dass eine detaillierte Aufschlüsselung uns dabei helfen wird, unsere Ausgaben effektiver zu verwalten. Wenn spezifische Angaben erforderlich sind, um die Rechnung abzurufen, lassen Sie es mich bitte wissen.
+
+Vielen Dank für Ihre Unterstützung und Hilfe.
+
+Ich freue mich auf Ihre zeitnahe Antwort.
+
+Mit freundlichen Grüßen,
+<name>
+
+<tel_num>
+<acc_num>
+Customer Service answer: Sehr geehrte(r) <name>,
+
+Vielen Dank, dass Sie sich an uns gewandt haben. Wir freuen uns, Ihnen bei Ihrer Anfrage behilflich sein zu können. Um Ihnen die detaillierte Rechnung für Ihr Microsoft Office 365-Abonnement zur Verfügung zu stellen, bestätigen Sie bitte die folgenden Angaben: Ihre Kontonummer und den spezifischen Abrechnungszeitraum, der Sie interessiert.
+
+Sobald Sie uns diese Informationen zukommen lassen, werden wir Ihre Anfrage umgehend bearbeiten und Ihnen die notwendigen Dokumente zusenden.
+
+Wenn Sie weitere Unterstützung benötigen, zögern Sie bitte nicht, uns zu kontaktieren. Wir schätzen Ihre Geduld und Zusammenarbeit.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

@@ -1,0 +1,10 @@
+Ticket ID: ticket_1024
+Subject: Se necesita orientación sobre optimización del sistema
+Incident Type: Request
+Customer Issue: Estimado Servicio de Atención al Cliente, estoy buscando orientación sobre cómo optimizar el rendimiento de mi sistema e implementar las mejores prácticas de gestión eficiente de servidores. Dado que el producto afectado es el Servicio de Consultoría de TI, su experiencia en esta área nos ayudará enormemente. Gracias, <name>. Contacto: <tel_num>.
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto respecto a la optimización del sistema y la gestión de servidores. Aquí hay algunas buenas prácticas: actualiza regularmente tu software, monitorea el rendimiento del sistema utilizando herramientas de análisis, gestiona los recursos de manera eficiente equilibrando las cargas y asegura protocolos de seguridad robustos. Además, la formación regular para tu equipo sobre nuevas tecnologías puede mejorar la eficiencia. Si necesitas más ayuda, no dudes en ponerte en contacto.
+
+Atentamente,
+Agente del Servicio de Atención

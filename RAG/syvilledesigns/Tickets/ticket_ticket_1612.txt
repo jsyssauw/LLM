@@ -1,0 +1,18 @@
+Ticket ID: ticket_1612
+Subject: Frequent Paper Jam Issue in Canon Printer
+Incident Type: Incident
+Customer Issue: Dear Customer Support, I hope this message finds you well. I am writing to report a recurring issue with my Canon PIXMA MG3620 printer, which I purchased from your Tech Online Store. I have been experiencing frequent paper jams during printing sessions. Each time I attempt to print, the paper seems to obstruct the printing path, causing considerable inconvenience and disrupting my daily tasks. I have attempted basic troubleshooting by ensuring the printer is on a flat, stable surface, checking for any obstructions in the paper path, and confirming the use of recommended paper types. However, the issue persists. Could you please advise on what steps I can take to resolve this persistent problem or if it might require professional servicing? Your assistance in addressing this matter promptly would be greatly appreciated. Thank you for your attention and support. I look forward to your swift response. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out about the issue with your Canon PIXMA MG3620 printer. I'm sorry to hear about the frequent paper jams you're experiencing. Here are some additional troubleshooting steps you can try:
+
+1. Remove and reinsert the paper stack, ensuring it is properly aligned and within the paper limit.
+2. Clean the paper feed rollers lightly with a lint-free cloth.
+3. Ensure there's no paper debris or dust in the rear tray and cassette.
+
+If these steps do not resolve the problem, you may need professional servicing. Please reply with your purchase details and contact information so I can assist you further or arrange for a technician if necessary.
+
+We're committed to resolving this promptly for you.
+
+Best regards,
+Customer Support Agent

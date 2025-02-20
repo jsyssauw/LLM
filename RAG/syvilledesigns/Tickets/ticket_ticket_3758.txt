@@ -1,0 +1,42 @@
+Ticket ID: ticket_3758
+Subject: Assistance urgente requise : Problème d'écran tactile non réactif
+Incident Type: Incident
+Customer Issue: Cher équipe de support client du magasin en ligne Tech,
+
+J'espère que ce message vous trouve bien. Je vous écris pour exprimer ma préoccupation urgente concernant un problème récent que j'ai rencontré avec mon Microsoft Surface Pro 7. Suite à une récente mise à jour logicielle, j'ai constaté que l'écran tactile est devenu complètement non réactif. Comme vous pouvez l'imaginer, cela a considérablement impacté ma capacité à utiliser l'appareil efficacement.
+
+Depuis la mise à jour, l'écran tactile ne détecte aucune touche, rendant presque impossible l'exécution même des tâches les plus basiques nécessitant une entrée tactile. J'ai tenté plusieurs étapes de dépannage, y compris le redémarrage de l'appareil et l'installation de toutes les mises à jour en attente, mais le problème persiste.
+
+Étant donné la nature essentielle de mon appareil pour des tâches professionnelles et personnelles, j'apprécierais qu'une résolution rapide puisse être trouvée. Je ne sais pas si le problème provient de la dernière mise à jour logicielle ou s'il s'agit d'un défaut matériel sous-jacent qui a été incidemment exposé par la mise à jour. Par conséquent, je demande respectueusement un diagnostic logiciel approfondi suivi d'un examen matériel si nécessaire.
+
+Si des informations supplémentaires sont requises, je suis plus que disposé à les fournir pour aider à une résolution rapide. De plus, il serait utile de recevoir des instructions sur la manière de procéder en cas d'évaluation en personne ou de réparation matérielle.
+
+Pourriez-vous s'il vous plaît fournir des conseils sur les prochaines étapes ? Toute assistance que TOS peut offrir pour résoudre ce problème serait grandement appréciée. Je vous serais reconnaissant de bien vouloir prioriser cette demande étant donné l'urgence de ma situation.
+
+Je vous remercie beaucoup d'avoir traité ma demande si rapidement. J'attends avec impatience de vos nouvelles bientôt avec des solutions possibles.
+
+Cordialement,
+
+<name>
+Email : <email_address>
+Téléphone : <tel_num>
+Numéro de commande : <order_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés concernant le problème de l'écran tactile non réactif de votre Microsoft Surface Pro 7. Nous sommes désolés pour les désagréments que vous avez rencontrés, surtout compte tenu de l'importance de votre appareil tant pour le travail que pour un usage personnel.
+
+Pour résoudre le problème, veuillez suivre ces étapes :  
+1. Effectuez un arrêt à deux boutons en appuyant et maintenant le bouton d'alimentation et le bouton de volume + pendant environ 15 secondes, puis relâchez. Attendez quelques secondes avant de redémarrer l'appareil.  
+2. Exécutez l'outil de diagnostic Surface disponible sur le site Web de Microsoft, qui peut détecter automatiquement et souvent résoudre les problèmes courants.  
+3. Assurez-vous via Windows Update que vous avez les derniers pilotes d'appareil installés.
+
+Si ces étapes ne résolvent pas le problème, votre appareil peut nécessiter une inspection plus approfondie pour d'éventuels défauts matériels. Veuillez nous faire savoir si vous avez besoin d'instructions sur la manière de procéder à une évaluation en personne ou à un service de réparation.
+
+En raison de l'urgence, nous allons prioriser votre cas. N'hésitez pas à fournir toute information supplémentaire qui pourrait nous aider à accélérer le processus.
+
+Nous apprécions votre patience et avons hâte de résoudre rapidement ce problème.
+
+Cordialement,
+
+<name of service desk agent>  
+Équipe de support du magasin en ligne Tech

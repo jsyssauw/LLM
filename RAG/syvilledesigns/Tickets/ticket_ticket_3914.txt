@@ -1,0 +1,16 @@
+Ticket ID: ticket_3914
+Subject: Questão de Atraso na Entrega do Pedido <acc_num>
+Incident Type: Change
+Customer Issue: Prezado <name>,
+
+Estou escrevendo para informar sobre um atraso na entrega do meu pedido do Lenovo IdeaPad 5 <acc_num>. Eu tinha a expectativa de recebê-lo até <date>, mas até agora não o recebi. Por favor, peço sua ajuda para solucionar este problema.
+
+Agradeço desde já,
+<name>
+<tel_num>
+Customer Service answer: Prezado <name>,
+
+Lamentamos pelo atraso na entrega do seu pedido do Lenovo IdeaPad 5 <acc_num>. Estamos averiguando esta situação e iremos mantê-lo informado sobre o andamento da entrega o mais breve possível. Agradecemos pela sua compreensão.
+
+Atenciosamente,
+Equipe de Atendimento ao Cliente

@@ -1,0 +1,24 @@
+Ticket ID: ticket_1858
+Subject: Solicitação de Alterações nas Permissões de Acesso
+Incident Type: Change
+Customer Issue: Caro Suporte ao Cliente,
+
+Espero que esta mensagem o encontre bem. Estou escrevendo para solicitar uma alteração nas permissões de acesso ao Google Drive para as ferramentas de colaboração de dados comerciais da nossa equipe sob o pacote Google Workspace Business Standard. Atualmente, há problemas com o compartilhamento de arquivos e restrições que impedem nossa produtividade. Você poderia, por favor, revisar nossa conta <acc_num> para garantir que todas as permissões necessárias estejam configuradas adequadamente? Sua assistência rápida seria muito apreciada. O Dr. <name> pode ser contatado pelo <tel_num> para mais esclarecimentos.
+
+Obrigado pela sua assistência.
+
+Atenciosamente,
+
+Dr. <name>
+Customer Service answer: Assunto: Re: Solicitação de Alterações nas Permissões de Acesso
+
+Caro Dr. <name>,
+
+Obrigado por entrar em contato conosco sobre os problemas com suas permissões de acesso ao Google Drive sob o pacote Google Workspace Business Standard. Entendemos quão importante é uma colaboração contínua para sua equipe. Vamos revisar sua conta <acc_num> para garantir que todas as permissões estejam configuradas corretamente e abordar quaisquer restrições atuais.
+
+Nossa equipe técnica começará a avaliação e ajustes em breve e manteremos você atualizado sobre o progresso. Se informações adicionais forem necessárias, podemos entrar em contato com o Dr. <name> pelo <tel_num> para esclarecimentos.
+
+Obrigado por trazer este assunto à nossa atenção.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

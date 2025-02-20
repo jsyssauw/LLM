@@ -1,0 +1,10 @@
+Ticket ID: ticket_1195
+Subject: Suporte Urgente Necessário
+Incident Type: Problem
+Customer Issue: Caro Suporte ao Cliente, O touchscreen do meu Microsoft Surface Pro 7 não está respondendo e o dispositivo está travando com frequência. Preciso de suporte técnico imediato para resolver esses problemas. Meu nome é <name>, o número de contato é <tel_num>. Obrigado. Atenciosamente, <name>.
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Entendemos a urgência do seu problema. Por favor, reinicie seu Surface Pro 7 e atualize seus drivers. Se o problema persistir, entre em contato com nosso suporte técnico pelo <tel_num>. Um especialista irá ajudá-lo rapidamente.
+
+Atenciosamente,
+Suporte ao Cliente

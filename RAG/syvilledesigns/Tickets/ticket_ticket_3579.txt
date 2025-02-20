@@ -1,0 +1,12 @@
+Ticket ID: ticket_3579
+Subject: Consulta sobre Upgrade do Dell XPS 13 9310
+Incident Type: Request
+Customer Issue: Olá,
+
+Espero que esta mensagem o encontre bem. Estou considerando fazer um upgrade na RAM do meu Dell XPS 13 9310 e apreciaria sua orientação. Você poderia, por favor, fornecer informações sobre a compatibilidade e modelos disponíveis? Sua experiência e conselhos sobre este assunto seriam imensamente úteis.
+
+Obrigado.
+
+Atenciosamente,
+<name>
+Customer Service answer: Olá <name>, para o Dell XPS 13 9310, a RAM é soldada na placa-mãe e não pode ser atualizada. Verifique o site da Dell ou entre em contato com o suporte deles para obter as informações mais recentes e alternativas. Se tiver mais perguntas, fique à vontade para perguntar. Atenciosamente, Agente do Service Desk.

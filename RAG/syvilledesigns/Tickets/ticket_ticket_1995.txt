@@ -1,0 +1,15 @@
+Ticket ID: ticket_1995
+Subject: nan
+Incident Type: Incident
+Customer Issue: Estimado equipo de atención al cliente, 
+
+Estoy teniendo dificultades con la instalación de Norton Antivirus Plus. Por favor, ayúdenme a solucionar este problema. Mi número de cuenta es <acc_num>.
+
+Gracias, 
+<name>
+Customer Service answer: Estimado <name>, 
+
+Lamentamos saber que tiene inconvenientes con la instalación de Norton Antivirus Plus. Por favor, comparta los detalles del error que está experimentando para que podamos asistirte de manera más efectiva. 
+
+Atentamente, 
+Equipo de atención al cliente

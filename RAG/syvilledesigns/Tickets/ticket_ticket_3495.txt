@@ -1,0 +1,15 @@
+Ticket ID: ticket_3495
+Subject: Leistungsprobleme mit Dell XPS 13
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenservice,
+
+Ich erlebe häufige Systemabstürze mit meinem Dell XPS 13 9310 während intensiver Aufgaben, was zu Leistungsproblemen führt. Könnten Sie bitte Hilfe anbieten oder eine Lösung für dieses Problem vorschlagen? Vielen Dank.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+Danke, dass Sie uns kontaktiert haben. Um die Leistungsprobleme mit Ihrem Dell XPS 13 9310 zu beheben, stellen Sie bitte sicher, dass Ihr System mit der neuesten Software und den neuesten Treibern von Dells Support-Website aktualisiert ist. Überprüfen Sie außerdem Ihr System auf Überhitzung und ziehen Sie in Betracht, Hintergrundanwendungen während intensiver Aufgaben zu begrenzen. Wenn das Problem weiterhin besteht, kann eine Hardwarediagnose mit Dells Support-Tools notwendig sein. Lassen Sie uns wissen, ob Sie weitere Unterstützung benötigen.
+
+Mit freundlichen Grüßen,
+Kundenservice

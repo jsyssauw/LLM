@@ -1,0 +1,5 @@
+Ticket ID: ticket_2929
+Subject: nan
+Incident Type: Request
+Customer Issue: Client can't log in to Jira Software 8.20.
+Customer Service answer: We're looking into your login issue. Please try resetting your password while we investigate.

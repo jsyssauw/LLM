@@ -1,0 +1,18 @@
+Ticket ID: ticket_3623
+Subject: nan
+Incident Type: Problem
+Customer Issue: Queridos Servicios de Soporte Técnico,
+
+El usuario <name> enfrenta dificultades para acceder a documentos compartidos en Microsoft Office 365. Esta situación requiere una solución inmediata. Por favor, colabore para solucionarlo a la brevedad.
+
+Agradecido,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Estimado [Nombre],
+
+Agradecemos su comunicación con el Departamento de TI. Estamos revisando el asunto relacionado con el acceso a documentos compartidos en Microsoft Office 365 y haremos nuestro mejor esfuerzo para solucionarlo en breve. Apreciamos su comprensión.
+
+Saludos cordiales,
+[Su Nombre]

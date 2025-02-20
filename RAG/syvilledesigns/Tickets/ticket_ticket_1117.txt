@@ -1,0 +1,16 @@
+Ticket ID: ticket_1117
+Subject: Urgente: Tempo de Inatividade do Serviço AWS
+Incident Type: Change
+Customer Issue: Prezado Suporte de Serviços de TI,
+
+Estou escrevendo para relatar um tempo de inatividade inesperado em seu Serviço de Gerenciamento AWS. Dependemos muito deste serviço e a interrupção está impactando significativamente nossas operações. Precisamos urgentemente de uma solução para identificar o problema e restaurar as operações normais. Poderia priorizar esta questão e nos atualizar sobre o progresso assim que possível? Por favor, entre em contato comigo pelo <tel_num> para mais informações. Aguardando sua resposta rápida.
+
+Obrigado,
+
+<name>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato sobre a interrupção do Serviço de Gerenciamento AWS. Nós escalamos essa questão e estamos priorizando os esforços de solução de problemas para resolver a interrupção o mais rápido possível. Nossa equipe está comprometida em restaurar as operações normais e irá fornecer atualizações sobre o progresso em breve. Se necessário, entraremos em contato diretamente com você pelo <tel_num>. Agradecemos sua paciência e compreensão.
+
+Atenciosamente,
+Suporte de Serviços de TI

@@ -1,0 +1,16 @@
+Ticket ID: ticket_3965
+Subject: Consulta sobre la configuración de impresión inalámbrica para Epson EcoTank ET-4760
+Incident Type: Request
+Customer Issue: Estimado Soporte al Cliente,
+
+Estoy buscando su asistencia para configurar la funcionalidad de impresión inalámbrica en mi impresora Epson EcoTank ET-4760. Recientemente adquirí este producto y me gustaría asegurarme de que esté configurado correctamente para trabajar con múltiples dispositivos a través de Wi-Fi. ¿Podrías proporcionarme instrucciones detalladas paso a paso, o dirigirme a un recurso que pueda ayudar? Además, se agradecerían cualquier consejo sobre cómo solucionar problemas de conectividad comunes. Gracias por su apoyo.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Para configurar la impresión inalámbrica para su Epson EcoTank ET-4760, siga estos pasos: Conecte su impresora a Wi-Fi a través de la pantalla de la impresora seleccionando Configuración de Wi-Fi. Descargue e instale los controladores de la impresora desde el sitio web de Epson en cada dispositivo. Agregue la impresora en la configuración de impresoras de su dispositivo. Para problemas de conectividad, asegúrese de que su enrutador y la impresora estén cerca, verifique la estabilidad de la red y reinicie ambos dispositivos si es necesario. Visite la página de soporte de Epson para más recursos.
+
+Atentamente,
+Soporte al Cliente

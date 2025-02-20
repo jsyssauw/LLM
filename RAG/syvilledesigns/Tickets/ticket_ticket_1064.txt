@@ -1,0 +1,32 @@
+Ticket ID: ticket_1064
+Subject: Help Required for Jira Configuration
+Incident Type: Request
+Customer Issue: Greetings Customer Support,
+
+I hope this message finds you in good health. I am in need of assistance with the setup of Jira Software 8.20 for our Human Resources team. Our goal is to enhance our recruitment process using this software. Would you be able to share a comprehensive guide or any helpful materials for this setup? Your support in tailoring Jira to meet our specific requirements would be highly valued.
+
+Thank you for your help.
+
+Best wishes,
+
+<name>
+<name>@company.com
+<tel_num>
+Customer Service answer: Subject: Re: Help Required for Jira Configuration
+
+Hello,
+
+Thank you for reaching out. Implementing Jira Software 8.20 to manage your recruitment process is an excellent decision. Below is a straightforward step-by-step guide to help you initiate the setup:
+
+1. Download Jira Software: Acquire Jira Software 8.20 from the Atlassian website and follow the setup instructions provided.
+2. Initiate New Project: After installation, log in and choose 'Create Project' to initialize a new project specifically for recruitment tasks.
+3. Configure Issue Types: Adjust issue types such as 'Job Posting', 'Application Received', and 'Interview Scheduled' to align with your recruitment operations.
+4. Develop Workflows: Create workflows that mirror the stages of your recruitment process.
+5. Onboard Users: Make sure your HR team has the appropriate access rights.
+6. Personalize Dashboards: Modify your dashboard to display recruitment metrics relevant to your process.
+7. Test and Educate: Verify the functionality by testing with a few scenarios, followed by training sessions for your staff.
+
+For additional detailed information, please refer to the online Jira Software documentation or reach out to our support team for further guidance.
+
+Best regards,
+Customer Support Team

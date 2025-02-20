@@ -1,0 +1,20 @@
+Ticket ID: ticket_2369
+Subject: Urgent: Major Bug in Ticketing System
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+We are experiencing significant workflow disruptions in our project management due to a major bug in the Jira Software 8.20 ticketing system. This issue requires your immediate attention for troubleshooting and resolution. Please provide an update at your earliest convenience as this impacts our daily operations severely.
+
+Kindly prioritize this request.
+
+Thank you.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for notifying us about the significant issue in Jira Software 8.20. We understand the urgency and are prioritizing the resolution of this major bug to minimize disruptions in your workflow. Our technical team is currently investigating and will update you with a status report as soon as possible. We appreciate your patience and are committed to resolving this swiftly.
+
+Best regards,
+Customer Support

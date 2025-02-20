@@ -1,0 +1,24 @@
+Ticket ID: ticket_536
+Subject: Black Screen Issue with LG OLED C1
+Incident Type: Problem
+Customer Issue: Dear Customer Support,  
+
+I am writing to report a problem with my LG OLED C1, which I purchased recently. Upon initial setup, the TV displayed a black screen, and attempts to troubleshoot it were unsuccessful. The model is an OLED Display, Smart TV, 4K, Dolby Vision. Please advise on how this issue can be resolved, or if a replacement is necessary. I look forward to your prompt response to address this inconvenient situation.  
+
+Sincerely,  
+<name>  
+<tel_num>  
+<acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting us regarding the issue with your LG OLED C1 TV. We apologize for the inconvenience. To address the black screen issue, please try the following steps:
+
+1. Ensure all cables are securely connected.
+2. Perform a power cycle by unplugging the TV, waiting for 60 seconds, and then plugging it back in.
+3. Check for firmware updates and install any available.
+4. Reset the TV to factory settings via the menu.
+
+If these steps do not resolve the issue, please reply to arrange a repair service or discuss replacement options. We appreciate your patience and aim to resolve your problem swiftly.
+
+Best regards,
+Customer Support Team

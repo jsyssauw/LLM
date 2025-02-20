@@ -1,0 +1,15 @@
+Ticket ID: ticket_2262
+Subject: Assistance Needed with Surface Pro 7 Keyboard
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I recently purchased a Microsoft Surface Pro 7 and am having trouble setting up the detachable keyboard. Can you provide detailed instructions or troubleshooting tips to help me get it working? Your prompt help in resolving this issue would be greatly appreciated. My account number is <acc_num>. Please contact me at <tel_num> or via email for any further information.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. Please try the following: ensure the keyboard connector pins are clean and aligned, restart your Surface Pro 7, check for and install any available updates by going to Settings > Update & Security, and finally, detach and reattach the keyboard securely. If issues persist, please contact us directly at this email or call <tel_num>.
+
+Best regards,
+Tech Online Store Customer Support

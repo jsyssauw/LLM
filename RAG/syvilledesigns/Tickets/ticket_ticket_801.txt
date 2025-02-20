@@ -1,0 +1,29 @@
+Ticket ID: ticket_801
+Subject: Exchange Request for Dell XPS 13
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to express my concern regarding the recent purchase I made from your store, an affected product: Dell XPS 13 9310, which unfortunately has been experiencing a faulty battery performance issue. 
+
+The laptop was purchased under the account number <acc_num> on <date>. From the first use, I noticed the battery would not hold a charge as expected. It discharges rapidly, causing significant inconvenience, especially during important tasks. Given the premium reputation of Dell's XPS series, I believe this may be an anomaly, and I am keen on resolving this issue. 
+
+I request an exchange for the affected unit with a new one. My contact details for any further communication are: Name: <name>, Phone: <tel_num>, Order ID: <order_id>. I am hopeful for a swift resolution, and I am more than willing to return this faulty product at my earliest convenience to expedite the process.
+
+Thank you for your attention to this matter. I look forward to your prompt response and to continuing my experience with Tech Online Store.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting Tech Online Store Customer Support. We apologize for the inconvenience you've experienced with your Dell XPS 13's battery performance.
+
+We are committed to resolving this issue promptly. I have initiated the exchange process for your device. Please ensure the unit is prepared for return when our courier contacts you, which will be at your earliest convenience. 
+
+Our team will reach out to you shortly at <tel_num> to coordinate further steps and confirm the details. Your patience and cooperation in this matter are greatly appreciated.
+
+Thank you for choosing Tech Online Store.
+
+Best regards,
+[Your Name]
+Tech Online Store Customer Support

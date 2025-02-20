@@ -1,0 +1,24 @@
+Ticket ID: ticket_684
+Subject: Anfrage zur Aktualisierung des Workflows in Jira
+Incident Type: Change
+Customer Issue: Sehr geehrtes Kundenserviceteam,
+
+ich hoffe, es geht Ihnen gut. Mein Name ist <name>, und ich schreibe, um eine Aktualisierung unseres bestehenden Projektmanagement-Workflows für eine verbesserte Verkaufsverfolgung und -prognose mit Jira Software 8.20 anzufordern.
+
+Wir haben Jira Software effektiv für unsere Projektmanagement-Bedürfnisse genutzt; jedoch haben wir Bereiche in der Verkaufsverfolgung und -prognose identifiziert, die optimiert werden können. Mit Ihrer Expertise bin ich zuversichtlich, dass wir verbesserte Funktionen und Anpassungen integrieren können, um diese Workflows zu optimieren.
+
+Bitte zögern Sie nicht, mich unter <tel_num> oder per E-Mail zu kontaktieren, um diese Anfrage weiter zu besprechen. Darüber hinaus, falls Sie eine Kontoverifizierung benötigen, lautet meine Kontonummer <acc_num>.
+
+Danke für Ihre Unterstützung,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns bezüglich der Aktualisierung Ihres Projektmanagement-Workflows in Jira Software 8.20 kontaktiert haben. Wir verstehen die Wichtigkeit der Optimierung von Verkaufsverfolgung und -prognose und sind hier, um Ihnen bei dieser Integration zu helfen.
+
+Um fortzufahren, würden wir uns über weitere Informationen zu den spezifischen Verbesserungen und Anpassungen freuen, die Sie im Sinn haben. Bitte lassen Sie uns wissen, wann es für Sie günstig wäre, dies weiter zu besprechen. Wir haben die Kontaktdaten und Informationen zu Ihrem Konto, die Sie zur Überprüfung bereitgestellt haben, notiert.
+
+Wir freuen uns darauf, Ihnen zu helfen.
+
+Mit freundlichen Grüßen,
+Team Service Desk

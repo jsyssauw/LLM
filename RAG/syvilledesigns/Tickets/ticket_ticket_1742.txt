@@ -1,0 +1,24 @@
+Ticket ID: ticket_1742
+Subject: nan
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice,
+
+ich hoffe, es geht Ihnen gut. Ich schreibe, um mich nach der Verfügbarkeit und den Preisen des Microsoft Surface Pro 7 in Ihrem Online-Shop zu erkundigen. Ich bin insbesondere an den verschiedenen Konfigurationen und möglichen aktuellen Aktionen interessiert.
+
+Könnten Sie bitte Informationen zu den verschiedenen Spezifikationen bereitstellen, wie RAM, Speicheroptionen und ob es Bundles oder Rabatte gibt? Außerdem wäre ich Ihnen dankbar, wenn Sie mir die voraussichtlichen Lieferzeiten für dieses Produkt mitteilen könnten, wenn es auf Lager ist.
+
+Vielen Dank für Ihre Unterstützung und schnelle Antwort. Ich freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich mit uns bezüglich des Microsoft Surface Pro 7 in Verbindung gesetzt haben. Wir bieten derzeit verschiedene Konfigurationen an, einschließlich Modelle mit unterschiedlichen RAM- und Speicheroptionen.
+
+Bitte besuchen Sie unseren Online-Shop für detaillierte Preisinformationen und um aktuelle Aktionen oder Bundles zu sehen. Wenn das Produkt auf Lager ist, liegen die typischen Lieferzeiten zwischen 3-5 Werktagen, abhängig von Ihrem Standort.
+
+Wenn Sie weitere Unterstützung oder spezifische Details benötigen, können Sie gerne auf diese E-Mail antworten.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

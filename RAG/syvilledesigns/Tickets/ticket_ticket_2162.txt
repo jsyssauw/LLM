@@ -1,0 +1,15 @@
+Ticket ID: ticket_2162
+Subject: Frequent Crashes on Dell XPS 13 9310
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Support,
+
+I am experiencing frequent crashes on my Dell XPS 13 9310 when running high-performance software. This issue severely hampers my productivity. I have done basic troubleshooting but the problem persists. Please advise on the next steps I should take to resolve this issue or if a replacement is necessary.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+We're sorry to hear about the issues with your Dell XPS 13 9310. To assist you further, please ensure your system's BIOS and drivers are up to date. If the problem persists, we recommend performing a system diagnostic test via Dell SupportAssist. Should the issue continue, please contact us with the results for further assistance or discuss replacement options.
+
+Thank you,
+Tech Online Store Support

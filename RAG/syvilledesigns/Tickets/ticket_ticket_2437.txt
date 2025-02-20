@@ -1,0 +1,14 @@
+Ticket ID: ticket_2437
+Subject: Consulta sobre discrepancia de facturación
+Incident Type: Request
+Customer Issue: Estimado servicio de atención al cliente, me pongo en contacto para solicitar una aclaración sobre una discrepancia en la facturación de mi reciente compra del Dell XPS 13 9310 en su sitio web. Mi factura muestra un monto diferente al que se mostró inicialmente en el momento de la compra. ¿Podrían revisar los detalles de mi pedido y proporcionar una explicación para esta variación? Agradecería su pronta asistencia para resolver este asunto. Gracias por su apoyo. Atentamente, <name>, <acc_num>.
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto con respecto a la discrepancia de facturación de tu compra del Dell XPS 13 9310. Nos disculpamos por cualquier confusión que esto haya podido causar. Ten la seguridad de que estamos revisando los detalles de tu pedido.
+
+Para facilitar una resolución rápida, ¿podrías confirmar el número de factura o cualquier información adicional sobre la transacción? Una vez recibida, investigaremos y te proporcionaremos una explicación sobre la variación en el monto.
+
+Agradecemos tu paciencia y estamos comprometidos a resolver esto de manera rápida.
+
+Atentamente,
+Equipo de atención al cliente

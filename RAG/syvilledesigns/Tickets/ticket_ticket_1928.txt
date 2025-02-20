@@ -1,0 +1,16 @@
+Ticket ID: ticket_1928
+Subject: Problema de parpadeo de pantalla con Dell XPS 13
+Incident Type: Incident
+Customer Issue: Estimado soporte de Tech Online Store,
+
+Estoy experimentando un parpadeo de pantalla en mi Dell XPS 13 9310 al ejecutar múltiples aplicaciones. Este problema afecta gravemente mi productividad. Por favor, realicen una investigación técnica para resolver este problema.
+
+Gracias,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarte. Entendemos la inconveniencia causada por el parpadeo de pantalla en tu Dell XPS 13 9310. Para comenzar a resolver este problema, por favor asegúrate de que tus controladores gráficos estén actualizados y trata de reducir el número de aplicaciones en ejecución para ver si disminuye el parpadeo. Si el problema persiste, te recomendamos contactar a nuestro equipo de soporte técnico para una investigación más detallada.
+
+Saludos cordiales,
+Soporte de Tech Online Store

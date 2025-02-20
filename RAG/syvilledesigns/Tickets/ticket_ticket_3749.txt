@@ -1,0 +1,22 @@
+Ticket ID: ticket_3749
+Subject: Anfrage zur Aktualisierung der E-Mail-Konfiguration
+Incident Type: Change
+Customer Issue: Sehr geehrtes Kundenserviceteam, ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um Änderungen an unserer E-Mail-Konfiguration zu beantragen, da die aktualisierten Unternehmensrichtlinien nun verbesserte Sicherheitsmaßnahmen für unsere Geschäftsmails erfordern. Wir verwenden derzeit das Google Workspace Business Standard-Produkt und müssen sicherstellen, dass es effektiv unseren neuen Sicherheitsstandards entspricht. Unsere IT-Abteilung hat bestimmte Bereiche identifiziert, in denen Verbesserungen notwendig sind, und wir hoffen, diese Änderungen umgehend umzusetzen, um Unterbrechungen in unseren Kommunikationswegen zu minimieren. Ich würde Ihre Anleitung und Unterstützung bei der Aktualisierung unserer E-Mail-Einstellungen zu schätzen wissen, um diesen verbesserten Sicherheitsanforderungen gerecht zu werden. Bitte lassen Sie uns wissen, welche Schritte erforderlich sind, um diese Änderungen umzusetzen, oder ob es Dokumentationen oder Unterstützungsunterlagen gibt, die uns in diesem Prozess helfen könnten. Sollten Sie weitere Informationen benötigen, um mit unserer Anfrage fortzufahren, können Sie sich gerne unter <tel_num> oder per E-Mail an mich wenden. Wir freuen uns auf Ihre prompten Unterstützung bei der Verbesserung unserer E-Mail-Sicherheitsmaßnahmen. Vielen Dank für Ihre Zusammenarbeit. Mit freundlichen Grüßen, <name> IT-Manager, <company_name>
+Customer Service answer: Hallo <name>,
+
+vielen Dank, dass Sie sich mit Ihrer Anfrage bezüglich der Aktualisierungen der E-Mail-Konfiguration zur Erfüllung der verbesserten Sicherheitsstandards für Ihre Google Workspace Business Standard-Einrichtung an uns gewandt haben.
+
+Wir verstehen die Bedeutung der Implementierung robuster Sicherheitsmaßnahmen. Bitte befolgen Sie diese allgemeinen Schritte, um die E-Mail-Sicherheit zu verbessern:
+
+1. Aktivieren Sie die Zwei-Faktor-Authentifizierung für alle Benutzer.
+2. Implementieren Sie das Advanced Protection Program für hochwertige Konten.
+3. Nutzen Sie die Sicherheitsgesundheits-empfehlungen aus der Admin-Konsole.
+4. Aktivieren Sie die Sicherheits-Sandbox, um eingehende E-Mails auf Bedrohungen zu scannen.
+5. Konfigurieren Sie DKIM (Domain Keys Identified Mail) und SPF (Sender Policy Framework) zur Authentifizierung ausgehender E-Mails.
+
+Für detaillierte Anleitungen empfehle ich, das Google Workspace Admin Help Center online zu konsultieren oder den Google Support für Dokumentationen oder Schritt-für-Schritt-Anleitungen zu kontaktieren.
+
+Sollten Sie weitere Hilfe benötigen, zögern Sie nicht, uns zu kontaktieren. Wir sind hier, um sicherzustellen, dass die Implementierung Ihrer Sicherheitsverbesserungen reibungslos verläuft.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

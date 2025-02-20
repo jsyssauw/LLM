@@ -1,0 +1,25 @@
+Ticket ID: ticket_231
+Subject: Problema con el Servicio de Gestión de AWS
+Incident Type: Incident
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Me pongo en contacto para llamar su atención sobre un problema que estamos experimentando actualmente con su Servicio de Gestión de AWS. Hemos tenido dificultades con el despliegue de infraestructura en la nube, lo que está afectando negativamente el rendimiento de nuestra aplicación. Nuestro equipo de desarrollo depende en gran medida de este servicio para una integración fluida y una funcionalidad eficiente, y es crucial para nuestras operaciones. La incapacidad para desplegar correctamente ha resultado en cuellos de botella de rendimiento e inconsistencias en el comportamiento de la aplicación. Hemos realizado pasos iniciales de solución de problemas sin éxito. Dada la urgencia de este asunto, una resolución rápida es fundamental para mantener la continuidad de nuestros servicios. Por favor, investiguen el problema lo antes posible y asesoren sobre los posibles siguientes pasos o cualquier acción inmediata que podamos tomar para mitigar los efectos mientras se determina una solución. Por favor, consulten nuestra cuenta <acc_num> para más detalles y no duden en contactarme al <tel_num> si necesitan más información.
+
+Gracias por su atención inmediata a este asunto.
+
+Saludos cordiales,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos sobre el problema con el Servicio de Gestión de AWS. Entendemos la importancia de un despliegue fluido de infraestructura en la nube para sus operaciones.
+
+Nuestro equipo técnico está priorizando su caso asociado con la cuenta <acc_num> y investigará la situación con urgencia. Mientras tanto, recomendamos asegurarse de que todas las configuraciones del servicio estén alineadas con las mejores prácticas de AWS y revisar cualquier cambio reciente que pueda haber afectado el despliegue.
+
+Lo actualizaremos tan pronto como identifiquemos la causa y le asesoraremos sobre los pasos necesarios para restaurar la funcionalidad óptima. Si tiene más detalles que compartir, o requiere asistencia inmediata, no dude en contactarnos directamente al <tel_num>.
+
+Agradecemos su paciencia y estamos comprometidos a resolver esto con prontitud.
+
+Saludos cordiales,
+
+Equipo de Atención al Cliente

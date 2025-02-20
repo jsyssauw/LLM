@@ -1,0 +1,10 @@
+Ticket ID: ticket_3123
+Subject: Problème de scintillement d'écran signalé à plusieurs reprises
+Incident Type: Incident
+Customer Issue: Cher support client, Je vous écris pour signaler des problèmes de scintillement d'écran répétés avec ma Microsoft Surface Pro 7 récemment achetée. Malgré plusieurs étapes de dépannage, le problème persiste. Pourriez-vous s'il vous plaît me guider sur la façon de procéder pour la réparation ou le remplacement ? Votre aide pour résoudre ce problème serait grandement appréciée. Merci, <name> Email : <email> Téléphone : <tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés. Nous sommes désolés d'apprendre le problème de scintillement d'écran avec votre Microsoft Surface Pro 7. Veuillez visiter notre site web du centre de service et prendre rendez-vous pour une réparation ou un remplacement. Si vous avez besoin de plus d'assistance, n'hésitez pas à répondre à cet e-mail.
+
+Cordialement,
+Support Client

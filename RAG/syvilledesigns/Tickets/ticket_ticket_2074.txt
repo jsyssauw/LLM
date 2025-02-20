@@ -1,0 +1,35 @@
+Ticket ID: ticket_2074
+Subject: Problema de Desconexões Frequentes na Rede
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Espero que esta mensagem o encontre bem. Estou escrevendo para chamar sua atenção para um problema persistente que estamos enfrentando com desconexões frequentes da rede. Após realizar uma investigação minuciosa, determinamos que essas interrupções são causadas por um problema de configuração em nosso Roteador Cisco ISR4331, que é crítico para nossas operações de rede.
+
+O problema se manifesta como perda intermitente de conectividade de rede, impactando severamente nossas comunicações internas e externas. Essas desconexões estão se tornando cada vez mais disruptivas para nossas operações, levando a uma queda na produtividade e possivelmente afetando a entrega do nosso serviço.
+
+Suspeitamos que a configuração atual do Roteador Cisco ISR4331 pode não estar otimizada para as demandas específicas da nossa rede ou pode haver um problema de firmware ou compatibilidade subjacente. Como isso está além de nossa expertise, solicitamos gentilmente sua assistência imediata para diagnosticar e recomendar uma solução para este problema.
+
+Por favor, nos informe em sua conveniência mais próxima como podemos proceder para resolver esta questão de forma eficiente. Caso precise entrar em contato para obter mais informações ou diagnósticos remotos, você pode me contatar diretamente.
+
+Obrigado pela sua atenção imediata a este importante problema.
+
+Atenciosamente,
+
+<name>
+<email_address>
+<tel_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre os problemas de desconexão da rede com seu Roteador Cisco ISR4331. Entendemos os inconvenientes que isso causou e estamos aqui para ajudar.
+
+Para resolver essa questão de forma eficiente, recomendamos agendar uma sessão de diagnóstico remoto com nossa equipe de suporte técnico. Por favor, forneça-nos um horário adequado para essa sessão e garanta que o acesso remoto ao roteador afetado seja possível. Se houver registros de erro ou atualizações de firmware recentes, encaminhe-os para nós.
+
+Além disso, uma verificação preliminar rápida no firmware e na configuração atuais do roteador pode coincidir com problemas conhecidos, que podemos corrigir rapidamente.
+
+Nosso objetivo é minimizar quaisquer novas interrupções e restaurar a funcionalidade total da rede prontamente. Você pode entrar em contato conosco a qualquer momento para mais informações.
+
+Obrigado pela sua cooperação e paciência neste assunto.
+
+Atenciosamente,
+
+Equipe de Suporte ao Cliente

@@ -1,0 +1,10 @@
+Ticket ID: ticket_3898
+Subject: nan
+Incident Type: Change
+Customer Issue: Hola Soporte al Cliente, estoy escribiendo para solicitar una revisión y modificación de nuestra configuración del proyecto en Jira Software versión 8.20 para mejorar la gestión y colaboración. Por favor contáctame si se requieren detalles adicionales. Gracias por su pronta atención a este asunto. Saludos, <name>.
+Customer Service answer: Estimado/a <name>,
+
+Gracias por contactarnos respecto a su solicitud de revisar y modificar la configuración del proyecto en Jira Software versión 8.20. Entendemos la importancia de mejorar la gestión y colaboración. Nuestro equipo evaluará su solicitud y se pondrá en contacto con usted si se necesitan más detalles. Nuestro objetivo es atender su inquietud de manera oportuna.
+
+Atentamente,
+Equipo de Soporte al Cliente

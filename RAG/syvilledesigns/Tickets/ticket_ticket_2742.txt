@@ -1,0 +1,5 @@
+Ticket ID: ticket_2742
+Subject: Incapaz de Conectar WiFi no Dell XPS 13 9310
+Incident Type: Problem
+Customer Issue: Olá, estou enfrentando um problema de conectividade com meu novo laptop Dell XPS 13 9310. Parece que ele não consegue se conectar à minha rede WiFi e suspeito que possa haver um problema com o driver de rede. Você poderia ajudar a diagnosticar e resolver o problema? Meu número de pedido é <order_num>. Qualquer orientação ou suporte nessa questão seria muito apreciada. Obrigado antecipadamente pela sua ajuda.
+Customer Service answer: Olá, tente atualizar o driver de rede WiFi acessando o site de suporte da Dell e baixando os drivers mais recentes para o XPS 13 9310. Alternativamente, use o Gerenciador de Dispositivos para verificar se há atualizações de driver. Se o problema persistir, você pode realizar a solução de problemas de rede via Configurações > Rede e Internet. Por favor, responda se precisar de mais assistência. Obrigado por entrar em contato.

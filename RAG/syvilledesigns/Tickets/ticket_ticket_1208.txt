@@ -1,0 +1,15 @@
+Ticket ID: ticket_1208
+Subject: nan
+Incident Type: Problem
+Customer Issue: Guten Tag Kundenservice,
+
+ich stehe vor einem Problem mit der Aktivierung meines Norton Antivirus Plus. Das Produkt lässt sich nicht wie vorgesehen aktivieren. Meine Kontonummer ist <acc_num>. Könnten Sie mir bitte bei der Behebung dieses Problems behilflich sein? Vielen Dank.
+
+Mit freundlichen Grüßen,
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+herzlichen Dank für Ihre Kontaktaufnahme. Bitte versuchen Sie die folgenden Schritte: 1) Starten Sie Ihren Computer neu 2) Melden Sie sich von Ihrem Norton-Konto ab und anschließend wieder an 3) Nutzen Sie Ihre Kontonummer, um die Aktivierung des Produkts erneut durchzuführen. Sollten weiterhin Schwierigkeiten auftreten, senden Sie uns bitte einen Screenshot.
+
+Mit freundlichen Grüßen,
+Kundenservice

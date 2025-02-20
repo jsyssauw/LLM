@@ -1,0 +1,18 @@
+Ticket ID: ticket_3044
+Subject: Challenges with Installing Norton Antivirus Plus - Assistance Needed
+Incident Type: Problem
+Customer Issue: Dear Support Team,
+
+I am facing difficulties while trying to install Norton Antivirus Plus on my computer. Even after adhering to the supplied instructions, the setup process does not finalize successfully. Could you please provide me with more comprehensive guidelines or remote support to help resolve this matter?
+
+Thank you,
+<name>
+<acc_num>
+Customer Service answer: Dear <name>,
+
+We regret to learn that you are encountering problems with the installation of Norton Antivirus Plus. Please attempt the following steps: 1) Confirm that your system meets the software prerequisites, 2) Temporarily turn off any firewall or existing antivirus software, and 3) Download and execute the Norton Remove and Reinstall Tool from the official Norton site.
+
+Should the issues continue, please reach out to us for remote support.
+
+Best regards,
+Customer Support

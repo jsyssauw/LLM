@@ -1,0 +1,16 @@
+Ticket ID: ticket_2747
+Subject: Dringende AWS-Optimierung
+Incident Type: Request
+Customer Issue: Sehr geehrter Kundenservice,
+
+Wir benötigen dringend Hilfe bei der AWS-Kostenoptimierung aufgrund unerwarteter Gebühren durch gestiegene Datennutzung und Rechenleistung mit Ihrem AWS-Management-Service.
+
+Vielen Dank,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich gemeldet haben. Wir verstehen die Dringlichkeit, Ihre AWS-Kostenfragen zu klären. Bitte geben Sie uns Ihre Kontodaten (ohne persönliche Informationen wie <acc_num>) und eine Zusammenfassung der jüngsten Änderungen, um eine gründliche Überprüfung zu ermöglichen. Unser Team wird die Analyse beschleunigen und Sie bei der Optimierung Ihrer AWS-Kosten unterstützen.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

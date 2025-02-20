@@ -1,0 +1,20 @@
+Ticket ID: ticket_2540
+Subject: Problema del Backlog de Jira
+Incident Type: Incident
+Customer Issue: Estimado Servicio de Atención al Cliente,
+
+Estoy experimentando un problema con la versión 8.20 de Jira Software, donde el backlog no se muestra en la interfaz de gestión de proyectos. Este problema está causando interrupciones significativas en nuestro flujo de trabajo. Hemos intentado pasos de solución de problemas, como borrar la caché y comprobar la configuración del navegador, pero el problema persiste. Apreciaríamos una solución rápida para garantizar la efectividad de nuestro proyecto. Por favor, aconsejen sobre los próximos pasos que debemos seguir.
+
+Gracias,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por contactarnos. Para abordar el problema de visualización del backlog de Jira en la versión 8.20, asegúrese de que la configuración de su tablero sea correcta y verifique que se hayan otorgado todos los permisos necesarios para ver el backlog. Además, verifique que no haya filtros que oculten inadvertidamente elementos del backlog. Si el problema persiste, considere actualizar Jira a la última versión y examine si hay conflictos recientes con los complementos. Para asistencia personalizada, puede contactar directamente a nuestro equipo de soporte técnico utilizando su <acc_num>.
+
+Por favor, háganos saber si se necesita más apoyo.
+
+Saludos cordiales,
+Equipo de Atención al Cliente

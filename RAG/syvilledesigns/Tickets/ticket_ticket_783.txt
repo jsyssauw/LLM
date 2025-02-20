@@ -1,0 +1,10 @@
+Ticket ID: ticket_783
+Subject: Clarification Needed on Invoice Charge
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I noticed a charge labeled 'Jira Software 8.20 license' on my recent invoice. Could you please clarify what this charge entails? I haven't requested additional licenses. Thank you.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>, the charge for 'Jira Software 8.20 license' might be an error or a renewal. Please review your subscription details or contact us for further assistance to resolve this issue. Thank you!

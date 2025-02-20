@@ -1,0 +1,37 @@
+Ticket ID: ticket_2617
+Subject: Solicitud de intercambio de impresora: Canon PIXMA MG3620
+Incident Type: Request
+Customer Issue: Hola equipo de soporte al cliente,
+
+Espero que este mensaje les encuentre bien. Me pongo en contacto con ustedes para abordar un problema que he estado experimentando con mi impresora Canon PIXMA MG3620, que compré en la tienda en línea Tech. La impresora ha fallado persistentemente en entregar una calidad de impresión satisfactoria, a pesar de múltiples intentos de solucionar el problema según el manual proporcionado y los recursos en línea.
+
+El problema implica salidas de impresión inconsistentes, incluyendo rayas y manchas en los materiales impresos, incluso después de realizar múltiples limpiezas de cabezales y alinear los cabezales de impresión. También he intentado usar diferentes tipos de papel y verificado los cartuchos de tinta por errores de instalación sin éxito. Desafortunadamente, esto ha dejado a la impresora efectivamente inutilizable para mis necesidades actuales, que incluyen la preparación de documentos y fotos de alta calidad.
+
+Dado que la Canon PIXMA MG3620 todavía está dentro del período de garantía y mis esfuerzos continuos por resolver este problema no han tenido éxito, solicito un intercambio por una nueva unidad. Creo que una impresora de reemplazo cumpliría mejor con mis necesidades y proporcionaría la calidad esperada de los productos Canon.
+
+Para facilitar este proceso, por favor háganme saber los pasos requeridos para iniciar el intercambio y si hay términos o condiciones específicos de los que deba estar al tanto. Puedo proporcionar cualquier documentación necesaria, incluyendo mi recibo de compra original y los detalles de la tarjeta de garantía. Mi número de cuenta es <acc_num>, y pueden contactarme al <tel_num> para cualquier consulta o aclaración adicional. Por favor, háganme saber si se necesita información adicional de su parte.
+
+Gracias por atender este asunto con prontitud. Espero su respuesta y una resolución a este problema. Aprecio su apoyo y comprensión.
+
+Atentamente,
+
+<name>
+Customer Service answer: Hola <name>,
+
+Gracias por comunicarte y proporcionar información detallada sobre el problema con tu impresora Canon PIXMA MG3620. Lamentamos los inconvenientes que esto ha causado y estamos aquí para ayudarte.
+
+Para proceder con el intercambio, sigue estos pasos:
+1. Verifica que tu impresora aún esté bajo garantía revisando el recibo de compra y la tarjeta de garantía.
+2. Reúne la documentación necesaria, incluyendo tu recibo de compra original.
+3. Contacta directamente a nuestro departamento de intercambios al <tel_num> para iniciar el proceso. Menciona tu número de cuenta <acc_num> para una asistencia rápida.
+
+Durante el proceso de intercambio, es posible que se te pida proporcionar:
+- Prueba de compra.
+- Fotografías o evidencia de los problemas de calidad de impresión que describiste.
+
+Por favor, háznos saber si tienes alguna pregunta sobre términos o condiciones específicas relacionadas con el intercambio. Nuestro objetivo es asegurarnos de que recibas una unidad completamente operativa que cumpla con tus expectativas.
+
+Agradecemos tu paciencia y cooperación. Esperamos resolver este asunto con prontitud.
+
+Atentamente,
+Equipo de soporte al cliente

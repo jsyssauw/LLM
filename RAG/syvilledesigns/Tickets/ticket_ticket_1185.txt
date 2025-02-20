@@ -1,0 +1,17 @@
+Ticket ID: ticket_1185
+Subject: nan
+Incident Type: Request
+Customer Issue: Estimado equipo de Atención al Cliente,
+
+Estoy experimentando dificultades con el teclado de mi MacBook Air M1, el cual adquirí recientemente a través de su tienda en línea. Parece que malfunciona a menudo. ¿Podrían asistirme para resolver este inconveniente?
+
+Agradecido,
+<nombre>
+Customer Service answer: Asunto: Re: Asistencia con el teclado dañado
+
+Estimado [Cliente],
+
+Lamento escuchar sobre los inconvenientes que está enfrentando con el teclado de su MacBook Air M1. Intente reiniciar su aparato y actualizar macOS. Si el inconveniente continúa, por favor contáctenos con su número de pedido y estaremos encantados de ayudarle.
+
+Saludos,
+Atención al Cliente

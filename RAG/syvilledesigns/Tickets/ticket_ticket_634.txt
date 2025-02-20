@@ -1,0 +1,5 @@
+Ticket ID: ticket_634
+Subject: Asistencia para errores de facturación
+Incident Type: Request
+Customer Issue: Hola, noté un error de facturación con respecto a mi reciente compra de la impresora HP DeskJet 3755. Mi número de cuenta es <acc_num>. ¿Podría ayudarme a resolver este problema?
+Customer Service answer: Hola, gracias por ponerte en contacto. Pido disculpas por cualquier inconveniente causado por el error de facturación relacionado con la compra de tu impresora HP DeskJet 3755. Ten la seguridad de que estamos aquí para ayudarte. He trasladado tu inquietud a nuestro equipo de facturación, y se pondrán en contacto contigo en breve para resolver este problema. Si tienes más preguntas, no dudes en hacérnoslo saber.

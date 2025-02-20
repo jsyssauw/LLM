@@ -1,0 +1,16 @@
+Ticket ID: ticket_3335
+Subject: nan
+Incident Type: Incident
+Customer Issue: {
+  "body": "Dear Customer Service, I recently acquired a Dell XPS 13 9310 from your online shop; however, I discovered that it is defective. I would appreciate your help with the return or replacement procedure at your earliest opportunity. Best regards, <name>",
+  "relatedItems": [{
+    "item": "Dell XPS 13 9310",
+    "issue": "Defective"
+  }]
+}
+Customer Service answer: Dear [Name],
+
+I regret to learn about the problem with your Dell XPS 13 9310. In order to help you with the return or exchange procedure, kindly provide your order number along with any further information regarding the defect. As soon as we receive this information, we will promptly handle your request.
+
+Thank you,
+Customer Service

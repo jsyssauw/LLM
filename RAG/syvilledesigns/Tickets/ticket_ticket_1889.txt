@@ -1,0 +1,10 @@
+Ticket ID: ticket_1889
+Subject: nan
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundendienst, ich möchte Ihnen über eine Störung der Tastatur meines Dell XPS 13 9310 berichten, den ich in Ihrem Online-Shop erworben habe. Obwohl ich das Laptop nur kurz genutzt habe, funktionieren mehrere Tasten nicht mehr ordnungsgemäß. Bitte lassen Sie mich wissen, wie ich dieses Problem angehen kann. Vielen Dank, <name>
+Customer Service answer: Sehr geehrte(r) <name>,
+
+Vielen Dank für Ihre Nachricht. Es tut uns leid zu hören, dass es ein Problem mit der Tastatur Ihres Dell XPS 13 9310 gibt. Bitte teilen Sie uns Ihre Bestellnummer sowie alle relevanten Informationen oder Bilder des Problems mit. Wir werden dies bewerten und Ihnen dabei helfen, den Garantieprozess einzuleiten oder einen Austausch zu organisieren.
+
+Mit freundlichen Grüßen,
+Kundenservice

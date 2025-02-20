@@ -1,0 +1,15 @@
+Ticket ID: ticket_1667
+Subject: Problema urgente con la infraestructura en la nube
+Incident Type: Request
+Customer Issue: Estimado servicio de atención al cliente,
+
+Estamos experimentando un problema crítico con nuestra infraestructura en la nube gestionada a través de su Servicio de Gestión de AWS, lo que ha resultado en un tiempo de inactividad no programado de nuestros servidores de producción. Esto requiere atención inmediata para evitar un mayor impacto en nuestras operaciones. Por favor, priorice y asesórenos sobre los próximos pasos.
+
+Gracias,
+<name>.
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarse con nosotros. Estamos tratando su problema con la máxima prioridad. Nuestro equipo está investigando actualmente la causa del tiempo de inactividad no programado en su Servicio Gestionado de AWS. Le actualizaremos pronto con nuestros hallazgos y los pasos recomendados. Agradecemos su paciencia y cooperación.
+
+Atentamente,
+Equipo de Service Desk

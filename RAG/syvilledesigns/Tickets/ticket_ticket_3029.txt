@@ -1,0 +1,5 @@
+Ticket ID: ticket_3029
+Subject: Consulta sobre la disponibilidad y especificaciones del MacBook Air M1 en la tienda en línea
+Incident Type: Request
+Customer Issue: Hola servicio al cliente, quisiera indagar acerca de la disponibilidad y las especificaciones del MacBook Air M1. Agradezco de antemano. Saludos, <nombre>
+Customer Service answer: Hola <nombre>, el MacBook Air M1 se encuentra disponible en nuestra tienda online. Incluye un chip M1, pantalla Retina y una duración de batería de hasta 18 horas. Saludos, Servicio al Cliente

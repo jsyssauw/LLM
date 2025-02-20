@@ -1,0 +1,11 @@
+Ticket ID: ticket_3847
+Subject: Anfrage zur Unterstützung beim Produktaustausch
+Incident Type: Problem
+Customer Issue: Hallo, ich habe seit Kurzem Probleme mit der drahtlosen Verbindung meines neu gekauften Epson EcoTank ET-4760. Ich möchte um einen Austausch dieses Produkts bitten, da es seit dem ersten Tag problematisch ist. Vielen Dank für Ihre Unterstützung. Mit freundlichen Grüßen, <name>, Bestellnummer <order_num>.
+Customer Service answer: Hallo <name>,
+
+Vielen Dank für Ihre Nachricht. Es tut uns leid zu hören, dass Sie Probleme mit der drahtlosen Verbindung Ihres Epson EcoTank ET-4760 haben. Um Ihnen bei Ihrer Anfrage zum Austausch zu helfen, stellen Sie bitte sicher, dass das Produkt gemäß unserer Rückgaberichtlinien auf unserer Website für einen Austausch berechtigt ist. Sobald dies bestätigt ist, senden Sie das Produkt zusammen mit dem Originalbeleg und der Verpackung an die angegebene Adresse. Für weitere Hilfe stehen Ihnen unser Kundenservice zur Verfügung. Wir sind hier, um zu helfen.
+
+Mit freundlichen Grüßen,
+
+[Kundenservice Ihres Unternehmens]

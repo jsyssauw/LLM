@@ -1,0 +1,34 @@
+Ticket ID: ticket_1871
+Subject: Login Issues in Jira Software
+Incident Type: Incident
+Customer Issue: Dear Customer Support Team,
+
+I hope this message finds you well. I am writing to bring to your attention an issue we are facing with Jira Software 8.20. Our users are currently unable to log in due to a server error that appears directly on the login screen. This error has been persistent since yesterday and is affecting our productivity significantly as many team members rely on Jira for project management tasks.
+
+We have tried clearing the cache and even accessing it via different browsers, but the problem persists. Could you please assist us with troubleshooting this server problem? Any guidance or timeframe for resolution would be greatly appreciated, as our work critically depends on seamless access to Jira Software.
+
+Thank you very much for your prompt attention to this matter.
+
+Best regards,
+<name>
+<acc_num>
+<email>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the login issues your team is experiencing with Jira Software 8.20. We understand the critical role Jira plays in your project management activities, and we are committed to resolving this server error as quickly as possible.
+
+To better assist you, we recommend the following initial steps:
+1. Verify if the server where Jira is hosted is running correctly and check any recent updates or changes that might have affected the server's performance.
+2. Restart your Jira services to see if that resolves the problem. 
+3. Ensure that your Jira instance is connected to the network correctly and that all relevant services are operational.
+
+If the problem persists after these steps, please provide us with any error messages displayed on the screen and the server logs from the time the issue first occurred. This will help us understand and diagnose the problem more accurately.
+
+We aim to address and resolve these kinds of issues within 48 hours of receiving all necessary details. Our technical team is on standby to offer you thorough support throughout this process.
+
+Thank you for your patience and cooperation. Feel free to reach out with any additional information or questions.
+
+Best regards,
+Service Desk Agent
+<your_contact_info>

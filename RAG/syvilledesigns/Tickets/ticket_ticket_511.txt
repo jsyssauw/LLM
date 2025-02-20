@@ -1,0 +1,29 @@
+Ticket ID: ticket_511
+Subject: Necesito ayuda urgente: Problema de implementación de AWS
+Incident Type: Problem
+Customer Issue: Estimado equipo de soporte de servicios de TI,
+
+Les escribo para informarles sobre un problema crítico que estamos enfrentando con el Servicio de Gestión de AWS. Hemos encontrado un problema de implementación inesperado que ha resultado en un tiempo de inactividad significativo para nuestras aplicaciones dirigidas a los clientes. La situación requiere atención inmediata para restaurar nuestros servicios y garantizar que los clientes puedan acceder a nuestra plataforma sin más interrupciones.
+
+Estamos particularmente preocupados por el impacto potencial en la satisfacción de nuestros clientes y los acuerdos de nivel de servicio si este problema no se aborda de manera rápida. Por favor, proporcionen orientación sobre los pasos necesarios para resolver este problema rápidamente o dirijan nuestra solicitud a un equipo especializado que pueda ayudarnos más.
+
+Para referencia, el número de cuenta afectada es <acc_num>, y nuestro último contacto con el soporte fue bajo la ID de caso <case_id>. Agradecemos su respuesta urgente a este asunto y esperamos una pronta resolución.
+
+Gracias por su pronta atención a este problema crítico.
+
+Un cordial saludo,
+<name>
+
+Teléfono: <tel_num>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por ponerte en contacto con nosotros con respecto al urgente problema de implementación de AWS que estás experimentando. Entendemos la naturaleza crítica de la situación y su impacto potencial en tus servicios y clientes.
+
+Para acelerar la asistencia, he priorizado tu caso y enviado los detalles a nuestro equipo especializado de AWS para atención inmediata. Revisarán la información proporcionada, incluido el número de cuenta <acc_num> y la ID de caso <case_id>, para identificar la causa raíz e implementar una solución.
+
+Mientras tanto, si tienes información adicional o cambios recientes en tu implementación que puedan ayudar a resolver el problema, háznoslo saber. Nuestro equipo se pondrá en contacto contigo en breve para ofrecer orientación o actualizaciones sobre el progreso.
+
+Gracias por tu paciencia y comprensión mientras trabajamos rápidamente para restaurar tus servicios.
+
+Atentamente,
+Equipo de Soporte de Servicios de TI

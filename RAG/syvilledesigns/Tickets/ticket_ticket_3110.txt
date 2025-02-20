@@ -1,0 +1,31 @@
+Ticket ID: ticket_3110
+Subject: nan
+Incident Type: Incident
+Customer Issue: Caro time de suporte ao cliente,
+
+Espero que esta mensagem os encontre bem. Estou escrevendo para relatar um pequeno problema que venho experienciando com meu MacBook Air M1, que comprei recentemente em sua loja. Observei que, quando o dispositivo sai do modo de suspensão após um período relativamente curto de inatividade, ele às vezes não responde com a agilidade e eficiência habituais. Esse problema se manifesta principalmente após breves períodos de inatividade, aproximadamente entre 5 e 10 minutos. No entanto, não percebi que esse problema ocorra após durações de sono mais longas.
+
+Esse problema ainda não impactou severamente minha produtividade, mas gostaria de entender se esse é um problema comum e se existem soluções ou correções recomendadas para isso. Dependo muito do meu MacBook para tarefas diárias e, embora não seja um grande obstáculo por agora, quero garantir que não se tornará um problema significativo mais tarde.
+
+Muito obrigado pela sua assistência e suporte. Aguardamos seu retorno e quaisquer soluções possíveis que você possa sugerir.
+
+Atenciosamente,
+<name>
+
+Informações de Contato: <tel_num>
+Detalhes do Pedido: <acc_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato conosco sobre o problema com seu MacBook Air M1. Entendemos como é importante que seu dispositivo funcione sem problemas.
+
+O comportamento que você está experimentando pode às vezes ocorrer com dispositivos após curtos períodos de sono. Para ajudar a resolver isso, recomendamos as seguintes etapas:
+1. Certifique-se de que seu macOS esteja atualizado para a versão mais recente, pois as atualizações frequentemente incluem melhorias de desempenho e estabilidade.
+2. Considere redefinir o Controlador de Gerenciamento do Sistema (SMC). Isso pode ajudar a resolver muitos problemas de desempenho.
+3. Verifique se há aplicativos em segundo plano que possam estar contribuindo para um comportamento lento ao acordar.
+
+Se essas etapas não resolverem o problema, considere visitar nossa loja para um diagnóstico mais aprofundado ou entre em contato para suporte técnico adicional.
+
+Estamos aqui para ajudar a garantir que seu MacBook funcione de forma ideal. Informe-nos se precisar de mais assistência.
+
+Atenciosamente,
+Time de Suporte ao Cliente

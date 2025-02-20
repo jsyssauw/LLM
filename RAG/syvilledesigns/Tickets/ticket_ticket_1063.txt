@@ -1,0 +1,15 @@
+Ticket ID: ticket_1063
+Subject: Urgent: Dell XPS 13 Overheating Issue
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to report a significant issue with my Dell XPS 13 9310 laptop. It is overheating extensively, leading to serious performance downgrades during use. Please advise on possible solutions or the next steps for addressing this problem.
+
+Thank you,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. Please ensure your Dell XPS 13 is placed on a hard, flat surface for proper ventilation and check for any dust in the vents. Update the BIOS and thermal management software. If the issue persists, consider visiting a service center or contacting Dell Support.
+
+Best regards,  
+Customer Support

@@ -1,0 +1,5 @@
+Ticket ID: ticket_97
+Subject: Anfrage zur Garantieabwicklung für das Lenovo IdeaPad 5, das in Ihrem Onlineshop erstanden wurde
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,<br><br>ich habe vor kurzem ein Lenovo IdeaPad 5 in Ihrem Onlineshop erworben und habe Schwierigkeiten, die eine Bearbeitung der Garantie notwendig machen. Bitte unterstützen Sie mich dabei, dieses Anliegen so rasch wie möglich zu klären.<br><br>Mit freundlichen Grüßen,<br><name><br>Kundennummer: <acc_num><br>Telefonnummer: <tel_num>
+Customer Service answer: Sehr geehrte/r [Name],<br><br>Vielen Dank für Ihre Kontaktaufnahme. Es tut uns leid zu hören, dass Sie Probleme mit Ihrem Lenovo IdeaPad 5 haben. Könnten Sie uns bitte genauere Informationen zu dem aufgetretenen Problem zukommen lassen? Dies würde uns helfen, Ihnen besser und schneller zur Seite zu stehen.<br><br>Mit besten Grüßen,<br>Kundenservice

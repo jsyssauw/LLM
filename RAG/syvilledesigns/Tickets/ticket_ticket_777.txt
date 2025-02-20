@@ -1,0 +1,26 @@
+Ticket ID: ticket_777
+Subject: Urgente: Interrupção de Rede - Roteador Cisco ISR4331
+Incident Type: Problem
+Customer Issue: Prezado Suporte ao Cliente,
+
+Estou escrevendo para relatar uma interrupção de rede de alta prioridade que está afetando atualmente nossos serviços empresariais. Esse problema parece estar ligado ao nosso Roteador Cisco ISR4331, que requer solução de problemas e restauração imediatas. A interrupção está impactando significativamente nossas operações diárias, e assistência oportuna é necessária para resolvê-lo o mais rápido possível.
+
+Por favor, priorize este pedido e nos informe quais etapas precisamos seguir para acelerar o processo de resolução.
+
+Obrigado pela sua rápida atenção a este assunto.
+
+Atenciosamente,
+
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato sobre a interrupção de rede com seu Roteador Cisco ISR4331. Entendemos a urgência e o impacto em seus serviços empresariais. Nossa equipe de suporte está priorizando sua solicitação e começará a solução de problemas imediatamente.
+
+Por favor, certifique-se de que o roteador esteja acessível remotamente e compartilhe quaisquer códigos de erro adicionais, se disponíveis. Um especialista técnico entrará em contato com você em breve pelo número de telefone fornecido <tel_num> para orientá-lo sobre as etapas preliminares e atualizações.
+
+Sua paciência é muito apreciada enquanto trabalhamos rapidamente para restaurar seus serviços.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

@@ -1,0 +1,18 @@
+Ticket ID: ticket_2447
+Subject: Solicitação de Atualização da Integração de Faturamento e Otimização do Fluxo de Trabalho
+Incident Type: Change
+Customer Issue: Caro time de Suporte de Serviços de TI,
+
+Estou entrando em contato a respeito da minha recente solicitação para atualizar a integração de faturamento dentro da administração do servidor e otimizar o fluxo de trabalho das nossas soluções de TI. Atualmente estamos utilizando seu Serviço de Consultoria de TI.
+
+Obrigado.
+
+Atenciosamente,
+<name>
+Número da Conta: <acc_num>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato. Iremos prosseguir com a atualização da integração de faturamento e a otimização do fluxo de trabalho de suas soluções de TI, conforme solicitado. Nossa equipe entrará em contato com você em breve para mais detalhes.
+
+Atenciosamente,
+Equipe de Suporte de Serviços de TI

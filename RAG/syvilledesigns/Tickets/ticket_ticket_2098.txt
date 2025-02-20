@@ -1,0 +1,28 @@
+Ticket ID: ticket_2098
+Subject: Urgent Troubleshooting Request for Cisco Router ISR4331
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I am writing to report a network connectivity issue affecting our Cisco Router ISR4331. This problem is critical and requires urgent troubleshooting to restore enterprise-level connectivity. The issue has disrupted our daily operations, and we are keen to get this resolved at the earliest. Please advise on the next steps to diagnose and fix the problem or if remote assistance is available. 
+
+Thank you for your prompt attention to this matter. 
+
+Best regards,
+
+<name>
+Customer Service answer: Subject: Re: Urgent Troubleshooting Request for Cisco Router ISR4331
+
+Dear <name>,
+
+Thank you for reaching out regarding the network issue with your Cisco Router ISR4331. To begin troubleshooting, please try the following steps:
+
+1. Power cycle the router by turning it off, waiting for 30 seconds, then turning it back on.
+2. Check all physical connections to ensure they are secure.
+3. Access the router's configuration interface and verify network settings.
+
+If the issue persists, please provide any error messages or LED light sequences displayed. We can arrange for remote assistance if further analysis is needed. Please let us know your availability for a support session.
+
+We understand the importance of resolving this swiftly and are here to assist you.
+
+Best regards,
+Customer Support Team

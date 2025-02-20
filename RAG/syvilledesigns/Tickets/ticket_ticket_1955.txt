@@ -1,0 +1,22 @@
+Ticket ID: ticket_1955
+Subject: Hohe Priorität: Systemabsturz beim Zugriff auf Scrum-Boards
+Incident Type: Incident
+Customer Issue: Sehr geehrtes Kundenserviceteam, ich hoffe, diese Nachricht erreicht Sie wohl. Ich schreibe, um Ihre Aufmerksamkeit auf ein dringendes Problem zu lenken, das wir mit Ihrer Jira-Softwareversion 8.20 haben. Es scheint, dass unsere Scrum-Boards ständig Systemabstürze verursachen, was die Produktivität unseres Teams erheblich beeinträchtigt. Das Problem tritt immer dann auf, wenn wir versuchen, auf die Boards zuzugreifen, und es geschieht unabhängig davon, welcher Benutzer die Aktion ausführt. Dieses hochpriorisierte Problem benötigt sofortige Aufmerksamkeit, da es unsere Projektverfolgungsmöglichkeiten zum Stillstand gebracht hat. Könnten Sie bitte dieses Ticket priorisieren und diesen Systemabsturz dringend behandeln? Unser Team ist stark auf Jira angewiesen, um Entwicklungsaufgaben zu verwalten, und diese Störung war eher nachteilig. Wir bitten um eine vorübergehende Lösung, wenn möglich, während eine dauerhafte Lösung in Arbeit ist. Darüber hinaus würden wir alle diagnostischen Schritte zu schätzen wissen, die wir unsererseits unternehmen könnten, um das Problem weiter zu diagnostizieren. Wir haben sichergestellt, dass unsere Umgebung alle erforderlichen Spezifikationen erfüllt und keine Konflikte mit Drittanbieter-Plugins bestehen. Bitte finden Sie unsere Kontodaten und spezifischen Fehlermeldungen dieser E-Mail für Ihre Referenz angehängt. Kontaktieren Sie mich unter meiner direkten Durchwahl <tel_num> für irgendwelche Klarstellungen oder weitere Updates zu diesem Thema. Vielen Dank für Ihre schnelle Aufmerksamkeit auf dieses dringende Problem. Wir freuen uns auf Ihre zügige Lösung. Mit freundlichen Grüßen, <name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns bezüglich der Systemabstürze, die Sie bei der Jira-Softwareversion 8.20 erleben, kontaktiert haben. Wir verstehen die Dringlichkeit dieser Angelegenheit und sind bestrebt, sie schnell zu lösen.
+
+Unser technisches Team hat dieses Problem bereits priorisiert und wird gewissenhaft daran arbeiten, eine Lösung zu finden. In der Zwischenzeit empfehlen wir folgende vorläufige Schritte zur Minderung der Auswirkungen:
+
+1. **Cache und Cookies löschen:** Manchmal kann das Löschen des Caches und der Cookies Ihres Browsers helfen, Abstürze zu verhindern.
+2. **Browser-Update:** Stellen Sie sicher, dass Ihr Browser auf dem neuesten Stand ist.
+3. **Alternativer Zugriff:** Versuchen Sie, auf die Scrum-Boards über einen anderen Browser oder ein anderes Gerät zuzugreifen.
+
+Wir entwickeln eine vorübergehende Lösung und werden Sie umgehend informieren, sobald sie verfügbar ist. Unser Team hat eine detaillierte Überprüfung der von Ihnen bereitgestellten Fehlermeldungen initiiert, um die Ursache zu identifizieren und eine dauerhafte Lösung umzusetzen. 
+
+Für weitere Updates oder wenn zusätzliche Klarstellungen erforderlich sind, werde ich Sie direkt unter Ihrer angegebenen Linie <tel_num> kontaktieren. 
+
+Vielen Dank für Ihre Geduld und Zusammenarbeit.
+
+Mit freundlichen Grüßen,
+Kundenserviceteam

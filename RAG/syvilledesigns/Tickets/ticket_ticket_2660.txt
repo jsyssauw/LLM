@@ -1,0 +1,5 @@
+Ticket ID: ticket_2660
+Subject: Urgent : Impossible d'accéder à mon compte Microsoft Office 365 suite à la réinitialisation du mot de passe
+Incident Type: Request
+Customer Issue: Je ne parviens pas à accéder à mon compte Microsoft Office 365 après avoir changé mon mot de passe. Merci de m'aider.
+Customer Service answer: Merci d'essayer de réinitialiser à nouveau votre mot de passe. Si le problème continue, veuillez contacter le support directement.

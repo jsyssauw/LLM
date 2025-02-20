@@ -1,0 +1,14 @@
+Ticket ID: ticket_2430
+Subject: Billing Discrepancy Query
+Incident Type: Request
+Customer Issue: Dear Customer Support, I am reaching out to request clarification regarding a billing discrepancy for my recent purchase of the Dell XPS 13 9310 on your website. My invoice displays a different amount than what was initially shown at checkout. Could you please review the details of my order and provide an explanation for this variation? I would appreciate your prompt assistance in resolving this matter. Thank you for your support. Best regards, <name>, <acc_num>.
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the billing discrepancy with your Dell XPS 13 9310 purchase. We apologize for any confusion this may have caused. Please rest assured, we are looking into your order details.
+
+To facilitate a swift resolution, could you please confirm the invoice number or any additional transaction information? Once received, we will investigate and provide you with an explanation for the amount variation.
+
+We appreciate your patience and are committed to resolving this promptly.
+
+Best regards,
+Customer Support Team

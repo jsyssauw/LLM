@@ -1,0 +1,27 @@
+Ticket ID: ticket_3480
+Subject: Consulta sobre estrategias de optimización de costos de AWS
+Incident Type: Problem
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Estoy escribiendo para preguntar sobre la optimización de los costos de uso de nuestra nube AWS y hacer ajustes para mejorar el equilibrio entre rendimiento y eficiencia de costos. Hemos estado utilizando el Servicio de Gestión de Amazon AWS y estamos interesados en sus recomendaciones sobre las mejores prácticas. ¿Podrían proporcionar información o estrategias disponibles para ayudar a reducir nuestros costos sin comprometer el rendimiento que requerimos? Espero su asesoría experta para lograr resultados óptimos. Por favor, háganos saber si necesitan más información de nuestra parte.
+
+Gracias,
+
+<name>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por contactarnos sobre la optimización de costos de AWS. Aquí hay algunas estrategias a considerar:
+
+1. **Dimensionar adecuadamente las instancias**: Analiza el uso actual de tus instancias y disminuye o aumenta según las necesidades reales de rendimiento.
+2. **Utilizar instancias reservadas**: Comprométete a un término de uno o tres años para ciertas instancias para recibir una tarifa con descuento.
+3. **Aprovechar las instancias Spot**: Utiliza la capacidad sobrante de AWS a precios reducidos para cargas de trabajo flexibles.
+4. **Implementar autoescalado**: Ajusta automáticamente los recursos de cómputo con los cambios en la demanda.
+5. **Optimizar el almacenamiento**: Transición a clases de almacenamiento apropiadas para datos a los que se accede infrecuentemente.
+6. **Monitorear y analizar**: Utiliza AWS Cost Explorer y Trusted Advisor para monitorear continuamente el gasto.
+7. **Usar planes de ahorro**: Comprométete a un uso constante en EC2, Lambda o Fargate para obtener más descuentos.
+
+Por favor, háganos saber si necesitan un análisis más profundo de su cuenta o recomendaciones de servicios específicos. Estamos aquí para ayudarle further.
+
+Atentamente,
+
+Equipo de Service Desk

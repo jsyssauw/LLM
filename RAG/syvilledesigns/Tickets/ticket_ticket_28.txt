@@ -1,0 +1,29 @@
+Ticket ID: ticket_28
+Subject: Problemas intermitentes de exibição após atualização de firmware
+Incident Type: Problem
+Customer Issue: Caro Suporte ao Cliente,
+
+ Estou entrando em contato para relatar um problema com meu Samsung QLED QN90A que comprei em sua loja. Após a recente atualização de firmware, estou enfrentando problemas intermitentes de exibição. A tela às vezes pisca e às vezes perde o sinal completamente, o que prejudica significativamente minha experiência de visualização.
+
+ Esses problemas começaram a ocorrer imediatamente após a atualização de firmware, sugerindo uma possível causa. Tentei solucionar o problema verificando todas as conexões e reiniciando a TV para as configurações de fábrica, mas o problema persiste.
+
+ Você poderia me fornecer orientações sobre como resolver isso ou me informar os próximos passos? Se um retrocesso de firmware ou uma correção estiver disponível, isso seria extremamente útil para recuperar a funcionalidade total da minha TV.
+
+ Obrigado antecipadamente pela sua assistência. Aguardo uma solução rápida.
+
+ Atenciosamente,
+
+ <name>
+ <email>
+ <tel_num>
+Customer Service answer: Caro <name>,
+
+ Obrigado por entrar em contato e pela sua paciência. Lamentamos saber sobre os problemas de exibição após a atualização de firmware em sua Samsung QLED QN90A.
+
+ Para resolver isso, por favor, assegure-se de que o software da sua TV esteja atualizado com os últimos patches do site de suporte da Samsung. Se o problema persistir, recomendamos um retrocesso de firmware, se disponível, com o qual podemos ajudá-lo. Além disso, nosso centro de serviços pode diagnosticar e resolver o problema, se necessário.
+
+ Entre em contato conosco pelo <tel_num> ou visite o centro de serviços mais próximo com o comprovante de compra. Pedimos desculpas pelo inconveniente e estamos comprometidos em resolver isso rapidamente.
+
+ Atenciosamente,
+
+ Equipe de Suporte ao Cliente

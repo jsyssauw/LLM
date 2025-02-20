@@ -1,0 +1,19 @@
+Ticket ID: ticket_256
+Subject: Solicitud de Soporte de Alta Prioridad para la Optimización de AWS
+Incident Type: Request
+Customer Issue: Estimado Soporte de Servicios de TI,
+
+Me estoy poniendo en contacto para solicitar soporte técnico de alta prioridad para optimizar nuestra implementación de la nube de AWS. Nuestro objetivo es mejorar la gestión de costos y aumentar el rendimiento utilizando su Servicio de Gestión de AWS. Agradeceríamos inmensamente su asistencia oportuna para resolver este asunto y asegurar operaciones ininterrumpidas.
+
+Gracias de antemano,
+
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerse en contacto para solicitar soporte de alta prioridad para la optimización de su AWS. Entendemos la importancia de una gestión de costos efectiva y la mejora del rendimiento para sus operaciones. Nuestro equipo está comprometido a proporcionarle la asistencia técnica necesaria de manera rápida y eficiente. Un especialista en soporte se pondrá en contacto con usted en breve para discutir sus necesidades y comenzar el proceso de optimización.
+
+Gracias por elegir nuestros servicios.
+
+Atentamente,
+Soporte de Servicios de TI

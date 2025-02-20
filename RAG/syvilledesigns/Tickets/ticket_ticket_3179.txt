@@ -1,0 +1,32 @@
+Ticket ID: ticket_3179
+Subject: Exchange Request for Canon PIXMA MG3620 Due to Print Quality Issues
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Support Team,
+
+I am writing to request an exchange for a recently purchased Canon PIXMA MG3620 wireless printer, which has been experiencing print quality issues. Upon setup and initial use, I noticed that the printouts are consistently banded and have faded colors, affecting the overall quality of the printed materials. This has persisted despite following all recommended troubleshooting steps, including re-aligning the printhead and cleaning the nozzles.
+
+I purchased the printer through your online store using account number <acc_num> on September 18th, and it arrived on September 22nd. I would appreciate if you could facilitate an exchange for a new unit as soon as possible, as I rely on this printer for daily work tasks. Please let me know how to proceed with the return and any details regarding shipment or additional documentation that might be required.
+
+Thank you for addressing this matter promptly. I look forward to your quick response.
+
+Regards,
+
+<name>
+
+Contact: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this to our attention. We apologize for the inconvenience caused by the print quality issues with your Canon PIXMA MG3620 printer.
+
+To proceed with an exchange, please follow these steps:
+
+1. Pack the printer securely in its original packaging, if available, including all accessories.
+2. Use your original email confirmation or account number <acc_num> for reference.
+3. Await an email from us with a pre-paid return shipping label and further instructions.
+
+Once we receive the returned unit, we will promptly send out a new printer. If you have any further questions or need assistance, please contact us with your phone number <tel_num> or reply to this email.
+
+We appreciate your patience and understanding.
+
+Best regards,
+Tech Online Store Support Team

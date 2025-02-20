@@ -1,0 +1,15 @@
+Ticket ID: ticket_1791
+Subject: Immediate Assistance Required: Charging Problems with MacBook Air M1 Bought from Your Online Shop
+Incident Type: Change
+Customer Issue: Hello Customer Support Team,
+
+I recently bought a MacBook Air M1 from your online shop and I'm facing serious difficulties with charging the device. I've tried all the troubleshooting steps but the issue continues. Could you offer your help in resolving this situation as soon as possible?
+
+Thank you,
+<name>
+Customer Service answer: Hello <name>,
+
+Thank you for reaching out to us. We apologize for the inconvenience caused by the charging issue with your MacBook Air M1. Please send us your order number along with any error messages you've encountered. As soon as we receive this information, we will prioritize your request.
+
+Kind regards,
+Customer Support Team

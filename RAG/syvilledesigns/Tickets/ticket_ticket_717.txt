@@ -1,0 +1,36 @@
+Ticket ID: ticket_717
+Subject: Assistance Required for Azure Storage Configuration
+Incident Type: Incident
+Customer Issue: Dear IT Services Customer Support Team,
+
+I hope this message finds you well. My name is <name>, and I am currently managing our IT infrastructure that heavily relies on your Azure Solutions. We are experiencing some challenges with configuring the permissions for our Azure storage account, specifically aiming to optimize our workflow and enhance our team's operational efficiency.
+
+We have attempted to adjust the permissions settings to align with our project requirements but have encountered unexpected issues. These issues have resulted in restricted access for certain team members, which is impacting our project timelines. We urgently require guidance to properly configure these settings to ensure seamless collaboration within our team.
+
+If necessary, we are available for a scheduled consultation or remote assistance session at your earliest convenience. We seek your expertise to identify the proper permission settings that will suit our organization's needs while keeping security paramount.
+
+Please let us know the next steps to proceed, and if you require additional information to further assist us. You can reach me directly at <tel_num> or respond to this email, and I will ensure a timely reply.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding your Azure storage configuration issues. We understand the importance of optimizing your workflow and ensuring seamless collaboration within your team.
+
+To address the permissions and access concerns you are experiencing, we recommend the following steps as an initial approach:
+
+1. Check if role-based access control (RBAC) has been properly configured for your team members to ensure they have the correct permissions.
+2. Verify if any conflicting permissions might be causing restricted access issues.
+3. Use Azure's Access Control (IAM) module to fine-tune and align the permissions with your project requirements.
+
+We can certainly schedule a consultation or remote assistance session to provide more in-depth guidance tailored to your specific needs. Please propose a few convenient times for you, and we will do our best to accommodate.
+
+Feel free to share any additional information or specific examples of the issues you have encountered, which will help us assist you more effectively.
+
+Looking forward to resolving this promptly.
+
+Best regards,
+
+IT Services Customer Support Team

@@ -1,0 +1,29 @@
+Ticket ID: ticket_1848
+Subject: Problemas de Login com o Office 365
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente da Tech Online Store,
+
+Estou escrevendo para relatar um problema de login com a minha conta do Microsoft Office 365. Não consigo acessar meus e-mails e serviços em nuvem devido a esse problema, o que tem afetado meu trabalho. Verifiquei minhas credenciais e estão corretas. Apesar disso, o problema persiste.
+
+Você poderia, por favor, me ajudar a resolver essa questão com urgência? Meu nome de usuário da conta é <name>, e meu número de conta é <acc_num>. Além disso, se necessário, sinta-se à vontade para me contatar pelo <tel_num>.
+
+Obrigado pela sua atenção rápida a este problema.
+
+Atenciosamente,
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato com o Suporte ao Cliente da Tech Online Store sobre o seu problema de login do Office 365. Eu entendo a urgência e inconveniência que isso está causando.
+
+Primeiro, por favor, tente limpar o cache e os cookies do seu navegador, ou tente fazer login usando um navegador ou dispositivo diferente. Certifique-se de que as opções de preenchimento automático não estão populando informações incorretas.
+
+Se o problema persistir, recomendo redefinir sua senha através do processo de Recuperação de Conta da Microsoft. Se isso não resolver o problema, pode haver uma interrupção temporária do serviço ou um problema específico da sua conta.
+
+Anotei os detalhes da sua conta, mas, por razões de segurança, não os compartilhe mais. Podemos exigir uma verificação adicional, que iremos guiá-lo de forma segura.
+
+Se necessário, você também pode entrar em contato diretamente com o Suporte da Microsoft para uma resolução mais imediata através do seu centro de administração do Office 365, dada a natureza crítica da sua conta.
+
+Por favor, me avise como esses passos prosseguem ou se for necessário mais assistência.
+
+Atenciosamente,
+Suporte ao Cliente da Tech Online Store

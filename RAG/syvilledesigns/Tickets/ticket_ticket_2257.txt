@@ -1,0 +1,23 @@
+Ticket ID: ticket_2257
+Subject: IntelliJ IDEA 2024.1 se cierra después de la actualización
+Incident Type: Incident
+Customer Issue: Estimado Soporte al Cliente, estoy escribiendo para informar sobre un problema con IntelliJ IDEA 2024.1, que ha estado experimentando cierres recurrentes después de la reciente actualización. Este problema está afectando significativamente mis tareas de desarrollo en Java, ya que la aplicación se vuelve no receptiva y se cierra inesperadamente. Dependo en gran medida de IntelliJ IDEA para mis proyectos, y este problema está causando retrasos. ¿Podrían investigar este asunto y proporcionar una solución o una alternativa a la brevedad posible? Mi ID de desarrollador es <dev_id>. Gracias por su pronta atención a esta importante preocupación. Saludos, <name>
+Customer Service answer: Asunto: RE: IntelliJ IDEA 2024.1 se cierra después de la actualización
+
+Estimado <name>,
+
+Gracias por comunicarte con nosotros. Lamentamos los inconvenientes causados por los cierres en IntelliJ IDEA 2024.1. Nuestro equipo está al tanto del problema y se está investigando con alta prioridad.
+
+Mientras tanto, por favor intenta los siguientes pasos para resolver el problema:
+1. Limpia la caché a través de Archivo > Invalidate Caches / Restart.
+2. Desactiva los complementos que no sean esenciales para tu proyecto actual.
+3. Verifica si hay actualizaciones de parches en el sitio web de JetBrains.
+
+También podrías considerar volver a la versión estable anterior, si los pasos anteriores no ayudan.
+
+Si el problema persiste, por favor comparte cualquier registro de errores si está disponible, o proporciona más detalles sobre cuándo ocurren los cierres. Esta información nos ayudará a diagnosticar el problema de manera efectiva.
+
+Agradecemos tu paciencia y comprensión. Por favor háznos saber si las soluciones proporcionadas ayudan o si se necesita más asistencia.
+
+Saludos cordiales,
+Equipo de Soporte al Cliente

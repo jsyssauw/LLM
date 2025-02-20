@@ -1,0 +1,10 @@
+Ticket ID: ticket_2648
+Subject: Urgente: Problema de Energia do Laptop
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Recentemente comprei um Dell XPS 13 9310 na sua loja online. Infelizmente, ele não está ligando. Por favor, forneça uma solução urgente para resolver este problema rapidamente.
+
+Obrigado,
+<name>
+Customer Service answer: Caro <name>, por favor, tente reiniciar o laptop desconectando todos os periféricos e segurando o botão de energia por 30 segundos. Se o problema persistir, entre em contato com nosso suporte pelo <tel_num> para mais assistência.

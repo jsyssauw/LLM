@@ -1,0 +1,15 @@
+Ticket ID: ticket_1750
+Subject: MacBook Air M1 defectuoso
+Incident Type: Problem
+Customer Issue: Estimado Servicio al Cliente,
+
+Recientemente recibí un MacBook Air M1 defectuoso de su tienda. La pantalla parpadea constantemente y el teclado no funciona. Mi número de cuenta es <acc_num>. Por favor, indíqueme cómo proceder con un reemplazo o reembolso.
+
+Gracias,
+<name>
+Customer Service answer: Estimado <name>,
+
+Lamentamos escuchar sobre los problemas con su MacBook Air M1. Por favor, visite la tienda más cercana con su dispositivo y el comprobante de compra. Alternativamente, comuníquese con nosotros al <tel_num> para obtener asistencia con un reemplazo o reembolso. Pedimos disculpas por las molestias.
+
+Saludos,
+Servicio al Cliente

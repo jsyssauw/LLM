@@ -1,0 +1,16 @@
+Ticket ID: ticket_3747
+Subject: nan
+Incident Type: Incident
+Customer Issue: Hello <name>,
+
+I recently faced a problem while trying to install Windows 11 Pro on my computer. The installation did not succeed, and I am uncertain about the next steps to take. I would greatly appreciate your assistance in addressing this matter.
+
+Best regards,
+<name>
+Account Number: <acc_num>
+Customer Service answer: Hello [Name],
+
+I'm sorry to learn that you're having difficulties with the installation of Windows 11 Pro. Kindly verify that your system fulfills the minimum requirements for Windows 11. If it does, consider re-downloading the installation media. For additional support, please reach out to our customer service team at [support email/number].
+
+Best wishes,
+[Your Name]

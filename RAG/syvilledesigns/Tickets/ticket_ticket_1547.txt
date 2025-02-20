@@ -1,0 +1,5 @@
+Ticket ID: ticket_1547
+Subject: Dringend: Hilfe erforderlich bei Papierstausituation mit HP DeskJet 3755 Drucker
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundendienst, ich habe ein Problem mit einem Papierstau in meinem HP DeskJet 3755 Drucker. Ich bitte um Ihre Unterstützung so schnell wie möglich. Mit besten Grüßen, <name>.
+Customer Service answer: Sehr geehrte/r <Name>, um das Anliegen des Papierstaus in Ihrem HP DeskJet 3755 zu lösen, schalten Sie bitte den Drucker aus, entfernen Sie vorsichtig das blockierte Papier und starten Sie den Drucker anschließend neu. Bitte wenden Sie sich an uns, falls das Problem weiterhin besteht.

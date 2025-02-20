@@ -1,0 +1,5 @@
+Ticket ID: ticket_104
+Subject: Orientación sobre servicios de TI
+Incident Type: Request
+Customer Issue: El cliente busca orientación sobre administración de servidores y soluciones de TI.
+Customer Service answer: ¡Claro! Para orientación sobre administración de servidores y soluciones de TI, contáctese con nuestro equipo de soporte de TI al <tel_num> o visite nuestro sitio web.

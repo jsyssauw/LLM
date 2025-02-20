@@ -1,0 +1,22 @@
+Ticket ID: ticket_477
+Subject: Assistance with Samsung QLED Setup
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+I need help setting up my new Samsung QLED QN90A Smart TV and connecting it to Wi-Fi. Could you please provide guidance or recommend any specific steps or resources? Thank you for your assistance.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+To set up your Samsung QLED QN90A Smart TV and connect it to Wi-Fi, follow these steps:
+
+1. Turn on your TV and follow the on-screen setup prompts.
+2. Go to Settings > General > Network.
+3. Select Network Settings > Wireless.
+4. Choose your Wi-Fi network, enter the password, and connect.
+
+For detailed instructions, visit the Samsung support website or refer to the user manual. If you face any issues, feel free to contact us.
+
+Best regards,
+Customer Support Team

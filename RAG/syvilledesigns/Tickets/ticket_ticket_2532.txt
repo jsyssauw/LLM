@@ -1,0 +1,35 @@
+Ticket ID: ticket_2532
+Subject: Connectivity Issue with Printer
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I am writing to express my concerns regarding an issue I've been experiencing with my Canon PIXMA MG3620 wireless printer. Despite multiple attempts, my devices fail to establish a stable connection with the printer, thus hindering my ability to successfully execute mobile printing tasks. Considering the pivotal role this printer plays in my daily activities, this issue has been quite an inconvenience.
+
+I have ensured that my wireless network is operational and that the printer is within range. Unfortunately, even after restarting both the printer and my mobile devices, the connectivity problem persists. Additionally, I have consulted the printer’s manual and troubleshooting guide, attempting to resolve the issue on my own to no avail.
+
+I kindly request your guidance regarding this situation, as the lack of stable connectivity is quite disruptive. Please let me know if there are specific steps or settings I should try or if a software update is necessary. I am available for further troubleshooting assistance at your earliest convenience.
+
+Thank you for addressing my concern. I look forward to your prompt response.
+
+Best regards,
+
+<name>
+<tel_num>
+<email_address>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us about your Canon PIXMA MG3620 connectivity issue. Please try the following steps:
+
+1. Reboot your router to refresh the network connection.
+2. Ensure your printer's firmware is up to date. You can check Canon's support site for the latest updates.
+3. Verify the printer and mobile devices are connected to the same Wi-Fi network.
+4. Disable any VPNs or firewalls temporarily and attempt reconnection.
+5. Try using Canon's mobile printing app, if not already in use, for a streamlined setup.
+6. Reset the network settings of the printer and then reconfigure them.
+
+If the issue persists, it might require a closer inspection. Please provide the details of any error messages you see, or feel free to reach out for further assistance. 
+
+Looking forward to resolving this issue promptly for you.
+
+Best regards,
+Tech Online Store Customer Support

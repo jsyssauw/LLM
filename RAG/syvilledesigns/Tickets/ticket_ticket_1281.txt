@@ -1,0 +1,10 @@
+Ticket ID: ticket_1281
+Subject: Rapport concernant une publicité trompeuse
+Incident Type: Change
+Customer Issue: Bonjour, service clientèle. Je viens d'acheter un Lenovo IdeaPad 5 en raison d'une annonce sur Internet, mais il semble que cela soit fallacieux. Pourriez-vous m'apporter votre aide pour régler ce souci ? Sincères salutations, <name>
+Customer Service answer: Bonjour [Nom],
+
+Nous vous remercions de votre prise de contact. Nous considérons les publicités mensongères avec la plus grande attention. Merci de nous fournir des informations précises ou des preuves de cette annonce, et nous procéderons à une enquête et vous apporterons rapidement notre assistance.
+
+Cordialement,
+Service clientèle

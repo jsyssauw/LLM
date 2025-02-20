@@ -1,0 +1,5 @@
+Ticket ID: ticket_1825
+Subject: Urgent : Besoin immédiat d'attention pour le souci de bourrage de papier signalé sur le Canon PIXMA MG3620
+Incident Type: Request
+Customer Issue: Bonjour, équipe de support, J'ai rencontré un problème de bourrage papier avec mon imprimante Canon PIXMA MG3620. Pourriez-vous me donner des conseils ? Bien à vous, <name>
+Customer Service answer: Bonjour <name>, Merci d'éteindre votre imprimante, de retirer avec précaution le papier bloqué, puis de la rallumer. N'hésitez pas à nous recontacter si le problème persiste. Sincèrement, Équipe de support

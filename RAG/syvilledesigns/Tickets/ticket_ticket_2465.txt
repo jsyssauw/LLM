@@ -1,0 +1,15 @@
+Ticket ID: ticket_2465
+Subject: Problème intermittent de l'écran tactile avec le Surface Pro 7
+Incident Type: Incident
+Customer Issue: Cher service clientèle,
+
+J'éprouve un problème avec mon Microsoft Surface Pro 7 où l'écran tactile devient intermittently non répondant. Le redémarrage de l'appareil résout temporairement le problème. Pourriez-vous m'aider à fournir une solution permanente ?
+
+Cordialement,
+<name>
+Customer Service answer: Cher <name>,
+
+Désolé d'apprendre le problème avec votre Surface Pro 7. Veuillez mettre à jour vos pilotes de périphériques et Windows vers la dernière version. Si le problème persiste, envisagez une réinitialisation du système ou contactez-nous pour des diagnostics supplémentaires.
+
+Cordialement,
+Service clientèle

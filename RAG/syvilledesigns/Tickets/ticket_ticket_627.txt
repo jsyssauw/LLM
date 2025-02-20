@@ -1,0 +1,5 @@
+Ticket ID: ticket_627
+Subject: Billing Error Assistance
+Incident Type: Request
+Customer Issue: Hello, I noticed a billing error concerning my recent purchase of the HP DeskJet 3755 printer. My account number is <acc_num>. Could you please assist me in resolving this issue?
+Customer Service answer: Hello, thank you for reaching out. I apologize for any inconvenience caused by the billing error related to your HP DeskJet 3755 printer purchase. Please rest assured, we are here to assist you. I have forwarded your concern to our billing team, and they will contact you shortly to resolve this issue. If you have any further questions, feel free to let us know.

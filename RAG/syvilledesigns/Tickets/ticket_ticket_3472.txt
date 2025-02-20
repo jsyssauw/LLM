@@ -1,0 +1,28 @@
+Ticket ID: ticket_3472
+Subject: Request to Update Purchase Information - MacBook Air M1
+Incident Type: Change
+Customer Issue: Dear Tech Online Store Customer Support,
+
+I hope this message finds you well. I am writing to request a change in information related to a recent purchase I made through your store. I recently ordered a MacBook Air M1, and I would like to update the delivery address associated with this purchase. The current address on file is no longer accurate due to a recent move.
+
+Could you please update the delivery address to the following: <new_address>? My order number is <order_num>. If any additional information is necessary to process this request, please let me know at your earliest convenience.
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+<tel_num>
+<email>
+Customer Service answer: Subject: Re: Request to Update Purchase Information - MacBook Air M1
+
+Dear <name>,
+
+Thank you for reaching out to us. We have received your request to update the delivery address for your MacBook Air M1 order. Please be assured that we will process this change promptly.
+
+If there are any additional details we need, we will contact you using the provided information. Please make sure that <new_address>, <order_num>, and your contact details are accurate.
+
+Thank you for choosing Tech Online Store. If you have any further questions, feel free to ask.
+
+Best regards,
+Tech Online Store Customer Support Team

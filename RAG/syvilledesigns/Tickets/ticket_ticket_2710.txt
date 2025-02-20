@@ -1,0 +1,27 @@
+Ticket ID: ticket_2710
+Subject: Request for Product Exchange Due to Connectivity Issues
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Support Team,
+
+I hope this message finds you well. I am writing to request an exchange for my Canon PIXMA MG3620 printer. I am experiencing significant wireless connectivity issues, which severely impacts its usage and my workflow. Despite following all troubleshooting steps outlined in the user manual, the problem persists.
+
+The printer frequently loses connection in the middle of print jobs, which is causing unnecessary delays. Given the circumstances and inconvenience faced, I kindly request an exchange for this product.
+
+Please let me know the procedure to initiate this process. My account number is <acc_num>, and you can reach me at <tel_num> for any further information.
+
+Thank you for your attention to this matter.
+
+Regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us about the issues with your Canon PIXMA MG3620 printer. We apologize for the inconvenience caused by the connectivity problems.
+
+To initiate an exchange, please visit our website under the "Returns & Exchanges" section or use the return label included with your original purchase. You will need to provide your original order details and the account number <acc_num> to proceed.
+
+If you need further assistance or have additional questions, feel free to contact us at <tel_num>.
+
+We appreciate your patience and understanding.
+
+Best regards,
+Tech Online Store Support Team

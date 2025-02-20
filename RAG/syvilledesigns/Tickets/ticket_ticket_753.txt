@@ -1,0 +1,10 @@
+Ticket ID: ticket_753
+Subject: nan
+Incident Type: Change
+Customer Issue: Sehr geehrter Kundenservice, ich habe bei meiner letzten Bestellung einen beschädigten Dell XPS 13 9310 erhalten. Ich bitte um Informationen zu den Abläufen für einen Austausch oder eine Rückerstattung. Meine Bestellnummer ist <order_num>. Vielen Dank, <name>.
+Customer Service answer: Lieber <name>,
+
+ich entschuldige mich für die entstandenen Unannehmlichkeiten. Bitte senden Sie den defekten Dell XPS 13 9310 mit dem im Paket enthaltenen Rücksendeetikett zurück. Sobald wir das Gerät erhalten haben, werden wir entweder einen Austausch vornehmen oder eine Rückerstattung veranlassen.
+
+Mit besten Grüßen,
+Kundenservice

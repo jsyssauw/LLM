@@ -1,0 +1,29 @@
+Ticket ID: ticket_1960
+Subject: Persistente Abstürze bei der Verwendung von Adobe Photoshop 2024
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kunde des Tech Online Stores,
+
+ich hoffe, diese Nachricht trifft Sie wohl. Ich schreibe, um meine Bedenken über die häufigen Abstürze auszudrücken, die ich bei der Verwendung von Adobe Photoshop 2024 erlebe, das ich kürzlich über Ihren Online-Shop gekauft habe. Trotz der Aktualisierung der Software mit allen verfügbaren Patches bleibt das Problem während der Fotosessions bestehen. Diese Abstürze beeinträchtigen meine Produktivität und führen zu erheblichem Frust in meinem Arbeitsablauf. Ich bin unsicher, ob das Problem in der Software selbst oder in meiner Systemkonfiguration liegt. Bitte geben Sie Ratschläge zu möglichen Lösungen oder Schritten, um dieses Problem zu beheben. Jede Hilfe oder Anleitung, die Sie geben können, wäre sehr geschätzt, da ich bestrebt bin, dieses Anliegen so schnell wie möglich zu lösen.
+
+Vielen Dank für Ihre Aufmerksamkeit bezüglich dieses Problems.
+
+Mit freundlichen Grüßen,
+<name>
+<acc_num>
+
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie uns kontaktiert und dieses Problem zur Kenntnis gebracht haben. Wir verstehen, wie störend Softwareabstürze sein können. Hier sind einige Schritte, die Sie zur Lösung des Problems ausprobieren können:
+
+1. Stellen Sie sicher, dass Ihr System die Mindestanforderungen für Adobe Photoshop 2024 erfüllt.
+2. Aktualisieren Sie Ihren Grafiktreiber auf die neueste verfügbare Version.
+3. Überprüfen Sie, ob beschädigte Schriftarten oder kürzlich installierte Drittanbieter-Plugins die Stabilität beeinträchtigen.
+4. Führen Sie Photoshop als Administrator aus und prüfen Sie, ob dies die Leistung verbessert.
+5. Setzen Sie die Photoshop-Voreinstellungen zurück, indem Sie Alt+Strg+Umschalt (Windows) oder Option+Befehl+Umschalt (Mac) sofort nach dem Start von Photoshop drücken.
+
+Wenn das Problem weiterhin besteht, ziehen Sie in Betracht, Photoshop neu zu installieren oder sich direkt an den Adobe-Support zu wenden, da dieser möglicherweise weitere Erkenntnisse hat. Bitte bleiben Sie in Kontakt, falls Sie weitere Unterstützung von unserer Seite benötigen.
+
+Wir entschuldigen uns für die entstandenen Unannehmlichkeiten und sind hier, um Ihnen zu helfen, ein reibungsloses Erlebnis mit Ihrer Software zu ermöglichen.
+
+Mit besten Grüßen,
+Kundenservice des Tech Online Stores

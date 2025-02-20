@@ -1,0 +1,24 @@
+Ticket ID: ticket_555
+Subject: Assistência Necessária para Problemas Persistentes de Atolamento de Papel com Impressora Canon
+Incident Type: Problem
+Customer Issue: Prezado Suporte ao Cliente,
+
+Estou escrevendo para relatar problemas persistentes de atolamento de papel com minha impressora Canon PIXMA MG3620. O problema ocorre durante a impressão de documentação leve de checkout. Eu garanti que o papel não está sobrecarregado e também verifiquei se há obstruções visíveis. Apesar desses esforços, o problema persiste. Você poderia, por favor, me fornecer mais assistência ou sugerir alguns passos adicionais de solução de problemas? O número de série da minha impressora é <acc_num>.
+
+Obrigado pela sua pronta atenção a este assunto.
+
+Atenciosamente,
+<name>
+<tel_num>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato a respeito da sua Canon PIXMA MG3620. Entendo como os atolamentos de papel persistentes podem ser frustrantes. Aqui estão alguns passos adicionais de solução de problemas que talvez você não tenha tentado:
+
+1. Verifique se há detritos pequenos e ocultos dentro da impressora.
+2. Verifique se as configurações do tipo e tamanho do papel estão alinhadas com o papel que você está usando.
+3. Tente usar um lote/marca de papel diferente.
+
+Se o problema persistir, você pode precisar entrar em contato com o Suporte da Canon diretamente para mais assistência ou serviços.
+
+Atenciosamente,
+Suporte ao Cliente

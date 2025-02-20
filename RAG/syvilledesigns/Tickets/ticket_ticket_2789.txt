@@ -1,0 +1,28 @@
+Ticket ID: ticket_2789
+Subject: Wiederholte Abonnementprobleme mit Office 365
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kunde des Tech Online Stores,
+
+ich schreibe, um meine Frustration über die laufenden Abonnementprobleme mit meinem Microsoft Office 365-Konto, unter der Kontonummer <acc_num>, zum Ausdruck zu bringen. Unerwartet konnte ich auf Excel oder andere Office-Anwendungen nicht zugreifen, da sie alle gesperrt waren, was meine Produktivität erheblich beeinträchtigt hat. Obwohl mein Konto ein aktives Abonnement zeigt, erhalte ich ständig Pop-ups, die eine Abonnementaktivierung anfordern.
+
+Versuche, dieses Problem eigenständig zu lösen, einschließlich der Neuinstallation der Software und der Aktualisierung meiner Zahlungsdetails, waren erfolglos. Der Kundenservice wurde bereits zweimal kontaktiert, ohne dass eine effektive Lösung gefunden wurde.
+
+Da dieses Problem trotz meiner zahlreichen Bemühungen anhält, bitte ich um dringende Unterstützung, um mir so schnell wie möglich den vollen Zugriff wiederherzustellen. Bitte kontaktieren Sie mich per E-Mail unter <email> oder telefonisch unter <tel_num>, wenn Sie weitere Informationen benötigen, um dieses Problem effektiv zu lösen.
+
+Vielen Dank für Ihre dringende Aufmerksamkeit für dieses Problem.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+wir entschuldigen uns für die Unannehmlichkeiten, die durch die Abonnementprobleme mit Ihrem Microsoft Office 365-Konto verursacht wurden. Wir verstehen, wie störend dies für Ihre Produktivität war. Seien Sie versichert, dass wir uns verpflichtet haben, diese Angelegenheit umgehend zu klären.
+
+Ich habe Ihren Fall an unser technisches Team eskaliert, und sie werden eine gründliche Untersuchung durchführen. Bitte stellen Sie sicher, dass Ihr Computer mit dem Internet verbunden ist und Sie bei Ihrem Konto angemeldet sind, um die Verifizierung zu ermöglichen. Falls weitere Informationen benötigt werden, werden wir Sie per E-Mail oder Telefon unter <tel_num> kontaktieren.
+
+Wir schätzen Ihre Geduld und versichern Ihnen, dass wir intensiv daran arbeiten, dieses Problem so schnell wie möglich zu beheben.
+
+Vielen Dank für Ihre Zusammenarbeit.
+
+Mit freundlichen Grüßen,
+Tech Online Store Kundenservice

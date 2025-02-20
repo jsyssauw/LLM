@@ -1,0 +1,15 @@
+Ticket ID: ticket_1292
+Subject: nan
+Incident Type: Problem
+Customer Issue: Bonjour Support Client,
+
+Je rencontre des problèmes avec mon MacBook Air M1. Il se bloque fréquemment et s'éteint de manière aléatoire, perturbant mes tâches de travail. Veuillez me conseiller sur les étapes de dépannage ou les solutions possibles. Mon numéro de compte est <acc_num>.
+
+Cordialement,
+<name>
+Customer Service answer: Bonjour,
+
+Je suis désolé d'apprendre les problèmes avec votre MacBook Air M1. Veuillez essayer les étapes de dépannage suivantes : 1. Mettez à jour macOS vers la version la plus récente. 2. Redémarrez votre Mac en mode sans échec pour vérifier les conflits logiciels. 3. Réinitialisez le SMC (Contrôleur de gestion du système). Si le problème persiste, envisagez de contacter le support Apple ou de visiter un Apple Store pour obtenir une assistance supplémentaire. Faites-nous savoir si vous avez besoin de plus d'aide.
+
+Cordialement,
+Support Client

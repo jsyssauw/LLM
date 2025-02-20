@@ -1,0 +1,25 @@
+Ticket ID: ticket_1394
+Subject: AWS Management Service Problem
+Incident Type: Problem
+Customer Issue: Sehr geehrter IT-Dienste-Kundensupport,
+
+ich schreibe, um meine Besorgnis über mehrere Probleme hinsichtlich des AWS Management Service auszudrücken. Wir erleben Inkonsistenzen bei der Zuweisung von Cloud-Ressourcen und unerwarteten Kostensteigerungen. Diese Angelegenheit erfordert dringende Aufmerksamkeit, da sie unsere Betriebsabläufe beeinträchtigt. Wir benötigen eine Klarstellung zu den Gebühren, die unter unserem aktuellen Serviceplan nicht erwartet wurden. Bitte untersuchen Sie, warum es Diskrepanzen gibt, und stellen Sie uns so schnell wie möglich einen detaillierten Bericht zur Verfügung.
+
+Bitte zögern Sie nicht, mich direkt unter meiner Telefonnummer <tel_num> oder per E-Mail an <email> für eine weitere Diskussion zu kontaktieren.
+
+Ich freue mich auf Ihre schnelle Antwort.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich bezüglich der Probleme mit dem AWS Management Service an uns gewandt haben. Wir verstehen die Dringlichkeit und die Auswirkungen, die dies auf Ihre Betriebsabläufe hat. Unser Team untersucht bereits die Inkonsistenzen bei der Zuweisung von Cloud-Ressourcen und die unerwarteten Kostensteigerungen, die Sie erwähnt haben.
+
+Um Ihre Bedenken auszuräumen, werden wir eine gründliche Untersuchung durchführen und Ihnen einen detaillierten Bericht über die Diskrepanzen in Ihrem Serviceplan zur Verfügung stellen. Wir zielen darauf ab, die Gebühren zu klären und diese Angelegenheit schnell zu lösen.
+
+Für weitere Diskussionen werden wir Sie direkt unter der angegebenen Telefonnummer oder E-Mail kontaktieren. Vielen Dank für Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+
+IT-Dienste-Kundensupport

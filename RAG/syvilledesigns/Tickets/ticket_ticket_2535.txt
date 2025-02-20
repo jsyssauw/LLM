@@ -1,0 +1,15 @@
+Ticket ID: ticket_2535
+Subject: nan
+Incident Type: Request
+Customer Issue: Hola,
+
+Estoy experimentando fluctuaciones en mi estado de cuenta de AWS y necesito claridad sobre este asunto. Parece que está afectado por el uso cambiante de servicios y las actualizaciones de auto-escalado relacionadas con el Servicio de Gestión de AWS. ¿Puedes ayudarme a entender estos cambios?
+
+Gracias,
+<name>
+Customer Service answer: Hola <name>,
+
+Gracias por ponerte en contacto. Las fluctuaciones en tu estado de cuenta de AWS a menudo se deben a cambios dinámicos en el uso, particularmente con el auto-escalado y las actualizaciones de servicios. El auto-escalado puede ajustar el uso de recursos automáticamente según la demanda, impactando así tus costos. Te recomiendo revisar el panel de facturación en tu Consola de Gestión de AWS para obtener información detallada. Por favor, contáctanos si necesitas más ayuda o tienes consultas específicas.
+
+Saludos cordiales,
+Agente del Service Desk

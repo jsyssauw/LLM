@@ -1,0 +1,32 @@
+Ticket ID: ticket_3516
+Subject: Solicitud de soporte para problemas de sobrecalentamiento
+Incident Type: Incident
+Customer Issue: Estimado equipo de atención al cliente,
+
+Estoy escribiendo para informar un problema con mi Dell XPS 13 9310 recién adquirido, que ha estado experimentando problemas de rendimiento significativos debido al alto uso de CPU y sobrecalentamiento. Desde el día en que comencé a usar la computadora portátil, ha estado mostrando frecuentemente un aumento en la actividad de la CPU, incluso durante tareas que exigen una potencia computacional mínima, lo que lleva a apagados inesperados debido al sobrecalentamiento.
+
+Este problema de calentamiento está afectando gravemente mi eficiencia laboral al ralentizar el sistema y también ha causado varias pérdidas de datos no guardados. Compré este dispositivo en su tienda y estoy profundamente preocupado por estos problemas que ocurren en una compra tan reciente.
+
+He asegurado que todo el software esté actualizado y he realizado un mantenimiento de rutina, sin embargo, el problema persiste. Por lo tanto, me pongo en contacto para buscar su orientación y posible asistencia para resolver estos problemas. Por favor, háganme saber los siguientes pasos, ya sea que implique obtener un reemplazo o reparaciones.
+
+Gracias por su comprensión y atención rápida a mi problema. Espero su respuesta lo antes posible. Puedes contactarme en cualquier momento al <tel_num>.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto y por traer a nuestra atención el problema con tu Dell XPS 13 9310. Pedimos disculpas por los inconvenientes causados por el sobrecalentamiento y los problemas de rendimiento.
+
+Para ayudarte mejor, te recomendamos los siguientes pasos iniciales:
+1. Asegúrate de que haya una adecuada ventilación al usar el dispositivo y trata de usar la computadora portátil sobre una superficie dura.
+2. Verifica si hay aplicaciones en segundo plano que puedan estar consumiendo recursos de la CPU y cierra las innecesarias.
+3. Ejecuta un diagnóstico completo del sistema utilizando Dell SupportAssist para identificar cualquier problema de hardware.
+
+Si estos pasos no resuelven el problema, por favor trae tu computadora portátil a nuestro centro de servicio para una inspección más detallada. Dado tu reciente compra, podría cubrir las disposiciones de garantía para reparación o reemplazo. Asegúrate de tener tu recibo de compra disponible.
+
+Nuestro objetivo es resolver tu problema rápidamente, y puedes esperar un seguimiento de nuestro personal de soporte dentro de las próximas 24 horas. No dudes en contactarnos al <tel_num> para más asistencia.
+
+Atentamente,
+
+Equipo de atención al cliente

@@ -1,0 +1,33 @@
+Ticket ID: ticket_3178
+Subject: Urgent: Critical AWS Service Outage
+Incident Type: Change
+Customer Issue: Dear IT Services Support Team,
+
+I am writing to inform you about a high-priority ticket raised regarding a critical service outage within our AWS Management Service. Our cloud infrastructure operations are currently severely impacted, and this outage poses a significant threat to our business continuity and operational efficiency.
+
+We encountered this issue around 3 PM today, and since then, we have been facing substantial disruptions in handling our cloud infrastructure. Due to this outage, crucial operations dependent on AWS services are currently non-functional, affecting numerous team workflows and client-facing applications.
+
+We urge your immediate assistance in diagnosing this issue and providing a swift resolution to prevent any further impact on our operations. Timely intervention is essential to mitigate risks and resume normal operations promptly.
+
+Please find all relevant details attached to the ticket number <ticket_num>. Your prompt response to our situation would be greatly appreciated.
+
+Thank you for your urgent attention to this matter.
+
+Best regards,
+
+<name>
+<company_name>
+<tel_num>
+<email_address>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the critical outage in your AWS Management Service. We understand the urgency of the situation and the potential impact on your business operations.
+
+Our team is currently reviewing the details provided in ticket number <ticket_num> and prioritizing this issue to ensure a swift resolution. We are committed to diagnosing the cause of this outage and will keep you updated on our progress.
+
+Please rest assured that we are dedicated to restoring your services as quickly as possible to minimize disruption. For any immediate follow-ups or additional information, feel free to contact us directly.
+
+We appreciate your patience and cooperation.
+
+Best regards,
+IT Services Support Team

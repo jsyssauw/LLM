@@ -1,0 +1,10 @@
+Ticket ID: ticket_2298
+Subject: Billing Issue
+Incident Type: Problem
+Customer Issue: Hello Customer Support, I hope this message finds you well. I am writing to report an incorrect billing issue with my account <acc_num>, specifically concerning the AWS Management Service. It seems there are discrepancies between the charges and my actual usage, and I would appreciate a detailed clarification. Could you please provide a breakdown of the service usage and the corresponding charges? Please contact me at your earliest convenience at <tel_num>. Thank you for addressing this matter promptly. Best regards, <name>.
+Customer Service answer: Hello <name>,
+
+Thank you for reaching out. We apologize for any inconveniences you've faced with your billing. We will review the charges and usage on your account <acc_num> concerning the AWS Management Service. Please allow us 1-2 business days to provide you with a detailed breakdown and clarification. For any urgent queries, feel free to call us. 
+
+Best regards,  
+Customer Support Team

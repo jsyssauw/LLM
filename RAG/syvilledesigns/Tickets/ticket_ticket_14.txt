@@ -1,0 +1,26 @@
+Ticket ID: ticket_14
+Subject: Probleme mit der drahtlosen Funktion des Epson EcoTank ET-4760
+Incident Type: Incident
+Customer Issue: Hallo Support-Team,
+
+ich habe ein Problem mit meinem Epson EcoTank ET-4760 Drucker. Die drahtlose Druckfunktion funktioniert nicht. Ich habe alle im Benutzerhandbuch empfohlenen Fehlersuchemethoden versucht, aber ohne Erfolg. Können Sie mir bitte eine Anleitung zur Behebung des Problems geben? Ihre Unterstützung wäre sehr geschätzt.
+
+Danke.
+
+Mit freundlichen Grüßen,
+
+<name>
+
+<tel_num>
+Customer Service answer: Lieber <name>,
+
+vielen Dank für Ihre Nachricht. Ich verstehe, dass Sie Probleme mit der drahtlosen Funktion Ihres Epson EcoTank ET-4760 Druckers haben. Bitte versuchen Sie die folgenden Schritte:
+
+1. Stellen Sie sicher, dass Ihr Drucker mit dem richtigen Wi-Fi-Netzwerk verbunden ist und eine stabile Internetverbindung besteht.
+2. Starten Sie Ihren Drucker und das verbundene Gerät neu.
+3. Überprüfen Sie, ob Firmware-Updates für Ihr Druckermodell verfügbar sind.
+
+Wenn das Problem weiterhin besteht, können Sie sich gerne direkt an den Epson-Support wenden.
+
+Mit freundlichen Grüßen,
+Ihr Service Desk Agent

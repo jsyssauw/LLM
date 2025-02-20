@@ -1,0 +1,20 @@
+Ticket ID: ticket_1621
+Subject: nan
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Support Team, I am reaching out to request additional details regarding the storage and configuration options for the MacBook Air M1 available for purchase. I would like to understand the specifications of available variants, especially related to RAM sizes and SSD storage capacities. Additionally, any information on color options, available upgrades, and their costs would be greatly appreciated. My current laptop's performance is crucial for both personal and professional use, and I am eager to ensure that the MacBook Air M1 meets all my requirements. Please inform me of any ongoing promotions for this product too. Thank you for your assistance. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the MacBook Air M1. Here are the details you requested:
+
+1. **RAM & SSD Options**: The MacBook Air M1 typically offers 8GB or 16GB RAM. SSD storage ranges from 256GB to 2TB depending on the variant selected.
+
+2. **Color Options**: Available colors usually include Gold, Silver, and Space Gray.
+
+3. **Upgrades**: You can upgrade the RAM and SSD during the purchase. Costs will vary based on the options chosen.
+
+4. **Promotions**: We currently have promotions that may include discounts or bundled accessories for this product, subject to change. Please check our website or contact us directly for the latest offers.
+
+If you have any other questions or need personalized advice, feel free to reach out.
+
+Best regards,
+Tech Online Store Support Team

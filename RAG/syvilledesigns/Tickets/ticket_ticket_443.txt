@@ -1,0 +1,27 @@
+Ticket ID: ticket_443
+Subject: Dringend: Konnektivitätsprobleme mit Cisco Router ISR4331
+Incident Type: Incident
+Customer Issue: Sehr geehrtes IT-Serviceteam,
+
+ich schreibe, um ein Problem mit dem Cisco Router ISR4331 zu melden, das plötzliche Konnektivitätsunterbrechungen aufweist. Das Problem beeinträchtigt die Netzwerkleistung in verschiedenen Abteilungen erheblich und verursacht erhebliche betriebliche Herausforderungen. Wir sind auf diesen Router für kritische Kommunikationen angewiesen, und diese Ausfallzeit wirkt sich negativ auf unsere Produktivität aus. Bitte priorisieren Sie dieses Anliegen und informieren Sie uns über mögliche Fehlersuche oder ob sofortige Aufmerksamkeit Ihres Teams erforderlich ist. Ihre schnelle Antwort wird sehr geschätzt, während wir daran arbeiten, dieses Problem zu lösen. Ich freue mich auf Ihre Anleitung.
+
+Danke,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie uns bezüglich des Problems mit Ihrem Cisco Router ISR4331 kontaktiert haben. Wir verstehen die Dringlichkeit und die Auswirkungen auf Ihre Abläufe und werden Ihr Anliegen priorisieren.
+
+Um mit der Fehlersuche zu beginnen, versuchen Sie bitte die folgenden Schritte:
+1. Starten Sie den Router neu, indem Sie ihn 10 Sekunden lang ausschalten und dann wieder einschalten.
+2. Überprüfen Sie alle physischen Anschlüsse auf sicheren Sitz.
+3. Überprüfen Sie die Routereinstellungen über die Administrationskonsole.
+4. Führen Sie ein schnelles Diagnosetool über die GUI des Routers aus.
+
+Wenn das Problem nach diesen Schritten weiterhin besteht, empfehlen wir die Planung eines Technikerbesuchs vor Ort. Bitte teilen Sie uns eine für Sie passende Zeit mit oder kontaktieren Sie uns umgehend, um sofortige Unterstützung zu erhalten.
+
+Wir sind bestrebt, dies umgehend zu lösen.
+
+Mit freundlichen Grüßen,
+Ihr IT-Serviceteam

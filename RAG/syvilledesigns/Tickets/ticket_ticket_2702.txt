@@ -1,0 +1,32 @@
+Ticket ID: ticket_2702
+Subject: Problema de Flickering na Tela do Surface Pro 7
+Incident Type: Incident
+Customer Issue: Prezado Suporte ao Cliente,
+
+Estou escrevendo para relatar um problema persistente com meu Microsoft Surface Pro 7, adquirido recentemente na Tech Online Store. A tela pisca aleatoriamente, o que é especialmente perceptível durante a reprodução de vídeos. Esse comportamento interrompe severamente meu fluxo de trabalho e torna o dispositivo difícil de usar efetivamente.
+
+Após revisar fóruns e guias de solução de problemas, cheguei à conclusão de que esse pode ser um problema conhecido que afeta outros usuários também. Verifiquei se todos os drivers e firmware estão atualizados, mas o problema persiste. Você poderia, por favor, aconselhar sobre as etapas que preciso seguir para resolver esta questão? Devo considerar retornar o dispositivo para troca ou reparo?
+
+Sua orientação seria muito apreciada.
+
+Obrigado.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Prezado <name>,
+
+Obrigado por entrar em contato conosco sobre o problema de flickering da tela do seu Microsoft Surface Pro 7. Entendemos como isso pode ser perturbador para o seu trabalho.
+
+Como você já atualizou todos os drivers e firmware, recomendamos tentar algumas etapas adicionais: 
+
+1. Realize um soft reset reiniciando seu dispositivo. 
+2. Ajuste a taxa de atualização nas configurações de exibição para um desempenho ideal. 
+3. Verifique se há atualizações pendentes nas configurações do Windows Update.
+
+Se essas etapas não resolverem o problema, pode realmente ser um problema de hardware. Nesse caso, recomendamos entrar em contato com a Tech Online Store para discutir opções de devolução, substituição ou reparo na garantia.
+
+Por favor, avise-nos se você tiver mais perguntas. Estamos aqui para ajudar.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

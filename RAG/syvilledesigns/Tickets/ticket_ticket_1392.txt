@@ -1,0 +1,37 @@
+Ticket ID: ticket_1392
+Subject: High-Priority Matter: AWS Service Outage
+Incident Type: Problem
+Customer Issue: Dear Customer Support Team,
+
+I am reaching out to urgently highlight a severe issue we are encountering with our AWS resources. Our AWS Management Service has been improperly configured, resulting in substantial downtime for our application, which is critically affecting our operations at this time.
+
+We believe that the configuration alterations happened within the last 24 hours; however, we have not been able to pinpoint the exact cause or resolve the issue ourselves. Due to the necessity for minimal downtime specified in our contractual agreement and its effect on our service-level obligations, this matter is regarded as high priority.
+
+Could your team intervene swiftly to aid us in identifying and rectifying this issue? We require immediate expert advice and assistance to restore normal operations, ensuring that our further activities are not hindered.
+
+Moreover, please inform us of any specific information or access required from our end to accelerate the resolution process. Any logs or diagnostics you need can be provided upon your request.
+
+We appreciate your quick attention to this critical concern. Looking forward to your immediate response.
+
+Best Regards,
+
+<name>
+
+<position>
+
+<company>
+
+Contact: <tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the AWS outage issue you are facing. We recognize the urgency and seriousness of this situation impacting your operations and are dedicated to assisting you as soon as possible.
+
+To aid us in determining the root cause and rectifying the issue efficiently, please grant us access to your AWS Management Service and any recent configuration changes. Furthermore, having access to pertinent logs and diagnostics would be advantageous. Our team is ready to collaborate closely with you to swiftly restore your application's functionality.
+
+You should expect one of our specialists to contact you shortly for further support. Meanwhile, if you have any additional details that could assist in the diagnosis, please don’t hesitate to share those as well.
+
+Thank you for your cooperation and understanding.
+
+Best Regards,
+
+Service Desk Team

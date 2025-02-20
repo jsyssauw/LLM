@@ -1,0 +1,15 @@
+Ticket ID: ticket_3254
+Subject: Necessidade de Assistência Imediata: Dificuldades de Ativação com Kaspersky Internet Security 2024 para o Usuário <name>
+Incident Type: Request
+Customer Issue: Olá, Equipe de Atendimento ao Cliente,
+
+O Usuário <name> está tendo dificuldades para ativar o Kaspersky Internet Security 2024 em sua conta <acc_num>. É crucial obter ajuda para resolver essa questão. Por gentileza, contate o usuário através do <tel_num> para fornecer o suporte necessário.
+
+Atenciosamente,
+<name>
+Customer Service answer: Olá <name>,
+
+Agradecemos por sua mensagem. Entraremos em contato com o Usuário <name> de imediato pelo <tel_num> para auxiliar na resolução das dificuldades de ativação do Kaspersky Internet Security 2024. Valorizamos sua paciência e faremos o nosso melhor para resolver isso rapidamente.
+
+Atenciosamente,
+Equipe de Atendimento ao Cliente

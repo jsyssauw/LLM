@@ -1,0 +1,25 @@
+Ticket ID: ticket_2016
+Subject: Inquiry about Billing Details and Payment Methods for Recent IT Consultation
+Incident Type: Request
+Customer Issue: Dear Customer Support Team,
+
+I recently purchased your IT Consulting Service and would like to request more details regarding the billing statement. Unfortunately, crucial information such as the total amount due, billing cycle dates, and associated service descriptions was missing from the documentation sent to us. It would also help if you could outline any available payment options, such as online banking, checks, or any financing options provided by your firm.
+
+For accounting reference, our invoice number is <invoice_num>. My account number is <acc_num>. Timely access to this information would allow us to settle the account promptly and avoid any misunderstandings.
+
+Thank you very much for your assistance and attention to this matter. Please feel free to contact me at <tel_num> for any further details you may require.
+
+Warm regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and for choosing our IT Consulting Service. We apologize for the inconvenience regarding the lack of details in your billing statement. 
+
+The total amount due, billing cycle dates, and detailed service descriptions will be promptly sent to your registered email address. Regarding payment options, we offer online banking, checks, and several financing plans to accommodate various preferences.
+
+Please keep an eye on your email for the detailed information. Should you have any questions or require further assistance, feel free to contact us directly at <tel_num>.
+
+Thank you for your patience and understanding.
+
+Best regards,
+Customer Support Team

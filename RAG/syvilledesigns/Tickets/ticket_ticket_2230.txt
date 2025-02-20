@@ -1,0 +1,15 @@
+Ticket ID: ticket_2230
+Subject: Request for Advice
+Incident Type: Request
+Customer Issue: Dear IT Support,
+
+I am seeking beginner-level resources on software development best practices, specifically focusing on server administration. Could you please provide any guidelines or materials available for IT Consulting Service clients? Thank you.
+
+Best regards,
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out. We recommend exploring online platforms like Coursera or Udemy for courses on software development and server administration. We also have a basic guideline document for clients; please contact our consulting service for more details.
+
+Best, 
+IT Support

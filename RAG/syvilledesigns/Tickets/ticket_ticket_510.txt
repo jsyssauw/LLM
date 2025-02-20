@@ -1,0 +1,26 @@
+Ticket ID: ticket_510
+Subject: nan
+Incident Type: Incident
+Customer Issue: Caro time de suporte de TI,
+
+Estou escrevendo para chamar a sua atenção para um problema persistente com meu laptop Dell XPS 13 9310. Tenho enfrentado uma oscilaçãod de tela frequente, o que está causando desafios significativos na exibição e interrompendo minhas tarefas diárias. O problema parece piorar intermitentemente, causando um estresse considerável enquanto tento usar o dispositivo tanto para deveres profissionais quanto pessoais.
+
+Tentei realizar várias etapas de solução de problemas, como atualizar os drivers de vídeo e verificar se há problemas de hardware, mas o problema persiste.
+
+Você poderia fornecer orientação sobre etapas adicionais de solução de problemas ou organizar uma inspeção e reparo do laptop? Sua assistência rápida em resolver este assunto na sua conveniência seria muito apreciada. Sinta-se à vontade para me contatar em <tel_num> para quaisquer detalhes ou consultas adicionais.
+
+Obrigado,
+<name>
+Customer Service answer: Caro(a) <name>,
+
+Obrigado por entrar em contato e fornecer detalhes sobre o problema de oscilaçãod de tela com seu Dell XPS 13 9310. Para resolver isso, recomendo tentar as seguintes etapas adicionais:
+
+1. Realize uma atualização de BIOS, pois isso pode às vezes resolver problemas de compatibilidade que causam problemas de exibição.
+2. Se o problema persistir, redefina as configurações de energia do seu laptop para o padrão.
+3. Teste com um monitor externo para determinar se o problema está com a tela ou com o hardware interno.
+4. Execute a Ferramenta de Diagnóstico Dell integrada para uma avaliação de hardware mais aprofundada.
+
+Se essas etapas não resolverem o problema, por favor, informe-nos e organizaremos uma nova inspeção e reparo. Sinta-se à vontade para nos contatar em <tel_num> para suporte.
+
+Atenciosamente,
+Equipe de Suporte de TI

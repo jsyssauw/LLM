@@ -1,0 +1,24 @@
+Ticket ID: ticket_3446
+Subject: Problema de Flickering na Tela do Dell XPS
+Incident Type: Problem
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou enfrentando problemas de flickering na tela do meu Dell XPS 13 9310 quando está em funcionamento com a bateria. O dispositivo funciona bem quando está conectado, mas o flickering começa assim que é desconectado. Esse problema está afetando minha produtividade e eu apreciaria qualquer orientação que você pudesse fornecer para resolver a questão. Tentei etapas básicas de resolução de problemas, como reiniciar e atualizar os drivers, mas o problema persiste.
+
+Obrigado pela sua assistência rápida. Por favor, me avise se precisar de mais informações.
+
+Atenciosamente,
+<name> <tel_num> <acc_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Para o problema de flickering na tela do seu Dell XPS 13 quando está funcionando com a bateria, por favor, tente os seguintes passos:
+
+1. Vá até as opções de energia e defina seu dispositivo para o modo de alto desempenho.
+2. Desative a aceleração de hardware nas configurações de gráficos.
+3. Realize uma atualização de BIOS a partir do site de suporte da Dell.
+4. Se o problema persistir, considere redefinir as configurações de gerenciamento de energia no gerenciador de dispositivos.
+
+Se precisar de mais assistência, sinta-se à vontade para entrar em contato conosco.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

@@ -1,0 +1,25 @@
+Ticket ID: ticket_1310
+Subject: Problem mit Dell XPS 13 überhitzt
+Incident Type: Incident
+Customer Issue: Hallo Kundenservice,
+
+ich habe Probleme mit hohen Temperaturen bei meinem Dell XPS 13 9310, während ich Videos unter Windows 11 bearbeite. Dieses Problem beeinträchtigt meinen Arbeitsablauf und meine Produktivität. Könnten Sie einige Hinweise oder Unterstützung zur Lösung dieses Problems anbieten? Ihre Hilfe wäre sehr geschätzt.
+
+Danke,
+
+<name>.
+Customer Service answer: Betreff: AW: Problem mit Dell XPS 13 überhitzt
+
+Hallo <name>,
+
+vielen Dank, dass Sie sich an uns gewendet haben. Um das Überhitzungsproblem mit Ihrem Dell XPS 13 anzugehen, versuchen Sie bitte die folgenden Schritte:
+
+1. Stellen Sie sicher, dass Ihr System mit den neuesten Windows- und Treiberupdates von Dells Support-Seite aktualisiert ist.
+2. Halten Sie Ihr Laptop auf einer harten, flachen Oberfläche, um eine ordnungsgemäße Belüftung zu ermöglichen.
+3. Verwenden Sie den Task-Manager, um unnötige Hintergrundprogramme während der Videobearbeitung zu schließen.
+4. Ziehen Sie in Betracht, ein Kühlpad zu verwenden, um die Wärme abzuführen.
+
+Wenn die Probleme weiterhin bestehen, wenden Sie sich bitte an den Dell-Support für eine persönlichere Unterstützung.
+
+Mit freundlichen Grüßen,
+Kundenservice

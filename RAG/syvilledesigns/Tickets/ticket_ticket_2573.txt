@@ -1,0 +1,20 @@
+Ticket ID: ticket_2573
+Subject: Consultoria de TI urgente necessária para problemas de servidor
+Incident Type: Request
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou entrando em contato para solicitar assistência urgente com serviços de consultoria para nossos problemas de servidor em andamento. Também estamos interessados em ter uma auditoria do nosso sistema de tickets para identificar possíveis áreas de melhorias de desempenho. Por favor, entre em contato conosco assim que possível para agendar uma consulta. Estamos ansiosos para resolver esses problemas rapidamente. Sua cooperação e expertise são muito apreciadas.
+
+Obrigado,
+<name>
+<acc_num>
+Customer Service answer: Assunto: Re: Consultoria de TI urgente necessária para problemas de servidor
+
+Caro <name>,
+
+Obrigado por entrar em contato conosco sobre seus problemas de servidor e interesse em uma auditoria do seu sistema de tickets. Entendemos a urgência e estamos aqui para assisti-lo prontamente. Nossa equipe entrará em contato com você em breve para agendar uma consulta e abordar suas preocupações de forma eficaz.
+
+Agradecemos sua paciência e confiança em nossa expertise.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

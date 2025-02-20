@@ -1,0 +1,22 @@
+Ticket ID: ticket_55
+Subject: Dringend: AWS Management Service ausgefallen
+Incident Type: Incident
+Customer Issue: Sehr geehrter IT-Service-Support,
+
+ich schreibe, um ein kritisches Problem mit dem AWS Management Service zu melden, das anscheinend ausgefallen ist. Diese Störung beeinträchtigt den Zugriff auf wichtige Infrastrukturen und verursacht erhebliche Störungen in unseren Betriebsabläufen. Schnelles Handeln ist erforderlich, um dieses Problem zu lösen und die Auswirkungen auf unsere Dienste zu minimieren.
+
+Könnten Sie bitte ein Update zum Status dieses Problems und einen möglichen Zeitrahmen für die Lösung bereitstellen? Ihre Unterstützung wird dringend benötigt, um die Funktionalität des Dienstes wiederherzustellen.
+
+Vielen Dank für Ihre schnelle Aufmerksamkeit in dieser Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie uns bezüglich des Problems mit dem AWS Management Service kontaktiert haben. Wir sind uns der Störung bewusst und arbeiten aktiv mit AWS daran, diese so schnell wie möglich zu beheben. Unsere Teams haben dieses Problem prioritär eingestuft, um minimale Störungen und eine zügige Wiederherstellung zu gewährleisten.
+
+Wir werden Sie umgehend mit Updates versorgen, sobald weitere Informationen vorliegen, einschließlich eines geschätzten Zeitrahmens für die Lösung. Wir danken Ihnen für Ihr Verständnis und Ihre Geduld in dieser dringenden Angelegenheit.
+
+Mit freundlichen Grüßen,
+Ihr Servicedesk-Team

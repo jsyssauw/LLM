@@ -1,0 +1,26 @@
+Ticket ID: ticket_471
+Subject: Dringend: Wiederholte Systemausfälle beim Dell XPS 13 9310
+Incident Type: Incident
+Customer Issue: Hallo Tech Online Store Kundenservice,
+
+ich schreibe, um ein fortlaufendes Problem mit meinem Dell XPS 13 9310 Laptop zu melden, den ich über Ihren Online-Shop gekauft habe. In den letzten Wochen habe ich wiederholte Systemausfälle erlebt, während ich alltägliche Aufgaben wie das Surfen im Internet, die Verwendung von Textverarbeitungssoftware und Videokonferenzen ausgeführt habe. Diese Systemausfälle haben meine Produktivität erheblich beeinträchtigt und wichtige berufliche Meetings gestört. Ich habe sichergestellt, dass mein Betriebssystem und alle Treiber auf dem neuesten Stand sind, und ich habe auch nach Hardwareproblemen gesucht, aber das Problem bleibt bestehen.
+
+Angesichts der Häufigkeit und der Auswirkungen dieser Störungen bin ich besorgt über eine mögliche Hardwarefehlfunktion oder ein Softwarekompatibilitätsproblem. Ich bitte Sie freundlich um Unterstützung bei der dringenden Diagnose und Behebung dieses Problems, da es meine täglichen Aufgaben erheblich beeinträchtigt. Bitte lassen Sie mich wissen, ob weitere spezifische Informationen zu meinem Gerät oder Kauf erforderlich sind, um dieses Anliegen zu beschleunigen.
+
+Danke für Ihre Aufmerksamkeit zu diesem hochpriorisierten Anliegen. Ich freue mich auf Ihre schnelle Antwort.
+
+Mit freundlichen Grüßen,
+
+<name>
+Customer Service answer: Sehr geehrte/r <name>,
+
+vielen Dank, dass Sie sich mit uns in Verbindung gesetzt haben bezüglich des Problems mit Ihrem Dell XPS 13 9310. Wir verstehen, wie wichtig es ist, ein funktionierendes Gerät zu haben, insbesondere für berufliche Aufgaben, und wir entschuldigen uns für die Unannehmlichkeiten, die dies verursacht hat.
+
+Um Ihnen schnell zu helfen, teilen Sie uns bitte Ihre Bestellnummer sowie alle Fehlermeldungen mit, die Sie während der Systemausfälle möglicherweise erhalten haben. Zusätzlich lassen Sie uns wissen, ob Sie versucht haben, einen Systemdiagnosetest über Dell SupportAssist durchzuführen oder ob Sie einen Systemreset versucht haben.
+
+In der Zwischenzeit empfehlen wir, zu überprüfen, ob es ausstehende Windows-Updates gibt oder ob Sie installierte Drittanbieter-Software überprüfen, die möglicherweise interferieren könnte.
+
+Wir sind hier, um zu helfen, und werden Ihr Anliegen priorisieren, um das Problem schnell zu lösen.
+
+Mit freundlichen Grüßen,
+Tech Online Store Kundenservice

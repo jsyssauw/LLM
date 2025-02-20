@@ -1,0 +1,5 @@
+Ticket ID: ticket_2877
+Subject: nan
+Incident Type: Problem
+Customer Issue: Sehr geehrter Kundenbetreuer, ich habe kürzlich ein Lenovo IdeaPad 5 in Ihrem Webshop bestellt. Unglücklicherweise erhielt ich das falsche Modell. Meine Bestellnummer lautet <acc_num>. Bitte unterstützen Sie mich, dieses gegebene Problem so schnell wie möglich zu klären. Vielen Dank im Voraus. Mit freundlichen Grüßen, <name>
+Customer Service answer: Sehr geehrte/r <name>, wir bedauern das Missverständnis sehr. Bitte senden Sie den falschen Artikel mit dem beigefügten Rücksendeetikett zurück. Sobald wir das Produkt erhalten, werden wir Ihnen sofort das richtige Lenovo IdeaPad 5 zukommen lassen. Bei weiteren Fragen wenden Sie sich bitte an unseren Kundenservice. Vielen Dank!

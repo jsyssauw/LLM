@@ -1,0 +1,29 @@
+Ticket ID: ticket_3513
+Subject: Frage zur Wartung des Routers
+Incident Type: Request
+Customer Issue: Hallo Kundenserviceteam,
+
+ich wende mich an Sie, um Informationen über die derzeit geplante Wartung, die mehrere Cisco ISR4331-Router betrifft, zu erhalten, was zu vorübergehenden Dienstunterbrechungen geführt hat. Wir erkennen die Bedeutung dieser Updates an, benötigen aber detailliertere Informationen zur voraussichtlichen Dauer dieser Ausfälle und zu den Strategien, die Sie implementiert haben, um Störungen für unsere Nutzer zu minimieren.
+
+Könnten Sie uns bitte den Wartungszeitplan und Empfehlungen zu Best Practices für diese Zeit zusenden?
+
+Ich schätze Ihre schnellen Rückmeldungen.
+
+Mit freundlichen Grüßen,
+<name>
+
+Kontakt: <tel_num>
+Kontonummer: <acc_num>
+Customer Service answer: Hallo <name>,
+
+vielen Dank, dass Sie uns bezüglich der Wartung Ihrer Cisco ISR4331-Router kontaktiert haben. Die geplante Wartung ist Teil unserer kontinuierlichen Bemühungen, die Dienstzuverlässigkeit und Leistung zu verbessern. Wir erwarten, dass jeder Ausfall kurz sein wird, obwohl die genauen Dauer je nach verschiedenen Faktoren variieren kann.
+
+Um Unannehmlichkeiten zu minimieren, empfehlen wir, dass alle Nutzer über mögliche Dienstunterbrechungen informiert werden und sie daran erinnern, ihre Arbeit häufig zu speichern. Für wichtige Aufgaben könnte es sinnvoll sein, diese außerhalb der Wartungszeiträume zu planen oder alternative Kommunikationsmethoden zu nutzen.
+
+Im Anhang dieser E-Mail finden Sie den umfassenden Wartungszeitplan. Wir sind bestrebt, die Auswirkungen zu minimieren und werden Sie sofort über alle Änderungen informieren.
+
+Sollten Sie weitere Hilfe benötigen oder Fragen haben, zögern Sie bitte nicht, sich direkt an unser Support-Team zu wenden.
+
+Mit freundlichen Grüßen,
+
+Kundenserviceteam

@@ -1,0 +1,10 @@
+Ticket ID: ticket_246
+Subject: nan
+Incident Type: Request
+Customer Issue: Hallo, ich benötige Hilfe bei der Einrichtung meines MacBook Air M1. Können Sie Anweisungen für die Erstkonfiguration und die Datenübertragung bereitstellen? Ich schätze Ihre Unterstützung. Vielen Dank. Mit freundlichen Grüßen, <name>
+Customer Service answer: Hallo <name>,
+
+Um Ihr MacBook Air M1 einzurichten, schalten Sie es ein und folgen Sie den Anweisungen auf dem Bildschirm für Wi-Fi, Apple ID und Einstellungen. Für die Datenübertragung verwenden Sie den Migrationsassistenten in den Dienstprogrammen.
+
+Mit freundlichen Grüßen,
+[Your Company]

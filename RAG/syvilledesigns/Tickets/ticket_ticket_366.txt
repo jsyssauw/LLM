@@ -1,0 +1,26 @@
+Ticket ID: ticket_366
+Subject: Battery Issue: Dell XPS 13 9310
+Incident Type: Problem
+Customer Issue: Dear Tech Online Store Support Team,
+
+I am writing to report an issue I am experiencing with my Dell XPS 13 9310, which is suffering from significant battery drain despite minimal usage. I purchased this device in August, and it has generally been used for light tasks such as browsing and document editing. However, I have noticed that even when the laptop is not in use, the battery depletes rapidly, causing inconvenience. 
+
+I have tried basic troubleshooting steps such as adjusting power settings and checking for software updates, but unfortunately, the issue persists. I suspect there might be a problem with the hardware or the battery itself.
+
+Could you please assist in diagnosing this issue or recommend any further actions I should take? My account number is <acc_num>, and I would appreciate it if you could resolve this issue promptly. 
+
+Thank you for your attention to this matter.
+
+Sincerely,
+<name>
+<tel_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out and bringing this issue to our attention. I'm sorry to hear about the battery troubles with your Dell XPS 13 9310. Since you've already tried basic troubleshooting, the next step we recommend is to perform a battery diagnostic test through the Dell SupportAssist application if not done so already. This can help identify specific hardware issues.
+
+If the diagnostics do not resolve the issue or identify a fault, it may be necessary to have the battery or device inspected by a professional. As your device is still under warranty, please contact us with your account details at your earliest convenience, and we can arrange a service appointment.
+
+If you need further assistance, please let us know. We aim to address this matter for you promptly.
+
+Best regards,
+Tech Online Store Support Team

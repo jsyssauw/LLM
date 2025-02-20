@@ -1,0 +1,10 @@
+Ticket ID: ticket_3229
+Subject: Issue with Netgear Switch GS108
+Incident Type: Incident
+Customer Issue: Hello,
+
+I'm experiencing frequent disconnections and unresponsive ports on my Netgear Switch GS108, purchased last month. Please advise on troubleshooting steps. I can be reached via my email, and my order number is <acc_num>.
+
+Thank you,
+<name>
+Customer Service answer: Hello <name>, to troubleshoot your GS108 switch: 1. Power cycle the switch. 2. Ensure cables and ports are secure. 3. Update the switch firmware. If issues persist, contact Netgear support. Keep your order number handy. Best regards.

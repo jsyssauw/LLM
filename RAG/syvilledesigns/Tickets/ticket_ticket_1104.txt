@@ -1,0 +1,20 @@
+Ticket ID: ticket_1104
+Subject: Inquiry regarding IT Consulting Services
+Incident Type: Request
+Customer Issue: Dear Customer Support,
+
+My name is <name>, and I am interested in learning more about your IT Consulting Services, specifically focusing on software development and server administration. I would appreciate detailed information about the services offered, pricing, and engagement process. Could you please provide this information, or direct me to a representative who could assist with my inquiry?
+
+Thank you for your assistance.
+
+Best regards,
+
+<name>
+<tel_num>
+<email_address>
+Customer Service answer: Dear <name>,
+
+Thank you for your inquiry about our IT Consulting Services. We offer tailored solutions in software development and server administration. For detailed information on services, pricing, and engagement processes, I will refer you to our dedicated consultant who will reach out to you shortly. Meanwhile, feel free to check our website for an overview. 
+
+Best regards,
+Customer Support Team

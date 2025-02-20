@@ -1,0 +1,18 @@
+Ticket ID: ticket_379
+Subject: Zoom Access Issues
+Incident Type: Incident
+Customer Issue: Dear Support Team,
+
+Our client, <name>, is unable to access Zoom meetings despite having valid credentials. They are experiencing recurring connection errors with Zoom version 5.11.0. Please advise on the steps to resolve this issue or provide a solution. Thank you.
+Customer Service answer: Dear Customer,
+
+Thank you for reaching out. To address the connection errors in Zoom version 5.11.0, please try the following steps: 
+1. Ensure a stable internet connection.
+2. Update Zoom to the latest version.
+3. Clear Zoom's cache and data.
+4. Disable any VPN or firewall that might block Zoom.
+5. Restart the device and the Zoom application.
+If the problem persists after these steps, please provide detailed error codes/logs for further assistance.
+
+Best regards,
+Support Team

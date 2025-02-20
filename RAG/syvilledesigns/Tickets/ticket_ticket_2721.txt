@@ -1,0 +1,35 @@
+Ticket ID: ticket_2721
+Subject: Asistencia requerida: problemas de conectividad de la HP DeskJet 3755
+Incident Type: Request
+Customer Issue: Estimado cliente del soporte técnico de la tienda en línea,
+
+Espero que este mensaje te encuentre bien. Estoy escribiendo para solicitar asistencia respecto a mi impresora HP DeskJet 3755, que compré en su tienda en línea hace unos meses. Desafortunadamente, he estado experimentando problemas de conectividad, específicamente con su configuración inalámbrica.
+
+Al intentar conectar la impresora a mi red Wi-Fi, la impresora no reconoce la señal de la red. Asegurándome de que la red funcione, he intentado todos los pasos de solución de problemas preliminares, como reiniciar mi enrutador e impresora, verificar las credenciales de la red y asegurarme de que todos los dispositivos estén dentro de la proximidad cercana para una señal óptima. A pesar de estos esfuerzos, el problema persiste, impactando significativamente mi capacidad para imprimir documentos de forma inalámbrica.
+
+Dada la situación, agradecería si pudieran proporcionar orientación detallada o instrucciones específicas sobre cómo resolver este asunto. También sería útil si me pueden informar sobre cualquier actualización necesaria del firmware o si existen problemas conocidos con este modelo de impresora en lo que respecta a la conectividad inalámbrica.
+
+Por favor, háganme saber si requieren información adicional como los detalles de compra o las credenciales del usuario para ayudarme más. Espero su pronta respuesta con una solución adecuada a este problema.
+
+Gracias por su apoyo.
+
+Atentamente,
+<name>
+<email>
+Customer Service answer: Estimado <name>,
+
+Gracias por comunicarte con nosotros sobre los problemas de conectividad de tu impresora HP DeskJet 3755. Entendemos la inconveniencia que esto puede estar causando y te ayudaremos a resolverlo.
+
+Aquí hay algunos pasos que puedes intentar para mejorar la conectividad:
+1. Asegúrate de que el firmware de tu impresora esté actualizado visitando el sitio web de soporte de HP.
+2. Intenta conectar la impresora a través de WPS (Configuración protegida por Wi-Fi), disponible en la mayoría de los enrutadores modernos.
+3. Verifica que tu red Wi-Fi esté operando en una banda de 2.4 GHz ya que la impresora puede no soportar 5 GHz.
+4. Desactiva temporalmente cualquier software de firewall o antivirus en tu dispositivo para ver si estos están bloqueando la conexión.
+5. Verifica si hay fuentes de interferencia cerca de tu dispositivo, como microondas o teléfonos inalámbricos, que podrían impactar la fuerza de la señal.
+
+Si el problema persiste, por favor comparte tu número de orden o cualquier detalle de compra relevante para más asistencia. Estamos aquí para ayudar y asegurarnos de que tu impresora funcione sin problemas.
+
+Esperamos tu respuesta.
+
+Atentamente,
+Soporte al cliente de la tienda en línea

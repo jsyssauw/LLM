@@ -1,0 +1,28 @@
+Ticket ID: ticket_2380
+Subject: Hilfe bei der Ersteinrichtung des MacBook Air M1 benötigt
+Incident Type: Request
+Customer Issue: Sehr geehrter Support des Tech Online Stores, 
+ich habe kürzlich ein neues MacBook Air M1 in Ihrem Geschäft gekauft und benötige Unterstützung bei der Ersteinrichtung. Ich hatte einige Schwierigkeiten während des Setups und suche Ihre fachkundige Anleitung, um diese Probleme effizient zu lösen. Die Probleme beziehen sich speziell auf die Erstellung eines neuen Benutzerkontos und die Einrichtung der iCloud-Synchronisation. Über jede Schritt-für-Schritt-Anleitung oder Tipps, die Sie geben könnten, wäre ich sehr dankbar. 
+Vielen Dank im Voraus für Ihre schnelle Unterstützung. 
+Mit freundlichen Grüßen, 
+<name>
+Kontakt: <tel_num>
+Customer Service answer: Sehr geehrter <name>,
+
+vielen Dank, dass Sie sich an uns gewandt haben. Um Ihnen bei der Ersteinrichtung Ihres MacBook Air M1 zu helfen, folgen Sie bitte diesen Schritten:
+
+1. **Neues Benutzerkonto erstellen:**
+   - Gehen Sie zu 'Systemeinstellungen' > 'Benutzer & Gruppen.'
+   - Klicken Sie auf die Schaltfläche '+', um einen neuen Benutzer hinzuzufügen.
+   - Wählen Sie 'Standard' als Kontotyp, und geben Sie die erforderlichen Informationen ein.
+   - Klicken Sie auf 'Benutzer erstellen', um abzuschließen.
+
+2. **iCloud-Synchronisation einrichten:**
+   - Gehen Sie zu 'Systemeinstellungen' > 'Apple-ID.'
+   - Melden Sie sich mit Ihrer Apple-ID an.
+   - Unter 'iCloud' aktivieren Sie die Kästchen für die Dienste, die Sie auf Geräten synchronisieren möchten.
+
+Wenn Sie weiterhin Probleme haben, zögern Sie bitte nicht, uns direkt über unsere Support-Hotline <tel_num> zu kontaktieren.
+
+Mit freundlichen Grüßen,
+Ihr Tech Online Store Support Team

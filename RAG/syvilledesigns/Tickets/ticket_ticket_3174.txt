@@ -1,0 +1,22 @@
+Ticket ID: ticket_3174
+Subject: Problemas com o Roteador Cisco ISR4331
+Incident Type: Incident
+Customer Issue: Caro Time de Suporte,
+
+Estou escrevendo para relatar que temos enfrentado desconexões frequentes e desempenho lento com nosso Roteador Cisco ISR4331 durante o horário comercial. Esse problema afetou significativamente nossas operações. Poderiam, por favor, fornecer orientação ou uma solução para resolver o que parece ser um problema contínuo? Se houver atualizações de firmware ou alterações de configuração necessárias, estaríamos interessados em implementá-las. Obrigado pela sua pronta atenção a este assunto.
+
+Atenciosamente,
+
+<name>
+<tel_num>
+<acc_num>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre os problemas com o seu Roteador Cisco ISR4331. Desconexões frequentes e desempenho lento podem ser resolvidos por meio de atualizações de firmware ou ajustes de configuração. Por favor, certifique-se de que o firmware do roteador esteja atualizado. Você pode baixar as atualizações mais recentes no site oficial da Cisco. Além disso, verifique as configurações do roteador para quaisquer anomalias.
+
+Se o problema persistir, recomendo realizar uma redefinição de fábrica e reconfigurar as configurações. Você também pode considerar entrar em contato com um técnico certificado da Cisco para uma análise mais detalhada.
+
+Sinta-se à vontade para nos contatar para mais assistência. Estamos aqui para ajudar a restaurar suas operações rapidamente.
+
+Atenciosamente,
+[Seu Time de Suporte]

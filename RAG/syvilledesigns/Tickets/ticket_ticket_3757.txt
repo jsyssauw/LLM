@@ -1,0 +1,27 @@
+Ticket ID: ticket_3757
+Subject: Problemas com Extensões do Navegador na Atualização do Chrome 102.0
+Incident Type: Incident
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou enfrentando um problema em que minhas extensões do navegador não estão funcionando corretamente após uma atualização recente do Google Chrome versão 102.0. Essas extensões funcionavam bem antes da atualização, mas agora falham em operar como esperado.
+
+Você poderia, por favor, fornecer orientação ou uma solução para este problema? Sua assistência é muito apreciada. Obrigado por tratar deste assunto prontamente.
+
+Atenciosamente,
+
+<name>
+<tel_num>
+<email_address>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato. Com a atualização para o Chrome 102.0, é possível que algumas extensões precisem ser atualizadas também. Por favor, tente os seguintes passos:
+
+1. Abra o Chrome e vá para 'chrome://extensions/' para verificar se há atualizações disponíveis para suas extensões. Atualize se solicitado.
+2. Desative e reative as extensões para atualizar suas configurações.
+3. Limpe o cache do seu navegador para evitar dados em cache conflitantes.
+4. Reinicie o seu navegador após concluir essas etapas.
+
+Se o problema persistir, considere entrar em contato com o desenvolvedor da extensão para atualizações de compatibilidade. Informe-nos se precisar de mais assistência.
+
+Atenciosamente,
+Suporte ao Cliente

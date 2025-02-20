@@ -1,0 +1,18 @@
+Ticket ID: ticket_1587
+Subject: Inquiry about Return and Exchange Policy for Epson EcoTank ET-4760
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Support Team, I hope this message finds you well. My name is <name>, and I recently purchased the Epson EcoTank ET-4760 wireless printer from your store. I am reaching out to request detailed information regarding the return and exchange policy specific to this product, as I would like to be fully aware of my options in the event of any dissatisfaction or issues with the purchase. Please provide guidance on the duration within which a return or exchange is permissible, and outline any conditions or requirements that need to be fulfilled for such a process. Additionally, I would appreciate information about any potential restocking fees or shipping charges that may apply. If there are any special considerations or supplementary documentation required, kindly let me know. Thank you for your assistance and prompt response, as I wish to make sure I adhere to the policies correctly. Looking forward to your reply. Please contact me at <tel_num> if you need any further details. Best regards, <name>
+Customer Service answer: Dear <name>,
+
+Thank you for contacting the Tech Online Store Support Team regarding the return and exchange policy for the Epson EcoTank ET-4760.
+
+Our policy allows returns and exchanges within 30 days of the purchase date, provided the printer is in its original condition and packaging with all accessories included. Please ensure you have the purchase receipt or proof of purchase.
+
+Restocking fees may apply if the product is not returned in its original condition, and shipping charges for the return may be the customer's responsibility unless the product is defective or the error is ours.
+
+Should additional documentation be required, such as a return authorization form, our team will assist you in the process.
+
+If you need more information or assistance, feel free to contact us. We’re here to help and ensure you're satisfied with your purchase.
+
+Best regards,
+Tech Online Store Support Team

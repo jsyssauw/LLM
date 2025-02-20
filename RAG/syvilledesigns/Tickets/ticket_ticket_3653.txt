@@ -1,0 +1,5 @@
+Ticket ID: ticket_3653
+Subject: Anfrage nach Unterstützung bei Excel-Optimierungstipps
+Incident Type: Incident
+Customer Issue: Erlebe eine langsame Leistung mit Excel. Brauche Tipps und Problemlösungen für Office 365.
+Customer Service answer: Versuchen Sie diese Tipps: Schließen Sie nicht verwendete Apps, begrenzen Sie Hintergrundberechnungen, aktualisieren Sie Office 365 und bereinigen Sie große Dateien. Ziehen Sie in Betracht, Power Query für mehr Effizienz zu verwenden.

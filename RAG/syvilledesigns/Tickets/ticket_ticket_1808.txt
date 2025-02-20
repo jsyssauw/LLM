@@ -1,0 +1,26 @@
+Ticket ID: ticket_1808
+Subject: Demande de conseils d'expert pour l'optimisation des coûts des services AWS
+Incident Type: Request
+Customer Issue: Cher équipe de support des services informatiques,
+
+J'espère que ce message vous trouve bien. Je vous contacte pour demander votre aide afin d'optimiser les coûts de notre compte AWS. Nous souhaitons assurer des opérations et une infrastructure efficaces tout en réduisant les dépenses inutiles. Pourriez-vous s'il vous plaît nous guider sur les meilleures pratiques ou les outils disponibles dans le service de gestion AWS pour atteindre cet équilibre ? Merci pour votre soutien. Dans l'attente de votre réponse rapide.
+
+Cordialement,
+<name>
+<acc_num>
+<tel_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir contactés au sujet de l'optimisation des coûts de votre compte AWS. Pour garantir des opérations et une infrastructure efficaces, considérez les meilleures pratiques suivantes :
+
+1. **Surveiller l'utilisation** : Utilisez AWS CloudWatch pour surveiller l'utilisation des ressources et ajustez si nécessaire.
+2. **Dimensionnement** : Examinez les instances et réduisez ou terminez celles sous-utilisées.
+3. **Instances réservées** : Achetez des instances réservées pour des workloads prévisibles afin d'économiser sur les coûts.
+4. **Instances Spot** : Utilisez des instances Spot pour des tâches non critiques ou flexibles.
+5. **AWS Trusted Advisor** : Profitez de cet outil pour obtenir des recommandations personnalisées afin d'optimiser les coûts.
+6. **Cost Explorer** : Analysez les modèles de dépenses avec AWS Cost Explorer pour identifier des économies potentielles.
+
+Veuillez nous faire savoir si vous avez besoin d'une assistance supplémentaire.
+
+Cordialement,
+Équipe de support des services informatiques

@@ -1,0 +1,5 @@
+Ticket ID: ticket_3271
+Subject: Urgent : Erreur de facturation sur l'achat du MacBook Air M1
+Incident Type: Problem
+Customer Issue: Cher équipe de support, j'ai rencontré une erreur de facturation sur mon achat récent du MacBook Air M1. La facture indique un prix plus élevé que celui annoncé. Veuillez remédier à cette incohérence. Détails de la commande : Numéro de compte <acc_num>. Merci pour votre assistance rapide. Cordialement, <name>.
+Customer Service answer: Cher <name>, merci de nous avoir contactés. Nous nous excusons pour le désagrément concernant l'incohérence de facturation sur votre achat du MacBook Air M1. Notre équipe enquêtera sur le problème lié à votre commande. Veuillez vous attendre à un suivi de notre part bientôt pour résoudre cette affaire. Si vous avez d'autres questions, n'hésitez pas à répondre. Cordialement, l'équipe de support client.

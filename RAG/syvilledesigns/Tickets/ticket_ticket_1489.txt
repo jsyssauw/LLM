@@ -1,0 +1,34 @@
+Ticket ID: ticket_1489
+Subject: Unexpected Network Disconnection Issue
+Incident Type: Incident
+Customer Issue: Dear IT Services Customer Support,
+
+I am writing to bring to your attention a sudden network disconnection issue that we have been experiencing with our enterprise Cisco Router model ISR4331. Recently, we have observed that the router is intermittently disconnecting from the network and displaying blinking indicator lights, which suggests potential performance issues.
+
+Our technical team inspected the device thoroughly but could not identify any visible hardware faults. This has caused significant disruption to our operations, and we are keen on resolving it at the earliest.
+
+We kindly request your expert assistance in either dispatching a technician to inspect the router on-site or offering remote diagnostics and support. Our company greatly relies on uninterrupted network connectivity, and resolving this issue is of immediate importance to us.
+
+Please let us know the next steps we should take to expedite this process. If you require any additional information for troubleshooting, feel free to contact me at <tel_num>.
+
+Thank you for your prompt attention to this matter.
+
+Best regards,
+
+<name>
+Account Number: <acc_num>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding the network disconnection issue with your Cisco Router ISR4331. We understand the urgency and disruption this is causing your operations.
+
+Firstly, we recommend performing a software update on the router if you haven't already, as this can sometimes resolve intermittent connection issues. Ensure that all cables and connections are secure as well.
+
+To proceed, we can arrange for a technician to visit your site to provide an in-depth inspection or conduct a remote diagnostic session at your earliest availability. Please confirm your preference so we can arrange assistance as soon as possible.
+
+Feel free to share more details as needed, or contact us at the provided number. We are committed to resolving this issue for you promptly.
+
+Thank you for your patience and cooperation.
+
+Best regards,
+
+IT Services Customer Support

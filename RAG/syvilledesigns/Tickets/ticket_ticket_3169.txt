@@ -1,0 +1,29 @@
+Ticket ID: ticket_3169
+Subject: Urgente: Problemas de rendimiento con Dell XPS 13
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Estoy escribiendo para llamar su urgente atención sobre algunos problemas de rendimiento que he estado experimentando con mi Dell XPS 13 9310, comprado en su tienda en línea Tech. Durante las últimas semanas, el portátil ha estado demostrando ralentizaciones severas y congelamientos ocasionales, lo que está obstaculizando significativamente mi productividad, especialmente porque confío en este dispositivo para mis tareas diarias de trabajo. Por ejemplo, operaciones básicas como abrir aplicaciones o cambiar entre pestañas ahora están tardando considerablemente más, y a veces el portátil se congela por completo, requiriendo un reinicio para recuperar la funcionalidad.
+
+He asegurado que todo el software, incluido el sistema operativo y los controladores, estén actualizados, y he intentado varios pasos de solución de problemas, incluidos la limpieza de caché y la ejecución de chequeos de mantenimiento, pero los problemas persisten. Por lo tanto, me estoy comunicando para buscar una resolución más técnica y posiblemente urgente para lo que parece ser un problema persistente. Las dificultades con este dispositivo están comenzando a impactar negativamente en mis ambientes de trabajo, y una respuesta rápida o una cita para una evaluación por parte de un especialista sería muy apreciada.
+
+Por favor, háganme saber cómo y cuándo se puede resolver esta preocupación de manera satisfactoria. Gracias por su atención inmediata a este asunto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por contactarnos acerca de los problemas de rendimiento con su Dell XPS 13 9310. Entendemos la urgencia y pedimos disculpas por cualquier inconveniente que esto pueda haber causado.
+
+Para abordar el problema rápidamente, por favor siga estos pasos:
+1. Reinicie su dispositivo en Modo Seguro y verifique los problemas.
+2. Realice un escaneo completo de virus y malware utilizando software de confianza.
+3. Asegúrese de que el sistema de refrigeración de su portátil esté funcionando correctamente para evitar el sobrecalentamiento.
+
+Si el problema persiste, recomendamos programar una cita con nuestro equipo técnico para una evaluación exhaustiva. Puede reservar un espacio a través de nuestro portal de servicios o llamándonos al <tel_num>.
+
+Tenga la seguridad de que estamos comprometidos a resolver este asunto de manera rápida para restaurar su productividad.
+
+Atentamente,
+Equipo de soporte al cliente

@@ -1,0 +1,25 @@
+Ticket ID: ticket_885
+Subject: Urgent: Panne de Jira Software 8.20
+Incident Type: Problem
+Customer Issue: Cher équipe de support client,
+
+Je vous écris pour signaler un problème critique que nous rencontrons avec Jira Software, version 8.20, utilisé pour gérer nos tâches de projet et le suivi. Le système est en panne, ce qui impacte la capacité de notre équipe à voir et à mettre à jour les statuts des projets dans plusieurs départements. Cette panne cause des perturbations significatives dans notre flux de travail, entravant la communication et la collaboration entre les membres de l'équipe.
+
+Nous vous exhortons à examiner cette question immédiatement et à fournir un calendrier pour quand le système sera de nouveau opérationnel. Nos projets dépendent fortement de Jira pour l'attribution des tâches et le suivi des progrès, faisant de cela une question urgente.
+
+Merci pour votre attention rapide à ce problème pressant.
+
+Cordialement,
+
+<name>
+
+<tel_num>
+
+<acc_num>
+Customer Service answer: Cher <name>,
+
+Merci de nous avoir signalé ce problème urgent. Nous nous excusons pour les désagréments causés par la panne de Jira Software 8.20. Notre équipe enquête actuellement sur le problème pour rétablir l'intégralité de la fonctionnalité aussi rapidement que possible. Nous comprenons l'importance de résoudre ce problème pour éviter d'autres perturbations dans votre flux de travail. Nous vous tiendrons informé des progrès et fournirons un calendrier pour quand le système sera opérationnel dès que possible. Si vous avez d'autres questions, n'hésitez pas à nous contacter à tout moment.
+
+Cordialement,
+
+Équipe de support client

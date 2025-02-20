@@ -1,0 +1,36 @@
+Ticket ID: ticket_551
+Subject: Investigação Imediata Necessária: Problemas de Conectividade
+Incident Type: Problem
+Customer Issue: Olá equipe de Suporte ao Cliente,
+
+Espero que esta mensagem os encontre bem. Estou entrando em contato para chamar sua atenção para um problema sério que estamos enfrentando com nosso Router Cisco ISR4331. Especificamente, estamos lidando com problemas esporádicos de conectividade de rede que estão interrompendo severamente nossas operações. Esses problemas estão ocorrendo há algum tempo e exigem urgentemente seu foco imediato para evitar mais complicações.
+
+Dada a função essencial que este roteador desempenha em nossa infraestrutura de TI, solicito gentilmente que sua equipe inicie uma investigação urgente, seguida por uma solução rápida. Seu conhecimento nesta área seria muito valorizado, e estou esperançoso em sua capacidade de resolver efetivamente este problema. Você poderia nos aconselhar sobre a melhor maneira de prosseguir com a solução deste problema ou nos informar se algum diagnóstico particular é necessário?
+
+Obrigado pela sua atenção atempada a este assunto urgente. Aguardo sua resposta rápida e eficaz.
+
+Atenciosamente,
+
+<name>
+<acc_num>
+Número de Contato: <tel_num>
+Customer Service answer: Olá <name>,
+
+Agradecemos por entrar em contato conosco sobre os problemas de conectividade com seu Router Cisco ISR4331. Reconhecemos a importância deste assunto e estamos dedicados a resolvê-lo o mais rápido possível.
+
+Para iniciar o processo de solução de problemas, siga estas etapas:
+1. Reinicie o roteador.
+2. Verifique se há algum dano visível ao hardware ou conexões soltas.
+3. Confirme se o firmware do roteador está atualizado.
+
+Após concluir essas etapas, se o problema persistir, por favor, reúna os seguintes detalhes de diagnóstico:
+- Logs do console do roteador durante o incidente.
+- Arquivos de configuração.
+- Detalhes sobre a topologia da rede.
+
+Você pode enviar essas informações para nossa equipe técnica através deste e-mail. Designaremos um engenheiro para investigar a causa raiz e buscamos uma resolução rápida.
+
+Obrigado pela sua compreensão e cooperação.
+
+Atenciosamente,
+Equipe de Suporte ao Cliente

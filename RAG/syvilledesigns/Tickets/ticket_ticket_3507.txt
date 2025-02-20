@@ -1,0 +1,16 @@
+Ticket ID: ticket_3507
+Subject: nan
+Incident Type: Request
+Customer Issue: Liebes Kundenserviceteam,
+
+ich kontaktiere Sie, um eine Rückzahlung für das im Jahr 2021 erworbene iPad Pro aus Ihrem Shop zu beantragen. Das Produkt war beim Eintreffen beschädigt. Meine Kontonummer lautet <acc_num>. Ich wäre Ihnen sehr dankbar, wenn Sie mir helfen könnten, diese Rückzahlung so zeitnah wie möglich zu bearbeiten.
+
+Herzlichen Dank,
+<name>
+<tel_num>
+Customer Service answer: Hallo <name>,
+
+wir bedauern, dass das iPad Pro 2021 beschädigt angekommen ist. Um Ihre Rückzahlung bearbeiten zu können, bitten wir Sie, uns die Bestellnummer sowie Bilder des beschädigten Artikels zukommen zu lassen. Wir werden die Rückzahlung sofort veranlassen, sobald uns diese Informationen vorliegen.
+
+Danke und beste Grüße,
+Kundenservice

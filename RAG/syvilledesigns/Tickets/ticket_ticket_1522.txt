@@ -1,0 +1,23 @@
+Ticket ID: ticket_1522
+Subject: Problème avec les extensions après la mise à jour
+Incident Type: Problem
+Customer Issue: Bonjour l'équipe de support,
+
+J'espère que ce message vous trouve bien. J'ai un petit problème avec la mise à jour 1.70 de Visual Studio Code, où les extensions ne se chargent pas correctement. Pourriez-vous s'il vous plaît fournir de l'aide pour résoudre cela dès que possible ? Merci !
+
+Cordialement,
+
+<name>
+Customer Service answer: Bonjour <name>,
+
+Merci de nous avoir contactés. Veuillez essayer les étapes suivantes pour résoudre le problème de chargement des extensions de Visual Studio Code :
+
+1. Redémarrez Visual Studio Code.
+2. Désactivez toutes les extensions et activez-les une par une pour identifier celles qui posent problème.
+3. Videz le cache des extensions depuis la palette de commandes en utilisant 'Effacer l'historique de l'éditeur'.
+4. Vérifiez les mises à jour supplémentaires ou réinstallez Visual Studio Code si nécessaire.
+
+Faites-nous savoir si vous avez besoin de plus d'assistance.
+
+Cordialement,
+Équipe de support

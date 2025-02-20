@@ -1,0 +1,34 @@
+Ticket ID: ticket_1490
+Subject: Dringend: Adressieren Sie das Problem mit dem Hochprioritäts-Cisco-Router
+Incident Type: Incident
+Customer Issue: Sehr geehrter Kundenservice,
+
+Ich wende mich an Sie, um ein wiederkehrendes Problem mit unserem Cisco Router ISR4331 zu melden, das häufige Netzwerkunterbrechungen verursacht. Dies ist in den letzten Wochen ein anhaltendes Problem gewesen und wirkt sich kritisch auf unsere täglichen Abläufe aus. Unser Unternehmen ist stark auf eine stabile und sichere Netzwerkverbindung angewiesen, und die aktuellen Störungen beeinträchtigen unsere Produktivität und Servicequalität.
+
+Der betroffene Router, Modell ISR4331, ist ein wesentliches Element unserer Netzwerkstruktur und benötigt daher sofortige Aufmerksamkeit. Wir haben versucht, intern eine Fehlerbehebung durchzuführen, konnten jedoch die Ursache des Leistungsproblems nicht identifizieren. Mögliche Ursachen, die wir vermuten, sind ein Hardwarefehler oder ein Konfigurationsfehler der Software. Wir schließen jedoch auch andere potenzielle Probleme nicht aus, die Ihre fachkundige Beurteilung erfordern könnten.
+
+Unser Servicevertrag mit Ihrem Unternehmen war durchweg zuverlässig, und wir hoffen, weiterhin auf solchen verlässlichen Support zählen zu können. Angesichts der Schwere und Dringlichkeit dieser Angelegenheit bitten wir um eine beschleunigte Überprüfung und zeitnahe Lösung. Im Anhang finden Sie die Netzwerkprotokolle und eine kurze Zusammenfassung der bisher durchgeführten Fehlerbehebungsmaßnahmen. Wir sind bereit, in dieser Phase eng zusammenzuarbeiten und alle weiteren Informationen bereitzustellen, die Sie benötigen könnten.
+
+Wir freuen uns auf Ihre schnelle Rückmeldung. Sie können mich direkt unter <tel_num> erreichen, falls Sie sofortige Fragen haben.
+
+Danke für Ihre Aufmerksamkeit in dieser dringenden Angelegenheit.
+
+Mit freundlichen Grüßen,
+
+<name> 
+Netzwerkadministrator
+<company_name>
+<email_address>
+Customer Service answer: Sehr geehrter <name>,
+
+Danke, dass Sie uns bezüglich des Problems mit Ihrem Cisco Router ISR4331 kontaktiert haben. Wir verstehen die kritischen Auswirkungen, die dies auf Ihre Abläufe hat, und priorisieren Ihre Anliegen.
+
+Unser technisches Team überprüft die von Ihnen bereitgestellten Netzwerkprotokolle und die Zusammenfassung der Fehlerbehebung. Wir sind bestrebt, die Ursache zu identifizieren und Ihre Netzwerkstabilität so schnell wie möglich wiederherzustellen.
+
+Ein Teammitglied wird Sie direkt unter <tel_num> kontaktieren, um die nächsten Schritte zu besprechen und weitere Informationen zu sammeln, die uns bei unserer Bewertung unterstützen könnten.
+
+Seien Sie versichert, dass wir sofortige Ressourcen bereitstellen, um diese Angelegenheit mit Dringlichkeit zu lösen. Wir schätzen Ihre Geduld und Ihr Verständnis.
+
+Mit freundlichen Grüßen,
+
+Ihr Kundenserviceteam

@@ -1,0 +1,17 @@
+Ticket ID: ticket_3511
+Subject: Se necesita soporte urgente para un error de Jira
+Incident Type: Incident
+Customer Issue: Estimado equipo de soporte al cliente,
+
+Espero que este mensaje los encuentre bien. Actualmente enfrentamos un problema crítico con Jira Software 8.20 relacionado con la asignación de tickets que no se guarda correctamente. Esto está causando una interrupción significativa en nuestro flujo de trabajo y requiere soporte técnico urgente para resolverlo. ¿Podrían priorizar este problema y proporcionar una resolución rápida? Su asistencia inmediata será muy apreciada. Gracias por su atención a este asunto urgente.
+
+Atentamente,
+
+<name>
+<acc_num>
+Customer Service answer: Estimado <name>,
+
+Gracias por ponerte en contacto. Entendemos la urgencia del problema que estás enfrentando con Jira Software 8.20 en relación con los problemas de asignación de tickets. Nuestro equipo técnico está priorizando tu caso y está trabajando para proporcionar una resolución rápida. Agradecemos tu paciencia y te mantendremos informado sobre el progreso. Si hay algo más en lo que podamos ayudarte, no dudes en contactarnos.
+
+Saludos cordiales,
+Equipo de soporte al cliente

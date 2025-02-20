@@ -1,0 +1,18 @@
+Ticket ID: ticket_2816
+Subject: Inquiry Regarding Warranty Coverage for MacBook Air M1
+Incident Type: Request
+Customer Issue: Dear Tech Online Store Support Team, 
+
+I hope this message finds you well. I am writing to report ongoing battery life issues with my MacBook Air M1. The battery appears to drain quickly, even when usage is minimal. I would like to inquire about potential warranty coverage for this problem. Could you please provide guidance on how I might proceed with obtaining a resolution? My account number is <acc_num>. Your prompt response would be greatly appreciated, as the issue is affecting my daily productivity. Thank you for your support.
+
+Best regards,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out regarding your MacBook Air M1's battery issue. We understand the inconvenience this may cause and are here to help. To determine if your device's issue is covered under warranty, please provide us with a copy of your purchase receipt and the serial number of your MacBook. You can do this by replying to this email or visiting your nearest service center where our team will assist you further. If your device is covered, we will proceed with repair or replacement options. 
+
+For immediate assistance, you may also contact our customer support hotline at <tel_num>.
+
+Best regards,
+Tech Online Store Support Team

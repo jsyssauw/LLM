@@ -1,0 +1,10 @@
+Ticket ID: ticket_2511
+Subject: Hilfe beim Teilen des Bildschirms in Zoom
+Incident Type: Request
+Customer Issue: Hallo, ich benötige Hilfe beim Einrichten der Bildschirmfreigabe-Option in der Zoom-Anwendung (Version 5.11.0). Ich kann mich auch nicht von meinem Laptop aus mit Video-Webinaren verbinden. Könnten Sie bitte Anleitung oder Schritte zur Fehlerbehebung geben, um diese Probleme zu lösen? Danke. <name>, <tel_num>, <acc_num>.
+Customer Service answer: Hallo, 
+
+Um die Bildschirmfreigabe in Zoom (Version 5.11.0) einzurichten, stellen Sie sicher, dass Sie die Bildschirmfreigabeberechtigungen in den Geräteeinstellungen erlaubt haben. Gehen Sie in Zoom zu Einstellungen > Bildschirm teilen und passen Sie die Einstellungen nach Bedarf an. Um sich mit Video-Webinaren zu verbinden, überprüfen Sie, ob Ihre Internetverbindung stabil ist und ob Ihre Zoom-App aktualisiert ist. Versuchen Sie, die Anwendung neu zu starten oder sie neu zu installieren, wenn das Problem weiterhin besteht. Wenn die Probleme weiterhin bestehen, wenden Sie sich bitte mit den Fehlermeldungen, die Sie erhalten, an uns.
+
+Mit freundlichen Grüßen,
+Ihr Kundenserviceteam

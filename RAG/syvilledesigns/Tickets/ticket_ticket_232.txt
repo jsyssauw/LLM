@@ -1,0 +1,31 @@
+Ticket ID: ticket_232
+Subject: Problema com a Precisão da Transação de Software
+Incident Type: Problem
+Customer Issue: Caro Suporte ao Cliente,
+
+Estou escrevendo para trazer à sua atenção um problema que encontrei com uma transação recente para o Adobe Photoshop 2024. Meu número de conta é <acc_num>, e acredito que possa haver uma discrepância no valor da cobrança realizada. Fiz esta compra no <date>, e ao revisar os detalhes da cobrança, percebi um valor mais alto do que o inicialmente acordado durante o processo de compra.
+
+Eu esperava que o valor cobrado refletisse o preço promocional anunciado. No entanto, ao verificar meu extrato de cobrança, o valor debitado da minha conta foi significativamente superior a este preço esperado. Isso me leva a suspeitar de uma possível cobrança indevida ou de um erro de cálculo realizado pelo seu sistema de cobrança.
+
+Agradeceria se você pudesse investigar este assunto para mim. Por favor, confirme se as cobranças aplicadas estão corretas ou se um erro pode ter ocorrido. Anexados a este e-mail estão capturas de tela da promoção e do meu extrato de cobrança para sua referência.
+
+Você também poderia me informar a melhor forma de resolver essa discrepância? Estou ansioso para que isso seja resolvido rapidamente para evitar mais inconvenientes.
+
+Obrigado pela sua atenção a este assunto, e aguardo sua resposta rápida. Sinta-se à vontade para me contatar por e-mail ou pelo <tel_num>.
+
+Atenciosamente,
+
+<name>
+Customer Service answer: Caro <name>,
+
+Obrigado por entrar em contato sobre a discrepância com sua transação do Adobe Photoshop 2024. Pedimos desculpas por qualquer inconveniente causado.
+
+Vamos investigar o problema de cobrança usando as capturas de tela anexadas. Enquanto isso, garanto que verificaremos o preço promocional e corrigiremos qualquer cobrança indevida encontrada.
+
+Por favor, nos permita até 48 horas para realizar uma revisão completa. Entraremos em contato com você por e-mail com nossas conclusões e os passos para resolver este assunto.
+
+Sua paciência é apreciada, e nosso objetivo é resolver isso rapidamente. Para mais assistência, sinta-se à vontade para responder a este e-mail ou nos contatar pelo <tel_num>.
+
+Atenciosamente,
+
+Equipe de Suporte ao Cliente

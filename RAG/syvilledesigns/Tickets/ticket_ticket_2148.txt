@@ -1,0 +1,5 @@
+Ticket ID: ticket_2148
+Subject: Sofortige Unterstützung erforderlich: Probleme mit der Zoom-Verbindung
+Incident Type: Problem
+Customer Issue: Hallo, ich habe Verbindungsprobleme mit Zoom Version 5.11.0 während virtueller Meetings. Dies beeinträchtigt erheblich unsere Kommunikationseffektivität und wichtige Zusammenkünfte. Ich würde Ihre Hilfe so schnell wie möglich zu schätzen wissen. Vielen Dank. Mit freundlichen Grüßen, <name> Konto: <acc_num>.
+Customer Service answer: Hallo <name>, wir entschuldigen uns für die Probleme, die Sie mit Zoom haben. Bitte stellen Sie sicher, dass Ihre Anwendung aktualisiert ist, überprüfen Sie Ihre Internetverbindung und versuchen Sie, Ihr Gerät neu zu starten. Wenn die Probleme weiterhin bestehen, wenden Sie sich an unser Support-Team für zusätzliche Hilfe. Vielen Dank für Ihr Verständnis. Mit freundlichen Grüßen, Service Desk Agent.

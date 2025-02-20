@@ -1,0 +1,28 @@
+Ticket ID: ticket_3041
+Subject: Atascos de papel frecuentes
+Incident Type: Incident
+Customer Issue: Estimado servicio de atención al cliente,
+
+Espero que este mensaje le encuentre bien. Estoy escribiendo para informar sobre un problema continuo con la impresora HP DeskJet 3755 adquirida en su tienda. Hemos estado experimentando atascos de papel frecuentes durante el uso estándar, lo cual ha sido bastante disruptivo. A pesar de seguir todas las instrucciones operativas y realizar limpiezas regulares, el problema persiste. La impresora no puede funcionar sin problemas, causando una gran incomodidad. Agradeceríamos su consejo sobre cómo resolver este problema o información sobre cualquier opción de servicio de garantía disponible. Su pronta respuesta sería muy apreciada ya que dependemos de esta impresora para tareas importantes. Gracias por su atención a este asunto.
+
+Atentamente,
+
+<name>
+Customer Service answer: Estimado/a <name>,
+
+Gracias por ponerte en contacto con respecto a tu impresora HP DeskJet 3755. Lamento la inconveniencia causada por los frecuentes atascos de papel. Por favor, intenta los siguientes pasos de solución de problemas para ver si resuelven el problema:
+
+1. Asegúrate de que la bandeja de papel no esté sobrellenada y de que el montón de papel esté alineado de manera uniforme.
+2. Utiliza solo pesos y tipos de papel recomendados.
+3. Inspecciona la vía del papel y los rodillos en busca de obstrucciones o residuos.
+4. Reinicia la impresora y realiza una impresión de prueba.
+
+Si ninguno de estos pasos ayuda, es posible que tu impresora necesite servicio. Por favor, verifica si tu impresora aún está en garantía revisando el recibo de compra o la documentación de garantía.
+
+Para opciones de servicio de garantía, puedes contactar a nuestro socio de servicio autorizado al <tel_num>, proporcionándoles tu recibo de compra y el número de serie de la impresora <acc_num>. Ellos te ayudarán a programar un servicio.
+
+Déjame saber si hay algo más en lo que pueda ayudarte.
+
+Atentamente,
+
+Equipo de atención al cliente

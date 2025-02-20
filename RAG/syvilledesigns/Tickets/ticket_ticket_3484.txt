@@ -1,0 +1,31 @@
+Ticket ID: ticket_3484
+Subject: Request for Exchange
+Incident Type: Incident
+Customer Issue: Dear Customer Support,
+
+I recently purchased a Dell XPS 13 9310 laptop from Tech Online Store under the account number <acc_num>. Upon initial use, I noticed a minor issue with the internal hardware. Although the laptop functions overall, there seems to be an intermittent problem that affects my daily workflow. I suspect it might be related to the laptop's hardware, as the performance occasionally lags unexpectedly and there are some unusual noises originating from the internal components.
+
+Given the nature of this issue, I would like to request an exchange for this product. I have always appreciated the quality of products and services your store offers, and I believe this to be an isolated case. To facilitate the process, please let me know the next steps required, including any forms I must fill out or specific procedures to follow. You can reach me via email or at my phone number, <tel_num>, should you need further details or clarifications.
+
+Thank you for your attention to this matter. I look forward to resolving this issue promptly.
+
+Sincerely,
+
+<name>
+Customer Service answer: Dear <name>,
+
+Thank you for reaching out to us regarding the issue with your Dell XPS 13 9310 laptop. We apologize for any inconvenience this has caused and are here to assist you.
+
+To proceed with an exchange, please ensure the following steps are taken:
+1. Verify that the product is within the return/exchange period as per our policy.
+2. Prepare a copy of your purchase receipt and the original packaging if available.
+3. Complete our online exchange form on our website. You may find it under the "Returns & Exchanges" section.
+
+Once you've submitted the form, our team will review your request and provide further instructions via email. We may also need to inspect the laptop in person, in which case we will arrange a suitable method for return shipping at no cost to you.
+
+Please feel free to contact us via this email or at the phone number included for any further questions.
+
+We appreciate your understanding and look forward to resolving this issue swiftly.
+
+Best regards,
+Customer Support Team
