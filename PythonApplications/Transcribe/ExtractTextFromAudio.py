@@ -48,7 +48,7 @@ elif system_name == "Linux":
     # print(downloads_dir)
 
 DEFAULT_LANGUAGE_CODE = "en"  # Default to English
-DEBUG_MODE = True
+DEBUG_MODE = False
 CHUNKSIZE = 15 # for large audio files we can't use the direct translation so we are chunking it up in chunksize of seconds. Default in chunksizes of 15 sec
 """
 People generally speak about 125 to 150 words per minute in normal conversation. At that rate:
